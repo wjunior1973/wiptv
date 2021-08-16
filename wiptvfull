@@ -171,9 +171,6 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklis
 #EXTINF:-1 group-title="TV ABERTA",SBT PE - TV Jornal Recife
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PR - Rede Massa
-https://cdn1.streameeva.com/redemassa/tviguacu/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC
 https://cdn-scc-10192.ciclano.io:1443/scc-10192/scc-10192/chunklist_w1559635310.m3u8
 
@@ -495,9 +492,6 @@ http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Nat Geo
 http://168.205.87.198:8555/live/123456/123456/78.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Rede Familia
-http://177.52.216.28:8000/play/a07a
-
 #EXTINF:-1 group-title="VARIEDADES",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
 
@@ -710,9 +704,6 @@ http://177.52.216.28:8000/play/a06x
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
 https://origin-02.nxplay.com.br/REDE_VIDA/video.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",RIT TV
-http://45.182.225.70:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8
