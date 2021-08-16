@@ -1,0 +1,1495 @@
+#EXTM3U
+
+
+#######################
+###### TV ABERTA ######
+#######################
+
+
+#EXTINF:-1 group-title="TV ABERTA",Band MG
+http://168.205.87.198:8555/live/123456/123456/19.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band PA - RBA TV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band PB - TV Manaira
+http://143.255.128.190:8000/play/a00i
+
+#EXTINF:-1 group-title="TV ABERTA",Band PR - TV Taroba
+http://201.175.55.2:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band TO
+http://177.52.216.27:8000/play/a00s
+
+#EXTINF:-1 group-title="TV ABERTA",Cultura
+http://177.52.216.28:8000/play/a073
+
+#EXTINF:-1 group-title="TV ABERTA",Futura
+http://168.205.87.198:8555/live/123456/123456/67.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo BA - TV Santa Cruz
+http://177.20.208.58:8000/play/a053/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo BA - TV Subae
+http://177.20.208.58:8000/play/a054/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo BA - TV Sudoeste
+http://177.20.208.58:8000/play/a052/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo MG
+http://168.205.87.198:8555/live/123456/123456/70.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo MG - InterTV dos Vales
+http://177.52.216.28:8000/play/a07g
+
+#EXTINF:-1 group-title="TV ABERTA",Globo MG - InterTV Grande Minas
+http://177.52.216.28:8000/play/a07f
+
+#EXTINF:-1 group-title="TV ABERTA",Globo Nordeste
+http://45.182.225.67:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo Nordeste [Opcao 2]
+http://45.182.225.70:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo PR - RPC
+http://201.175.55.2:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ - InterTV Serra+Mar
+http://177.52.216.28:8000/play/a07h
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP - TV Tem
+http://187.120.222.12:8000/play/a06g/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP - TV Tem SJRP
+http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo TO - TV Anhanguera
+http://177.52.216.27:8000/play/a00x
+
+#EXTINF:-1 group-title="TV ABERTA",Record AM
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record BA
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record DF
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record GO
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record MG
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record PA
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record PB - TV Correio
+http://143.255.128.190:8000/play/a00j
+
+#EXTINF:-1 group-title="TV ABERTA",Record PE - TV Clube
+http://45.182.225.70:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record PR - RIC TV
+http://201.175.55.2:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record RN - TV Tropical
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record RS
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record SP - SJRP
+http://187.120.222.12:8000/play/a06k/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record TO
+http://177.52.216.27:8000/play/a00v
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! AM - TV A Critica
+http://177.52.216.28:8000/play/a09k
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! ES
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! MG
+http://168.205.87.198:8555/live/123456/123456/102.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! PB - TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! PR - TV Caiua
+http://201.175.55.2:8000/play/a015/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! RS - TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! SP
+http://45.182.225.67:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! SP [Opcao 2]
+http://45.182.225.70:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w243720441.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT AM - TV Guajara
+https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT GO - TV Serra Dourada
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1202038902_b1000000.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT MA - TV Difusora
+https://stream.amsolution.net.br:8443/live/60eef66583c80/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT MA - TV Difusora Sul
+https://stream.amsolution.net.br:8443/live/60eed7da2cf4d/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT MG - TV Alterosa
+http://168.205.87.198:8555/live/123456/123456/104.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT MT - Bem TV
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT PB - TV Tambau
+http://143.255.128.190:8000/play/a007
+
+#EXTINF:-1 group-title="TV ABERTA",SBT PE - TV Jornal Caruaru
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w412493965.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT PE - TV Jornal Recife
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT PR - Rede Massa
+https://cdn1.streameeva.com/redemassa/tviguacu/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC
+https://cdn-scc-10192.ciclano.io:1443/scc-10192/scc-10192/chunklist_w1559635310.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
+http://187.120.222.12:8000/play/a06f/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT TO
+http://177.52.216.27:8000/play/a00w
+
+#EXTINF:-1 group-title="TV ABERTA",TV Brasil
+http://177.52.216.28:8000/play/a06k
+
+#EXTINF:-1 group-title="TV ABERTA",TV Brasil 2
+http://177.52.216.28:8000/play/a06l
+
+#EXTINF:-1 group-title="TV ABERTA",TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Escola
+http://177.52.216.28:8000/play/a06m
+
+#EXTINF:-1 group-title="TV ABERTA",TV Gazeta
+http://177.52.216.28:8000/play/a07z
+
+#EXTINF:-1 group-title="TV ABERTA",TV Justica
+http://168.205.87.198:8555/live/123456/123456/138.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Senado
+http://168.205.87.198:8555/live/123456/123456/139.m3u8
+
+
+######################
+###### NOTICIAS ######
+######################
+
+
+#EXTINF:-1 group-title="NOTICIAS",Band News
+http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",CNN Brasil
+http://201.159.95.22:8000/play/a001/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",Globonews
+http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",Record News
+http://168.205.87.198:8555/live/123456/123456/97.m3u8
+
+
+###########################
+###### FILMES/SERIES ######
+###########################
+
+
+#EXTINF:-1 group-title="FILMES/SERIES",A&E
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",AMC
+http://origin-02.nxplay.com.br/AMC_BRASIL_15581/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",AXN
+http://187.120.222.12:8000/play/AXNLEG/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Channel 1
+https://stmv1.srvstm.com/channel1/channel1/chunklist_w1883320436.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Channel Network TV
+https://serv3.videovox.pw/alexandre4108/alexandre4108/chunklist_w648229082.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Acao
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Classicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Comedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Familia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Sucessos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Suspense
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://bravi.tv/wp-content/uploads/2014/06/Cinebrasiltv_logo.png" group-title="FILMES/SERIES",CineBrasil TV
+http://168.205.87.198:8555/live/123456/123456/145.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Classique TV
+https://stmv1.srvstm.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Classique TV 2
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cynemax
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1553373919.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Film & Arts
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Filmes Nacionais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",FX
+http://168.205.87.198:8555/live/123456/123456/68.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO
+http://187.120.222.12:8000/play/HBOLEG/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
+http://187.120.222.12:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
+http://187.120.222.12:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
+http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
+http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
+http://187.120.222.12:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Imperial TV
+https://5d2c98775bafe.streamlock.net:443/8098/8098/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Megapix
+http://189.91.128.150:4444/udp/227.10.20.89:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",Paramount
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Prime Box Brazil
+http://177.52.216.28:8000/play/a06b
+
+#EXTINF:-1 group-title="FILMES/SERIES",Rede TV Sul
+https://novo.bitstreaming.info:1936/8032/8032/chunklist_w2087166645.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",RSC
+http://177.11.96.110:9080/hls/sictv.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
+http://189.91.128.150:4444/udp/227.10.20.127:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Space
+http://168.205.87.198:8555/live/123456/123456/110.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
+http://168.205.87.198:8555/live/123456/123456/63.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Life
+http://168.205.87.198:8555/live/123456/123456/64.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Trek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",TCM
+http://187.120.222.12:8000/play/TCM/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Tela Viva TV
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
+http://189.91.128.150:4444/udp/227.10.20.135:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
+http://187.120.222.12:8000/play/TCCultLEG/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
+http://189.91.128.150:4444/udp/227.10.20.137:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
+http://189.91.128.150:4444/udp/227.10.20.87:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
+http://189.91.128.150:4444/udp/227.10.20.134:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
+http://189.91.128.150:4444/udp/227.10.20.136:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT
+http://168.205.87.198:8555/live/123456/123456/116.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT Series
+http://168.205.87.198:8555/live/123456/123456/117.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1369810498.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TV Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",TV Series
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",TVJN
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1033376554.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
+http://187.120.222.12:8000/play/UniversalTV/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
+https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Urban Series
+https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w949993906.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
+https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Web TV Xtreme
+https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w747533366.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Wham TV Classic
+https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
+
+
+########################
+###### VARIEDADES ######
+########################
+
+
+#EXTINF:-1 group-title="VARIEDADES",Animal Planet
+http://168.205.87.198:8555/live/123456/123456/18.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Canal Smart
+https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Chroma TV
+https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Comedy Central
+http://168.205.87.198:8555/live/123456/123456/29.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Channel
+http://168.205.87.198:8555/live/123456/123456/33.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery H&H
+http://168.205.87.198:8555/live/123456/123456/35.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery ID
+http://168.205.87.198:8555/live/123456/123456/36.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+http://168.205.87.198:8555/live/123456/123456/38.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://168.205.87.198:8555/live/123456/123456/39.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery TLC
+http://168.205.87.198:8555/live/123456/123456/40.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
+http://168.205.87.198:8555/live/123456/123456/41.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery World
+http://168.205.87.198:8555/live/123456/123456/42.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",E!
+http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Elemental Channel
+https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w902531234.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Fail Army
+https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Fashion TV
+http://168.205.87.198:8555/live/123456/123456/61.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+http://168.205.87.198:8555/live/123456/123456/71.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",History
+http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",History 2
+http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Life Channel Brasil
+https://hls.brasilstream.com.br/live/lifechannel/lifechannel/tracks-v1a1/mono.m3u8?token=4365564105550557000
+
+#EXTINF:-1 group-title="VARIEDADES",Lifetime
+http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Like
+http://187.120.222.12:8000/play/Like/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Loading
+http://168.205.87.198:8555/live/123456/123456/142.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",MTV
+http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Nat Geo
+http://168.205.87.198:8555/live/123456/123456/78.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Rede Familia
+http://177.52.216.28:8000/play/a07a
+
+#EXTINF:-1 group-title="VARIEDADES",Summer TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
+http://177.52.216.28:8000/play/a06g
+
+#EXTINF:-1 group-title="VARIEDADES",TruTV
+http://168.205.87.198:8555/live/123456/123456/130.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",TVPE
+http://45.182.225.67:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Urban Docs
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Urban TV
+https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1612296799.m3u8?
+
+#EXTINF:-1 group-title="VARIEDADES",Yeeaah!
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+
+######################
+###### ESPORTES ######
+######################
+
+
+#EXTINF:-1 group-title="ESPORTES",All Sports
+http://168.205.87.198:8555/live/123456/123456/148.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Band Sports
+http://189.91.128.150:4444/udp/227.10.20.119:1234
+
+#EXTINF:-1 group-title="ESPORTES",ESPN
+http://168.205.87.198:8555/live/123456/123456/60.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 2
+http://168.205.87.198:8555/live/123456/123456/49.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN Brasil
+http://168.205.87.198:8555/live/123456/123456/50.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN Extra
+http://168.205.87.198:8555/live/123456/123456/51.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Fish TV
+http://168.205.87.198:8555/live/123456/123456/62.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",FOX Sports
+http://168.205.87.198:8555/live/123456/123456/65.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",FOX Sports 2
+http://168.205.87.198:8555/live/123456/123456/66.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",MMA TV 1
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",MMA TV 2
+https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",MMA TV 3
+https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
+http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 2
+http://187.120.222.12:8000/play/PFC2/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
+http://189.91.128.146:4444/udp/227.10.20.105:1234
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 4
+http://189.91.128.146:4444/udp/227.10.20.106:1234
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 5
+http://187.120.222.12:8000/play/PFC5/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 6
+http://189.91.128.146:4444/udp/227.10.20.123:1234
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 1 [Portugal]
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 2 [Portugal]
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 3 [Portugal]
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 4 [Portugal]
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 5 [Portugal]
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
+https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 2 [Ao Vivo]
+https://slvcs87g3x.akamaized.net/live/canal_02/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 3 [Ao Vivo]
+https://slvcs87g3x.akamaized.net/live/canal_03/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Woohoo
+http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8
+
+
+######################
+###### INFANTIS ######
+######################
+
+
+#EXTINF:-1 group-title="INFANTIS",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Anime TV 2
+http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Animestat!on
+https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Boomerang
+http://168.205.87.198:8555/live/123456/123456/22.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Cartoon Network
+http://168.205.87.198:8555/live/123456/123456/26.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Discovery Kids
+http://168.205.87.198:8555/live/123456/123456/37.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Disney Channel
+http://168.205.87.198:8555/live/123456/123456/45.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Disney Jr.
+http://168.205.87.198:8555/live/123456/123456/46.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Disney XD
+http://168.205.87.198:8555/live/123456/123456/47.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Gloob
+http://200.71.72.50/GLOOB_HD/mpegts
+
+#EXTINF:-1 group-title="INFANTIS",MAP Kids
+http://168.205.87.198:8555/live/123456/123456/143.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Nick
+http://168.205.87.198:8555/live/123456/123456/80.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Nick Jr
+http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_3.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Retro Cartoon
+http://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Retro Cartoon 2
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Tooncast
+http://187.120.222.12:8000/play/Tooncast/index.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",TV Ra-Tim-Bum
+http://177.52.216.28:8000/play/a062
+
+#EXTINF:-1 group-title="INFANTIS",Urban Kids
+https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w79601195.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
+http://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8
+
+
+########################
+###### RELIGIOSOS ######
+########################
+
+
+#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
+http://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",CNT
+http://45.182.225.67:8000/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Canal 21
+http://177.52.216.28:8000/play/a08s
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
+http://177.52.216.28:8000/play/a06x
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
+https://origin-02.nxplay.com.br/REDE_VIDA/video.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",RIT TV
+http://45.182.225.70:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
+http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida [Opcao 2]
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+######################
+###### MUSICAIS ######
+######################
+
+
+#EXTINF:-1 group-title="MUSICAIS",ALX TV
+https://srv3.zcast.com.br/alxtv/alxtv/chunklist_w1815572796.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Canal BRA
+http://origin-02.nxplay.com.br/BRAmusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Canal Cult
+http://origin-02.nxplay.com.br/Cult/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Canal Mega
+https://origin-02.nxplay.com.br/MEGA/video.m3u8?token=
+
+#EXTINF:-1 group-title="MUSICAIS",Canal SCH
+https://origin-02.nxplay.com.br/SCH/video.m3u8?token=
+
+#EXTINF:-1 group-title="MUSICAIS",Classic Hits
+http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Hitts
+http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Loop 70's
+https://e3562d9b4aeb44bebe907ac25c2917ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_distrotv/master.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Loop 80's
+https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Loop 90's
+https://6eb959e10c2a4477a5b14100220c3c5f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Loop 2000's
+https://a9c952d731a2427d8e01903d3778c601.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_distrotv/master.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Loop Flashback
+https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",MTV 80s
+http://78.83.191.18:8000/play/a06q
+
+#EXTINF:-1 group-title="MUSICAIS",MTV Live
+http://168.205.87.198:8555/live/123456/123456/140.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Music Box Brazil
+http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Now 80s
+http://185.99.253.46:8000/play/a041
+
+#EXTINF:-1 group-title="MUSICAIS",Vevo 2K
+https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Virgin Radio TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Wham TV!
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
+
+
+#######################
+###### FLASHBACK ######
+#######################
+
+
+#EXTINF:-1 group-title="FLASHBACK",A-ha - Take on Me
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20A%20Ha%20:%20Take%20On%20Me%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - Chiquitita
+https://www.refugesl.com/movies/+ABBA%20-%20Chiquitita%201979.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - Dancing Queen
+https://www.refugesl.com/movies/+ABBA%20-%20Dancing%20Queen.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - Fernando
+https://www.refugesl.com/movies/+ABBA%20-%20Fernando.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - Gimme Gimme Gimme
+https://www.refugesl.com/movies/+ABBA%20-%20Gimme,%20Gimme,%20Gimme!.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - Knowing Me Knowing You
+https://www.refugesl.com/movies/+ABBA%20-%20Knowing%20Me,%20Knowing%20You.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - Mamma Mia
+https://www.refugesl.com/movies/+ABBA%20-%20Mamma%20Mia%20(Official%20Video).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - S.O.S.
+https://www.refugesl.com/movies/+ABBA%20-%20S.O.S.%201975.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - Super Trouper
+https://www.refugesl.com/movies/+ABBA%20-%20Super%20Trouper.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - Take A Chance On Me
+https://www.refugesl.com/movies/+ABBA%20-%20Take%20A%20Chance%20On%20Me.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - The Name Of The Game
+https://www.refugesl.com/movies/+ABBA%20-%20The%20Name%20Of%20The%20Game.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - The Winner Takes It All
+https://www.refugesl.com/movies/+ABBA%20-%20The%20Winner%20Takes%20It%20All%201980.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - Voulez Vous
+https://www.refugesl.com/movies/+ABBA%20-%20Voulez%20Vous.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Abba - Waterloo
+https://www.refugesl.com/movies/+ABBA%20-%20Waterloo.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Accept - Princess of the Dawn
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1982%20-%20Accept%20:%20Princess%20of%20the%20Dawn%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",ACDC - Back in Black
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1980%20-%20ACDC%20:%20Back%20In%20Black%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",ACDC - Hells Bells
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1980%20-%20ACDC%20:%20Hells%20Bells%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",ACDC - Highway to Hell
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1979%20-%20ACDC%20:%20Highway%20to%20Hell%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",ACDC - It's a Long Way To The Top
+http://104.251.123.41/It's%20A%20Long%20Way%20To%20The%20Top-ACDC.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",ACDC - Thats the Way I Wanna Rock'n'Roll
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1988%20-%20ACDC%20:%20That's%20The%20Way%20I%20Wanna%20Rock%20'N'%20Roll%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",ACDC - Thundestruck
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1990%20-%20ACDC%20:%20Thunderstruck%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",ACDC - You Shook Me All Night Long
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1980%20-%20ACDC%20:%20You%20Shook%20Me%20All%20Night%20Long%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Ace of Base - The Sign
+http://104.251.123.41/The%20Sign-Ace%20Of%20Base.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Aerosmith - Crazy
+http://104.251.123.41/Crazy-Aerosmith.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Aerosmith - Cryin'
+http://mediamusic-journal.com/video/Aerosmith%20-%20Cryin'%20(1993).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Aerosmith - Sweet Emotion
+http://104.251.123.41/Sweet%20Emotion-Aerosmith.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Alice Cooper - No More Mr. Nice Guy
+http://104.251.123.41/No%20More%20Mr%20Nice%20Guy-Alice%20Cooper.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Alphaville - Big in Japan
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20:%20Big%20In%20Japan%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Alphaville - Dance With Me
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Alphaville%20:%20Dance%20With%20Me%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Alphaville - Forever Young
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20:%20Forever%20Young%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Alphaville - Sounds Like a Melody
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20:%20Sounds%20Like%20A%20Melody%20(960x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",B52's - Legal Tender
+http://104.251.123.41/Legal%20Tender-The%20B52s.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",B52's - Love Shack
+http://104.251.123.41/Love%20Shack-The%20B52s.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",B52's - Private Idaho
+http://104.251.123.41/Private%20Idaho-B%2052s.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",B52's - Rock Lobster
+http://104.251.123.41/Rock%20Lobster-B52s.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Backstreet Boys - I Want It That Way
+http://mediamusic-journal.com/video/Backstreet%20Boys%20-%20I%20Want%20It%20That%20Way%20(1999).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beach Boys - Barbara Ann
+https://www.refugesl.com/movies/+Beach%20Boys%2004%20-%20Barbara%20Ann%20(Live%20At%20Farm%20Aid%201985).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beach Boys - California Girls
+https://www.refugesl.com/movies/+Beach%20Boys%2007%20-%20California%20Girls.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beach Boys - Fun Fun Fun
+https://www.refugesl.com/movies/+Beach%20Boys%2010%20-%20Fun%20Fun%20Fun.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beach Boys - Good Vibrations
+https://www.refugesl.com/movies/+Beach%20Boys%2003%20-%20Good%20Vibrations.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beach Boys - Help Me Rhonda
+https://www.refugesl.com/movies/+Beach%20Boys%2009%20-%20Help%20Me%20Rhonda.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beach Boys - I Get Around
+https://www.refugesl.com/movies/+Beach%20Boys%2005%20-%20I%20Get%20Around.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beach Boys - Kokomo
+https://www.refugesl.com/movies/+Beach%20Boys%2014%20-%20Kokomo.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beach Boys - Surfin' USA
+https://www.refugesl.com/movies/+Beach%20Boys%2018%20-%20Surfin%20USA.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beatles - Come Together
+http://104.251.123.41/Come%20Together-The%20Beatles.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beatles - Don't Let Me Down
+http://104.251.123.41/Don't%20Let%20Me%20Down-The%20Beatles.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beatles - Help!
+http://104.251.123.41/Help-The%20Beatles%20live.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Beatles - Hey Jude
+http://drlingvo.com/wp-content/uploads/2015/12/The-Beatles-Hey-Jude-1.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Bee Gees - Jive Talking
+http://104.251.123.41/Jive%20Talkin-Bee%20Gees.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Bee Gees - Night Fever
+http://104.251.123.41/Night%20Fever-BeeGees.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Bee Gees - Staying Alive
+https://www.refugesl.com/movies/+Bee%20Gees%20-%20Stayin%20Alive.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Berlin - Take My Breath Away
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Berlin%20:%20Take%20My%20Breath%20Away%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Billy Idol - Dancing With Myself
+http://104.251.123.41/Dancing%20With%20Myself-Billy%20Idol.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Black Box - Ride on Time
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1990%20-%20Black%20Box%20:%20Ride%20on%20Time%20(480x360).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Boney M - Daddy Cool
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1976%20-%20Boney%20M%20:%20Daddy%20Cool%20(854x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Boney M - Ma Baker
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Boney%20M%20:%20Ma%20Baker%20(960x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Boney M - Rasputin
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1978%20-%20Boney%20M%20:%20Rasputin%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Boney M - Rivers of Babylon
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1978%20-%20Boney%20M%20:%20Rivers%20of%20Babylon%20(854x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Boney M - Sunny
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1976%20-%20Boney%20M%20:%20Sunny%20(960x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Bonnie Tyler - Holding Out for a Hero
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Bonnie%20Tyler%20:%20Holding%20Out%20For%20A%20Hero%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Bonnie Tyler - Total Eclipse of the Heart
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Bonnie%20Tyler%20:%20Total%20Eclipse%20Of%20The%20Heart%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Britney Spears - Toxic
+http://104.251.123.41/Toxic-Britney%20Spears.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Cat Stevens - Wild World
+http://104.251.123.41/Wild%20World-Cat%20Stevens.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Chicago - If You Leave Me Now
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Chicago%20:%20If%20you%20leave%20me%20now%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Chris de Burgh - Lady in Red
+https://www.refugesl.com/movies/+Chris%20De%20Burgh%2002%20-%20Lady%20In%20Red%201986.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Coolio - Gangstas Paradise
+http://www.templier.eu/VIDEO-CLIPS/1995%20-%20Coolio%20:%20Gangsta's%20Paradise%20(654x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Crowded House - Don't Dream It's Over
+http://104.251.123.41/Don't%20Dream%20It's%20Over-Crowded%20House.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Culture Club - Karma Chameleon
+http://104.251.123.41/Karma%20Chamelion-Culture%20Club.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Cyndi Lauper - Girls Just Wanna Have Fun
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Cyndi%20Lauper%20:%20Girls%20Just%20Want%20To%20Have%20Fun%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Cyndi Lauper - Time After Time
+http://104.251.123.41/Time%20After%20Time-Cyndi%20Lauper.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Daryl Hall & John Oates - Maneater
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Daryl%20Hall%20&%20John%20Oates%20:%20Maneater%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Desireless - Voyage Voyage
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Desireless%20:%20Voyage%20Voyage%20(960x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Dire Straits - Brothers in Arms
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20Brothers%20In%20Arms%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Dire Straits - Money for Nothing
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20Money%20For%20Nothing%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Dire Straits - Romeo and Juliet
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1980%20-%20Dire%20Straits%20:%20Romeo%20and%20Juliet%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Dire Straits - So Far Away
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20So%20Far%20Away%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Dire Straits - Sultans of Swing
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1978%20-%20Dire%20Straits%20:%20Sultans%20Of%20Swing%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Dire Straits - Tunnel of Love
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1980%20-%20Dire%20Straits%20:%20Tunnel%20of%20Love%20(640x480)%20-%20A.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Dire Straits - Walk of Life
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20Walk%20Of%20Life%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Dire Straits - Hotel California
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1976%20-%20Eagles%20:%20Hotel%20California%20(730x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Don Omar - Danza Kuduro
+http://104.251.123.41/Danza%20Kuduro-Don%20Omard.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Elton John - Candle in the Wind
+https://www.refugesl.com/movies/+Elton%20John%20-%20Candle%20In%20The%20Wind.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Elton John - Crocodile Rock
+https://www.refugesl.com/movies/+Elton%20John%20-%20Crocodile%20Rock%20(Greatest%20Hits%201970-2002).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Elton John - Don't Go Breaking My Heart
+https://www.refugesl.com/movies/+Elton%20John%20-%20Don't%20Go%20Breaking%20My%20Heart%20-%20With%20Kiki%20Dee%20(Greatest%20Hits%201970-2002).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Elton John - Don't Let The Sun Go Down On Me
+https://www.refugesl.com/movies/+Elton%20John%20-%20Don't%20Let%20The%20Sun%20Go%20Down%20On%20Me.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Elton John - Goodbye Yellow Brick Road
+https://www.refugesl.com/movies/+Elton%20John%20-%20Muppet%20Show%20-%20Goodbye%20Yellow%20Brick%20Road.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Elton John - Nikita
+http://80s.lt/Files/Videos/MusicVideos/Elton%20John%20-%20Nikita.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Elton John - Pinball Wizard
+https://www.refugesl.com/movies/+Elton%20John%20-%20Pinball%20Wizard%20-%201975.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Elton John - Rocket Man
+https://www.refugesl.com/movies/+Elton%20John%20-%20Rocket%20Man%20(Royal%20Festival%20Hall,%20London%201972).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Eminem - Just Lose It
+http://104.251.123.41/Just%20Lose%20It-Eminem.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Eminem - Like Toy Soldiers
+http://www.templier.eu/VIDEO-CLIPS/2004%20-%20Eminem%20:%20Like%20Toy%20Soldiers%20(854x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Eminem - Lose Yourself
+http://www.templier.eu/VIDEO-CLIPS/2002%20-%20Eminem%20:%20Lose%20Yourself%20(1920x1080).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Eminem - My Name Is
+http://104.251.123.41/My%20Name%20Is-Emenem.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Eminem - Rap God
+http://104.251.123.41/Rap%20God-Eminem.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Eminem - The Real Slim Shady
+http://www.templier.eu/VIDEO-CLIPS/2000%20-%20Eminem%20:%20The%20Real%20Slim%20Shady%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Eminem - Without Me
+http://www.templier.eu/VIDEO-CLIPS/2002%20-%20Eminem%20:%20Without%20Me%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Europe - The Final Countdown
+http://www.templier.eu/VIDEO-CLIPS/1986%20-%20Europe%20:%20The%20Final%20Countdown%20(640x480.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Eurythmics - Sweet Dreams
+http://104.251.123.41/Sweet%20Dreams-Eurothmics.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Extreme - More Than Words
+http://104.251.123.41/More%20Than%20Words-Extreme.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Faith No More - Epic
+http://104.251.123.41/Epic-Faith%20No%20More.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Falco - Rock Me Amadeus
+http://104.251.123.41/Rock%20Me%20Amadeus-Falco.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Foreigner - I Want To Know What Love Is
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Foreigner%20:%20I%20Want%20To%20Know%20What%20Love%20Is%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Frank Sinatra - My Way
+https://www.refugesl.com/movies/+My%20Way%2003%20-%20Frank%20Sinatra%20-%20Live%20At%20Madison%20Square%20Garden%201974.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Frankie Goes to Hollywood - Relax
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Frankie%20Goes%20To%20Hollywood%20:%20Relax%20(320x246).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Genesis - I Can't Dance
+http://104.251.123.41/I%20Can't%20Dance-Genesis.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Genesis - Invisible Touch
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Genesis%20:%20Invisible%20Touch%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Gorillaz - Clint Eastwood
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%202000/2001%20-%20Gorillaz%20:%20Clint%20Eastwood%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Grease - You're The One That I Want
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Grease%20:%20You're%20the%20one%20that%20I%20want%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Green Day - American Idiot
+http://104.251.123.41/American%20Idiot-Green%20Day.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Green Day - Basket Case
+http://104.251.123.41/Basket%20Case-Green%20Day.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Green Day - Holiday
+http://104.251.123.41/Holiday-Green%20Day.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Green Day - Jesus of Suburbia
+http://104.251.123.41/Jesus%20Of%20Suburbia-Green%20Day.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Guns'n Roses - November Rain
+http://104.251.123.41/November%20Rain-Guns%20N%20Roses.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Guns'n Roses - Paradise City
+http://104.251.123.41/Paradise%20City-Guns%20&%20Roses.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Guns'n Roses - Sweet Child O'Mine
+http://104.251.123.41/Sweet%20Child%20O%20Mine-Guns%20N%20Roses.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Guns'n Roses - Welcome to the Jungle
+http://104.251.123.41/Welcome%20To%20The%20Jungle-Guns%20And%20Roses.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Haddaway - What is Love
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1993%20-%20Haddaway%20:%20What%20Is%20Love%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Irene Cara - What a Feeling
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Irene%20cara%20:%20What%20A%20Feeling%20II%20(1280x718).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Israel Kamakawiwo'ole - Somewhere Over The Rainbow
+https://www.refugesl.com/movies/+Somewhere%20Over%20The%20Rainbow%2006%20-%20Israel%20IZ%20Kamakawiwo%ca%bbole.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Jason Mraz - I'm Yours
+http://104.251.123.41/I'm%20Yours-Jason%20Mraz.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Jerry Lee Lewis - Great Balls Of Fire
+http://104.251.123.41/Great%20Balls%20Of%20Fire-Jerry%20Lee%20Lewis.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Jerry Lee Lewis - Whole Lotta Shakin' Going On
+https://www.refugesl.com/movies/+Rock%20n'%20Roll%20-%20Jerry%20Lee%20Lewis%20-%20Whole%20Lotta%20Shakin%20Going%20On%201964.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Joan Jett - I Love Rock'n'Roll
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1981%20-%20Joan%20Jett%20:%20I%20Love%20Rock%20'N%20Roll%20(960x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Joe Cocker - Up Where We Belong
+https://www.refugesl.com/movies/+Joe%20Cocker%20-%20Up%20Where%20We%20Belong%2001%20-%20With%20Jennifer%20Warnes.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Joe Cocker - With a Little Help from My Friends
+http://104.251.123.41/With%20A%20Little%20Help%20From%20My%20Friends-Joe%20Cocker.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Joe Cocker - You Are So Beautiful
+https://www.refugesl.com/movies/+Joe%20Cocker%20-%20You%20Are%20So%20Beautiful%2001.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Joe Cocker - You Can Leave Your Hat On
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Joe%20Cocker%20:%20You%20Can%20Leave%20Your%20Hat%20On%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",John Lennon - Imagine
+http://104.251.123.41/Imagine-John%20Lennon.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Katy Perry - California Gurls
+http://104.251.123.41/California%20Gurls-Katy%20Perry.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Katy Perry - Firework
+http://104.251.123.41/Firework-Katy%20Perry.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Katy Perry - I Kissed a Girl
+http://104.251.123.41/I%20Kissed%20A%20Girl-Katy%20Perry.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Kenny Loggins - Danger Zone
+http://104.251.123.41/Danger%20Zone-Kenny%20Loggins.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Kenny Loggins - Footloose
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Kenny%20Loggins%20:%20Footloose%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Kim Carnes - Bette Davis Eyes
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1981%20-%20Kim%20Carnes%20:%20Bette%20Davis%20Eyes%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",KISS - I was made for Loving You
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1979%20-%20Kiss%20:%20I%20Was%20Made%20For%20Lovin'%20You%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Lady Gaga - Bad Romance
+http://104.251.123.41/Bad%20Romance-Lady%20Gaga.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Lipps Inc - Funkytown
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1979%20-%20Lipps%20Inc%20:%20Funkytown%20(720x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Lou Bega - Mambo no. 5
+http://104.251.123.41/Mambo%20No%205-Lou%20Bega.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Maroon 5 - Moves Like Jagger
+http://104.251.123.41/Moves%20Like%20Jagger-Maroon%205.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",MC Hammer - You Can't Touch This
+http://104.251.123.41/You%20Can't%20Touch%20This-MC%20Hammer.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Meghan Trainor - All About That Bass
+http://104.251.123.41/All%20About%20That%20Bass-Meghan%20Trainor.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Men At Work - Down Under
+http://104.251.123.41/Down%20Under-Men%20At%20Work.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Men At Work - Who Can It Be Now
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1981%20-%20Men%20At%20Work%20:%20Who%20Can%20It%20Be%20Now%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Metallica - Nothing Else Matters
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1991%20-%20Metallica%20:%20Nothing%20Else%20Matters%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Metallica - Whiskey In The Jar
+http://dl2.onixia.xyz/Music%20Videos/Metallica-65877/Metallica%20-%20Whiskey%20In%20The%20Jar%20%28Official%20Music%20Video%29%20%5BHD%5D.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Michael Jackson - Beat It
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Michael%20Jackson%20:%20Beat%20It%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Michael Jackson - Billie Jean
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Michael%20Jackson%20:%20Billie%20Jean%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Michael Jackson - Rock With You
+http://104.251.123.41/Rock%20With%20You-Michael%20Jackson.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Michael Jackson - The Way You Make Me Feel
+http://104.251.123.41/The%20Way%20You%20Make%20Me%20Feel-Michael%20Jackson.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Michael Jackson - Thriller
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Thriller%20:%20Michael%20Jackson%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Midnight Oil - Beds Are Burning
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1987%20-%20Midnight%20Oil%20:%20Beds%20Are%20Burning%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Miley Cyrus - Wrecking Ball
+http://104.251.123.41/Wrecking%20Ball-Miley%20Cyrus.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Modern Talking - Brother Louie
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Modern%20Talking%20:%20Brother%20Louie%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Natalie Imbruglia - Torn
+http://104.251.123.41/Torn-Natalie%20Imbruglia.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",New Order - Bizarre Love Triangle
+http://104.251.123.41/Bizarre%20Love%20Triangle-New%20Order.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Nirvana - Come as you Are
+http://104.251.123.41/Come%20As%20You%20Are-Nirvana.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Nirvana - Smells Like Teen Spirit
+http://104.251.123.41/Smells%20Like%20Teen%20Spirit-Nirvana.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",NWA - Express Yourself
+http://104.251.123.41/Express%20Yourself-NWA.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Pet Shop Boys - Always on my Mind
+http://104.251.123.41/Always%20On%20My%20Mind-The%20Pet%20Shop%20Boys.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Pet Shop Boys - Domino Dancing
+http://104.251.123.41/Domino%20Dancing-Pet%20Shop%20Boys.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Pet Shop Boys - West End Girls
+http://104.251.123.41/West%20End%20Girls-Pet%20Shop%20Girls.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Peter Gabriel - Sledgehammer
+http://104.251.123.41/Sledgehammer-Peter%20Gabriel.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Pharrell Williams - Happy
+http://104.251.123.41/Happy-Pherrel.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Phil Collins - Another Day in Paradise
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1989%20-%20Phil%20Collins%20:%20Another%20Day%20In%20Paradise%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Pink Floyd - Another Brick in the Wall (A)
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1979%20-%20Pink%20Floyd%20:%20Another%20Brick%20In%20The%20Wall%20(1280x720)%20-%20A.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Pink Floyd - Another Brick in the Wall (B)
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1979%20-%20Pink%20Floyd%20:%20Another%20Brick%20In%20The%20Wall%20(480x360)%20-%20B.mp4.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Prince - Purple Rain
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Prince%20:%20Purple%20Rain%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",PSY - Gangnam Style
+http://104.251.123.41/Gangham%20Style-PSY.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - A Kind Of Magic
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Queen%20:%20A%20Kind%20Of%20Magic%20(480x360).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - Another One Bites The Dust
+http://104.251.123.41/Another%20One%20Bites%20The%20Dust-Queen.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - Bohemian Rhapsody
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1975%20-%20Queen%20:%20Bohemian%20Rhapsody%20(480x360).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - Breakthru
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1989%20-%20Queen%20:%20Breakthru%20(480x360).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - Crazy Little Thing Called Love
+http://104.251.123.41/Crazy%20Little%20Thing%20Called%20Love-Queen.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - Don't Stop Me Now
+http://104.251.123.41/Dont%20Stop%20Me%20Now-Queen.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - Fat Bottomed Girls
+http://104.251.123.41/Fat%20Bottomed%20Girls-Queen.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - I Want It All
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1989%20-%20Queen%20:%20I%20Want%20It%20All%20(480x360).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - I Want to Break Free
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Queen%20:%20I%20Want%20To%20Break%20Free%20(640x360).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - Killer Queen
+http://104.251.123.41/Killer%20Queen-Queen.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - Radio Gaga
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Queen%20:%20Radio%20Ga%20Ga%20(480x360).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - The Show Must Go On
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1991%20-%20Queen%20:%20The%20Show%20Must%20Go%20On%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - Under Pressure
+http://104.251.123.41/Under%20Pressure-Queen%20and%20Bowie.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - We Are The Champions
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Queen%20:%20We%20Are%20The%20Champions%20(480x360).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - We Will Rock You
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Queen%20:%20We%20Will%20Rock%20You%20(480x360).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Queen - Who Wants to Live Forever
+http://104.251.123.41/Who%20Wants%20To%20Live%20Forever-Queen.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Ramones - I Wanna Be Sedated
+http://104.251.123.41/I%20Wanna%20Be%20Sedated-The%20Ramones.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Ray Parker Jr - Ghostbusters
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Ray%20Parker%20Jr%20:%20%20Ghostbusters%20(854x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Red Hot Chilli Peppers - Californication
+http://104.251.123.41/Californication-Red%20Hot%20Chili%20Peppers.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Red Hot Chilli Peppers - Otherside
+http://104.251.123.41/Otherside-Red%20Hot%20Chili%20Peppers.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Red Hot Chilli Peppers - Scar Tissue
+http://104.251.123.41/Scar%20Tissue-Red%20Hot%20Chili%20Peppers.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Red Hot Chilli Peppers - Under The Bridge
+http://104.251.123.41/Under%20The%20Bridge-Red%20Hot%20Chili%20Peppers.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",REM - Everybody Hurts
+http://104.251.123.41/Everybody%20Hurts-REM.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",REM - Losing My Religion
+http://104.251.123.41/Losing%20My%20Religion-REM.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",REM - Shiny Happy People
+http://104.251.123.41/Shiny%20Happy%20People-REM.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Ritchie Valens - Donna
+https://www.refugesl.com/movies/+Ritchie%20Valens%20-%20Donna.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Rolling Stones - Satisfaction
+http://104.251.123.41/I%20Cant%20Get%20No%20Satisfaction-The%20Rolling%20Stones.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Rolling Stones - Start Me Up
+http://104.251.123.41/Start%20Me%20Up-The%20Rolling%20Stones.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Run DMC - Walk This Way
+http://104.251.123.41/Walk%20This%20Way-Run%20DMC.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Rush - Tom Sawyer
+http://104.251.123.41/Tom%20Sawyer-Rush.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Sabrina - Boys
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1987%20-%20Sabrina%20:%20Boys%20(600x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Scorpions - Rock You Like a Hurricane
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1984%20-%20Scorpions%20:%20Rock%20You%20Like%20A%20Hurricane%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Scorpions - Still Loving You
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1984%20-%20Scorpions%20:%20Still%20Loving%20You%20(480x360).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Scorpions - Wind of Change
+http://www.templier.eu/VIDEO-CLIPS/1990%20-%20Scorpions%20:%20Wind%20Of%20Change%20(854x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Shaggy - Boombastic
+http://104.251.123.41/Boombastic-Shaggy.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Simon and Garfunkel - Bridge Over Troubled Water
+https://www.refugesl.com/movies/+Simon%20And%20Garfunkel%20-%20Bridge%20Over%20Troubled%20Water%2003.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Simon and Garfunkel - El Condor Pasa
+https://www.refugesl.com/movies/+Simon%20And%20Garfunkel%20-%20El%20Condor%20Pasa.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Simon and Garfunkel - Mrs. Robinson
+https://www.refugesl.com/movies/+Simon%20And%20Garfunkel%20-%20Mrs.%20Robinson%2001.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Simon and Garfunkel - The Sound of Silence
+https://www.refugesl.com/movies/+Simon%20And%20Garfunkel%20-%20The%20Sound%20Of%20Silence%2001.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Simon and Garfunkel - Wake Up Little Suzie
+https://www.refugesl.com/movies/+Simon%20And%20Garfunkel%20-%20Wake%20Up%20Little%20Suzie.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Survivor - Eye of The Tiger
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Survivor%20:%20Eye%20Of%20The%20Tiger%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Tears for Fears - Everybody Wants To Rule The World
+http://104.251.123.41/Everybody%20Wants%20To%20Rule%20The%20World-Tears%20For%20Fears.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Tears for Fears - Shout
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Tears%20For%20Fears%20:%20Shout%20(854x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Animals - The House of the Rising Sun
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201960/1964%20-%20The%20Animals%20:%20The%20House%20Of%20The%20Rising%20Sun%20(640x360).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Black Eyed Peas - I Gotta Feeling
+http://104.251.123.41/I%20Gotta%20Feeling-The%20Black%20Eyed%20Peas.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Black Eyed Peas - My Humps
+http://104.251.123.41/My%20Humps-Black%20Eyed%20Peas.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Cars - Drive
+http://104.251.123.41/Drive-The%20Cars.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Mamas and The Papas - California Dreamin
+http://104.251.123.41/California%20Dreamin-Mamas%20&%20The%20Papas.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Platters - Only You
+https://www.refugesl.com/movies/+The%20Platters%20-%20Only%20You%201955.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Platters - Smoke Gets In Your Eyes
+https://www.refugesl.com/movies/+The%20Platters%20-%20Smoke%20Gets%20In%20Your%20Eyes.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Platters - The Great Pretender
+https://www.refugesl.com/movies/+The%20Platters%20-%20The%20Great%20Pretender%20-%20Original%20Footage.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Police - Every Breath You Take
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20The%20Police%20:%20Every%20Breath%20You%20Take%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Verver Pipe - Bittersweet Symphony
+http://104.251.123.41/Bittersweet%20Symphony-The%20Verve%20Pipe.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Who - Baba O'Rilley
+http://104.251.123.41/Baba%20OReilly-The%20Who.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Who - Who Are You
+http://104.251.123.41/Who%20Are%20You-The%20Who.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Tina Turner - We Don't Need Another Hero
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Tina%20Turner%20:%20We%20Don't%20Need%20Another%20Hero%20(960x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Traci Chapman - Fast Car
+http://104.251.123.41/Fast%20Car-Traci%20Chapman.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Twisted Sisters - We're Not Gonna Take It
+http://104.251.123.41/Were%20Not%20Gonna%20Take%20It-Twisted%20Sister.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Usher - Yeah!
+http://www.templier.eu/VIDEO-CLIPS/2004%20-%20Usher%20:%20Yeah!%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Van Halen - Jump
+http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1980%20-%20Van%20Halen%20:%20Jump%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Weird Al Yankovich - Amish Paradise
+http://104.251.123.41/Amish%20Paradise-Weird%20Al%20Yankovich.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Weird Al Yankovich - Smells Like Nirvana
+http://104.251.123.41/Smells%20Like%20Nirvana-Weird%20Al%20Yankovic.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Willie Nelson - Always On My Mind
+https://www.refugesl.com/movies/+Willie%20Nelson%20-%20Always%20On%20My%20Mind%20(Official%20Music%20Video).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Willie Nelson - On The Road Again
+https://www.refugesl.com/movies/+Willie%20Nelson%20-%20On%20The%20Road%20Again.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",YES - Owner of a Lonely Heart
+http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Yes%20:%20Owner%20of%20a%20Lonely%20Heart%20(1920x1080).mp4
