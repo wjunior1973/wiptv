@@ -48,6 +48,9 @@ http://45.182.225.67:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo Nordeste [Opcao 2]
 http://45.182.225.70:8000/play/a00o/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo PB - TV Cabo Branco
+http://187.19.165.103:8181/play/a002/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo PR - RPC
 http://201.175.55.2:8000/play/a00t/index.m3u8
 
@@ -219,6 +222,9 @@ http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://origin-02.nxplay.com.br/AMC_BRASIL_15581/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",AXN
+http://187.19.165.103:8181/play/a00g/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 
@@ -321,11 +327,23 @@ http://189.91.128.150:4444/udp/227.10.20.127:1234
 #EXTINF:-1 group-title="FILMES/SERIES",South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="FILMES/SERIES",Space
+http://187.19.165.103:8181/play/a00s/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://170.82.200.38:8080/fox/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Trek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
+http://187.19.165.103:8181/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",SyFy
+http://187.19.165.103:8181/play/a00i/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TBS
+http://187.19.165.103:8181/play/a00p/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Tela Viva TV
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
@@ -363,6 +381,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b93
 #EXTINF:-1 group-title="FILMES/SERIES",TVJN
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1033376554.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
+http://187.19.165.103:8181/play/a009/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
 
@@ -396,6 +417,15 @@ http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
 http://189.91.128.146:4444/udp/227.10.20.80:1234
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery ID
+http://187.19.165.103:8181/play/a00q/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://187.19.165.103:8181/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery World
+http://187.19.165.103:8181/play/a00n/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
 
@@ -407,6 +437,9 @@ https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Fashion TV
 http://177.52.216.28:8000/play/a06f
+
+#EXTINF:-1 group-title="VARIEDADES",Food Network
+http://187.19.165.103:8181/play/a00h/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3u8
