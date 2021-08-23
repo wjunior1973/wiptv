@@ -15,9 +15,6 @@ http://143.255.128.190:8000/play/a00i
 #EXTINF:-1 group-title="TV ABERTA",Band PR - TV Taroba
 http://201.175.55.2:8000/play/a00s/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band RJ
-http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Band SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
@@ -271,7 +268,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3
 http://177.20.208.58:8000/play/a058/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://200.71.72.50/CINEMAX/mpegts
+http://189.91.128.146:4444/udp/227.10.20.101:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",Classique TV
 https://stmv1.srvstm.com/classique/classique/playlist.m3u8
@@ -292,22 +289,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
-http://200.71.72.50/HBO/mpegts
+http://187.19.165.103:8181/play/a00z/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO 2
-http://200.71.72.50/HBO2/mpegts
+http://189.91.128.146:4444/udp/227.10.20.155:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Family
-http://200.71.72.50/HBO_FAMILY/mpegts
+http://187.19.165.103:8181/play/a012/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
-http://200.71.72.50/HBO_PLUS/mpegts
+http://189.91.128.146:4444/udp/227.10.20.156:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
 http://189.91.128.146:4444/udp/227.10.20.99:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
-http://200.71.72.50/HBO_SIGNATURE/mpegts
+http://187.19.165.103:8181/play/a013/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://200.4.96.35:8001/play/a0f1/index.m3u8
@@ -679,7 +676,7 @@ http://170.82.200.38:8080/disney_jr/tracks-v1a1/mono.m3u8
 http://189.91.128.146:4444/udp/227.10.20.110:1234
 
 #EXTINF:-1 group-title="INFANTIS",Gloob
-http://200.71.72.50/GLOOB_HD/mpegts
+http://200.4.96.35:8002/play/a0ew/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Gloobinho
 http://200.4.96.35:8001/play/a0fd/index.m3u8
