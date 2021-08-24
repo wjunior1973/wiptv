@@ -196,7 +196,7 @@ http://45.182.225.70:8000/play/a01j/index.m3u8
 
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
-http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v1a1/mono.m3u8
+http://200.4.96.35:8002/play/a0fa/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
@@ -709,7 +709,7 @@ http://200.4.96.35:8004/play/a0du/index.m3u8
 
 
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
-http://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8
+http://45.182.225.70:8000/play/a018/index.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",CNT
 http://45.182.225.67:8000/play/a012/index.m3u8
@@ -727,9 +727,6 @@ http://177.52.216.28:8000/play/a06x
 https://origin-02.nxplay.com.br/REDE_VIDA/video.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
-http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida [Opcao 2]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Evangelizar
