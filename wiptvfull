@@ -6,6 +6,12 @@
 #######################
 
 
+#EXTINF:-1 group-title="TV ABERTA",Agro+
+https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",AgroCanal
+http://177.20.208.58:8000/play/a057/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Band PA - RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
@@ -20,6 +26,9 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band TO
 http://177.52.216.27:8000/play/a00s
+
+#EXTINF:-1 group-title="TV ABERTA",Canal do Boi
+http://177.20.208.58:8000/play/a044/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Cultura
 http://177.52.216.28:8000/play/a073
@@ -61,7 +70,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 http://177.52.216.28:8000/play/a07h
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+http://189.91.128.146:4444/udp/227.10.20.150:1234
 
 #EXTINF:-1 group-title="TV ABERTA",Globo TO - TV Anhanguera
 http://177.52.216.27:8000/play/a00x
@@ -192,6 +201,9 @@ http://45.182.225.70:8000/play/a01j/index.m3u8
 ######################
 
 
+#EXTINF:-1 group-title="NOTICIAS",Band News
+http://189.91.128.146:4444/udp/227.10.20.131:1234
+
 #EXTINF:-1 group-title="NOTICIAS",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
@@ -201,11 +213,17 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 http://170.82.200.38:8080/cnn_brasil/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",Euronews [Portugal]
+http://185.236.229.21:9981/play/a03l
+
 #EXTINF:-1 group-title="NOTICIAS",Globonews
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
 http://45.182.225.70:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",TVI 24H [Portugal]
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
 
 
 ###########################
@@ -219,8 +237,17 @@ http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://187.19.165.103:8181/play/a00k/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",AMC [Portugal]
+http://185.236.229.21:9981/play/a04x
+
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",AXN Movies [Portugal]
+http://185.236.229.21:9981/play/a05l
+
+#EXTINF:-1 group-title="FILMES/SERIES",AXN White [Portugal]
+http://185.236.229.21:9981/play/a05p
 
 #EXTINF:-1 group-title="FILMES/SERIES",Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
@@ -279,6 +306,15 @@ http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Filmes Nacionais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="FILMES/SERIES",FOX Crime [Portugal]
+http://185.236.229.21:9981/play/a066
+
+#EXTINF:-1 group-title="FILMES/SERIES",FOX Life [Portugal]
+http://185.236.229.21:9981/play/a05r
+
+#EXTINF:-1 group-title="FILMES/SERIES",FOX Movies [Portugal]
+http://185.236.229.21:9981/play/a039
+
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 
@@ -300,11 +336,17 @@ http://189.91.128.146:4444/udp/227.10.20.99:1234
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
 http://187.19.165.103:8181/play/a013/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
+http://189.91.128.146:4444/udp/227.10.20.100:1234
+
 #EXTINF:-1 group-title="FILMES/SERIES",Imperial TV
 https://5d2c98775bafe.streamlock.net:443/8098/8098/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://189.91.128.150:4444/udp/227.10.20.89:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",NOS Studios [Portugal]
+http://185.236.229.21:9981/play/a054
 
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount
 http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8
@@ -339,8 +381,14 @@ http://187.19.165.103:8181/play/a00l/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",SyFy
 http://187.19.165.103:8181/play/a00i/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",SyFy [Portugal]
+http://185.236.229.21:9981/play/a04j
+
 #EXTINF:-1 group-title="FILMES/SERIES",TBS
 http://187.19.165.103:8181/play/a00p/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TCM
+http://189.91.128.146:4444/udp/227.10.20.124:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",Tela Viva TV
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
@@ -375,6 +423,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523
 #EXTINF:-1 group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="FILMES/SERIES",TVCine ACTION [Portugal]
+http://185.236.229.21:9981/play/a04n
+
+#EXTINF:-1 group-title="FILMES/SERIES",TVCine EDITION [Portugal]
+http://185.236.229.21:9981/play/a061
+
+#EXTINF:-1 group-title="FILMES/SERIES",TVCine EMOTION [Portugal]
+http://185.236.229.21:9981/play/a05z
+
+#EXTINF:-1 group-title="FILMES/SERIES",TVCine TOP [Portugal]
+http://185.236.229.21:9981/play/a04w
+
 #EXTINF:-1 group-title="FILMES/SERIES",TVJN
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1033376554.m3u8
 
@@ -399,8 +459,17 @@ https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
 ########################
 
 
+#EXTINF:-1 group-title="VARIEDADES",24 Kitchen [Portugal]
+http://185.236.229.21:9981/play/a05m
+
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://189.91.128.146:4444/udp/227.10.20.118:1234
+
+#EXTINF:-1 group-title="VARIEDADES",Blaze [Portugal]
+http://185.236.229.21:9981/play/a03b
+
+#EXTINF:-1 group-title="VARIEDADES",Canal Saude
+https://origin-02.nxplay.com.br/TV_SAUDE/video.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Smart
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
@@ -416,6 +485,9 @@ http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
 http://189.91.128.146:4444/udp/227.10.20.80:1234
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery H&H
+http://189.91.128.146:4444/udp/227.10.20.85:1234
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://187.19.165.103:8181/play/a00q/index.m3u8
@@ -465,14 +537,23 @@ http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Polishop
 http://177.20.208.58:8000/play/a05c/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Shoptime
+http://189.91.128.146:4444/udp/227.10.20.162:1234
+
 #EXTINF:-1 group-title="VARIEDADES",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",TLC [Portugal]
+http://185.236.229.21:9981/play/a038
+
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://177.52.216.28:8000/play/a06g
+
+#EXTINF:-1 group-title="VARIEDADES",TV Galega
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TVPE
 http://45.182.225.67:8000/play/a00k/index.m3u8
@@ -519,6 +600,9 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Fish TV
+http://189.91.128.146:4444/udp/227.10.20.117:1234
+
 #EXTINF:-1 group-title="ESPORTES",FOX Sports
 http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
 
@@ -533,6 +617,12 @@ https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",MMA TV 3
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Motorvision [Portugal]
+http://185.236.229.21:9981/play/a04z
+
+#EXTINF:-1 group-title="ESPORTES",NBA TV
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://189.91.128.146:4444/udp/227.10.20.102:1234
@@ -552,6 +642,9 @@ http://189.91.128.146:4444/udp/227.10.20.107:1234
 #EXTINF:-1 group-title="ESPORTES",Premiere 6
 http://189.91.128.146:4444/udp/227.10.20.123:1234
 
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://189.91.128.146:4444/udp/227.10.20.102:1234
+
 #EXTINF:-1 group-title="ESPORTES",Sport*TV 1 [Portugal]
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
@@ -566,6 +659,9 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Sport*TV 5 [Portugal]
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV+ [Portugal]
+http://185.236.229.21:9981/play/a03c
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
@@ -605,6 +701,12 @@ http://170.82.200.38:8080/disney_jr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney XD
 http://189.91.128.146:4444/udp/227.10.20.110:1234
+
+#EXTINF:-1 group-title="INFANTIS",Jetsons TV 1
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Jetsons TV 2
+https://stmv1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nick
 http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_1.m3u8
@@ -701,6 +803,9 @@ http://170.82.200.38:8080/mtv_live/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICAIS",Music Box Brazil
 http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICAIS",Now 80s
+http://185.99.253.46:8000/play/a041
 
 #EXTINF:-1 group-title="MUSICAIS",Vevo 2K
 https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
