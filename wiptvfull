@@ -642,9 +642,6 @@ http://189.91.128.146:4444/udp/227.10.20.107:1234
 #EXTINF:-1 group-title="ESPORTES",Premiere 6
 http://189.91.128.146:4444/udp/227.10.20.123:1234
 
-#EXTINF:-1 group-title="ESPORTES",SporTV
-http://189.91.128.146:4444/udp/227.10.20.102:1234
-
 #EXTINF:-1 group-title="ESPORTES",Sport*TV 1 [Portugal]
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
