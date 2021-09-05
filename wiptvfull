@@ -10,7 +10,7 @@
 https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",AgroCanal
-http://177.20.208.58:8000/play/a057/index.m3u8
+http://191.37.223.132:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
@@ -173,6 +173,8 @@ http://45.182.225.70:8000/play/a01j/index.m3u8
 ###### NOTICIAS ######
 ######################
 
+#EXTINF:-1 group-title="NOTICIAS",24H News
+http://191.37.223.133:8000/play/a028/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
@@ -426,6 +428,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de1
 #EXTINF:-1 group-title="VARIEDADES",MTV
 http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Nat Geo
+http://168.205.87.198:8555/live/123456/123456/78.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Polishop
 http://177.20.208.58:8000/play/a05c/index.m3u8
 
@@ -468,15 +473,6 @@ http://191.37.223.133:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="ESPORTES",All Sports
 http://168.205.87.198:8555/live/123456/123456/148.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",ESPN
-http://168.205.87.198:8555/live/123456/123456/60.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 2
-http://168.205.87.198:8555/live/123456/123456/49.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",ESPN Brasil
-http://168.205.87.198:8555/live/123456/123456/50.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
@@ -498,6 +494,21 @@ http://168.205.87.198:8555/live/123456/123456/65.m3u8
 #EXTINF:-1 group-title="ESPORTES",FOX Sports 2
 http://168.205.87.198:8555/live/123456/123456/66.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 1 [Portugal]
+http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 2 [Portugal]
+http://31.220.41.88:8081/live/pt-sporttv2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 3 [Portugal]
+http://31.220.41.88:8081/live/pt-sporttv3.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 4 [Portugal]
+http://31.220.41.88:8081/live/pt-sporttv4.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 5 [Portugal]
+http://31.220.41.88:8081/live/pt-sporttv5.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
 
@@ -506,9 +517,6 @@ https://slvcs87g3x.akamaized.net/live/canal_02/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 3 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_03/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Woohoo
-http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8
 
 
 ######################
@@ -548,9 +556,6 @@ https://stmv1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Map Kids
 http://168.205.87.198:8555/live/123456/123456/143.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Nat Geo
-http://168.205.87.198:8555/live/123456/123456/78.ts
 
 #EXTINF:-1 group-title="INFANTIS",Nick
 http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_1.m3u8
