@@ -278,8 +278,14 @@ http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Filmes Nacionais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="FILMES/SERIES",Filmes Web
+http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://168.205.87.198:8555/live/123456/123456/68.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Giro TV News
+https://596639ebdd89b.streamlock.net/8096/8096/chunklist_w127416716.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Imperial TV
 https://5d2c98775bafe.streamlock.net:443/8098/8098/playlist.m3u8
@@ -325,6 +331,9 @@ http://168.205.87.198:8555/live/123456/123456/116.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Series
 http://168.205.87.198:8555/live/123456/123456/117.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TV Carioca.Net
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1536715481.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
