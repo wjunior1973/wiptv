@@ -60,9 +60,6 @@ http://177.52.216.28:8000/play/a07f
 #EXTINF:-1 group-title="TV ABERTA",Globo Nordeste
 http://45.182.225.67:8000/play/a00o/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo PB - TV Cabo Branco
-http://187.19.165.103:8181/play/a002/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Globo PR - RPC
 http://201.175.55.2:8000/play/a00t/index.m3u8
 
@@ -248,9 +245,6 @@ http://45.182.225.70:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",AMC
-http://187.19.165.103:8181/play/a00k/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
 
@@ -422,15 +416,6 @@ http://168.205.87.198:8555/live/123456/123456/64.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Star Trek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
-http://187.19.165.103:8181/play/a00l/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",SyFy
-http://187.19.165.103:8181/play/a00i/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TBS
-http://187.19.165.103:8181/play/a00p/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Tela Viva TV
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
 
@@ -521,14 +506,8 @@ http://168.205.87.198:8555/live/123456/123456/33.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://168.205.87.198:8555/live/123456/123456/36.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
-http://187.19.165.103:8181/play/a00m/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Discovery TLC
 http://168.205.87.198:8555/live/123456/123456/40.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery World
-http://187.19.165.103:8181/play/a00n/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
@@ -544,9 +523,6 @@ https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Fashion TV
 http://177.52.216.28:8000/play/a06f
-
-#EXTINF:-1 group-title="VARIEDADES",Food Network
-http://187.19.165.103:8181/play/a00h/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Hello TV
 http://191.37.223.133:8000/play/a022/index.m3u8
@@ -832,6 +808,9 @@ https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="MUSICAIS",MTV 80s
 http://78.83.191.18:8000/play/a06q
+
+#EXTINF:-1 group-title="MUSICAIS",MTV Live
+http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICAIS",Music Box Brazil
 http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
