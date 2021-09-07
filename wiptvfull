@@ -36,6 +36,9 @@ http://191.37.223.131:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Band SP [Opcao 2]
+http://177.71.71.83:8002/play/band/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Band TO
 http://177.52.216.27:8000/play/a00s
 
@@ -68,6 +71,9 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 
 #EXTINF:-1 group-title="TV ABERTA",Globo RJ - InterTV Serra+Mar
 http://177.52.216.28:8000/play/a07h
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ - TV Rio Sul
+http://177.71.71.83:8002/play/tvriosul/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo RO - Rede Amazonica
 http://191.37.223.131:8000/play/a00g/index.m3u8
@@ -171,6 +177,9 @@ http://191.37.223.131:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC TV
 https://cdn-scc-10192.ciclano.io:1443/scc-10192/scc-10192/chunklist_w1559635310.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
+http://177.71.71.83:8002/play/sbt/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",SBT SP Interior
 https://5a1c76baf08c0.streamlock.net/sbtinterior/5zh9uodi13msma1k88k05qz9nrc2bg1q/playlist.m3u8
 
@@ -215,6 +224,9 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CBN SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",CNN Brasil
+http://177.71.71.83:8002/play/cnnbrasil/index.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",Record News
 http://45.182.225.70:8000/play/a01a/index.m3u8
 
@@ -226,6 +238,9 @@ http://45.182.225.70:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",AMC
+http://177.71.71.83:8002/play/amc/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
@@ -272,6 +287,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://177.20.208.58:8000/play/a058/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
+http://177.71.71.83:8002/play/cinemax/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Classique TV
 https://stmv1.srvstm.com/classique/classique/playlist.m3u8
 
@@ -296,8 +314,35 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 #EXTINF:-1 group-title="FILMES/SERIES",Filmes Web
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",FX
+http://177.71.71.83:8002/play/fx/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Giro TV News
 https://596639ebdd89b.streamlock.net/8096/8096/chunklist_w127416716.m3u8
+
+#EXTINF:-1,HBO
+http://177.71.71.83:8002/play/hbo/index.m3u8
+
+#EXTINF:-1,HBO 2
+http://177.71.71.83:8002/play/hbo2/index.m3u8
+
+#EXTINF:-1,HBO Family
+http://177.71.71.83:8002/play/hbofamily/index.m3u8
+
+#EXTINF:-1,HBO Mundi
+http://177.71.71.83:8002/play/hbomundi/index.m3u8
+
+#EXTINF:-1,HBO Plus
+http://177.71.71.83:8002/play/hboplus/index.m3u8
+
+#EXTINF:-1,HBO Pop
+http://177.71.71.83:8002/play/hbopop/index.m3u8
+
+#EXTINF:-1,HBO Signature
+http://177.71.71.83:8002/play/hbosignature/index.m3u8
+
+#EXTINF:-1,HBO Xtreme
+http://177.71.71.83:8002/play/hboxtreme/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Imperial TV
 https://5d2c98775bafe.streamlock.net:443/8098/8098/playlist.m3u8
@@ -334,6 +379,12 @@ http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3
 
 #EXTINF:-1 group-title="FILMES/SERIES",South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
+http://177.71.71.83:8002/play/starchannel/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Life
+http://177.71.71.83:8002/play/starlife/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Trek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -395,6 +446,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528
 #EXTINF:-1 group-title="VARIEDADES",Comedy Central
 http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Comedy Central [Opcao 2]
+http://177.71.71.83:8002/play/comedycentral/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",ConecTV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
@@ -428,6 +482,9 @@ http://191.37.223.133:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Like
+http://177.71.71.83:8002/play/like/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Loading
 http://143.255.128.190:8000/play/a00x
 
@@ -437,8 +494,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de1
 #EXTINF:-1 group-title="VARIEDADES",MTV
 http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Nat Geo
+http://177.71.71.83:8002/play/nationalgeographic/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Nat Geo Wild
+http://177.71.71.83:8002/play/natgeowild/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Polishop
 http://177.20.208.58:8000/play/a05c/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Smithsonian Channel
+http://177.71.71.83:8002/play/smithsonian/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
@@ -494,6 +560,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",FOX Sports
 https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?pbs=23fc816fa98d4dc0bd802e1154fc5b15
 
+#EXTINF:-1 group-title="ESPORTES",FOX Sports 2
+http://177.71.71.83:8002/play/foxsports2/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Sport*TV 1 [Portugal]
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
 
@@ -533,11 +602,17 @@ http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIS",Clubinho Fun
 http://191.37.223.133:8000/play/a027/index.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Disney Junior
+http://177.71.71.83:8002/play/disneyjunior/index.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Jetsons TV 1
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Jetsons TV 2
 https://stmv1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Nat Geo Kids
+http://177.71.71.83:8002/play/natgeokids/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nick
 http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_1.m3u8
@@ -652,6 +727,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 
 #EXTINF:-1 group-title="MUSICAIS",VEVO 2K's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MUSICAIS",VH1
+http://177.71.71.83:8002/play/vh1/index.m3u8
 
 #EXTINF:-1 group-title="MUSICAIS",VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
