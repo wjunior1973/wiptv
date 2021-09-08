@@ -132,9 +132,6 @@ http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record PB - TV Correio
 http://143.255.128.190:8000/play/a00j
 
-#EXTINF:-1 group-title="TV ABERTA",Record PE - TV Clube
-http://45.182.225.70:8000/play/a00l/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Record PR - RIC TV
 http://201.175.55.2:8000/play/a00u/index.m3u8
 
