@@ -21,9 +21,6 @@ http://143.255.128.190:8000/play/a00i
 #EXTINF:-1 group-title="TV ABERTA",Band PE - TV Tribuna
 http://45.182.225.67:8000/play/a00m/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band PE - TV Tribuna [Opcao 2]
-http://45.182.225.70:8000/play/a00m/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Band PR - TV Taroba
 http://201.175.55.2:8000/play/a00s/index.m3u8
 
@@ -159,9 +156,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! SP
 http://45.182.225.67:8000/play/a01c/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! SP [Opcao 2]
-http://45.182.225.70:8000/play/a01c/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",SBT AM - TV Guajara
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 
@@ -225,9 +219,6 @@ http://191.37.223.131:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Gazeta SP
 http://177.52.216.28:8000/play/a07z
 
-#EXTINF:-1 group-title="TV ABERTA",TV Senado
-http://45.182.225.70:8000/play/a01j/index.m3u8
-
 
 ######################
 ###### NOTICIAS ######
@@ -246,7 +237,7 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 http://177.71.71.83:8002/play/cnnbrasil/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
-http://45.182.225.70:8000/play/a01a/index.m3u8
+http://45.182.225.67:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",TVI 24H [Portugal]
 https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
@@ -373,9 +364,6 @@ http://177.71.71.83:8002/play/hboxtreme/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Imperial TV
 https://5d2c98775bafe.streamlock.net:443/8098/8098/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",MRL TV
-https://srv5.zcast.com.br/mrltv/mrltv/media_w2054122856_192.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount
 http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8
@@ -596,9 +584,6 @@ https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/chunklist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Polishop
 http://177.20.208.58:8000/play/a05c/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Rede America TV
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqUFtn13crSn4gu-uFvDkqhQYYT56IWDfyjHEhMuxS8OrgU3HlRhk8wsbcdLB4Rfp3MTRGL7bPgKN7-gt-GK8ZsR8oowJNeQabIuGs0PX5lC6j0ycs9skn1JrREnpydt3vCPQF4qY5Ey6hus0UudoA_BVhEV25rUGFnfrOCNCoYY_ib5_SL9QcdjVwjEzsLDpY0UvSWDl26Zibgcsx11F-0vZUb3tlgNk3PzrG_XHpKdnRrRgbL_xkhU5jRp7XWn2yThX3cXAxTI3pPg1ZgHNvVVZ32YkHc__tkjfD4Qh9PM1JRn1_n8nZPGj_qt7OOlU1p2GMxkz_JQLo_Qe0p_ROY55x4qpSr8OtnRBsivbbfBESeUTq4UC8yFNBLCsB3w4hfJrI5iyeC_R6wJVyfoyUeoM_JdfmiYH69xYBaQs8qc0S9TaV8WM5r3gYCkl-Mz19RRkGVJS2IJF-WllnLt251dlNaovhEsn1hHTq5_Y0fFp_H13J3XsyROSzuHCZ4S3LzfG6wq2X2vDoM2vZPz1ElxiBxn8lm2GkZSjcCQAym4eavzktpxtczjx6RRlTrFsWWj_ZIH1lq9_zcZDdqlPwTD5-EJ0Dat773wlLUqHMCTmeSGtfY3dBmkcgdCL_aIQGotxIoLP6zv2iNC1pZIBCKXt3FCQT5SV_3WfWjhxSSXuQO3X81je7Ko4OQNab7YwOaHRkdzYNfb32vkK26gltFN3EUusLSSPauNrAeGBc1Uvf3DAuN_W_JjpS54xQGjyRq5ayh1ivegcM_h19zsXo8Sge8m965dxklJ9FU1pxdgLbCJtdG3R3E7-ApfXFw7kMddZ5NbBVFjz3A_-OAcjrZxd0JtfohWyamBE9lCnjNqizirsmlP1YTy0J_XNBpNJ3UOikp9GgcSEAypwkHt8zgWap5VLn-aZD0aDAyCILKZOzw2FI9fVw.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/chunklist_w685259184.m3u8
 
@@ -634,9 +619,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TV Max 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",TV Nova
-http://45.182.225.70:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TV Nova Onda
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w1156158175.m3u8
@@ -807,7 +789,7 @@ http://191.37.223.133:8000/play/a02b/index.m3u8
 
 
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
-http://45.182.225.70:8000/play/a018/index.m3u8
+http://45.182.225.67:8000/play/a018/index.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",CNT
 http://45.182.225.67:8000/play/a012/index.m3u8
