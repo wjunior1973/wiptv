@@ -236,9 +236,6 @@ http://45.182.225.70:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",24H News
 http://191.37.223.133:8000/play/a028/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",Band News
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w62097713.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
