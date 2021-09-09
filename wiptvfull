@@ -45,6 +45,9 @@ http://143.255.128.190:8000/play/a00i
 #EXTINF:-1,Band PE - TV Tribuna
 http://45.182.225.67:8000/play/a00m/index.m3u8
 
+#EXTINF:-1,Band Piaui
+http://170.80.82.6:8000/play/a00j/index.m3u8
+
 #EXTINF:-1,Band PR - TV Taroba
 http://201.175.55.2:8000/play/a00s/index.m3u8
 
@@ -259,7 +262,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
 
 #EXTINF:-1,Fish TV
-http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Food Network
 http://187.19.165.103:8181/play/a00h/index.m3u8
@@ -420,6 +423,9 @@ http://177.71.71.83:8002/play/natgeowild/index.m3u8
 #EXTINF:-1,National Geographic
 http://177.71.71.83:8002/play/nationalgeographic/index.m3u8
 
+#EXTINF:-1,NBA TV
+http://185.236.229.21:9981/play/a05l
+
 #EXTINF:-1,New TV
 https://5d82644094cc0.streamlock.net/8048/8048/chunklist_w82197582.m3u8
 
@@ -456,6 +462,9 @@ https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1,Record BA
 http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 
+#EXTINF:-1,Record BA - TV Itapoan
+http://177.20.208.58:8000/play/a057/index.m3u8
+
 #EXTINF:-1,Record DF
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
@@ -473,6 +482,9 @@ http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
 
 #EXTINF:-1,Record PB - TV Correio
 http://143.255.128.190:8000/play/a00j
+
+#EXTINF:-1,Record PI - TV Antena 10
+http://170.80.82.6:8000/play/a008/index.m3u8
 
 #EXTINF:-1,Record PR - RIC TV
 http://201.175.55.2:8000/play/a00u/index.m3u8
@@ -567,6 +579,9 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng
 #EXTINF:-1,SBT PI - TV Cidade Verde
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
+#EXTINF:-1,SBT PI - TV Cidade Verde [Opcao 2]
+http://170.80.82.6:8000/play/a004/index.m3u8
+
 #EXTINF:-1,SBT RO - TV Allamanda
 http://191.37.223.131:8000/play/a00d/index.m3u8
 
@@ -608,6 +623,9 @@ http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3
 
 #EXTINF:-1,South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1,Space
+http://187.19.165.103:8181/play/a00y/index.m3u8
 
 #EXTINF:-1,Sport*TV 1 [Portugal]
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
@@ -720,6 +738,9 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1,TV Carioca.Net
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1536715481.m3u8
 
+#EXTINF:-1,TV Costa Norte
+http://170.80.82.6:8000/play/a00f/index.m3u8
+
 #EXTINF:-1,TV Diario
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTUitn1HHvnN2rsI8NblsDs)/dm/3/x7txn7q/s/live-2.m3u8
 
@@ -758,6 +779,12 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8
 
 #EXTINF:-1,TV Max 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
+
+#EXTINF:-1,TV Meio Norte
+http://170.80.82.6:8000/play/a00h/index.m3u8
+
+#EXTINF:-1,TV Miramar [Record Mocambique]
+http://143.255.128.190:8000/play/a00d
 
 #EXTINF:-1,TV Nova Onda
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w1156158175.m3u8
