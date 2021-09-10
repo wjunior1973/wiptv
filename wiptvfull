@@ -4,2213 +4,2213 @@
 ###### CANAIS ######
 ####################
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",24H News
+#EXTINF:-1 group-title="CANAIS",24H News
 http://191.37.223.133:8000/play/a028/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",A&E
+#EXTINF:-1 group-title="CANAIS",A&E
 http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Agro+
+#EXTINF:-1 group-title="CANAIS",Agro+
 https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",AgroCanal
+#EXTINF:-1 group-title="CANAIS",AgroCanal
 http://191.37.223.132:8000/play/a00t/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",All Sports
+#EXTINF:-1 group-title="CANAIS",All Sports
 https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Allegro Web TV
+#EXTINF:-1 group-title="CANAIS",Allegro Web TV
 https://livefocamundo.com:8081/allegrowebtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",AMC
+#EXTINF:-1 group-title="CANAIS",AMC
 http://185.236.229.21:9981/play/a04x
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Animal Planet
+#EXTINF:-1 group-title="CANAIS",Animal Planet
 http://168.205.87.198:8555/live/123456/123456/18.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Anime TV
+#EXTINF:-1 group-title="CANAIS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Anime TV 2
+#EXTINF:-1 group-title="CANAIS",Anime TV 2
 http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Animestat!on
+#EXTINF:-1 group-title="CANAIS",Animestat!on
 https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Arte1
+#EXTINF:-1 group-title="CANAIS",Arte1
 http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Arte1 [Opcao 2]
+#EXTINF:-1 group-title="CANAIS",Arte1 [Opcao 2]
 https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",AXN
+#EXTINF:-1 group-title="CANAIS",AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",AXN [Portugal]
+#EXTINF:-1 group-title="CANAIS",AXN [Portugal]
 http://51.15.0.141:88/axn/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",AXN Movies
+#EXTINF:-1 group-title="CANAIS",AXN Movies
 http://185.236.229.21:9981/play/a05l
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",AXN White
+#EXTINF:-1 group-title="CANAIS",AXN White
 http://185.236.229.21:9981/play/a05p
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Band PA - RBA TV
+#EXTINF:-1 group-title="CANAIS",Band PA - RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Band PB - TV Manaira
+#EXTINF:-1 group-title="CANAIS",Band PB - TV Manaira
 http://143.255.128.190:8000/play/a00i
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Band PE - TV Tribuna
+#EXTINF:-1 group-title="CANAIS",Band PE - TV Tribuna
 http://45.182.225.67:8000/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Band Piaui
+#EXTINF:-1 group-title="CANAIS",Band Piaui
 http://170.80.82.6:8000/play/a00j/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Band PR - TV Taroba
+#EXTINF:-1 group-title="CANAIS",Band PR - TV Taroba
 http://201.175.55.2:8000/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Band RJ
+#EXTINF:-1 group-title="CANAIS",Band RJ
 http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Band RO - TV Meridional
+#EXTINF:-1 group-title="CANAIS",Band RO - TV Meridional
 http://191.37.223.131:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Band SP
+#EXTINF:-1 group-title="CANAIS",Band SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Band News
+#EXTINF:-1 group-title="CANAIS",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Band Sports
+#EXTINF:-1 group-title="CANAIS",Band Sports
 http://189.91.128.150:4444/udp/227.10.20.119:1234
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Blaze
+#EXTINF:-1 group-title="CANAIS",Blaze
 http://185.236.229.21:9981/play/a03b
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Bloomberg
+#EXTINF:-1 group-title="CANAIS",Bloomberg
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Bons Tempos TV
+#EXTINF:-1 group-title="CANAIS",Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Boomerang
+#EXTINF:-1 group-title="CANAIS",Boomerang
 http://168.205.87.198:8555/live/123456/123456/22.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Bora Filmes
+#EXTINF:-1 group-title="CANAIS",Bora Filmes
 http://191.37.223.133:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",BRZ Channel
+#EXTINF:-1 group-title="CANAIS",BRZ Channel
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",BSTV
+#EXTINF:-1 group-title="CANAIS",BSTV
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w406781354.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Canal America Latino
+#EXTINF:-1 group-title="CANAIS",Canal America Latino
 http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Canal do Boi
+#EXTINF:-1 group-title="CANAIS",Canal do Boi
 http://177.20.208.58:8000/play/a044/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Canal Mega
+#EXTINF:-1 group-title="CANAIS",Canal Mega
 https://origin-02.nxplay.com.br/MEGA/video.m3u8?token=
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Canal Ricos
+#EXTINF:-1 group-title="CANAIS",Canal Ricos
 https://stmv1.srvif.com/canalricos/canalricos/chunklist_w2001713689.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Canal Saude
+#EXTINF:-1 group-title="CANAIS",Canal Saude
 http://177.52.216.28:8000/play/a06n
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Canal Smart
+#EXTINF:-1 group-title="CANAIS",Canal Smart
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cancao Nova
+#EXTINF:-1 group-title="CANAIS",Cancao Nova
 http://45.182.225.67:8000/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cartoon Network
+#EXTINF:-1 group-title="CANAIS",Cartoon Network
 http://168.205.87.198:8555/live/123456/123456/26.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Casa e Cozinha
+#EXTINF:-1 group-title="CANAIS",Casa e Cozinha
 http://185.236.229.21:9981/play/a060
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",CaTVE
+#EXTINF:-1 group-title="CANAIS",CaTVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",CBN RJ
+#EXTINF:-1 group-title="CANAIS",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",CBN SP
+#EXTINF:-1 group-title="CANAIS",CBN SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Central TV
+#EXTINF:-1 group-title="CANAIS",Central TV
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w673606021.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Chroma TV
+#EXTINF:-1 group-title="CANAIS",Chroma TV
 https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine Acao
+#EXTINF:-1 group-title="CANAIS",Cine Acao
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine Classicos
+#EXTINF:-1 group-title="CANAIS",Cine Classicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine Comedia
+#EXTINF:-1 group-title="CANAIS",Cine Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine Drama
+#EXTINF:-1 group-title="CANAIS",Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine Familia
+#EXTINF:-1 group-title="CANAIS",Cine Familia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine Romance
+#EXTINF:-1 group-title="CANAIS",Cine Romance
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine Sucessos
+#EXTINF:-1 group-title="CANAIS",Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine Suspense
+#EXTINF:-1 group-title="CANAIS",Cine Suspense
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine Terror
+#EXTINF:-1 group-title="CANAIS",Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",CineBrasil TV
+#EXTINF:-1 group-title="CANAIS",CineBrasil TV
 http://177.20.208.58:8000/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cinemax
+#EXTINF:-1 group-title="CANAIS",Cinemax
 http://200.71.72.50/CINEMAX/mpegts
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Classic Hits
+#EXTINF:-1 group-title="CANAIS",Classic Hits
 http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Classique TV
+#EXTINF:-1 group-title="CANAIS",Classique TV
 https://stmv1.srvstm.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Classique TV 2
+#EXTINF:-1 group-title="CANAIS",Classique TV 2
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Clube Web TV
+#EXTINF:-1 group-title="CANAIS",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w2089498850.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Clubinho Fun
+#EXTINF:-1 group-title="CANAIS",Clubinho Fun
 http://191.37.223.133:8000/play/a027/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",CNN Brasil
+#EXTINF:-1 group-title="CANAIS",CNN Brasil
 http://168.205.87.198:8555/live/123456/123456/28.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",CNT
+#EXTINF:-1 group-title="CANAIS",CNT
 http://45.182.225.67:8000/play/a012/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Combate World
+#EXTINF:-1 group-title="CANAIS",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Comedia TV
+#EXTINF:-1 group-title="CANAIS",Comedia TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Comedy Central
+#EXTINF:-1 group-title="CANAIS",Comedy Central
 http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",ConecTV
+#EXTINF:-1 group-title="CANAIS",ConecTV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cristo Vive
+#EXTINF:-1 group-title="CANAIS",Cristo Vive
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w308963911.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cultura
+#EXTINF:-1 group-title="CANAIS",Cultura
 http://177.52.216.28:8000/play/a073
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",D+ TV
+#EXTINF:-1 group-title="CANAIS",D+ TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w999472033.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Dark Matter TV
+#EXTINF:-1 group-title="CANAIS",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Discovery Channel
+#EXTINF:-1 group-title="CANAIS",Discovery Channel
 http://168.205.87.198:8555/live/123456/123456/33.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Discovery Channel [Portugal]
+#EXTINF:-1 group-title="CANAIS",Discovery Channel [Portugal]
 http://185.236.229.21:9981/play/a05a
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Discovery ID
+#EXTINF:-1 group-title="CANAIS",Discovery ID
 http://168.205.87.198:8555/live/123456/123456/36.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Discovery Kids
+#EXTINF:-1 group-title="CANAIS",Discovery Kids
 http://168.205.87.198:8555/live/123456/123456/37.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Discovery TLC
+#EXTINF:-1 group-title="CANAIS",Discovery TLC
 http://168.205.87.198:8555/live/123456/123456/40.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Disney Channel
+#EXTINF:-1 group-title="CANAIS",Disney Channel
 http://168.205.87.198:8555/live/123456/123456/45.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Disney Junior
+#EXTINF:-1 group-title="CANAIS",Disney Junior
 http://168.205.87.198:8555/live/123456/123456/46.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Disney XD
+#EXTINF:-1 group-title="CANAIS",Disney XD
 http://168.205.87.198:8555/live/123456/123456/47.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",E!
+#EXTINF:-1 group-title="CANAIS",E!
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Elemental Channel
+#EXTINF:-1 group-title="CANAIS",Elemental Channel
 https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w902531234.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Entretendo
+#EXTINF:-1 group-title="CANAIS",Entretendo
 http://191.37.223.133:8000/play/a026/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",ESPN
+#EXTINF:-1 group-title="CANAIS",ESPN
 http://168.205.87.198:8555/live/123456/123456/60.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",ESPN 2
+#EXTINF:-1 group-title="CANAIS",ESPN 2
 http://168.205.87.198:8555/live/123456/123456/49.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",ESPN Brasil
+#EXTINF:-1 group-title="CANAIS",ESPN Brasil
 http://168.205.87.198:8555/live/123456/123456/50.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",ESPN Brasil [Opcao 2]
+#EXTINF:-1 group-title="CANAIS",ESPN Brasil [Opcao 2]
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",ESPN Extra
+#EXTINF:-1 group-title="CANAIS",ESPN Extra
 http://168.205.87.198:8555/live/123456/123456/51.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Estadio TNT Sports 1
+#EXTINF:-1 group-title="CANAIS",Estadio TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Estadio TNT Sports 2
+#EXTINF:-1 group-title="CANAIS",Estadio TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Estadio TNT Sports 3
+#EXTINF:-1 group-title="CANAIS",Estadio TNT Sports 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Estadio TNT Sports 4
+#EXTINF:-1 group-title="CANAIS",Estadio TNT Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Estadio TNT Sports 5
+#EXTINF:-1 group-title="CANAIS",Estadio TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Eurochannel
+#EXTINF:-1 group-title="CANAIS",Eurochannel
 http://191.37.223.133:8000/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Euronews
+#EXTINF:-1 group-title="CANAIS",Euronews
 http://185.236.229.21:9981/play/a03l
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Fail Army
+#EXTINF:-1 group-title="CANAIS",Fail Army
 https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Fashion TV
+#EXTINF:-1 group-title="CANAIS",Fashion TV
 http://177.52.216.28:8000/play/a06f
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Film&Arts
+#EXTINF:-1 group-title="CANAIS",Film&Arts
 http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Filmes Nacionais
+#EXTINF:-1 group-title="CANAIS",Filmes Nacionais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Filmes Web
+#EXTINF:-1 group-title="CANAIS",Filmes Web
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Fish TV
+#EXTINF:-1 group-title="CANAIS",Fish TV
 http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",FOX Crime
+#EXTINF:-1 group-title="CANAIS",FOX Crime
 http://185.236.229.21:9981/play/a066
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",FOX Life
+#EXTINF:-1 group-title="CANAIS",FOX Life
 http://185.236.229.21:9981/play/a05r
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",FOX Movies
+#EXTINF:-1 group-title="CANAIS",FOX Movies
 http://185.236.229.21:9981/play/a039
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",FOX Sports
+#EXTINF:-1 group-title="CANAIS",FOX Sports
 https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?pbs=23fc816fa98d4dc0bd802e1154fc5b15
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Fox Sports [Opcao 2]
+#EXTINF:-1 group-title="CANAIS",Fox Sports [Opcao 2]
 http://168.205.87.198:8555/live/123456/123456/65.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Fox Sports 2
+#EXTINF:-1 group-title="CANAIS",Fox Sports 2
 http://168.205.87.198:8555/live/123456/123456/66.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Fuel TV
+#EXTINF:-1 group-title="CANAIS",Fuel TV
 http://185.236.229.21:9981/play/a05c
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",FX
+#EXTINF:-1 group-title="CANAIS",FX
 http://168.205.87.198:8555/live/123456/123456/68.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Futura
+#EXTINF:-1 group-title="CANAIS",Futura
 http://191.37.223.132:8000/play/a00b/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Ghost TV
+#EXTINF:-1 group-title="CANAIS",Ghost TV
 https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w2037615878.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo BA - TV Santa Cruz
+#EXTINF:-1 group-title="CANAIS",Globo BA - TV Santa Cruz
 http://177.20.208.58:8000/play/a053/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo BA - TV Subae
+#EXTINF:-1 group-title="CANAIS",Globo BA - TV Subae
 http://177.20.208.58:8000/play/a054/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo BA - TV Sudoeste
+#EXTINF:-1 group-title="CANAIS",Globo BA - TV Sudoeste
 http://177.20.208.58:8000/play/a052/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo MG - InterTV dos Vales
+#EXTINF:-1 group-title="CANAIS",Globo MG - InterTV dos Vales
 http://177.52.216.28:8000/play/a07g
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo MG - InterTV Grande Minas
+#EXTINF:-1 group-title="CANAIS",Globo MG - InterTV Grande Minas
 http://177.52.216.28:8000/play/a07f
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo Minas
+#EXTINF:-1 group-title="CANAIS",Globo Minas
 http://168.205.87.198:8555/live/123456/123456/70.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo Nordeste
+#EXTINF:-1 group-title="CANAIS",Globo Nordeste
 http://45.182.225.67:8000/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo PB - TV Cabo Branco
+#EXTINF:-1 group-title="CANAIS",Globo PB - TV Cabo Branco
 http://143.255.128.190:8000/play/a00d
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo PR - RPC
+#EXTINF:-1 group-title="CANAIS",Globo PR - RPC
 http://201.175.55.2:8000/play/a00t/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo RJ
+#EXTINF:-1 group-title="CANAIS",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo RJ - InterTV Serra+Mar
+#EXTINF:-1 group-title="CANAIS",Globo RJ - InterTV Serra+Mar
 http://177.52.216.28:8000/play/a07h
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo RO - Rede Amazonica
+#EXTINF:-1 group-title="CANAIS",Globo RO - Rede Amazonica
 http://191.37.223.131:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Globo SP
+#EXTINF:-1 group-title="CANAIS",Globo SP
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",GloboNews
+#EXTINF:-1 group-title="CANAIS",GloboNews
 http://185.236.229.21:9981/play/a04v
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Gloob
+#EXTINF:-1 group-title="CANAIS",Gloob
 http://200.71.72.50/GLOOB_HD/mpegts
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",GNM
+#EXTINF:-1 group-title="CANAIS",GNM
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w1107061616.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",HBO
+#EXTINF:-1 group-title="CANAIS",HBO
 http://200.71.72.50/HBO/mpegts
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",HBO 2
+#EXTINF:-1 group-title="CANAIS",HBO 2
 http://200.71.72.50/HBO2/mpegts
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",HBO Family
+#EXTINF:-1 group-title="CANAIS",HBO Family
 http://200.71.72.50/HBO_FAMILY/mpegts
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",HBO Plus
+#EXTINF:-1 group-title="CANAIS",HBO Plus
 http://200.71.72.50/HBO_PLUS/mpegts
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",HBO Signature
+#EXTINF:-1 group-title="CANAIS",HBO Signature
 http://200.71.72.50/HBO_SIGNATURE/mpegts
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Hello TV
+#EXTINF:-1 group-title="CANAIS",Hello TV
 http://191.37.223.133:8000/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",HGTV
+#EXTINF:-1 group-title="CANAIS",HGTV
 http://168.205.87.198:8555/live/123456/123456/71.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",History
+#EXTINF:-1 group-title="CANAIS",History
 http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",History 2
+#EXTINF:-1 group-title="CANAIS",History 2
 http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Hitts
+#EXTINF:-1 group-title="CANAIS",Hitts
 http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",ID: Investigation Discovery
+#EXTINF:-1 group-title="CANAIS",ID: Investigation Discovery
 http://185.236.229.21:9981/play/a05s
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",IMPD TV
+#EXTINF:-1 group-title="CANAIS",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Imperial TV
+#EXTINF:-1 group-title="CANAIS",Imperial TV
 https://5d2c98775bafe.streamlock.net:443/8098/8098/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Inforbahia Web TV
+#EXTINF:-1 group-title="CANAIS",Inforbahia Web TV
 http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Inspire
+#EXTINF:-1 group-title="CANAIS",Inspire
 http://191.37.223.133:8000/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",ISTV
+#EXTINF:-1 group-title="CANAIS",ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Jetsons TV 1
+#EXTINF:-1 group-title="CANAIS",Jetsons TV 1
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Jetsons TV 2
+#EXTINF:-1 group-title="CANAIS",Jetsons TV 2
 https://stmv1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Lifetime
+#EXTINF:-1 group-title="CANAIS",Lifetime
 http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Loading
+#EXTINF:-1 group-title="CANAIS",Loading
 http://143.255.128.190:8000/play/a00x
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Londrina TV
+#EXTINF:-1 group-title="CANAIS",Londrina TV
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w1732819933.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Love Nature
+#EXTINF:-1 group-title="CANAIS",Love Nature
 https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1a2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",MAP Kids
+#EXTINF:-1 group-title="CANAIS",MAP Kids
 http://168.205.87.198:8555/live/123456/123456/143.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Master Show TV
+#EXTINF:-1 group-title="CANAIS",Master Show TV
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Master TV
+#EXTINF:-1 group-title="CANAIS",Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w2056435852.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Masterchef
+#EXTINF:-1 group-title="CANAIS",Masterchef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Motorvision
+#EXTINF:-1 group-title="CANAIS",Motorvision
 http://185.236.229.21:9981/play/a04z
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",MTV 00s
+#EXTINF:-1 group-title="CANAIS",MTV 00s
 http://185.236.229.21:9981/play/a03d
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",MTV 80s
+#EXTINF:-1 group-title="CANAIS",MTV 80s
 http://78.83.191.18:8000/play/a06q
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",MTV Brasil
+#EXTINF:-1 group-title="CANAIS",MTV Brasil
 http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",MTV Brasil [Opcao 2]
+#EXTINF:-1 group-title="CANAIS",MTV Brasil [Opcao 2]
 http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",MTV Live
+#EXTINF:-1 group-title="CANAIS",MTV Live
 http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",MTV Unplugged
+#EXTINF:-1 group-title="CANAIS",MTV Unplugged
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Music Box Brazil
+#EXTINF:-1 group-title="CANAIS",Music Box Brazil
 http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Naruto TV
+#EXTINF:-1 group-title="CANAIS",Naruto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Nat Geo
+#EXTINF:-1 group-title="CANAIS",Nat Geo
 http://168.205.87.198:8555/live/123456/123456/78.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",National Geographic Wild
+#EXTINF:-1 group-title="CANAIS",National Geographic Wild
 http://185.236.229.21:9981/play/a06f
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",NBA TV
+#EXTINF:-1 group-title="CANAIS",NBA TV
 http://185.236.229.21:9981/play/a05p
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",New TV
+#EXTINF:-1 group-title="CANAIS",New TV
 https://5d82644094cc0.streamlock.net/8048/8048/chunklist_w82197582.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Nick
+#EXTINF:-1 group-title="CANAIS",Nick
 http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Nick Jr
+#EXTINF:-1 group-title="CANAIS",Nick Jr
 http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",NOS Studios
+#EXTINF:-1 group-title="CANAIS",NOS Studios
 http://185.236.229.21:9981/play/a054
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Novo Tempo
+#EXTINF:-1 group-title="CANAIS",Novo Tempo
 https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Now 80s
+#EXTINF:-1 group-title="CANAIS",Now 80s
 http://185.99.253.46:8000/play/a041
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Paramount
+#EXTINF:-1 group-title="CANAIS",Paramount
 http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Plena TV
+#EXTINF:-1 group-title="CANAIS",Plena TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Polishop
+#EXTINF:-1 group-title="CANAIS",Polishop
 http://177.20.208.58:8000/play/a05c/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Portal Ativo TV
+#EXTINF:-1 group-title="CANAIS",Portal Ativo TV
 https://flussonic-tv.jupiter.com.br/portalativo/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",PPZ TV
+#EXTINF:-1 group-title="CANAIS",PPZ TV
 https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w299865220.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Premiere Clubes
+#EXTINF:-1 group-title="CANAIS",Premiere Clubes
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Prime Box Brazil
+#EXTINF:-1 group-title="CANAIS",Prime Box Brazil
 http://177.52.216.28:8000/play/a06b
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",RBI
+#EXTINF:-1 group-title="CANAIS",RBI
 http://45.182.225.67:8000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",RBTV
+#EXTINF:-1 group-title="CANAIS",RBTV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record AM
+#EXTINF:-1 group-title="CANAIS",Record AM
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record BA
+#EXTINF:-1 group-title="CANAIS",Record BA
 http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record BA - TV Itapoan
+#EXTINF:-1 group-title="CANAIS",Record BA - TV Itapoan
 http://177.20.208.58:8000/play/a057/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record DF
+#EXTINF:-1 group-title="CANAIS",Record DF
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record GO
+#EXTINF:-1 group-title="CANAIS",Record GO
 http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record MG
+#EXTINF:-1 group-title="CANAIS",Record MG
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record News
+#EXTINF:-1 group-title="CANAIS",Record News
 http://45.182.225.67:8000/play/a01a/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record PA
+#EXTINF:-1 group-title="CANAIS",Record PA
 http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record PB - TV Correio
+#EXTINF:-1 group-title="CANAIS",Record PB - TV Correio
 http://143.255.128.190:8000/play/a00j
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record PI - TV Antena 10
+#EXTINF:-1 group-title="CANAIS",Record PI - TV Antena 10
 http://170.80.82.6:8000/play/a008/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record PR - RIC TV
+#EXTINF:-1 group-title="CANAIS",Record PR - RIC TV
 http://201.175.55.2:8000/play/a00u/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record RJ
+#EXTINF:-1 group-title="CANAIS",Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record RO - SIC TV
+#EXTINF:-1 group-title="CANAIS",Record RO - SIC TV
 http://191.37.223.131:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record RS
+#EXTINF:-1 group-title="CANAIS",Record RS
 http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record SP
+#EXTINF:-1 group-title="CANAIS",Record SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Record TO - TV Jovem
+#EXTINF:-1 group-title="CANAIS",Record TO - TV Jovem
 http://177.52.216.27:8000/play/a00v
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede Canal 21
+#EXTINF:-1 group-title="CANAIS",Rede Canal 21
 http://177.52.216.28:8000/play/a08s
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede Clone
+#EXTINF:-1 group-title="CANAIS",Rede Clone
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1944295461.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede Familia
+#EXTINF:-1 group-title="CANAIS",Rede Familia
 http://177.52.216.28:8000/play/a07a
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede Gospel
+#EXTINF:-1 group-title="CANAIS",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede Mosaico
+#EXTINF:-1 group-title="CANAIS",Rede Mosaico
 http://191.37.223.133:8000/play/a021/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede Premium TV
+#EXTINF:-1 group-title="CANAIS",Rede Premium TV
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede QDM
+#EXTINF:-1 group-title="CANAIS",Rede QDM
 http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede Seculo 21
+#EXTINF:-1 group-title="CANAIS",Rede Seculo 21
 http://177.52.216.28:8000/play/a06x
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede SPTV
+#EXTINF:-1 group-title="CANAIS",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/chunklist_w685259184.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede TV Sul
+#EXTINF:-1 group-title="CANAIS",Rede TV Sul
 https://novo.bitstreaming.info:1936/8032/8032/chunklist_w2087166645.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede TV! AM - TV A Critica
+#EXTINF:-1 group-title="CANAIS",Rede TV! AM - TV A Critica
 http://177.52.216.28:8000/play/a09k
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede TV! ES
+#EXTINF:-1 group-title="CANAIS",Rede TV! ES
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede TV! PB - TV Arapuan
+#EXTINF:-1 group-title="CANAIS",Rede TV! PB - TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede TV! PR
+#EXTINF:-1 group-title="CANAIS",Rede TV! PR
 http://201.175.55.2:8000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede TV! RO
+#EXTINF:-1 group-title="CANAIS",Rede TV! RO
 http://191.37.223.131:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede TV! RS - TV Pampa
+#EXTINF:-1 group-title="CANAIS",Rede TV! RS - TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede TV! SP
+#EXTINF:-1 group-title="CANAIS",Rede TV! SP
 http://45.182.225.67:8000/play/a01c/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Rede Vida
+#EXTINF:-1 group-title="CANAIS",Rede Vida
 https://origin-02.nxplay.com.br/REDE_VIDA/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Retro Cartoon
+#EXTINF:-1 group-title="CANAIS",Retro Cartoon
 http://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Retro Cartoon 2
+#EXTINF:-1 group-title="CANAIS",Retro Cartoon 2
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Retro Plus
+#EXTINF:-1 group-title="CANAIS",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",RGTV
+#EXTINF:-1 group-title="CANAIS",RGTV
 https://stmv3.samcast.com.br/italo8170/italo8170/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",RSC TV
+#EXTINF:-1 group-title="CANAIS",RSC TV
 http://177.11.96.110:9080/hls/sictv.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",RTB
+#EXTINF:-1 group-title="CANAIS",RTB
 http://191.37.223.133:8000/play/a01s/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",RTV Canal 38
+#EXTINF:-1 group-title="CANAIS",RTV Canal 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SBT AM - TV Guajara
+#EXTINF:-1 group-title="CANAIS",SBT AM - TV Guajara
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SBT GO - TV Serra Dourada
+#EXTINF:-1 group-title="CANAIS",SBT GO - TV Serra Dourada
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1202038902_b1000000.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SBT MA - TV Difusora
+#EXTINF:-1 group-title="CANAIS",SBT MA - TV Difusora
 https://stream.amsolution.net.br:8443/live/60eef66583c80/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SBT PB - TV Tambau
+#EXTINF:-1 group-title="CANAIS",SBT PB - TV Tambau
 http://143.255.128.190:8000/play/a007
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SBT PE - TV Jornal Caruaru
+#EXTINF:-1 group-title="CANAIS",SBT PE - TV Jornal Caruaru
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w412493965.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SBT PE - TV Jornal Recife
+#EXTINF:-1 group-title="CANAIS",SBT PE - TV Jornal Recife
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SBT PI - TV Cidade Verde
+#EXTINF:-1 group-title="CANAIS",SBT PI - TV Cidade Verde
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SBT PI - TV Cidade Verde [Opcao 2]
+#EXTINF:-1 group-title="CANAIS",SBT PI - TV Cidade Verde [Opcao 2]
 http://170.80.82.6:8000/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SBT RO - TV Allamanda
+#EXTINF:-1 group-title="CANAIS",SBT RO - TV Allamanda
 http://191.37.223.131:8000/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SBT SC - SCC TV
+#EXTINF:-1 group-title="CANAIS",SBT SC - SCC TV
 https://cdn-scc-10192.ciclano.io:1443/scc-10192/scc-10192/chunklist_w1559635310.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SBT SP Interior
+#EXTINF:-1 group-title="CANAIS",SBT SP Interior
 https://5a1c76baf08c0.streamlock.net/sbtinterior/5zh9uodi13msma1k88k05qz9nrc2bg1q/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Serie: A Mulher Bionica
+#EXTINF:-1 group-title="CANAIS",Serie: A Mulher Bionica
 https://stmv1.srvstm.com/tvserie2/tvserie2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Serie: As Panteras
+#EXTINF:-1 group-title="CANAIS",Serie: As Panteras
 https://stmv1.srvstm.com/tvserie/tvserie/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Serie: CHiPs
+#EXTINF:-1 group-title="CANAIS",Serie: CHiPs
 https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Serie: Guerra Sombra e Agua Fresca
+#EXTINF:-1 group-title="CANAIS",Serie: Guerra Sombra e Agua Fresca
 https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w339996925.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Serie: Jeannie e um Genio
+#EXTINF:-1 group-title="CANAIS",Serie: Jeannie e um Genio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Serie: Jornada nas Estrelas
+#EXTINF:-1 group-title="CANAIS",Serie: Jornada nas Estrelas
 https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SESC TV
+#EXTINF:-1 group-title="CANAIS",SESC TV
 http://177.20.208.58:8000/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Sony Channel
+#EXTINF:-1 group-title="CANAIS",Sony Channel
 http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",South Park
+#EXTINF:-1 group-title="CANAIS",South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Space
+#EXTINF:-1 group-title="CANAIS",Space
 http://168.205.87.198:8555/live/123456/123456/110.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Sport*TV 1
+#EXTINF:-1 group-title="CANAIS",Sport*TV 1
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Sport*TV 2
+#EXTINF:-1 group-title="CANAIS",Sport*TV 2
 http://31.220.41.88:8081/live/pt-sporttv2.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Sport*TV 3
+#EXTINF:-1 group-title="CANAIS",Sport*TV 3
 http://31.220.41.88:8081/live/pt-sporttv3.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Sport*TV 4
+#EXTINF:-1 group-title="CANAIS",Sport*TV 4
 http://31.220.41.88:8081/live/pt-sporttv4.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Sport*TV 5
+#EXTINF:-1 group-title="CANAIS",Sport*TV 5
 http://31.220.41.88:8081/live/pt-sporttv5.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Sport*TV Plus
+#EXTINF:-1 group-title="CANAIS",Sport*TV Plus
 http://185.236.229.21:9981/play/a03c
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SporTV
+#EXTINF:-1 group-title="CANAIS",SporTV
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Star Channel
+#EXTINF:-1 group-title="CANAIS",Star Channel
 http://168.205.87.198:8555/live/123456/123456/63.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Star Life
+#EXTINF:-1 group-title="CANAIS",Star Life
 http://168.205.87.198:8555/live/123456/123456/64.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Star Trek
+#EXTINF:-1 group-title="CANAIS",Star Trek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Summer TV
+#EXTINF:-1 group-title="CANAIS",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",SyFy
+#EXTINF:-1 group-title="CANAIS",SyFy
 http://185.236.229.21:9981/play/a04j
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Tastemade Brasil
+#EXTINF:-1 group-title="CANAIS",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TCM
+#EXTINF:-1 group-title="CANAIS",TCM
 http://168.205.87.198:8555/live/123456/123456/112.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TCM 10
+#EXTINF:-1 group-title="CANAIS",TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Teleweb TV
+#EXTINF:-1 group-title="CANAIS",Teleweb TV
 https://video02.kshost.com.br/acessweb7837/acessweb7837/chunklist_w2069879305.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Terra Viva
+#EXTINF:-1 group-title="CANAIS",Terra Viva
 http://177.52.216.28:8000/play/a09z
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",The Pet Collective
+#EXTINF:-1 group-title="CANAIS",The Pet Collective
 https://the-pet-collective-international-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TLC
+#EXTINF:-1 group-title="CANAIS",TLC
 http://185.236.229.21:9981/play/a038
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TNT
+#EXTINF:-1 group-title="CANAIS",TNT
 http://168.205.87.198:8555/live/123456/123456/116.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TNT [Opcao 2]
+#EXTINF:-1 group-title="CANAIS",TNT [Opcao 2]
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TNT Series
+#EXTINF:-1 group-title="CANAIS",TNT Series
 http://168.205.87.198:8555/live/123456/123456/117.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TNT Sports 1 [Ao Vivo]
+#EXTINF:-1 group-title="CANAIS",TNT Sports 1 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TNT Sports 2 [Ao Vivo]
+#EXTINF:-1 group-title="CANAIS",TNT Sports 2 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TNT Sports 3 [Ao Vivo]
+#EXTINF:-1 group-title="CANAIS",TNT Sports 3 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_03/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Trace Toca
+#EXTINF:-1 group-title="CANAIS",Trace Toca
 http://185.236.229.21:9981/play/a04o
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Trace Urban
+#EXTINF:-1 group-title="CANAIS",Trace Urban
 http://185.236.229.21:9981/play/a06g
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Travel Box Brazil
+#EXTINF:-1 group-title="CANAIS",Travel Box Brazil
 http://177.52.216.28:8000/play/a06g
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Travel Channel
+#EXTINF:-1 group-title="CANAIS",Travel Channel
 http://185.236.229.21:9981/play/a05o
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV A Folha
+#EXTINF:-1 group-title="CANAIS",TV A Folha
 https://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Alba
+#EXTINF:-1 group-title="CANAIS",TV Alba
 https://digilab.cds.ebtcvd.net/live-tvalba/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Aparecida
+#EXTINF:-1 group-title="CANAIS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Aparecida - PUC Goias
+#EXTINF:-1 group-title="CANAIS",TV Aparecida - PUC Goias
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Aracati
+#EXTINF:-1 group-title="CANAIS",TV Aracati
 https://livefocamundo.com:8081/tvaracati/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Brasil
+#EXTINF:-1 group-title="CANAIS",TV Brasil
 http://177.52.216.28:8000/play/a06k
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Brasil 2
+#EXTINF:-1 group-title="CANAIS",TV Brasil 2
 http://177.52.216.28:8000/play/a06l
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Brusque
+#EXTINF:-1 group-title="CANAIS",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w94211491.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Camara
+#EXTINF:-1 group-title="CANAIS",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Carioca.Net
+#EXTINF:-1 group-title="CANAIS",TV Carioca.Net
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1536715481.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Costa Norte
+#EXTINF:-1 group-title="CANAIS",TV Costa Norte
 http://170.80.82.6:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Diario
+#EXTINF:-1 group-title="CANAIS",TV Diario
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTUitn1HHvnN2rsI8NblsDs)/dm/3/x7txn7q/s/live-2.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Diario do Sertao
+#EXTINF:-1 group-title="CANAIS",TV Diario do Sertao
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Empire Magazine
+#EXTINF:-1 group-title="CANAIS",TV Empire Magazine
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Escola
+#EXTINF:-1 group-title="CANAIS",TV Escola
 http://177.52.216.28:8000/play/a06m
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Evangelizar
+#EXTINF:-1 group-title="CANAIS",TV Evangelizar
 http://45.182.225.67:8000/play/a014/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Galega
+#EXTINF:-1 group-title="CANAIS",TV Galega
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Gazeta MA
+#EXTINF:-1 group-title="CANAIS",TV Gazeta MA
 http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w1349466157.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Gazeta RO
+#EXTINF:-1 group-title="CANAIS",TV Gazeta RO
 http://191.37.223.131:8000/play/a00e/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Gazeta SP
+#EXTINF:-1 group-title="CANAIS",TV Gazeta SP
 http://177.52.216.28:8000/play/a07z
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Germana
+#EXTINF:-1 group-title="CANAIS",TV Germana
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w1753259709.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Hora 1
+#EXTINF:-1 group-title="CANAIS",TV Hora 1
 https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/chunklist_w96738037.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Interlagos
+#EXTINF:-1 group-title="CANAIS",TV Interlagos
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Justica
+#EXTINF:-1 group-title="CANAIS",TV Justica
 http://168.205.87.198:8555/live/123456/123456/138.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Mais Brasil
+#EXTINF:-1 group-title="CANAIS",TV Mais Brasil
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1926521392.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Manchete
+#EXTINF:-1 group-title="CANAIS",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Max
+#EXTINF:-1 group-title="CANAIS",TV Max
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Max 90
+#EXTINF:-1 group-title="CANAIS",TV Max 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Meio Norte
+#EXTINF:-1 group-title="CANAIS",TV Meio Norte
 http://170.80.82.6:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Miramar [Record Mocambique]
+#EXTINF:-1 group-title="CANAIS",TV Miramar [Record Mocambique]
 http://143.255.128.190:8000/play/a00d
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Nova Onda
+#EXTINF:-1 group-title="CANAIS",TV Nova Onda
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w1156158175.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Nova Play
+#EXTINF:-1 group-title="CANAIS",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1369810498.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Otimista
+#EXTINF:-1 group-title="CANAIS",TV Otimista
 https://hls.directradios.com/otimista/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Pai Eterno
+#EXTINF:-1 group-title="CANAIS",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Pantanal
+#EXTINF:-1 group-title="CANAIS",TV Pantanal
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Progresso
+#EXTINF:-1 group-title="CANAIS",TV Progresso
 https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w755298038.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Ra-Tim-Bum
+#EXTINF:-1 group-title="CANAIS",TV Ra-Tim-Bum
 http://177.52.216.28:8000/play/a062
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Retro
+#EXTINF:-1 group-title="CANAIS",TV Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Rio Preto
+#EXTINF:-1 group-title="CANAIS",TV Rio Preto
 https://livefocamundo.com:8081/tvriopreto/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Senado
+#EXTINF:-1 group-title="CANAIS",TV Senado
 http://168.205.87.198:8555/live/123456/123456/139.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Series
+#EXTINF:-1 group-title="CANAIS",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Vale das Artes
+#EXTINF:-1 group-title="CANAIS",TV Vale das Artes
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w100274790.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Votuline
+#EXTINF:-1 group-title="CANAIS",TV Votuline
 https://srv5.zcast.com.br/votuline/votuline/chunklist_w1485642929.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TV Zoom
+#EXTINF:-1 group-title="CANAIS",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TVCine ACTION
+#EXTINF:-1 group-title="CANAIS",TVCine ACTION
 http://185.236.229.21:9981/play/a04n
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TVCine EDITION
+#EXTINF:-1 group-title="CANAIS",TVCine EDITION
 http://185.236.229.21:9981/play/a061
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TVCine EMOTION
+#EXTINF:-1 group-title="CANAIS",TVCine EMOTION
 http://185.236.229.21:9981/play/a05z
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TVCine TOP
+#EXTINF:-1 group-title="CANAIS",TVCine TOP
 http://185.236.229.21:9981/play/a04w
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TVE RS
+#EXTINF:-1 group-title="CANAIS",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w303484165.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TVI 24H
+#EXTINF:-1 group-title="CANAIS",TVI 24H
 https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TVideo News
+#EXTINF:-1 group-title="CANAIS",TVideo News
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TVJN
+#EXTINF:-1 group-title="CANAIS",TVJN
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1033376554.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TVPE
+#EXTINF:-1 group-title="CANAIS",TVPE
 http://45.182.225.67:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TVT
+#EXTINF:-1 group-title="CANAIS",TVT
 http://177.52.216.28:8000/play/a09l
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",UP Channel
+#EXTINF:-1 group-title="CANAIS",UP Channel
 http://191.37.223.133:8000/play/a023/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Urban Docs
+#EXTINF:-1 group-title="CANAIS",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Urban Kids
+#EXTINF:-1 group-title="CANAIS",Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w79601195.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Urban Movies
+#EXTINF:-1 group-title="CANAIS",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Urban Series
+#EXTINF:-1 group-title="CANAIS",Urban Series
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w949993906.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Urban TV
+#EXTINF:-1 group-title="CANAIS",Urban TV
 https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1612296799.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",VEVO 2K's
+#EXTINF:-1 group-title="CANAIS",VEVO 2K's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",VEVO 70's
+#EXTINF:-1 group-title="CANAIS",VEVO 70's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",VEVO 80's
+#EXTINF:-1 group-title="CANAIS",VEVO 80's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",VEVO 90's
+#EXTINF:-1 group-title="CANAIS",VEVO 90's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",VH1 Classics
+#EXTINF:-1 group-title="CANAIS",VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Via Morena
+#EXTINF:-1 group-title="CANAIS",Via Morena
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Virtual TV
+#EXTINF:-1 group-title="CANAIS",Virtual TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w75240921.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Viva Web TV
+#EXTINF:-1 group-title="CANAIS",Viva Web TV
 https://video02.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",VRT Channel
+#EXTINF:-1 group-title="CANAIS",VRT Channel
 http://168.205.87.198:8555/live/123456/123456/146.ts
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Warner Channel
+#EXTINF:-1 group-title="CANAIS",Warner Channel
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Web TV Music
+#EXTINF:-1 group-title="CANAIS",Web TV Music
 https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1884756249.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Web TV Uai
+#EXTINF:-1 group-title="CANAIS",Web TV Uai
 https://livefocamundo.com:8081/webtvuai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Web TV Xtreme
+#EXTINF:-1 group-title="CANAIS",Web TV Xtreme
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1552474072.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Wham TV Classic
+#EXTINF:-1 group-title="CANAIS",Wham TV Classic
 https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Wham TV!
+#EXTINF:-1 group-title="CANAIS",Wham TV!
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Woohoo
+#EXTINF:-1 group-title="CANAIS",Woohoo
 http://177.20.208.58:8000/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",WTV Brasil
+#EXTINF:-1 group-title="CANAIS",WTV Brasil
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/chunklist_w1649349494.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Yeeaah!
+#EXTINF:-1 group-title="CANAIS",Yeeaah!
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Yes Life
+#EXTINF:-1 group-title="CANAIS",Yes Life
 http://191.37.223.133:8000/play/a025/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",ZAP Viva
+#EXTINF:-1 group-title="CANAIS",ZAP Viva
 http://185.236.229.21:9981/play/a052
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Zoomoo Kids
+#EXTINF:-1 group-title="CANAIS",Zoomoo Kids
 http://191.37.223.133:8000/play/a02b/index.m3u8
 
 ####################
 ###### FILMES ######
 ####################
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",2067
+#EXTINF:-1 group-title="FILMES",2067
 http://185.148.3.146:6503/2067.2021.BluRay.1080p.x264.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",A Barraca do Beijo 3
+#EXTINF:-1 group-title="FILMES",A Barraca do Beijo 3
 http://185.148.3.146:6503/A%20Barraca%20do%20Beijo%203%202021%201080p%20WEB-DL%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",A Escavacao
+#EXTINF:-1 group-title="FILMES",A Escavacao
 http://185.148.3.146:6503/COMANDO.TO%20-%20A%20Escava%C3%A7%C3%A3o%202021%201080p%205.1%20DUAL.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",A Espera do Amanha
+#EXTINF:-1 group-title="FILMES",A Espera do Amanha
 http://185.148.3.146:6503/%C3%80%20Espera%20Do%20Amanh%C3%A3%202019%20WEB-DL%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",A Espreita do Mal
+#EXTINF:-1 group-title="FILMES",A Espreita do Mal
 http://185.148.3.146:6503/A.Espreita.do.Mal.2021.BluRay.1080p.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",A Forca da Natureza
+#EXTINF:-1 group-title="FILMES",A Forca da Natureza
 http://185.148.3.146:6503/A_Forca_da_Natureza.Brazilian_2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",A Gemea do Mal
+#EXTINF:-1 group-title="FILMES",A Gemea do Mal
 http://185.148.3.146:6503/A%20G%C3%AAmea%20do%20Mal%202021%201080p%20WEB-DL%20DUAL.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",A Guerra do Amanha
+#EXTINF:-1 group-title="FILMES",A Guerra do Amanha
 http://185.148.3.146:6503/A_Guerra_do_Amanha.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",A Historia Pessoal de David Copperfield
+#EXTINF:-1 group-title="FILMES",A Historia Pessoal de David Copperfield
 http://185.148.3.146:6503/A.Historia.Pessoal.de.David.Copperfield.2021.1080p.BluRay.x264-DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",A Mascara de Ferro
+#EXTINF:-1 group-title="FILMES",A Mascara de Ferro
 http://185.148.3.146:6503/A.M%C3%A1scara.de.Ferro.2021.BluRay.1080p.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",A Ultima Nota
+#EXTINF:-1 group-title="FILMES",A Ultima Nota
 http://185.148.3.146:6503/A_Ultima_Nota.2021.1080p.BluRay.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",A Vida em Um Ano
+#EXTINF:-1 group-title="FILMES",A Vida em Um Ano
 http://185.148.3.146:6503/COMANDO.TO%20-%20A%20Vida%20em%20um%20Ano%202021%20720p%20DUBLADO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Abaixo de Zero
+#EXTINF:-1 group-title="FILMES",Abaixo de Zero
 http://185.148.3.146:6503/COMANDO.TO%20-%20Abaixo%20de%20Zero%202021%201080p%205.1%20DUAL.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Agencia Secreta de Controle de Magias
+#EXTINF:-1 group-title="FILMES",Agencia Secreta de Controle de Magias
 http://185.148.3.146:6503/Agencia_Secreta_de_Controle_de_Magias.2021.1080p.WEB-DL.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",AK-47 - A Arma que Mudou o Mundo
+#EXTINF:-1 group-title="FILMES",AK-47 - A Arma que Mudou o Mundo
 http://185.148.3.146:6503/Ak-47.A.Arma.Que.Mudou.o.Mundo.2021.BluRay.1080p.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Alice e Peter - Onde Nascem os Sonhos
+#EXTINF:-1 group-title="FILMES",Alice e Peter - Onde Nascem os Sonhos
 http://185.148.3.146:6503/Alice%20e%20Peter%20-%20Onde%20Nascem%20os%20Sonhos%202020%20BluRay%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Anonimo
+#EXTINF:-1 group-title="FILMES",Anonimo
 http://185.148.3.146:6503/Anonimo.2021.720p.BluRay.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Apenas Diga Sim
+#EXTINF:-1 group-title="FILMES",Apenas Diga Sim
 http://185.148.3.146:6503/Apenas_Diga_Sim.2021.1080p.WEB-DL.5.1.x264.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Aqueles Que Me Desejam a Morte
+#EXTINF:-1 group-title="FILMES",Aqueles Que Me Desejam a Morte
 http://185.148.3.146:6503/Aqueles%20Que%20Me%20Desejam%20a%20Morte%202021%20WEB-DL%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Archive
+#EXTINF:-1 group-title="FILMES",Archive
 http://185.148.3.146:6503/Archive.2021.BluRay.1080p.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Army of the Dead - Invasao em Las Vegas
+#EXTINF:-1 group-title="FILMES",Army of the Dead - Invasao em Las Vegas
 http://185.148.3.146:6503/Army.of.the.Dead.Invasao.em.Las.vegas.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Assalto ao Banco da Espanha
+#EXTINF:-1 group-title="FILMES",Assalto ao Banco da Espanha
 http://185.148.3.146:6503/Assalto.Ao.Banco.da.Espanha.2021.1080p.WEB.x264-DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Ataque Fatal
+#EXTINF:-1 group-title="FILMES",Ataque Fatal
 http://185.148.3.146:6503/Ataque.Fatal.2021.720p.BluRay.x264-DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Ate o Ceu
+#EXTINF:-1 group-title="FILMES",Ate o Ceu
 http://185.148.3.146:6503/Ate.o.Ceu.2021.1080p.WEB-DL.5.1.x264.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Becky
+#EXTINF:-1 group-title="FILMES",Becky
 http://185.148.3.146:6503/Becky.2021.BluRay.1080p.x264.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Cacadores de Trolls - A Ascensao dos Titas
+#EXTINF:-1 group-title="FILMES",Cacadores de Trolls - A Ascensao dos Titas
 http://185.148.3.146:6503/Cacadores.de.Trolls.A.ascensao.dos.titas.2021.1080p.WEB-DL.DUAL.5.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Cherry - Inocencia Perdida
+#EXTINF:-1 group-title="FILMES",Cherry - Inocencia Perdida
 http://185.148.3.146:6503/COMANDO.TO%20-%20Cherry%20-%20Inoc%C3%AAncia%20Perdida%20WEB-DL%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Chorao - Marginal Alado
+#EXTINF:-1 group-title="FILMES",Chorao - Marginal Alado
 http://185.148.3.146:6503/Chorao_-_Marginal_Alado.2021_WEB-DL_1080p_NACIONAL_COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Circulo Vicioso
+#EXTINF:-1 group-title="FILMES",Circulo Vicioso
 http://185.148.3.146:6503/C%EDrculo%20Vicioso%202020%20WEB-DL%201080p%20DUAL%202.0.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Convencao das Bruxas
+#EXTINF:-1 group-title="FILMES",Convencao das Bruxas
 http://185.148.3.146:6503/Convencao.das.Bruxas.2021.720p.BluRay.x264-DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Cruella
+#EXTINF:-1 group-title="FILMES",Cruella
 http://185.148.3.146:6503/Cruella.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Deixo-o Partir
+#EXTINF:-1 group-title="FILMES",Deixo-o Partir
 http://185.148.3.146:6503/Deixo-o.Partir.2021.BRRip.1080p.x264.DUAL-COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Depois a Louca Sou Eu
+#EXTINF:-1 group-title="FILMES",Depois a Louca Sou Eu
 http://185.148.3.146:6503/Depois_a_Louca_Sou_Eu.2021.1080p.WEB-DL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Dificil de Matar
+#EXTINF:-1 group-title="FILMES",Dificil de Matar
 http://185.148.3.146:6503/Dificil.de.Matar.2021.BluRay.1080p.x264.DUAL-COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Diga-me Quando
+#EXTINF:-1 group-title="FILMES",Diga-me Quando
 http://185.148.3.146:6503/Diga-me_Quando.2021.1080p.WEB-DL.DUAL.COMANDO.TO_.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Doce Vinganca
+#EXTINF:-1 group-title="FILMES",Doce Vinganca
 http://185.148.3.146:6503/Doce%20Vingan%C3%A7a.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Dreamland - Sonhos e Ilusoes
+#EXTINF:-1 group-title="FILMES",Dreamland - Sonhos e Ilusoes
 http://185.148.3.146:6503/Dreamland.Sonhos.e.Ilusoes.2021.1080p.WEB-DL.DDP5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Druk - Mais Uma Rodada
+#EXTINF:-1 group-title="FILMES",Druk - Mais Uma Rodada
 http://185.148.3.146:6503/Druk.Mais.Uma.Rodada.2021.720p.BluRay.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",E Amanha o Mundo Todo
+#EXTINF:-1 group-title="FILMES",E Amanha o Mundo Todo
 http://185.148.3.146:6503/E_amanha.o_mundo_todo.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Em Busca de 'Ohana
+#EXTINF:-1 group-title="FILMES",Em Busca de 'Ohana
 http://185.148.3.146:6503/COMANDO.TO%20-%20Em%20busca%20de%20%E2%80%98Ohana%202021%201080p%205.1%20DUAL.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Em Busca de Sheela
+#EXTINF:-1 group-title="FILMES",Em Busca de Sheela
 http://185.148.3.146:6503/Em_Busca_de_Sheela.2021.WEB-DL.DUBLADO.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Espiral
+#EXTINF:-1 group-title="FILMES",Espiral
 http://185.148.3.146:6503/Espiral%20-%20O%20Legado%20de%20Jogos%20Mortais%202021%20BluRay%20720p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Esquadrao Trovao
+#EXTINF:-1 group-title="FILMES",Esquadrao Trovao
 http://185.148.3.146:6503/Esquadrao_Trovao_WEB-DL.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Fatale
+#EXTINF:-1 group-title="FILMES",Fatale
 http://185.148.3.146:6503/Fatale.2021.BluRay.1080p.DUAL.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Feitico
+#EXTINF:-1 group-title="FILMES",Feitico
 http://185.148.3.146:6503/Feitico.2021.720p.BluRay.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Fuja
+#EXTINF:-1 group-title="FILMES",Fuja
 http://185.148.3.146:6503/Fuja.2021.1080p.WEB-DL.5.1.x264.DUAL.COMANDO.TO(1).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Godzilla vs Kong
+#EXTINF:-1 group-title="FILMES",Godzilla vs Kong
 http://185.148.3.146:6503/Godzilla.vs.Kong.2021.WEB-DL.1080p.x264.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Infinito
+#EXTINF:-1 group-title="FILMES",Infinito
 http://185.148.3.146:6503/Infinito%202021%20WEB-DL%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Invocacao do Mal 3 - A Ordem do Demonio
+#EXTINF:-1 group-title="FILMES",Invocacao do Mal 3 - A Ordem do Demonio
 http://185.148.3.146:6503/Invoca%C3%A7%C3%A3o.do.Mal.3.A.Ordem.do.Dem%C3%B4nio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Jiu Jitsu
+#EXTINF:-1 group-title="FILMES",Jiu Jitsu
 http://185.148.3.146:6503/COMANDO.TO%20-%20Jiu.Jitsu.2021.BluRay.1080p.DUAL.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Jolt - Furia Fatal
+#EXTINF:-1 group-title="FILMES",Jolt - Furia Fatal
 http://185.148.3.146:6503/Jolt%20-%20F%C3%BAria%20Fatal%202021%20WEB-DL%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Justica Brutal
+#EXTINF:-1 group-title="FILMES",Justica Brutal
 http://185.148.3.146:6503/COMANDO.TO%20-%20Justi%C3%A7a%20Brutal%202021%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Justica em Familia
+#EXTINF:-1 group-title="FILMES",Justica em Familia
 http://185.148.3.146:6503/Justi%E7a%20em%20Fam%EDlia%202021%201080p%20WEB-DL%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Liga da Justica - Snyder's Cut
+#EXTINF:-1 group-title="FILMES",Liga da Justica - Snyder's Cut
 http://185.148.3.146:6503/COMANDO.TO%20-%20Zack.Snyders.Justice.League.2021.720p.HMAX.WEB-DL.DDP5.1.Atmos.H.264-DUAL.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Luca
+#EXTINF:-1 group-title="FILMES",Luca
 http://185.148.3.146:6503/Luca.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Luta de Garotas
+#EXTINF:-1 group-title="FILMES",Luta de Garotas
 http://185.148.3.146:6503/Luta.de.Garotas.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Meu Pai
+#EXTINF:-1 group-title="FILMES",Meu Pai
 http://185.148.3.146:6503/Meu.Pai.2021.WEB-DL.1080p.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Monster Hunter
+#EXTINF:-1 group-title="FILMES",Monster Hunter
 http://185.148.3.146:6503/Monster.Hunter.2021.BluRay.720p.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Monstro
+#EXTINF:-1 group-title="FILMES",Monstro
 http://185.148.3.146:6503/Monstro.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Mortal Kombat
+#EXTINF:-1 group-title="FILMES",Mortal Kombat
 http://185.148.3.146:6503/MORTAL%20KOMBAT%202021%20-%20COMANDO.TO(1)(1).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Mudanca Mortal
+#EXTINF:-1 group-title="FILMES",Mudanca Mortal
 http://185.148.3.146:6503/Mudan%E7a%20Mortal%202021%20WEB-DL%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Mulher Maravilha 1984
+#EXTINF:-1 group-title="FILMES",Mulher Maravilha 1984
 http://185.148.3.146:6503/Mulher-Maravilha.2021.1984.BluRay.720p.DUAL.5.1.x264.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Na Mesma Onda
+#EXTINF:-1 group-title="FILMES",Na Mesma Onda
 http://185.148.3.146:6503/Na_Mesma_Onda.2021.1080p.WEB-DL.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Na Mira do Perigo
+#EXTINF:-1 group-title="FILMES",Na Mira do Perigo
 http://185.148.3.146:6503/Na.Mira.do.Perigo.2021.720p.BluRay.x264-DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Nao Feche os Olhos
+#EXTINF:-1 group-title="FILMES",Nao Feche os Olhos
 http://185.148.3.146:6503/N%C3%A3o.Feche.os.Olhos.2021.BluRay.1080p.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",New Gods Nezha Reborn
+#EXTINF:-1 group-title="FILMES",New Gods Nezha Reborn
 http://185.148.3.146:6503/New_Gods_Nezha_Reborn.2021.1080p.WEB-DL.x264.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Noite no Paraiso
+#EXTINF:-1 group-title="FILMES",Noite no Paraiso
 http://185.148.3.146:6503/Noite.no.Paraiso.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Nova Ordem Espacial
+#EXTINF:-1 group-title="FILMES",Nova Ordem Espacial
 http://185.148.3.146:6503/Nova_Ordem_Espacial.2021.720p.WEB-DL.x264.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Atirador - O Fim de um Assassino
+#EXTINF:-1 group-title="FILMES",O Atirador - O Fim de um Assassino
 http://185.148.3.146:6503/O.Atirador.O.Fim.de.um.Assassino.2021.1080p.BluRay.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Chale
+#EXTINF:-1 group-title="FILMES",O Chale
 http://185.148.3.146:6503/COMANDO.TO%20-%20O.Chale.2021.720p.BluRay.x264.DUAL.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Desaparecimento
+#EXTINF:-1 group-title="FILMES",O Desaparecimento
 http://185.148.3.146:6503/O.Desaparecimento.2021.1080p.WEB-DL.x264-DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Esquadrao Suicida
+#EXTINF:-1 group-title="FILMES",O Esquadrao Suicida
 http://185.148.3.146:6503/O%20Esquadr%E3o%20Suicida%202021%201080p%20WEB-DL%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Filho do Noivo
+#EXTINF:-1 group-title="FILMES",O Filho do Noivo
 http://185.148.3.146:6503/O_Filho_do_Noivo_2021.1080p.WEB-DL.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Gangster Nomade
+#EXTINF:-1 group-title="FILMES",O Gangster Nomade
 http://185.148.3.146:6503/O_Gangster_Nomade.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Gangster O Policial e o Diabo
+#EXTINF:-1 group-title="FILMES",O Gangster O Policial e o Diabo
 http://185.148.3.146:6503/O.Gangster.o.Policial.e.o.Diabo.2021.WEB-DL.1080p.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Informante
+#EXTINF:-1 group-title="FILMES",O Informante
 http://185.148.3.146:6503/O.Informante.2021.BluRay.1080p.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Legendario
+#EXTINF:-1 group-title="FILMES",O Legendario
 http://185.148.3.146:6503/O_Legendario.2021.WEB-DL.DUBLADO.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Mediador
+#EXTINF:-1 group-title="FILMES",O Mediador
 http://185.148.3.146:6503/O.Mediador.2021.720p.x264.DUBLADO.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Perfeito Senhor Cha
+#EXTINF:-1 group-title="FILMES",O Perfeito Senhor Cha
 http://185.148.3.146:6503/O_Perfeito_Sr_Cha_1080p.WEB-DL.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",O Protocolo de Auschwitz
+#EXTINF:-1 group-title="FILMES",O Protocolo de Auschwitz
 http://185.148.3.146:6503/O_Protocolo_de_Auschwitz.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Os Croods 2 - Uma Nova Era
+#EXTINF:-1 group-title="FILMES",Os Croods 2 - Uma Nova Era
 http://185.148.3.146:6503/Os.Croods.2.Uma.Nova.Era.2021.720p.BluRay.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Os Salafrarios
+#EXTINF:-1 group-title="FILMES",Os Salafrarios
 http://185.148.3.146:6503/Os_Salafrarios.2021.WEB-DL.1080p.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Passageiro Acidental
+#EXTINF:-1 group-title="FILMES",Passageiro Acidental
 http://185.148.3.146:6503/Passageiro.Acidental.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Pedro Coelho 2 - O Fugitivo
+#EXTINF:-1 group-title="FILMES",Pedro Coelho 2 - O Fugitivo
 http://185.148.3.146:6503/Pedro%20Coelho%202%20%96%20O%20Fugitivo%202021%201080p%20BluRay%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Pinoquio
+#EXTINF:-1 group-title="FILMES",Pinoquio
 http://185.148.3.146:6503/Pin%C3%B3quio.(2021).BRRip.1080p.x264.DUAL-COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Ponto Vermelho
+#EXTINF:-1 group-title="FILMES",Ponto Vermelho
 http://185.148.3.146:6503/Ponto.Vermelho.2021.1080p.WEB-DL.5.1.x264.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Professor Polvo
+#EXTINF:-1 group-title="FILMES",Professor Polvo
 http://185.148.3.146:6503/Professor_Polvo.2021.1080p.WEB-DL.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Raya e o Ultimo Dragao
+#EXTINF:-1 group-title="FILMES",Raya e o Ultimo Dragao
 http://185.148.3.146:6503/COMANDO.TO%20-%20Raya%20e%20o%20%C3%9Altimo%20Drag%C3%A3o%20WEB-DL%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Relatos do Mundo
+#EXTINF:-1 group-title="FILMES",Relatos do Mundo
 http://185.148.3.146:6503/Relatos_do_Mundo.2021.1080p.WEB-DL.x264.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Rogai por Nos
+#EXTINF:-1 group-title="FILMES",Rogai por Nos
 http://185.148.3.146:6503/Rogai.por.Nos.2021.1080p.BluRay.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Ronda Noturna
+#EXTINF:-1 group-title="FILMES",Ronda Noturna
 http://185.148.3.146:6503/Ronda.Noturna.2021.1080p.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Sem Rastros
+#EXTINF:-1 group-title="FILMES",Sem Rastros
 http://185.148.3.146:6503/Sem.Rastros.2021.BluRay.1080p.DUAL.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Sem Remorso
+#EXTINF:-1 group-title="FILMES",Sem Remorso
 http://185.148.3.146:6503/Sem_Remorso_de_Tom_Clancy.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Sobreviva ou Morra Tentando
+#EXTINF:-1 group-title="FILMES",Sobreviva ou Morra Tentando
 http://185.148.3.146:6503/Sobreviva%20ou%20Morra%20Tentando%202020%20WEB-DL%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Sozinha
+#EXTINF:-1 group-title="FILMES",Sozinha
 http://185.148.3.146:6503/Sozinha.2021.BluRay.1080p.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Space Jam - Um Novo Legado
+#EXTINF:-1 group-title="FILMES",Space Jam - Um Novo Legado
 http://185.148.3.146:6503/Space%20Jam%20-%20Um%20Novo%20Legado%202021%201080p%20WEBRip%20DUAL%205.1_.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Tom & Jerry
+#EXTINF:-1 group-title="FILMES",Tom & Jerry
 http://185.148.3.146:6503/Tom.e.Jerry.2021.WEBRip.1080p.x264.DUAL-COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Twist
+#EXTINF:-1 group-title="FILMES",Twist
 http://185.148.3.146:6503/Twist.2021.1080p.WEB-DL.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Um Classico Filme de Terror
+#EXTINF:-1 group-title="FILMES",Um Classico Filme de Terror
 http://185.148.3.146:6503/Um%20Classico%20Filme%20de%20Terror%202021%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Um Lugar Silencioso - Parte II
+#EXTINF:-1 group-title="FILMES",Um Lugar Silencioso - Parte II
 http://185.148.3.146:6503/A.Quiet.Place.Part.II.2021.720p.WEBRip.AAC2.0.X.264-EVO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Um Milagre Inesperado
+#EXTINF:-1 group-title="FILMES",Um Milagre Inesperado
 http://185.148.3.146:6503/Um%20Milagre%20Inesperado%202020%20BluRay%201080p%20DUAL%202.0.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Um Principe em Nova York 2
+#EXTINF:-1 group-title="FILMES",Um Principe em Nova York 2
 http://185.148.3.146:6503/Um.Pr%C3%ADncipe.em.Nova.York.2.2021.WEB-DL.720p.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Uma Nuvem no Ceu
+#EXTINF:-1 group-title="FILMES",Uma Nuvem no Ceu
 http://185.148.3.146:6503/Uma.Nuvem.no.Ceu.2021.BluRay.1080p.x264.DUAL-COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Vanquish
+#EXTINF:-1 group-title="FILMES",Vanquish
 http://185.148.3.146:6503/Vanquish.2021.BluRay.1080p.DUAL.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Velozes e Furiosos 9
+#EXTINF:-1 group-title="FILMES",Velozes e Furiosos 9
 http://185.148.3.146:6503/Velozes%20e%20Furiosos%209%202021%20720p%20WEB-DL%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Viuva Negra
+#EXTINF:-1 group-title="FILMES",Viuva Negra
 http://185.148.3.146:6503/Vi%C3%BAva.Negra.2021.1080p.WEB-DL.DDP5.1.DUAL.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Voce Deveria Ter Partido
+#EXTINF:-1 group-title="FILMES",Voce Deveria Ter Partido
 http://185.148.3.146:6503/Voc%C3%AA.Deveria.Ter.Partido.2021.BluRay.1080p.DUAL.5.1.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Vozes e Vultos
+#EXTINF:-1 group-title="FILMES",Vozes e Vultos
 http://185.148.3.146:6503/Vozes_e_Vultos.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Wrath of Man
+#EXTINF:-1 group-title="FILMES",Wrath of Man
 http://185.148.3.146:6503/Wrath.of.Man.2021.1080p.WEBRip.Dublado.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvfilme" group-title="FILMES",Zona de Combate
+#EXTINF:-1 group-title="FILMES",Zona de Combate
 http://185.148.3.146:6503/Zona.de.Combate.2021.720p.WEB-DL.6CH.x264-DUAL.COMANDO.TO.mp4
 
 #########################
 ###### VIDEOCLIPES ######
 #########################
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",A-ha - Take on Me
+#EXTINF:-1 group-title="VIDEOCLIPES",A-ha - Take on Me
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20A%20Ha%20:%20Take%20On%20Me%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - Chiquitita
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - Chiquitita
 https://www.refugesl.com/movies/+ABBA%20-%20Chiquitita%201979.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - Dancing Queen
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - Dancing Queen
 https://www.refugesl.com/movies/+ABBA%20-%20Dancing%20Queen.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - Fernando
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - Fernando
 https://www.refugesl.com/movies/+ABBA%20-%20Fernando.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - Gimme Gimme Gimme
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - Gimme Gimme Gimme
 https://www.refugesl.com/movies/+ABBA%20-%20Gimme,%20Gimme,%20Gimme!.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - Knowing Me Knowing You
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - Knowing Me Knowing You
 https://www.refugesl.com/movies/+ABBA%20-%20Knowing%20Me,%20Knowing%20You.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - Mamma Mia
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - Mamma Mia
 https://www.refugesl.com/movies/+ABBA%20-%20Mamma%20Mia%20(Official%20Video).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - S.O.S.
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - S.O.S.
 https://www.refugesl.com/movies/+ABBA%20-%20S.O.S.%201975.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - Super Trouper
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - Super Trouper
 https://www.refugesl.com/movies/+ABBA%20-%20Super%20Trouper.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - Take A Chance On Me
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - Take A Chance On Me
 https://www.refugesl.com/movies/+ABBA%20-%20Take%20A%20Chance%20On%20Me.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - The Name Of The Game
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - The Name Of The Game
 https://www.refugesl.com/movies/+ABBA%20-%20The%20Name%20Of%20The%20Game.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - The Winner Takes It All
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - The Winner Takes It All
 https://www.refugesl.com/movies/+ABBA%20-%20The%20Winner%20Takes%20It%20All%201980.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - Voulez Vous
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - Voulez Vous
 https://www.refugesl.com/movies/+ABBA%20-%20Voulez%20Vous.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Abba - Waterloo
+#EXTINF:-1 group-title="VIDEOCLIPES",Abba - Waterloo
 https://www.refugesl.com/movies/+ABBA%20-%20Waterloo.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Accept - Princess of the Dawn
+#EXTINF:-1 group-title="VIDEOCLIPES",Accept - Princess of the Dawn
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1982%20-%20Accept%20:%20Princess%20of%20the%20Dawn%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",ACDC - Back in Black
+#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - Back in Black
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1980%20-%20ACDC%20:%20Back%20In%20Black%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",ACDC - Hells Bells
+#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - Hells Bells
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1980%20-%20ACDC%20:%20Hells%20Bells%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",ACDC - Highway to Hell
+#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - Highway to Hell
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1979%20-%20ACDC%20:%20Highway%20to%20Hell%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",ACDC - It's a Long Way To The Top
+#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - It's a Long Way To The Top
 http://104.251.123.41/It's%20A%20Long%20Way%20To%20The%20Top-ACDC.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",ACDC - Thats the Way I Wanna Rock'n'Roll
+#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - Thats the Way I Wanna Rock'n'Roll
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1988%20-%20ACDC%20:%20That's%20The%20Way%20I%20Wanna%20Rock%20'N'%20Roll%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",ACDC - Thundestruck
+#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - Thundestruck
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1990%20-%20ACDC%20:%20Thunderstruck%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",ACDC - You Shook Me All Night Long
+#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - You Shook Me All Night Long
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1980%20-%20ACDC%20:%20You%20Shook%20Me%20All%20Night%20Long%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Ace of Base - The Sign
+#EXTINF:-1 group-title="VIDEOCLIPES",Ace of Base - The Sign
 http://104.251.123.41/The%20Sign-Ace%20Of%20Base.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Aerosmith - Crazy
+#EXTINF:-1 group-title="VIDEOCLIPES",Aerosmith - Crazy
 http://104.251.123.41/Crazy-Aerosmith.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Aerosmith - Cryin'
+#EXTINF:-1 group-title="VIDEOCLIPES",Aerosmith - Cryin'
 http://mediamusic-journal.com/video/Aerosmith%20-%20Cryin'%20(1993).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Aerosmith - Sweet Emotion
+#EXTINF:-1 group-title="VIDEOCLIPES",Aerosmith - Sweet Emotion
 http://104.251.123.41/Sweet%20Emotion-Aerosmith.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Alice Cooper - No More Mr. Nice Guy
+#EXTINF:-1 group-title="VIDEOCLIPES",Alice Cooper - No More Mr. Nice Guy
 http://104.251.123.41/No%20More%20Mr%20Nice%20Guy-Alice%20Cooper.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Alphaville - Big in Japan
+#EXTINF:-1 group-title="VIDEOCLIPES",Alphaville - Big in Japan
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20:%20Big%20In%20Japan%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Alphaville - Dance With Me
+#EXTINF:-1 group-title="VIDEOCLIPES",Alphaville - Dance With Me
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Alphaville%20:%20Dance%20With%20Me%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Alphaville - Forever Young
+#EXTINF:-1 group-title="VIDEOCLIPES",Alphaville - Forever Young
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20:%20Forever%20Young%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Alphaville - Sounds Like a Melody
+#EXTINF:-1 group-title="VIDEOCLIPES",Alphaville - Sounds Like a Melody
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20:%20Sounds%20Like%20A%20Melody%20(960x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",B52's - Legal Tender
+#EXTINF:-1 group-title="VIDEOCLIPES",B52's - Legal Tender
 http://104.251.123.41/Legal%20Tender-The%20B52s.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",B52's - Love Shack
+#EXTINF:-1 group-title="VIDEOCLIPES",B52's - Love Shack
 http://104.251.123.41/Love%20Shack-The%20B52s.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",B52's - Private Idaho
+#EXTINF:-1 group-title="VIDEOCLIPES",B52's - Private Idaho
 http://104.251.123.41/Private%20Idaho-B%2052s.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",B52's - Rock Lobster
+#EXTINF:-1 group-title="VIDEOCLIPES",B52's - Rock Lobster
 http://104.251.123.41/Rock%20Lobster-B52s.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Backstreet Boys - I Want It That Way
+#EXTINF:-1 group-title="VIDEOCLIPES",Backstreet Boys - I Want It That Way
 http://mediamusic-journal.com/video/Backstreet%20Boys%20-%20I%20Want%20It%20That%20Way%20(1999).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beach Boys - Barbara Ann
+#EXTINF:-1 group-title="VIDEOCLIPES",Beach Boys - Barbara Ann
 https://www.refugesl.com/movies/+Beach%20Boys%2004%20-%20Barbara%20Ann%20(Live%20At%20Farm%20Aid%201985).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beach Boys - California Girls
+#EXTINF:-1 group-title="VIDEOCLIPES",Beach Boys - California Girls
 https://www.refugesl.com/movies/+Beach%20Boys%2007%20-%20California%20Girls.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beach Boys - Fun Fun Fun
+#EXTINF:-1 group-title="VIDEOCLIPES",Beach Boys - Fun Fun Fun
 https://www.refugesl.com/movies/+Beach%20Boys%2010%20-%20Fun%20Fun%20Fun.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beach Boys - Good Vibrations
+#EXTINF:-1 group-title="VIDEOCLIPES",Beach Boys - Good Vibrations
 https://www.refugesl.com/movies/+Beach%20Boys%2003%20-%20Good%20Vibrations.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beach Boys - Help Me Rhonda
+#EXTINF:-1 group-title="VIDEOCLIPES",Beach Boys - Help Me Rhonda
 https://www.refugesl.com/movies/+Beach%20Boys%2009%20-%20Help%20Me%20Rhonda.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beach Boys - I Get Around
+#EXTINF:-1 group-title="VIDEOCLIPES",Beach Boys - I Get Around
 https://www.refugesl.com/movies/+Beach%20Boys%2005%20-%20I%20Get%20Around.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beach Boys - Kokomo
+#EXTINF:-1 group-title="VIDEOCLIPES",Beach Boys - Kokomo
 https://www.refugesl.com/movies/+Beach%20Boys%2014%20-%20Kokomo.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beach Boys - Surfin' USA
+#EXTINF:-1 group-title="VIDEOCLIPES",Beach Boys - Surfin' USA
 https://www.refugesl.com/movies/+Beach%20Boys%2018%20-%20Surfin%20USA.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beatles - Come Together
+#EXTINF:-1 group-title="VIDEOCLIPES",Beatles - Come Together
 http://104.251.123.41/Come%20Together-The%20Beatles.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beatles - Don't Let Me Down
+#EXTINF:-1 group-title="VIDEOCLIPES",Beatles - Don't Let Me Down
 http://104.251.123.41/Don't%20Let%20Me%20Down-The%20Beatles.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beatles - Help!
+#EXTINF:-1 group-title="VIDEOCLIPES",Beatles - Help!
 http://104.251.123.41/Help-The%20Beatles%20live.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Beatles - Hey Jude
+#EXTINF:-1 group-title="VIDEOCLIPES",Beatles - Hey Jude
 http://drlingvo.com/wp-content/uploads/2015/12/The-Beatles-Hey-Jude-1.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Bee Gees - Jive Talking
+#EXTINF:-1 group-title="VIDEOCLIPES",Bee Gees - Jive Talking
 http://104.251.123.41/Jive%20Talkin-Bee%20Gees.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Bee Gees - Night Fever
+#EXTINF:-1 group-title="VIDEOCLIPES",Bee Gees - Night Fever
 http://104.251.123.41/Night%20Fever-BeeGees.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Bee Gees - Staying Alive
+#EXTINF:-1 group-title="VIDEOCLIPES",Bee Gees - Staying Alive
 https://www.refugesl.com/movies/+Bee%20Gees%20-%20Stayin%20Alive.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Berlin - Take My Breath Away
+#EXTINF:-1 group-title="VIDEOCLIPES",Berlin - Take My Breath Away
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Berlin%20:%20Take%20My%20Breath%20Away%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Billy Idol - Dancing With Myself
+#EXTINF:-1 group-title="VIDEOCLIPES",Billy Idol - Dancing With Myself
 http://104.251.123.41/Dancing%20With%20Myself-Billy%20Idol.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Black Box - Ride on Time
+#EXTINF:-1 group-title="VIDEOCLIPES",Black Box - Ride on Time
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1990%20-%20Black%20Box%20:%20Ride%20on%20Time%20(480x360).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Boney M - Daddy Cool
+#EXTINF:-1 group-title="VIDEOCLIPES",Boney M - Daddy Cool
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1976%20-%20Boney%20M%20:%20Daddy%20Cool%20(854x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Boney M - Ma Baker
+#EXTINF:-1 group-title="VIDEOCLIPES",Boney M - Ma Baker
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Boney%20M%20:%20Ma%20Baker%20(960x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Boney M - Rasputin
+#EXTINF:-1 group-title="VIDEOCLIPES",Boney M - Rasputin
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1978%20-%20Boney%20M%20:%20Rasputin%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Boney M - Rivers of Babylon
+#EXTINF:-1 group-title="VIDEOCLIPES",Boney M - Rivers of Babylon
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1978%20-%20Boney%20M%20:%20Rivers%20of%20Babylon%20(854x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Boney M - Sunny
+#EXTINF:-1 group-title="VIDEOCLIPES",Boney M - Sunny
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1976%20-%20Boney%20M%20:%20Sunny%20(960x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Bonnie Tyler - Holding Out for a Hero
+#EXTINF:-1 group-title="VIDEOCLIPES",Bonnie Tyler - Holding Out for a Hero
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Bonnie%20Tyler%20:%20Holding%20Out%20For%20A%20Hero%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Bonnie Tyler - Total Eclipse of the Heart
+#EXTINF:-1 group-title="VIDEOCLIPES",Bonnie Tyler - Total Eclipse of the Heart
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Bonnie%20Tyler%20:%20Total%20Eclipse%20Of%20The%20Heart%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Britney Spears - Toxic
+#EXTINF:-1 group-title="VIDEOCLIPES",Britney Spears - Toxic
 http://104.251.123.41/Toxic-Britney%20Spears.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Cat Stevens - Wild World
+#EXTINF:-1 group-title="VIDEOCLIPES",Cat Stevens - Wild World
 http://104.251.123.41/Wild%20World-Cat%20Stevens.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Chicago - If You Leave Me Now
+#EXTINF:-1 group-title="VIDEOCLIPES",Chicago - If You Leave Me Now
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Chicago%20:%20If%20you%20leave%20me%20now%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Chris de Burgh - Lady in Red
+#EXTINF:-1 group-title="VIDEOCLIPES",Chris de Burgh - Lady in Red
 https://www.refugesl.com/movies/+Chris%20De%20Burgh%2002%20-%20Lady%20In%20Red%201986.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Coolio - Gangstas Paradise
+#EXTINF:-1 group-title="VIDEOCLIPES",Coolio - Gangstas Paradise
 http://www.templier.eu/VIDEO-CLIPS/1995%20-%20Coolio%20:%20Gangsta's%20Paradise%20(654x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Crowded House - Don't Dream It's Over
+#EXTINF:-1 group-title="VIDEOCLIPES",Crowded House - Don't Dream It's Over
 http://104.251.123.41/Don't%20Dream%20It's%20Over-Crowded%20House.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Culture Club - Karma Chameleon
+#EXTINF:-1 group-title="VIDEOCLIPES",Culture Club - Karma Chameleon
 http://104.251.123.41/Karma%20Chamelion-Culture%20Club.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Cyndi Lauper - Girls Just Wanna Have Fun
+#EXTINF:-1 group-title="VIDEOCLIPES",Cyndi Lauper - Girls Just Wanna Have Fun
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Cyndi%20Lauper%20:%20Girls%20Just%20Want%20To%20Have%20Fun%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Cyndi Lauper - Time After Time
+#EXTINF:-1 group-title="VIDEOCLIPES",Cyndi Lauper - Time After Time
 http://104.251.123.41/Time%20After%20Time-Cyndi%20Lauper.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Daryl Hall & John Oates - Maneater
+#EXTINF:-1 group-title="VIDEOCLIPES",Daryl Hall & John Oates - Maneater
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Daryl%20Hall%20&%20John%20Oates%20:%20Maneater%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Desireless - Voyage Voyage
+#EXTINF:-1 group-title="VIDEOCLIPES",Desireless - Voyage Voyage
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Desireless%20:%20Voyage%20Voyage%20(960x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Dire Straits - Brothers in Arms
+#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Brothers in Arms
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20Brothers%20In%20Arms%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Dire Straits - Money for Nothing
+#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Money for Nothing
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20Money%20For%20Nothing%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Dire Straits - Romeo and Juliet
+#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Romeo and Juliet
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1980%20-%20Dire%20Straits%20:%20Romeo%20and%20Juliet%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Dire Straits - So Far Away
+#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - So Far Away
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20So%20Far%20Away%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Dire Straits - Sultans of Swing
+#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Sultans of Swing
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1978%20-%20Dire%20Straits%20:%20Sultans%20Of%20Swing%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Dire Straits - Tunnel of Love
+#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Tunnel of Love
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1980%20-%20Dire%20Straits%20:%20Tunnel%20of%20Love%20(640x480)%20-%20A.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Dire Straits - Walk of Life
+#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Walk of Life
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20Walk%20Of%20Life%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Dire Straits - Hotel California
+#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Hotel California
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1976%20-%20Eagles%20:%20Hotel%20California%20(730x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Don Omar - Danza Kuduro
+#EXTINF:-1 group-title="VIDEOCLIPES",Don Omar - Danza Kuduro
 http://104.251.123.41/Danza%20Kuduro-Don%20Omard.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Elton John - Candle in the Wind
+#EXTINF:-1 group-title="VIDEOCLIPES",Elton John - Candle in the Wind
 https://www.refugesl.com/movies/+Elton%20John%20-%20Candle%20In%20The%20Wind.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Elton John - Crocodile Rock
+#EXTINF:-1 group-title="VIDEOCLIPES",Elton John - Crocodile Rock
 https://www.refugesl.com/movies/+Elton%20John%20-%20Crocodile%20Rock%20(Greatest%20Hits%201970-2002).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Elton John - Don't Go Breaking My Heart
+#EXTINF:-1 group-title="VIDEOCLIPES",Elton John - Don't Go Breaking My Heart
 https://www.refugesl.com/movies/+Elton%20John%20-%20Don't%20Go%20Breaking%20My%20Heart%20-%20With%20Kiki%20Dee%20(Greatest%20Hits%201970-2002).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Elton John - Don't Let The Sun Go Down On Me
+#EXTINF:-1 group-title="VIDEOCLIPES",Elton John - Don't Let The Sun Go Down On Me
 https://www.refugesl.com/movies/+Elton%20John%20-%20Don't%20Let%20The%20Sun%20Go%20Down%20On%20Me.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Elton John - Goodbye Yellow Brick Road
+#EXTINF:-1 group-title="VIDEOCLIPES",Elton John - Goodbye Yellow Brick Road
 https://www.refugesl.com/movies/+Elton%20John%20-%20Muppet%20Show%20-%20Goodbye%20Yellow%20Brick%20Road.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Elton John - Nikita
+#EXTINF:-1 group-title="VIDEOCLIPES",Elton John - Nikita
 http://80s.lt/Files/Videos/MusicVideos/Elton%20John%20-%20Nikita.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Elton John - Pinball Wizard
+#EXTINF:-1 group-title="VIDEOCLIPES",Elton John - Pinball Wizard
 https://www.refugesl.com/movies/+Elton%20John%20-%20Pinball%20Wizard%20-%201975.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Elton John - Rocket Man
+#EXTINF:-1 group-title="VIDEOCLIPES",Elton John - Rocket Man
 https://www.refugesl.com/movies/+Elton%20John%20-%20Rocket%20Man%20(Royal%20Festival%20Hall,%20London%201972).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Eminem - Just Lose It
+#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - Just Lose It
 http://104.251.123.41/Just%20Lose%20It-Eminem.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Eminem - Like Toy Soldiers
+#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - Like Toy Soldiers
 http://www.templier.eu/VIDEO-CLIPS/2004%20-%20Eminem%20:%20Like%20Toy%20Soldiers%20(854x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Eminem - Lose Yourself
+#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - Lose Yourself
 http://www.templier.eu/VIDEO-CLIPS/2002%20-%20Eminem%20:%20Lose%20Yourself%20(1920x1080).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Eminem - My Name Is
+#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - My Name Is
 http://104.251.123.41/My%20Name%20Is-Emenem.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Eminem - Rap God
+#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - Rap God
 http://104.251.123.41/Rap%20God-Eminem.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Eminem - The Real Slim Shady
+#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - The Real Slim Shady
 http://www.templier.eu/VIDEO-CLIPS/2000%20-%20Eminem%20:%20The%20Real%20Slim%20Shady%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Eminem - Without Me
+#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - Without Me
 http://www.templier.eu/VIDEO-CLIPS/2002%20-%20Eminem%20:%20Without%20Me%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Europe - The Final Countdown
+#EXTINF:-1 group-title="VIDEOCLIPES",Europe - The Final Countdown
 http://www.templier.eu/VIDEO-CLIPS/1986%20-%20Europe%20:%20The%20Final%20Countdown%20(640x480.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Eurythmics - Sweet Dreams
+#EXTINF:-1 group-title="VIDEOCLIPES",Eurythmics - Sweet Dreams
 http://104.251.123.41/Sweet%20Dreams-Eurothmics.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Extreme - More Than Words
+#EXTINF:-1 group-title="VIDEOCLIPES",Extreme - More Than Words
 http://104.251.123.41/More%20Than%20Words-Extreme.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Faith No More - Epic
+#EXTINF:-1 group-title="VIDEOCLIPES",Faith No More - Epic
 http://104.251.123.41/Epic-Faith%20No%20More.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Falco - Rock Me Amadeus
+#EXTINF:-1 group-title="VIDEOCLIPES",Falco - Rock Me Amadeus
 http://104.251.123.41/Rock%20Me%20Amadeus-Falco.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Foreigner - I Want To Know What Love Is
+#EXTINF:-1 group-title="VIDEOCLIPES",Foreigner - I Want To Know What Love Is
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Foreigner%20:%20I%20Want%20To%20Know%20What%20Love%20Is%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Frank Sinatra - My Way
+#EXTINF:-1 group-title="VIDEOCLIPES",Frank Sinatra - My Way
 https://www.refugesl.com/movies/+My%20Way%2003%20-%20Frank%20Sinatra%20-%20Live%20At%20Madison%20Square%20Garden%201974.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Frankie Goes to Hollywood - Relax
+#EXTINF:-1 group-title="VIDEOCLIPES",Frankie Goes to Hollywood - Relax
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Frankie%20Goes%20To%20Hollywood%20:%20Relax%20(320x246).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Genesis - I Can't Dance
+#EXTINF:-1 group-title="VIDEOCLIPES",Genesis - I Can't Dance
 http://104.251.123.41/I%20Can't%20Dance-Genesis.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Genesis - Invisible Touch
+#EXTINF:-1 group-title="VIDEOCLIPES",Genesis - Invisible Touch
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Genesis%20:%20Invisible%20Touch%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Gorillaz - Clint Eastwood
+#EXTINF:-1 group-title="VIDEOCLIPES",Gorillaz - Clint Eastwood
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%202000/2001%20-%20Gorillaz%20:%20Clint%20Eastwood%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Grease - You're The One That I Want
+#EXTINF:-1 group-title="VIDEOCLIPES",Grease - You're The One That I Want
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Grease%20:%20You're%20the%20one%20that%20I%20want%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Green Day - American Idiot
+#EXTINF:-1 group-title="VIDEOCLIPES",Green Day - American Idiot
 http://104.251.123.41/American%20Idiot-Green%20Day.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Green Day - Basket Case
+#EXTINF:-1 group-title="VIDEOCLIPES",Green Day - Basket Case
 http://104.251.123.41/Basket%20Case-Green%20Day.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Green Day - Holiday
+#EXTINF:-1 group-title="VIDEOCLIPES",Green Day - Holiday
 http://104.251.123.41/Holiday-Green%20Day.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Green Day - Jesus of Suburbia
+#EXTINF:-1 group-title="VIDEOCLIPES",Green Day - Jesus of Suburbia
 http://104.251.123.41/Jesus%20Of%20Suburbia-Green%20Day.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Guns'n Roses - November Rain
+#EXTINF:-1 group-title="VIDEOCLIPES",Guns'n Roses - November Rain
 http://104.251.123.41/November%20Rain-Guns%20N%20Roses.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Guns'n Roses - Paradise City
+#EXTINF:-1 group-title="VIDEOCLIPES",Guns'n Roses - Paradise City
 http://104.251.123.41/Paradise%20City-Guns%20&%20Roses.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Guns'n Roses - Sweet Child O'Mine
+#EXTINF:-1 group-title="VIDEOCLIPES",Guns'n Roses - Sweet Child O'Mine
 http://104.251.123.41/Sweet%20Child%20O%20Mine-Guns%20N%20Roses.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Guns'n Roses - Welcome to the Jungle
+#EXTINF:-1 group-title="VIDEOCLIPES",Guns'n Roses - Welcome to the Jungle
 http://104.251.123.41/Welcome%20To%20The%20Jungle-Guns%20And%20Roses.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Haddaway - What is Love
+#EXTINF:-1 group-title="VIDEOCLIPES",Haddaway - What is Love
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1993%20-%20Haddaway%20:%20What%20Is%20Love%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Irene Cara - What a Feeling
+#EXTINF:-1 group-title="VIDEOCLIPES",Irene Cara - What a Feeling
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Irene%20cara%20:%20What%20A%20Feeling%20II%20(1280x718).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Israel Kamakawiwo'ole - Somewhere Over The Rainbow
+#EXTINF:-1 group-title="VIDEOCLIPES",Israel Kamakawiwo'ole - Somewhere Over The Rainbow
 https://www.refugesl.com/movies/+Somewhere%20Over%20The%20Rainbow%2006%20-%20Israel%20IZ%20Kamakawiwo%ca%bbole.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Jason Mraz - I'm Yours
+#EXTINF:-1 group-title="VIDEOCLIPES",Jason Mraz - I'm Yours
 http://104.251.123.41/I'm%20Yours-Jason%20Mraz.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Jerry Lee Lewis - Great Balls Of Fire
+#EXTINF:-1 group-title="VIDEOCLIPES",Jerry Lee Lewis - Great Balls Of Fire
 http://104.251.123.41/Great%20Balls%20Of%20Fire-Jerry%20Lee%20Lewis.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Jerry Lee Lewis - Whole Lotta Shakin' Going On
+#EXTINF:-1 group-title="VIDEOCLIPES",Jerry Lee Lewis - Whole Lotta Shakin' Going On
 https://www.refugesl.com/movies/+Rock%20n'%20Roll%20-%20Jerry%20Lee%20Lewis%20-%20Whole%20Lotta%20Shakin%20Going%20On%201964.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Joan Jett - I Love Rock'n'Roll
+#EXTINF:-1 group-title="VIDEOCLIPES",Joan Jett - I Love Rock'n'Roll
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1981%20-%20Joan%20Jett%20:%20I%20Love%20Rock%20'N%20Roll%20(960x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Joe Cocker - Up Where We Belong
+#EXTINF:-1 group-title="VIDEOCLIPES",Joe Cocker - Up Where We Belong
 https://www.refugesl.com/movies/+Joe%20Cocker%20-%20Up%20Where%20We%20Belong%2001%20-%20With%20Jennifer%20Warnes.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Joe Cocker - With a Little Help from My Friends
+#EXTINF:-1 group-title="VIDEOCLIPES",Joe Cocker - With a Little Help from My Friends
 http://104.251.123.41/With%20A%20Little%20Help%20From%20My%20Friends-Joe%20Cocker.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Joe Cocker - You Are So Beautiful
+#EXTINF:-1 group-title="VIDEOCLIPES",Joe Cocker - You Are So Beautiful
 https://www.refugesl.com/movies/+Joe%20Cocker%20-%20You%20Are%20So%20Beautiful%2001.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Joe Cocker - You Can Leave Your Hat On
+#EXTINF:-1 group-title="VIDEOCLIPES",Joe Cocker - You Can Leave Your Hat On
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Joe%20Cocker%20:%20You%20Can%20Leave%20Your%20Hat%20On%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",John Lennon - Imagine
+#EXTINF:-1 group-title="VIDEOCLIPES",John Lennon - Imagine
 http://104.251.123.41/Imagine-John%20Lennon.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Katy Perry - California Gurls
+#EXTINF:-1 group-title="VIDEOCLIPES",Katy Perry - California Gurls
 http://104.251.123.41/California%20Gurls-Katy%20Perry.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Katy Perry - Firework
+#EXTINF:-1 group-title="VIDEOCLIPES",Katy Perry - Firework
 http://104.251.123.41/Firework-Katy%20Perry.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Katy Perry - I Kissed a Girl
+#EXTINF:-1 group-title="VIDEOCLIPES",Katy Perry - I Kissed a Girl
 http://104.251.123.41/I%20Kissed%20A%20Girl-Katy%20Perry.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Kenny Loggins - Danger Zone
+#EXTINF:-1 group-title="VIDEOCLIPES",Kenny Loggins - Danger Zone
 http://104.251.123.41/Danger%20Zone-Kenny%20Loggins.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Kenny Loggins - Footloose
+#EXTINF:-1 group-title="VIDEOCLIPES",Kenny Loggins - Footloose
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Kenny%20Loggins%20:%20Footloose%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Kim Carnes - Bette Davis Eyes
+#EXTINF:-1 group-title="VIDEOCLIPES",Kim Carnes - Bette Davis Eyes
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1981%20-%20Kim%20Carnes%20:%20Bette%20Davis%20Eyes%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",KISS - I was made for Loving You
+#EXTINF:-1 group-title="VIDEOCLIPES",KISS - I was made for Loving You
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1979%20-%20Kiss%20:%20I%20Was%20Made%20For%20Lovin'%20You%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Lady Gaga - Bad Romance
+#EXTINF:-1 group-title="VIDEOCLIPES",Lady Gaga - Bad Romance
 http://104.251.123.41/Bad%20Romance-Lady%20Gaga.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Lipps Inc - Funkytown
+#EXTINF:-1 group-title="VIDEOCLIPES",Lipps Inc - Funkytown
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1979%20-%20Lipps%20Inc%20:%20Funkytown%20(720x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Lou Bega - Mambo no. 5
+#EXTINF:-1 group-title="VIDEOCLIPES",Lou Bega - Mambo no. 5
 http://104.251.123.41/Mambo%20No%205-Lou%20Bega.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Maroon 5 - Moves Like Jagger
+#EXTINF:-1 group-title="VIDEOCLIPES",Maroon 5 - Moves Like Jagger
 http://104.251.123.41/Moves%20Like%20Jagger-Maroon%205.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",MC Hammer - You Can't Touch This
+#EXTINF:-1 group-title="VIDEOCLIPES",MC Hammer - You Can't Touch This
 http://104.251.123.41/You%20Can't%20Touch%20This-MC%20Hammer.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Meghan Trainor - All About That Bass
+#EXTINF:-1 group-title="VIDEOCLIPES",Meghan Trainor - All About That Bass
 http://104.251.123.41/All%20About%20That%20Bass-Meghan%20Trainor.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Men At Work - Down Under
+#EXTINF:-1 group-title="VIDEOCLIPES",Men At Work - Down Under
 http://104.251.123.41/Down%20Under-Men%20At%20Work.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Men At Work - Who Can It Be Now
+#EXTINF:-1 group-title="VIDEOCLIPES",Men At Work - Who Can It Be Now
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1981%20-%20Men%20At%20Work%20:%20Who%20Can%20It%20Be%20Now%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Metallica - Nothing Else Matters
+#EXTINF:-1 group-title="VIDEOCLIPES",Metallica - Nothing Else Matters
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1991%20-%20Metallica%20:%20Nothing%20Else%20Matters%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Metallica - Whiskey In The Jar
+#EXTINF:-1 group-title="VIDEOCLIPES",Metallica - Whiskey In The Jar
 http://dl2.onixia.xyz/Music%20Videos/Metallica-65877/Metallica%20-%20Whiskey%20In%20The%20Jar%20%28Official%20Music%20Video%29%20%5BHD%5D.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Michael Jackson - Beat It
+#EXTINF:-1 group-title="VIDEOCLIPES",Michael Jackson - Beat It
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Michael%20Jackson%20:%20Beat%20It%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Michael Jackson - Billie Jean
+#EXTINF:-1 group-title="VIDEOCLIPES",Michael Jackson - Billie Jean
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Michael%20Jackson%20:%20Billie%20Jean%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Michael Jackson - Rock With You
+#EXTINF:-1 group-title="VIDEOCLIPES",Michael Jackson - Rock With You
 http://104.251.123.41/Rock%20With%20You-Michael%20Jackson.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Michael Jackson - The Way You Make Me Feel
+#EXTINF:-1 group-title="VIDEOCLIPES",Michael Jackson - The Way You Make Me Feel
 http://104.251.123.41/The%20Way%20You%20Make%20Me%20Feel-Michael%20Jackson.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Michael Jackson - Thriller
+#EXTINF:-1 group-title="VIDEOCLIPES",Michael Jackson - Thriller
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Thriller%20:%20Michael%20Jackson%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Midnight Oil - Beds Are Burning
+#EXTINF:-1 group-title="VIDEOCLIPES",Midnight Oil - Beds Are Burning
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1987%20-%20Midnight%20Oil%20:%20Beds%20Are%20Burning%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Miley Cyrus - Wrecking Ball
+#EXTINF:-1 group-title="VIDEOCLIPES",Miley Cyrus - Wrecking Ball
 http://104.251.123.41/Wrecking%20Ball-Miley%20Cyrus.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Modern Talking - Brother Louie
+#EXTINF:-1 group-title="VIDEOCLIPES",Modern Talking - Brother Louie
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Modern%20Talking%20:%20Brother%20Louie%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Natalie Imbruglia - Torn
+#EXTINF:-1 group-title="VIDEOCLIPES",Natalie Imbruglia - Torn
 http://104.251.123.41/Torn-Natalie%20Imbruglia.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",New Order - Bizarre Love Triangle
+#EXTINF:-1 group-title="VIDEOCLIPES",New Order - Bizarre Love Triangle
 http://104.251.123.41/Bizarre%20Love%20Triangle-New%20Order.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Nirvana - Come as you Are
+#EXTINF:-1 group-title="VIDEOCLIPES",Nirvana - Come as you Are
 http://104.251.123.41/Come%20As%20You%20Are-Nirvana.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Nirvana - Smells Like Teen Spirit
+#EXTINF:-1 group-title="VIDEOCLIPES",Nirvana - Smells Like Teen Spirit
 http://104.251.123.41/Smells%20Like%20Teen%20Spirit-Nirvana.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",NWA - Express Yourself
+#EXTINF:-1 group-title="VIDEOCLIPES",NWA - Express Yourself
 http://104.251.123.41/Express%20Yourself-NWA.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Pet Shop Boys - Always on my Mind
+#EXTINF:-1 group-title="VIDEOCLIPES",Pet Shop Boys - Always on my Mind
 http://104.251.123.41/Always%20On%20My%20Mind-The%20Pet%20Shop%20Boys.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Pet Shop Boys - Domino Dancing
+#EXTINF:-1 group-title="VIDEOCLIPES",Pet Shop Boys - Domino Dancing
 http://104.251.123.41/Domino%20Dancing-Pet%20Shop%20Boys.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Pet Shop Boys - West End Girls
+#EXTINF:-1 group-title="VIDEOCLIPES",Pet Shop Boys - West End Girls
 http://104.251.123.41/West%20End%20Girls-Pet%20Shop%20Girls.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Peter Gabriel - Sledgehammer
+#EXTINF:-1 group-title="VIDEOCLIPES",Peter Gabriel - Sledgehammer
 http://104.251.123.41/Sledgehammer-Peter%20Gabriel.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Pharrell Williams - Happy
+#EXTINF:-1 group-title="VIDEOCLIPES",Pharrell Williams - Happy
 http://104.251.123.41/Happy-Pherrel.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Phil Collins - Another Day in Paradise
+#EXTINF:-1 group-title="VIDEOCLIPES",Phil Collins - Another Day in Paradise
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1989%20-%20Phil%20Collins%20:%20Another%20Day%20In%20Paradise%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Pink Floyd - Another Brick in the Wall (A)
+#EXTINF:-1 group-title="VIDEOCLIPES",Pink Floyd - Another Brick in the Wall (A)
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1979%20-%20Pink%20Floyd%20:%20Another%20Brick%20In%20The%20Wall%20(1280x720)%20-%20A.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Pink Floyd - Another Brick in the Wall (B)
+#EXTINF:-1 group-title="VIDEOCLIPES",Pink Floyd - Another Brick in the Wall (B)
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1979%20-%20Pink%20Floyd%20:%20Another%20Brick%20In%20The%20Wall%20(480x360)%20-%20B.mp4.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Prince - Purple Rain
+#EXTINF:-1 group-title="VIDEOCLIPES",Prince - Purple Rain
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Prince%20:%20Purple%20Rain%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",PSY - Gangnam Style
+#EXTINF:-1 group-title="VIDEOCLIPES",PSY - Gangnam Style
 http://104.251.123.41/Gangham%20Style-PSY.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - A Kind Of Magic
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - A Kind Of Magic
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Queen%20:%20A%20Kind%20Of%20Magic%20(480x360).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - Another One Bites The Dust
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Another One Bites The Dust
 http://104.251.123.41/Another%20One%20Bites%20The%20Dust-Queen.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - Bohemian Rhapsody
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Bohemian Rhapsody
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1975%20-%20Queen%20:%20Bohemian%20Rhapsody%20(480x360).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - Breakthru
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Breakthru
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1989%20-%20Queen%20:%20Breakthru%20(480x360).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - Crazy Little Thing Called Love
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Crazy Little Thing Called Love
 http://104.251.123.41/Crazy%20Little%20Thing%20Called%20Love-Queen.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - Don't Stop Me Now
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Don't Stop Me Now
 http://104.251.123.41/Dont%20Stop%20Me%20Now-Queen.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - Fat Bottomed Girls
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Fat Bottomed Girls
 http://104.251.123.41/Fat%20Bottomed%20Girls-Queen.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - I Want It All
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - I Want It All
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1989%20-%20Queen%20:%20I%20Want%20It%20All%20(480x360).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - I Want to Break Free
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - I Want to Break Free
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Queen%20:%20I%20Want%20To%20Break%20Free%20(640x360).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - Killer Queen
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Killer Queen
 http://104.251.123.41/Killer%20Queen-Queen.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - Radio Gaga
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Radio Gaga
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Queen%20:%20Radio%20Ga%20Ga%20(480x360).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - The Show Must Go On
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - The Show Must Go On
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1991%20-%20Queen%20:%20The%20Show%20Must%20Go%20On%20(1280x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - Under Pressure
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Under Pressure
 http://104.251.123.41/Under%20Pressure-Queen%20and%20Bowie.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - We Are The Champions
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - We Are The Champions
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Queen%20:%20We%20Are%20The%20Champions%20(480x360).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - We Will Rock You
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - We Will Rock You
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Queen%20:%20We%20Will%20Rock%20You%20(480x360).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Queen - Who Wants to Live Forever
+#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Who Wants to Live Forever
 http://104.251.123.41/Who%20Wants%20To%20Live%20Forever-Queen.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Ramones - I Wanna Be Sedated
+#EXTINF:-1 group-title="VIDEOCLIPES",Ramones - I Wanna Be Sedated
 http://104.251.123.41/I%20Wanna%20Be%20Sedated-The%20Ramones.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Ray Parker Jr - Ghostbusters
+#EXTINF:-1 group-title="VIDEOCLIPES",Ray Parker Jr - Ghostbusters
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Ray%20Parker%20Jr%20:%20%20Ghostbusters%20(854x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Californication
+#EXTINF:-1 group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Californication
 http://104.251.123.41/Californication-Red%20Hot%20Chili%20Peppers.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Otherside
+#EXTINF:-1 group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Otherside
 http://104.251.123.41/Otherside-Red%20Hot%20Chili%20Peppers.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Scar Tissue
+#EXTINF:-1 group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Scar Tissue
 http://104.251.123.41/Scar%20Tissue-Red%20Hot%20Chili%20Peppers.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Under The Bridge
+#EXTINF:-1 group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Under The Bridge
 http://104.251.123.41/Under%20The%20Bridge-Red%20Hot%20Chili%20Peppers.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",REM - Everybody Hurts
+#EXTINF:-1 group-title="VIDEOCLIPES",REM - Everybody Hurts
 http://104.251.123.41/Everybody%20Hurts-REM.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",REM - Losing My Religion
+#EXTINF:-1 group-title="VIDEOCLIPES",REM - Losing My Religion
 http://104.251.123.41/Losing%20My%20Religion-REM.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",REM - Shiny Happy People
+#EXTINF:-1 group-title="VIDEOCLIPES",REM - Shiny Happy People
 http://104.251.123.41/Shiny%20Happy%20People-REM.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Ritchie Valens - Donna
+#EXTINF:-1 group-title="VIDEOCLIPES",Ritchie Valens - Donna
 https://www.refugesl.com/movies/+Ritchie%20Valens%20-%20Donna.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Rolling Stones - Satisfaction
+#EXTINF:-1 group-title="VIDEOCLIPES",Rolling Stones - Satisfaction
 http://104.251.123.41/I%20Cant%20Get%20No%20Satisfaction-The%20Rolling%20Stones.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Rolling Stones - Start Me Up
+#EXTINF:-1 group-title="VIDEOCLIPES",Rolling Stones - Start Me Up
 http://104.251.123.41/Start%20Me%20Up-The%20Rolling%20Stones.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Run DMC - Walk This Way
+#EXTINF:-1 group-title="VIDEOCLIPES",Run DMC - Walk This Way
 http://104.251.123.41/Walk%20This%20Way-Run%20DMC.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Rush - Tom Sawyer
+#EXTINF:-1 group-title="VIDEOCLIPES",Rush - Tom Sawyer
 http://104.251.123.41/Tom%20Sawyer-Rush.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Sabrina - Boys
+#EXTINF:-1 group-title="VIDEOCLIPES",Sabrina - Boys
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1987%20-%20Sabrina%20:%20Boys%20(600x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Scorpions - Rock You Like a Hurricane
+#EXTINF:-1 group-title="VIDEOCLIPES",Scorpions - Rock You Like a Hurricane
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1984%20-%20Scorpions%20:%20Rock%20You%20Like%20A%20Hurricane%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Scorpions - Still Loving You
+#EXTINF:-1 group-title="VIDEOCLIPES",Scorpions - Still Loving You
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1984%20-%20Scorpions%20:%20Still%20Loving%20You%20(480x360).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Scorpions - Wind of Change
+#EXTINF:-1 group-title="VIDEOCLIPES",Scorpions - Wind of Change
 http://www.templier.eu/VIDEO-CLIPS/1990%20-%20Scorpions%20:%20Wind%20Of%20Change%20(854x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Shaggy - Boombastic
+#EXTINF:-1 group-title="VIDEOCLIPES",Shaggy - Boombastic
 http://104.251.123.41/Boombastic-Shaggy.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Simon and Garfunkel - Bridge Over Troubled Water
+#EXTINF:-1 group-title="VIDEOCLIPES",Simon and Garfunkel - Bridge Over Troubled Water
 https://www.refugesl.com/movies/+Simon%20And%20Garfunkel%20-%20Bridge%20Over%20Troubled%20Water%2003.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Simon and Garfunkel - El Condor Pasa
+#EXTINF:-1 group-title="VIDEOCLIPES",Simon and Garfunkel - El Condor Pasa
 https://www.refugesl.com/movies/+Simon%20And%20Garfunkel%20-%20El%20Condor%20Pasa.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Simon and Garfunkel - Mrs. Robinson
+#EXTINF:-1 group-title="VIDEOCLIPES",Simon and Garfunkel - Mrs. Robinson
 https://www.refugesl.com/movies/+Simon%20And%20Garfunkel%20-%20Mrs.%20Robinson%2001.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Simon and Garfunkel - The Sound of Silence
+#EXTINF:-1 group-title="VIDEOCLIPES",Simon and Garfunkel - The Sound of Silence
 https://www.refugesl.com/movies/+Simon%20And%20Garfunkel%20-%20The%20Sound%20Of%20Silence%2001.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Simon and Garfunkel - Wake Up Little Suzie
+#EXTINF:-1 group-title="VIDEOCLIPES",Simon and Garfunkel - Wake Up Little Suzie
 https://www.refugesl.com/movies/+Simon%20And%20Garfunkel%20-%20Wake%20Up%20Little%20Suzie.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Survivor - Eye of The Tiger
+#EXTINF:-1 group-title="VIDEOCLIPES",Survivor - Eye of The Tiger
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Survivor%20:%20Eye%20Of%20The%20Tiger%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Tears for Fears - Everybody Wants To Rule The World
+#EXTINF:-1 group-title="VIDEOCLIPES",Tears for Fears - Everybody Wants To Rule The World
 http://104.251.123.41/Everybody%20Wants%20To%20Rule%20The%20World-Tears%20For%20Fears.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Tears for Fears - Shout
+#EXTINF:-1 group-title="VIDEOCLIPES",Tears for Fears - Shout
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Tears%20For%20Fears%20:%20Shout%20(854x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Animals - The House of the Rising Sun
+#EXTINF:-1 group-title="VIDEOCLIPES",The Animals - The House of the Rising Sun
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201960/1964%20-%20The%20Animals%20:%20The%20House%20Of%20The%20Rising%20Sun%20(640x360).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Black Eyed Peas - I Gotta Feeling
+#EXTINF:-1 group-title="VIDEOCLIPES",The Black Eyed Peas - I Gotta Feeling
 http://104.251.123.41/I%20Gotta%20Feeling-The%20Black%20Eyed%20Peas.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Black Eyed Peas - My Humps
+#EXTINF:-1 group-title="VIDEOCLIPES",The Black Eyed Peas - My Humps
 http://104.251.123.41/My%20Humps-Black%20Eyed%20Peas.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Cars - Drive
+#EXTINF:-1 group-title="VIDEOCLIPES",The Cars - Drive
 http://104.251.123.41/Drive-The%20Cars.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Mamas and The Papas - California Dreamin
+#EXTINF:-1 group-title="VIDEOCLIPES",The Mamas and The Papas - California Dreamin
 http://104.251.123.41/California%20Dreamin-Mamas%20&%20The%20Papas.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Platters - Only You
+#EXTINF:-1 group-title="VIDEOCLIPES",The Platters - Only You
 https://www.refugesl.com/movies/+The%20Platters%20-%20Only%20You%201955.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Platters - Smoke Gets In Your Eyes
+#EXTINF:-1 group-title="VIDEOCLIPES",The Platters - Smoke Gets In Your Eyes
 https://www.refugesl.com/movies/+The%20Platters%20-%20Smoke%20Gets%20In%20Your%20Eyes.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Platters - The Great Pretender
+#EXTINF:-1 group-title="VIDEOCLIPES",The Platters - The Great Pretender
 https://www.refugesl.com/movies/+The%20Platters%20-%20The%20Great%20Pretender%20-%20Original%20Footage.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Police - Every Breath You Take
+#EXTINF:-1 group-title="VIDEOCLIPES",The Police - Every Breath You Take
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20The%20Police%20:%20Every%20Breath%20You%20Take%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Verver Pipe - Bittersweet Symphony
+#EXTINF:-1 group-title="VIDEOCLIPES",The Verver Pipe - Bittersweet Symphony
 http://104.251.123.41/Bittersweet%20Symphony-The%20Verve%20Pipe.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Who - Baba O'Rilley
+#EXTINF:-1 group-title="VIDEOCLIPES",The Who - Baba O'Rilley
 http://104.251.123.41/Baba%20OReilly-The%20Who.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",The Who - Who Are You
+#EXTINF:-1 group-title="VIDEOCLIPES",The Who - Who Are You
 http://104.251.123.41/Who%20Are%20You-The%20Who.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Tina Turner - We Don't Need Another Hero
+#EXTINF:-1 group-title="VIDEOCLIPES",Tina Turner - We Don't Need Another Hero
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Tina%20Turner%20:%20We%20Don't%20Need%20Another%20Hero%20(960x720).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Traci Chapman - Fast Car
+#EXTINF:-1 group-title="VIDEOCLIPES",Traci Chapman - Fast Car
 http://104.251.123.41/Fast%20Car-Traci%20Chapman.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Twisted Sisters - We're Not Gonna Take It
+#EXTINF:-1 group-title="VIDEOCLIPES",Twisted Sisters - We're Not Gonna Take It
 http://104.251.123.41/Were%20Not%20Gonna%20Take%20It-Twisted%20Sister.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Usher - Yeah!
+#EXTINF:-1 group-title="VIDEOCLIPES",Usher - Yeah!
 http://www.templier.eu/VIDEO-CLIPS/2004%20-%20Usher%20:%20Yeah!%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Van Halen - Jump
+#EXTINF:-1 group-title="VIDEOCLIPES",Van Halen - Jump
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1980%20-%20Van%20Halen%20:%20Jump%20(640x480).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Weird Al Yankovich - Amish Paradise
+#EXTINF:-1 group-title="VIDEOCLIPES",Weird Al Yankovich - Amish Paradise
 http://104.251.123.41/Amish%20Paradise-Weird%20Al%20Yankovich.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Weird Al Yankovich - Smells Like Nirvana
+#EXTINF:-1 group-title="VIDEOCLIPES",Weird Al Yankovich - Smells Like Nirvana
 http://104.251.123.41/Smells%20Like%20Nirvana-Weird%20Al%20Yankovic.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Willie Nelson - Always On My Mind
+#EXTINF:-1 group-title="VIDEOCLIPES",Willie Nelson - Always On My Mind
 https://www.refugesl.com/movies/+Willie%20Nelson%20-%20Always%20On%20My%20Mind%20(Official%20Music%20Video).mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",Willie Nelson - On The Road Again
+#EXTINF:-1 group-title="VIDEOCLIPES",Willie Nelson - On The Road Again
 https://www.refugesl.com/movies/+Willie%20Nelson%20-%20On%20The%20Road%20Again.mp4
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvvideoclipes" group-title="VIDEOCLIPES",YES - Owner of a Lonely Heart
+#EXTINF:-1 group-title="VIDEOCLIPES",YES - Owner of a Lonely Heart
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Yes%20:%20Owner%20of%20a%20Lonely%20Heart%20(1920x1080).mp4
 
 ####################
 ###### RADIOS ######
 ####################
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Anos 60
+#EXTINF:-1 group-title="RADIOS",Anos 60
 https://radios.rtbf.be/wr-c21-60-128.mp3
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Anos 70
+#EXTINF:-1 group-title="RADIOS",Anos 70
 http://uplink.duplexfx.com:8066/
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Anos 80
+#EXTINF:-1 group-title="RADIOS",Anos 80
 http://hestia2.cdnstream.com:80/1069_64
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Anos 80 [2]
+#EXTINF:-1 group-title="RADIOS",Anos 80 [2]
 http://mp3channels.webradio.de:80/80er-kulthits
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Anos 80 [3]
+#EXTINF:-1 group-title="RADIOS",Anos 80 [3]
 http://uplink.duplexfx.com:8000/
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Anos 90
+#EXTINF:-1 group-title="RADIOS",Anos 90
 http://mp3channels.webradio.de:80/90er-hits
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Anos 90 [2]
+#EXTINF:-1 group-title="RADIOS",Anos 90 [2]
 http://uplink.duplexfx.com:8012/
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Anos 2000
+#EXTINF:-1 group-title="RADIOS",Anos 2000
 http://6d9a.webradio.upx.net.br:9940/stream
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Beatles
+#EXTINF:-1 group-title="RADIOS",Beatles
 http://uplink.duplexfx.com:8062/
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Beethoven
+#EXTINF:-1 group-title="RADIOS",Beethoven
 http://stream.klassikradio.de/beethoven/mp3-128/www.klassikradio.de/
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Big Mix
+#EXTINF:-1 group-title="RADIOS",Big Mix
 https://servidor39-1.brlogic.com:8130/live
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Bossa Nova
+#EXTINF:-1 group-title="RADIOS",Bossa Nova
 http://6d9a.webradio.upx.net.br:9974/stream?
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Classic Rock
+#EXTINF:-1 group-title="RADIOS",Classic Rock
 http://hestia2.cdnstream.com:80/1074_128
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Festa
+#EXTINF:-1 group-title="RADIOS",Festa
 http://6d9a.webradio.upx.net.br:9070/stream
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Folk Music
+#EXTINF:-1 group-title="RADIOS",Folk Music
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Funk
+#EXTINF:-1 group-title="RADIOS",Funk
 https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Hard Rock
+#EXTINF:-1 group-title="RADIOS",Hard Rock
 http://hestia2.cdnstream.com:80/1075_64
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Heavy Metal
+#EXTINF:-1 group-title="RADIOS",Heavy Metal
 http://6d9a.webradio.upx.net.br:9898/stream
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Hip Hop
+#EXTINF:-1 group-title="RADIOS",Hip Hop
 http://uplink.duplexfx.com:8068/
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Lounge
+#EXTINF:-1 group-title="RADIOS",Lounge
 http://6d9a.webradio.upx.net.br:9064/stream?
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Mozart
+#EXTINF:-1 group-title="RADIOS",Mozart
 http://stream.klassikradio.de/mozart/mp3-128/www.klassikradio.de/
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",MPB
+#EXTINF:-1 group-title="RADIOS",MPB
 https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Musica Classica
+#EXTINF:-1 group-title="RADIOS",Musica Classica
 http://6d9a.webradio.upx.net.br:9970/stream
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",New Rock
+#EXTINF:-1 group-title="RADIOS",New Rock
 http://6d9a.webradio.upx.net.br:8028/stream
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Oldies but Goldies
+#EXTINF:-1 group-title="RADIOS",Oldies but Goldies
 http://mp3channels.webradio.de:80/oldies-but-goldies
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Pagode
+#EXTINF:-1 group-title="RADIOS",Pagode
 http://6d9a.webradio.upx.net.br:9061/stream
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Pagode [2]
+#EXTINF:-1 group-title="RADIOS",Pagode [2]
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Pop Hits
+#EXTINF:-1 group-title="RADIOS",Pop Hits
 http://6d9a.webradio.upx.net.br:9046/stream
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Pop Rock
+#EXTINF:-1 group-title="RADIOS",Pop Rock
 http://6d9a.webradio.upx.net.br:8016/stream
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Punk Rock
+#EXTINF:-1 group-title="RADIOS",Punk Rock
 http://mp3channels.webradio.de:80/punkrock
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Reggae
+#EXTINF:-1 group-title="RADIOS",Reggae
 https://radios.rtbf.be/wr-eventradio-128.mp3
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Rock
+#EXTINF:-1 group-title="RADIOS",Rock
 https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Romanticas
+#EXTINF:-1 group-title="RADIOS",Romanticas
 https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Sertanejo Hits
+#EXTINF:-1 group-title="RADIOS",Sertanejo Hits
 https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Trilhas Sonoras
+#EXTINF:-1 group-title="RADIOS",Trilhas Sonoras
 http://6d9a.webradio.upx.net.br:9896/stream
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvradios" group-title="RADIOS",Vibe
+#EXTINF:-1 group-title="RADIOS",Vibe
 https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
