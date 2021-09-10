@@ -81,6 +81,9 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 #EXTINF:-1,Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 
+#EXTINF:-1,Boomerang
+http://168.205.87.198:8555/live/123456/123456/22.m3u8
+
 #EXTINF:-1,Bora Filmes
 http://191.37.223.133:8000/play/a024/index.m3u8
 
@@ -110,6 +113,9 @@ https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
 
 #EXTINF:-1,Cancao Nova
 http://45.182.225.67:8000/play/a018/index.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://168.205.87.198:8555/live/123456/123456/26.m3u8
 
 #EXTINF:-1,Casa e Cozinha
 http://185.236.229.21:9981/play/a060
@@ -204,6 +210,15 @@ https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1,Discovery Channel
 http://185.236.229.21:9981/play/a05a
 
+#EXTINF:-1,Disney Channel
+http://168.205.87.198:8555/live/123456/123456/45.m3u8
+
+#EXTINF:-1,Disney Junior
+http://168.205.87.198:8555/live/123456/123456/46.m3u8
+
+#EXTINF:-1,Disney XD
+http://168.205.87.198:8555/live/123456/123456/47.m3u8
+
 #EXTINF:-1,E!
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
 
@@ -213,8 +228,20 @@ https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w902531234.m3u8
 #EXTINF:-1,Entretendo
 http://191.37.223.133:8000/play/a026/index.m3u8
 
+#EXTINF:-1,ESPN
+http://168.205.87.198:8555/live/123456/123456/60.m3u8
+
+#EXTINF:-1,ESPN 2
+http://168.205.87.198:8555/live/123456/123456/49.m3u8
+
 #EXTINF:-1,ESPN Brasil
+http://168.205.87.198:8555/live/123456/123456/50.m3u8
+
+#EXTINF:-1,ESPN Brasil [Opcao 2]
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+
+#EXTINF:-1,ESPN Extra
+http://168.205.87.198:8555/live/123456/123456/51.m3u8
 
 #EXTINF:-1,Estadio TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -267,8 +294,17 @@ http://185.236.229.21:9981/play/a039
 #EXTINF:-1,FOX Sports
 https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?pbs=23fc816fa98d4dc0bd802e1154fc5b15
 
+#EXTINF:-1,Fox Sports [Opcao 2]
+http://168.205.87.198:8555/live/123456/123456/65.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://168.205.87.198:8555/live/123456/123456/66.m3u8
+
 #EXTINF:-1,Fuel TV
 http://185.236.229.21:9981/play/a05c
+
+#EXTINF:-1,FX
+http://168.205.87.198:8555/live/123456/123456/68.m3u8
 
 #EXTINF:-1,Futura
 http://191.37.223.132:8000/play/a00b/index.m3u8
@@ -335,6 +371,9 @@ http://200.71.72.50/HBO_SIGNATURE/mpegts
 
 #EXTINF:-1,Hello TV
 http://191.37.223.133:8000/play/a022/index.m3u8
+
+#EXTINF:-1,HGTV
+http://168.205.87.198:8555/live/123456/123456/71.m3u8
 
 #EXTINF:-1,History
 http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3u8
@@ -413,6 +452,9 @@ http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Naruto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1,Nat Geo
+http://168.205.87.198:8555/live/123456/123456/78.m3u8
 
 #EXTINF:-1,National Geographic Wild
 http://185.236.229.21:9981/play/a06f
@@ -639,6 +681,9 @@ http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3
 #EXTINF:-1,South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1,Space
+http://168.205.87.198:8555/live/123456/123456/110.m3u8
+
 #EXTINF:-1,Sport*TV 1
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
 
@@ -675,6 +720,9 @@ http://185.236.229.21:9981/play/a04j
 #EXTINF:-1,Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,TCM
+http://168.205.87.198:8555/live/123456/123456/112.m3u8
+
 #EXTINF:-1,Teleweb TV
 https://video02.kshost.com.br/acessweb7837/acessweb7837/chunklist_w2069879305.m3u8
 
@@ -688,7 +736,13 @@ https://the-pet-collective-international-br.samsung.wurl.com/manifest/playlist.m
 http://185.236.229.21:9981/play/a038
 
 #EXTINF:-1,TNT
+http://168.205.87.198:8555/live/123456/123456/116.m3u8
+
+#EXTINF:-1,TNT [Opcao 2]
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+
+#EXTINF:-1,TNT Series
+http://168.205.87.198:8555/live/123456/123456/117.m3u8
 
 #EXTINF:-1,TNT Sports 1 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
