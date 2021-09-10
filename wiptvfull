@@ -166,6 +166,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 #EXTINF:-1 group-title="CANAIS",Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="CANAIS",Cine TV 1
+http://168.205.87.198:8555/live/123456/123456/154.m3u8
+
+#EXTINF:-1 group-title="CANAIS",Cine TV 2
+http://168.205.87.198:8555/live/123456/123456/155.m3u8
+
+#EXTINF:-1 group-title="CANAIS",Cine TV 3
+http://168.205.87.198:8555/live/123456/123456/156.m3u8
+
+#EXTINF:-1 group-title="CANAIS",Cine TV 4
+http://168.205.87.198:8555/live/123456/123456/157.m3u8
+
 #EXTINF:-1 group-title="CANAIS",CineBrasil TV
 http://177.20.208.58:8000/play/a058/index.m3u8
 
@@ -186,6 +198,9 @@ https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w2089498850.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Clubinho Fun
 http://191.37.223.133:8000/play/a027/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS",CNN Brasil
+http://168.205.87.198:8555/live/123456/123456/28.m3u8
 
 #EXTINF:-1 group-title="CANAIS",CNT
 http://45.182.225.67:8000/play/a012/index.m3u8
@@ -212,7 +227,19 @@ http://177.52.216.28:8000/play/a073
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Discovery Channel
+http://168.205.87.198:8555/live/123456/123456/33.m3u8
+
+#EXTINF:-1 group-title="CANAIS",Discovery Channel [Portugal]
 http://185.236.229.21:9981/play/a05a
+
+#EXTINF:-1 group-title="CANAIS",Discovery ID
+http://168.205.87.198:8555/live/123456/123456/36.m3u8
+
+#EXTINF:-1 group-title="CANAIS",Discovery Kids
+http://168.205.87.198:8555/live/123456/123456/37.m3u8
+
+#EXTINF:-1 group-title="CANAIS",Discovery TLC
+http://168.205.87.198:8555/live/123456/123456/40.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Disney Channel
 http://168.205.87.198:8555/live/123456/123456/45.m3u8
@@ -330,6 +357,9 @@ http://177.52.216.28:8000/play/a07g
 
 #EXTINF:-1 group-title="CANAIS",Globo MG - InterTV Grande Minas
 http://177.52.216.28:8000/play/a07f
+
+#EXTINF:-1 group-title="CANAIS",Globo Minas
+http://168.205.87.198:8555/live/123456/123456/70.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Globo Nordeste
 http://45.182.225.67:8000/play/a00o/index.m3u8
@@ -709,8 +739,11 @@ http://185.236.229.21:9981/play/a03c
 #EXTINF:-1 group-title="CANAIS",SporTV
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS",SportTV
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Star Channel
+http://168.205.87.198:8555/live/123456/123456/63.m3u8
+
+#EXTINF:-1 group-title="CANAIS",Star Life
+http://168.205.87.198:8555/live/123456/123456/64.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Star Trek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -829,6 +862,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklis
 #EXTINF:-1 group-title="CANAIS",TV Hora 1
 https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/chunklist_w96738037.m3u8
 
+#EXTINF:-1 group-title="CANAIS",TV Justica
+http://168.205.87.198:8555/live/123456/123456/138.m3u8
+
 #EXTINF:-1 group-title="CANAIS",TV Mais Brasil
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1926521392.m3u8
 
@@ -867,6 +903,9 @@ http://177.52.216.28:8000/play/a062
 
 #EXTINF:-1 group-title="CANAIS",TV Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="CANAIS",TV Senado
+http://168.205.87.198:8555/live/123456/123456/139.m3u8
 
 #EXTINF:-1 group-title="CANAIS",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
