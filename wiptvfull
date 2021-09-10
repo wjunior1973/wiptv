@@ -25,6 +25,9 @@ https://livefocamundo.com:8081/allegrowebtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC
 http://185.236.229.21:9981/play/a04x
 
+#EXTINF:-1 group-title="CANAIS",Animal Planet
+http://168.205.87.198:8555/live/123456/123456/18.m3u8
+
 #EXTINF:-1 group-title="CANAIS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
@@ -36,6 +39,9 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2
 
 #EXTINF:-1 group-title="CANAIS",Arte1
 http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8
+
+#EXTINF:-1 group-title="CANAIS",Arte1 [Opcao 2]
+https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CANAIS",AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
@@ -75,6 +81,9 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",Band Sports
+http://189.91.128.150:4444/udp/227.10.20.119:1234
 
 #EXTINF:-1 group-title="CANAIS",Blaze
 http://185.236.229.21:9981/play/a03b
@@ -222,6 +231,9 @@ https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w308963911.
 
 #EXTINF:-1 group-title="CANAIS",Cultura
 http://177.52.216.28:8000/play/a073
+
+#EXTINF:-1 group-title="CANAIS",D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w999472033.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
@@ -379,6 +391,9 @@ http://177.52.216.28:8000/play/a07h
 #EXTINF:-1 group-title="CANAIS",Globo RO - Rede Amazonica
 http://191.37.223.131:8000/play/a00g/index.m3u8
 
+#EXTINF:-1 group-title="CANAIS",Globo SP
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+
 #EXTINF:-1 group-title="CANAIS",GloboNews
 http://185.236.229.21:9981/play/a04v
 
@@ -451,6 +466,9 @@ https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w173281
 #EXTINF:-1 group-title="CANAIS",Love Nature
 https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1a2/mono.m3u8
 
+#EXTINF:-1 group-title="CANAIS",MAP Kids
+http://168.205.87.198:8555/live/123456/123456/143.m3u8
+
 #EXTINF:-1 group-title="CANAIS",Master Show TV
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 
@@ -459,6 +477,9 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w2056435852.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Masterchef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CANAIS",Megapix
+http://189.91.128.150:4444/udp/227.10.20.89:1234
 
 #EXTINF:-1 group-title="CANAIS",Motorvision
 http://185.236.229.21:9981/play/a04z
@@ -649,11 +670,17 @@ https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS",RGTV
+https://stmv3.samcast.com.br/italo8170/italo8170/playlist.m3u8
+
 #EXTINF:-1 group-title="CANAIS",RSC TV
 http://177.11.96.110:9080/hls/sictv.m3u8
 
 #EXTINF:-1 group-title="CANAIS",RTB
 http://191.37.223.133:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS",RTV Canal 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
 
 #EXTINF:-1 group-title="CANAIS",SBT AM - TV Guajara
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
@@ -760,6 +787,24 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TCM
 http://168.205.87.198:8555/live/123456/123456/112.m3u8
 
+#EXTINF:-1 group-title="CANAIS",TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
+#EXTINF:-1 group-title="CANAIS",Telecine Action
+http://189.91.128.150:4444/udp/227.10.20.135:1234
+
+#EXTINF:-1 group-title="CANAIS",Telecine Fun
+http://189.91.128.150:4444/udp/227.10.20.137:1234
+
+#EXTINF:-1 group-title="CANAIS",Telecine Pipoca
+http://189.91.128.150:4444/udp/227.10.20.87:1234
+
+#EXTINF:-1 group-title="CANAIS",Telecine Premium
+http://189.91.128.150:4444/udp/227.10.20.134:1234
+
+#EXTINF:-1 group-title="CANAIS",Telecine Touch
+http://189.91.128.150:4444/udp/227.10.20.136:1234
+
 #EXTINF:-1 group-title="CANAIS",Teleweb TV
 https://video02.kshost.com.br/acessweb7837/acessweb7837/chunklist_w2069879305.m3u8
 
@@ -838,6 +883,9 @@ https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTUitn1HHvnN2rsI8N
 #EXTINF:-1 group-title="CANAIS",TV Diario do Sertao
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS",TV Empire Magazine
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
+
 #EXTINF:-1 group-title="CANAIS",TV Escola
 http://177.52.216.28:8000/play/a06m
 
@@ -898,17 +946,29 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u
 #EXTINF:-1 group-title="CANAIS",TV Pantanal
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS",TV Progresso
+https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w755298038.m3u8
+
 #EXTINF:-1 group-title="CANAIS",TV Ra-Tim-Bum
 http://177.52.216.28:8000/play/a062
 
 #EXTINF:-1 group-title="CANAIS",TV Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="CANAIS",TV Rio Preto
+https://livefocamundo.com:8081/tvriopreto/index.m3u8
+
 #EXTINF:-1 group-title="CANAIS",TV Senado
 http://168.205.87.198:8555/live/123456/123456/139.m3u8
 
 #EXTINF:-1 group-title="CANAIS",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="CANAIS",TV Vale das Artes
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w100274790.m3u8
+
+#EXTINF:-1 group-title="CANAIS",TV Votuline
+https://srv5.zcast.com.br/votuline/votuline/chunklist_w1485642929.m3u8
 
 #EXTINF:-1 group-title="CANAIS",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
@@ -976,11 +1036,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 #EXTINF:-1 group-title="CANAIS",VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 group-title="CANAIS",Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+
 #EXTINF:-1 group-title="CANAIS",Virtual TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w75240921.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Viva Web TV
 https://video02.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",VRT Channel
+http://168.205.87.198:8555/live/123456/123456/146.ts
 
 #EXTINF:-1 group-title="CANAIS",Warner Channel
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
@@ -1002,6 +1068,9 @@ https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Woohoo
 http://177.20.208.58:8000/play/a022/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS",WTV Brasil
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/chunklist_w1649349494.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Yeeaah!
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
@@ -2051,3 +2120,106 @@ https://www.refugesl.com/movies/+Willie%20Nelson%20-%20On%20The%20Road%20Again.m
 
 #EXTINF:-1 group-title="VIDEOCLIPES",YES - Owner of a Lonely Heart
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Yes%20:%20Owner%20of%20a%20Lonely%20Heart%20(1920x1080).mp4
+
+####################
+###### RADIOS ######
+####################
+
+#EXTINF:-1 group-title="RADIOS",Anos 60
+https://radios.rtbf.be/wr-c21-60-128.mp3
+
+#EXTINF:-1 group-title="RADIOS",Anos 70
+http://uplink.duplexfx.com:8066/
+
+#EXTINF:-1 group-title="RADIOS",Anos 80
+http://hestia2.cdnstream.com:80/1069_64
+
+#EXTINF:-1 group-title="RADIOS",Anos 80 [2]
+http://mp3channels.webradio.de:80/80er-kulthits
+
+#EXTINF:-1 group-title="RADIOS",Anos 80 [3]
+http://uplink.duplexfx.com:8000/
+
+#EXTINF:-1 group-title="RADIOS",Anos 90
+http://mp3channels.webradio.de:80/90er-hits
+
+#EXTINF:-1 group-title="RADIOS",Anos 90 [2]
+http://uplink.duplexfx.com:8012/
+
+#EXTINF:-1 group-title="RADIOS",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+
+#EXTINF:-1 group-title="RADIOS",Beatles
+http://uplink.duplexfx.com:8062/
+
+#EXTINF:-1 group-title="RADIOS",Beethoven
+http://stream.klassikradio.de/beethoven/mp3-128/www.klassikradio.de/
+
+#EXTINF:-1 group-title="RADIOS",Classic Rock
+http://hestia2.cdnstream.com:80/1074_128
+
+#EXTINF:-1 group-title="RADIOS",Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+
+#EXTINF:-1 group-title="RADIOS",Folk Music
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+
+#EXTINF:-1 group-title="RADIOS",Hard Rock
+http://hestia2.cdnstream.com:80/1075_64
+
+#EXTINF:-1 group-title="RADIOS",Heavy Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+
+#EXTINF:-1 group-title="RADIOS",Hip Hop
+http://uplink.duplexfx.com:8068/
+
+#EXTINF:-1 group-title="RADIOS",Mozart
+http://stream.klassikradio.de/mozart/mp3-128/www.klassikradio.de/
+
+#EXTINF:-1 group-title="RADIOS",MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 group-title="RADIOS",Musica Classica
+http://6d9a.webradio.upx.net.br:9970/stream
+
+#EXTINF:-1 group-title="RADIOS",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+
+#EXTINF:-1 group-title="RADIOS",Oldies but Goldies
+http://mp3channels.webradio.de:80/oldies-but-goldies
+
+#EXTINF:-1 group-title="RADIOS",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+
+#EXTINF:-1 group-title="RADIOS",Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+
+#EXTINF:-1 group-title="RADIOS",Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+
+#EXTINF:-1 group-title="RADIOS",Punk Rock
+http://mp3channels.webradio.de:80/punkrock
+
+#EXTINF:-1 group-title="RADIOS",Reggae
+https://radios.rtbf.be/wr-eventradio-128.mp3
+
+#EXTINF:-1 group-title="RADIOS",Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+
+#EXTINF:-1 group-title="RADIOS",Romanticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+
+#EXTINF:-1 group-title="RADIOS",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+
+#EXTINF:-1 group-title="RADIOS",Vagalume Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+
+#EXTINF:-1 group-title="RADIOS",Vagalume Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 group-title="RADIOS",Vagalume Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+
+#EXTINF:-1 group-title="RADIOS",Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
