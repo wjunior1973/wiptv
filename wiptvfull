@@ -175,18 +175,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 #EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine TV 1
-http://168.205.87.198:8555/live/123456/123456/154.m3u8
-
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine TV 2
-http://168.205.87.198:8555/live/123456/123456/155.m3u8
-
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine TV 3
-http://168.205.87.198:8555/live/123456/123456/156.m3u8
-
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Cine TV 4
-http://168.205.87.198:8555/live/123456/123456/157.m3u8
-
 #EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",CineBrasil TV
 http://177.20.208.58:8000/play/a058/index.m3u8
 
@@ -480,9 +468,6 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w2056435852.m3u8
 
 #EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Masterchef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Megapix
-http://189.91.128.150:4444/udp/227.10.20.89:1234
 
 #EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Motorvision
 http://185.236.229.21:9981/play/a04z
@@ -795,21 +780,6 @@ http://168.205.87.198:8555/live/123456/123456/112.m3u8
 
 #EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Telecine Action
-http://189.91.128.150:4444/udp/227.10.20.135:1234
-
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Telecine Fun
-http://189.91.128.150:4444/udp/227.10.20.137:1234
-
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Telecine Pipoca
-http://189.91.128.150:4444/udp/227.10.20.87:1234
-
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Telecine Premium
-http://189.91.128.150:4444/udp/227.10.20.134:1234
-
-#EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Telecine Touch
-http://189.91.128.150:4444/udp/227.10.20.136:1234
 
 #EXTINF:-1 tvg-logo="http://tinyurl.com/wiptvcanal" group-title="CANAIS",Teleweb TV
 https://video02.kshost.com.br/acessweb7837/acessweb7837/chunklist_w2069879305.m3u8
