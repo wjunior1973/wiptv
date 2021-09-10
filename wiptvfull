@@ -442,6 +442,9 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Imperial TV
 https://5d2c98775bafe.streamlock.net:443/8098/8098/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS",Inforbahia Web TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+
 #EXTINF:-1 group-title="CANAIS",Inspire
 http://191.37.223.133:8000/play/a029/index.m3u8
 
@@ -627,6 +630,9 @@ http://191.37.223.133:8000/play/a021/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Rede Premium TV
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",Rede QDM
+http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
 
 #EXTINF:-1 group-title="CANAIS",Rede Seculo 21
 http://177.52.216.28:8000/play/a06x
@@ -856,6 +862,9 @@ https://digilab.cds.ebtcvd.net/live-tvalba/stream/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
+#EXTINF:-1 group-title="CANAIS",TV Aparecida - PUC Goias
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
 #EXTINF:-1 group-title="CANAIS",TV Aracati
 https://livefocamundo.com:8081/tvaracati/tracks-v1a2/mono.m3u8
 
@@ -909,6 +918,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklis
 
 #EXTINF:-1 group-title="CANAIS",TV Hora 1
 https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/chunklist_w96738037.m3u8
+
+#EXTINF:-1 group-title="CANAIS",TV Interlagos
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/live.m3u8
 
 #EXTINF:-1 group-title="CANAIS",TV Justica
 http://168.205.87.198:8555/live/123456/123456/138.m3u8
@@ -2155,6 +2167,12 @@ http://uplink.duplexfx.com:8062/
 #EXTINF:-1 group-title="RADIOS",Beethoven
 http://stream.klassikradio.de/beethoven/mp3-128/www.klassikradio.de/
 
+#EXTINF:-1 group-title="RADIOS",Big Mix
+https://servidor39-1.brlogic.com:8130/live
+
+#EXTINF:-1 group-title="RADIOS",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream?
+
 #EXTINF:-1 group-title="RADIOS",Classic Rock
 http://hestia2.cdnstream.com:80/1074_128
 
@@ -2164,6 +2182,9 @@ http://6d9a.webradio.upx.net.br:9070/stream
 #EXTINF:-1 group-title="RADIOS",Folk Music
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 
+#EXTINF:-1 group-title="RADIOS",Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+
 #EXTINF:-1 group-title="RADIOS",Hard Rock
 http://hestia2.cdnstream.com:80/1075_64
 
@@ -2172,6 +2193,9 @@ http://6d9a.webradio.upx.net.br:9898/stream
 
 #EXTINF:-1 group-title="RADIOS",Hip Hop
 http://uplink.duplexfx.com:8068/
+
+#EXTINF:-1 group-title="RADIOS",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream?
 
 #EXTINF:-1 group-title="RADIOS",Mozart
 http://stream.klassikradio.de/mozart/mp3-128/www.klassikradio.de/
@@ -2191,6 +2215,9 @@ http://mp3channels.webradio.de:80/oldies-but-goldies
 #EXTINF:-1 group-title="RADIOS",Pagode
 http://6d9a.webradio.upx.net.br:9061/stream
 
+#EXTINF:-1 group-title="RADIOS",Pagode [2]
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
 #EXTINF:-1 group-title="RADIOS",Pop Hits
 http://6d9a.webradio.upx.net.br:9046/stream
 
@@ -2209,17 +2236,11 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #EXTINF:-1 group-title="RADIOS",Romanticas
 https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
 
+#EXTINF:-1 group-title="RADIOS",Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+
 #EXTINF:-1 group-title="RADIOS",Trilhas Sonoras
 http://6d9a.webradio.upx.net.br:9896/stream
 
-#EXTINF:-1 group-title="RADIOS",Vagalume Funk
-https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
-
-#EXTINF:-1 group-title="RADIOS",Vagalume Pagode
-https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
-
-#EXTINF:-1 group-title="RADIOS",Vagalume Sertanejo Hits
-https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
-
-#EXTINF:-1 group-title="RADIOS",Vagalume Vibe
+#EXTINF:-1 group-title="RADIOS",Vibe
 https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
