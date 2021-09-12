@@ -4,12 +4,6 @@
 ###### TV ABERTA ######
 #######################
 
-#EXTINF:-1 group-title="TV ABERTA",Agro+
-https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",AgroCanal
-http://191.37.223.132:8000/play/a00t/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Band PA - RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
@@ -25,9 +19,6 @@ http://170.80.82.6:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band PR - TV Taroba
 http://201.175.55.2:8000/play/a00s/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band RJ
-http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Band RO - TV Meridional
 http://191.37.223.131:8000/play/a00k/index.m3u8
 
@@ -36,9 +27,6 @@ http://187.33.160.24:8000/play/4/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Canal do Boi
-http://177.20.208.58:8000/play/a044/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Cultura
 http://177.52.216.28:8000/play/a073
@@ -169,9 +157,6 @@ http://45.182.225.67:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT AM - TV Guajara
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT GO - TV Serra Dourada
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1202038902_b1000000.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",SBT MA - TV Difusora
 https://stream.amsolution.net.br:8443/live/60eef66583c80/index.m3u8
 
@@ -204,9 +189,6 @@ http://187.33.160.24:8000/play/87/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SP Interior
 https://5a1c76baf08c0.streamlock.net/sbtinterior/5zh9uodi13msma1k88k05qz9nrc2bg1q/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Terra Viva
-http://177.52.216.28:8000/play/a09z
 
 #EXTINF:-1 group-title="TV ABERTA",TV Diario
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTUitn1HHvnN2rsI8NblsDs)/dm/3/x7txn7q/s/live-2.m3u8
@@ -389,7 +371,7 @@ http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 http://177.71.71.83:8002/play/amc
 
 #EXTINF:-1 group-title="FILMES/SERIES",AMC [Portugal]
-http://-1 group-title="FILMES/SERIES",.21:9981/play/a04x
+http://185.236.229.21:9981/play/a04x
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
@@ -437,9 +419,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3
 http://177.20.208.58:8000/play/a058/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://200.71.72.50/CINEMAX/mpegts
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cinemax [Opcao 2]
 http://177.71.71.83:8002/play/cinemax
 
 #EXTINF:-1 group-title="FILMES/SERIES",Classique TV
@@ -482,39 +461,24 @@ http://177.71.71.83:8002/play/fx
 https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w2037615878.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
-http://200.71.72.50/HBO/mpegts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO [Opcao 2]
 http://177.71.71.83:8002/play/hbo
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO 2
-http://200.71.72.50/HBO2/mpegts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO 2 [Opcao 2]
 http://177.71.71.83:8002/play/hbo2
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Family
-http://200.71.72.50/HBO_FAMILY/mpegts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Family [Opcao 2]
 http://177.71.71.83:8002/play/hbofamily
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
 http://177.71.71.83:8002/play/hbomundi
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
-http://200.71.72.50/HBO_PLUS/mpegts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Plus [Opcao 2]
 http://177.71.71.83:8002/play/hboplus
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
 http://177.71.71.83:8002/play/hbopop
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
-http://200.71.72.50/HBO_SIGNATURE/mpegts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Signature [Opcao 2]
 http://177.71.71.83:8002/play/hbosignature
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
@@ -631,9 +595,6 @@ http://168.205.87.198:8555/live/123456/123456/18.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Arte1
 http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Arte1 [Opcao 2]
-https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Blaze [Portugal]
 http://185.236.229.21:9981/play/a03b
@@ -813,9 +774,6 @@ http://168.205.87.198:8555/live/123456/123456/46.m3u8
 #EXTINF:-1 group-title="INFANTIS",Disney XD
 http://168.205.87.198:8555/live/123456/123456/47.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Gloob
-http://200.71.72.50/GLOOB_HD/mpegts
-
 #EXTINF:-1 group-title="INFANTIS",Jetsons TV 1
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
@@ -958,9 +916,6 @@ https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Canal 21
 http://177.52.216.28:8000/play/a08s
-
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
 http://177.52.216.28:8000/play/a06x
