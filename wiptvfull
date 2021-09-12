@@ -324,6 +324,9 @@ http://168.205.87.198:8555/live/123456/123456/65.m3u8
 #EXTINF:-1 group-title="ESPORTES",Fox Sports 2
 http://168.205.87.198:8555/live/123456/123456/66.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",FreeSports
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Fuel TV
 http://185.236.229.21:9981/play/a05c
 
@@ -332,6 +335,9 @@ http://185.236.229.21:9981/play/a05p
 
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Sport*TV 1
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
@@ -433,7 +439,7 @@ https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Eurochannel
+#EXTINF:-1 group-title="FILMES/SERIES",Eurochannel [Audio Original]
 http://191.37.223.133:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Film&Arts
@@ -793,6 +799,9 @@ http://191.37.223.133:8000/play/a02b/index.m3u8
 ###### MUSICA ######
 ####################
 
+#EXTINF:-1 group-title="MUSICA",1HD Music Television
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="MUSICA",Canal America Latino
 http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8
 
@@ -813,6 +822,12 @@ http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Hitts
 http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Loop 80s
+https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Loop 90s
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA",MTV 00s
 http://185.236.229.21:9981/play/a03d
