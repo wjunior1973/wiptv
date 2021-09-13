@@ -376,9 +376,6 @@ http://185.236.229.21:9981/play/a04x
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",AXN [Portugal]
-http://51.15.0.141:88/axn/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",AXN Movies [Portugal]
 http://185.236.229.21:9981/play/a05l
 
@@ -529,6 +526,12 @@ http://168.205.87.198:8555/live/123456/123456/63.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel [Opcao 2]
 http://177.71.71.83:8002/play/starchannel
 
+#EXTINF:-1 group-title="FILMES/SERIES",Star Hits
+http://177.71.71.83:8001/play/starhits
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Hits 2
+http://177.71.71.83:8001/play/starhits2
+
 #EXTINF:-1 group-title="FILMES/SERIES",Star Life
 http://168.205.87.198:8555/live/123456/123456/64.m3u8
 
@@ -537,6 +540,12 @@ http://177.71.71.83:8002/play/starlife
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Trek Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
+http://177.71.71.83:8001/play/studiouniversal
+
+#EXTINF:-1 group-title="FILMES/SERIES",SyFy
+http://177.71.71.83:8001/play/syfy
 
 #EXTINF:-1 group-title="FILMES/SERIES",SyFy [Portugal]
 http://185.236.229.21:9981/play/a04j
@@ -617,8 +626,17 @@ http://168.205.87.198:8555/live/123456/123456/33.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel [Portugal]
 http://185.236.229.21:9981/play/a05a
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery H&H
+http://177.71.71.83:8001/play/discoveryheh
+
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://168.205.87.198:8555/live/123456/123456/36.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+http://177.71.71.83:8001/play/discoveryscience
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
+http://177.71.71.83:8001/play/discoveryturbo
 
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
@@ -632,11 +650,20 @@ https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Fashion TV
 http://177.52.216.28:8000/play/a06f
 
+#EXTINF:-1 group-title="VARIEDADES",Food Network
+http://177.71.71.83:8001/play/foodnetwork
+
+#EXTINF:-1 group-title="VARIEDADES",GNT
+http://177.71.71.83:8001/play/gnt
+
 #EXTINF:-1 group-title="VARIEDADES",Hello TV
 http://191.37.223.133:8000/play/a022/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 http://168.205.87.198:8555/live/123456/123456/71.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",HGTV [Opcao 2]
+http://177.71.71.83:8001/play/hgtv
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3u8
@@ -671,8 +698,8 @@ http://185.236.229.21:9981/play/a04z
 #EXTINF:-1 group-title="VARIEDADES",MTV Brasil
 http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",MTV Brasil [Opcao 2]
-http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Multishow
+http://177.71.71.83:8001/play/multishow
 
 #EXTINF:-1 group-title="VARIEDADES",Nat Geo
 http://168.205.87.198:8555/live/123456/123456/78.m3u8
