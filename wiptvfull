@@ -190,9 +190,6 @@ http://187.33.160.24:8000/play/87/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT SP Interior
 https://5a1c76baf08c0.streamlock.net/sbtinterior/5zh9uodi13msma1k88k05qz9nrc2bg1q/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",TV Diario
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTUitn1HHvnN2rsI8NblsDs)/dm/3/x7txn7q/s/live-2.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",TV Escola
 http://177.52.216.28:8000/play/a06m
 
