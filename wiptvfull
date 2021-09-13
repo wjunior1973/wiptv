@@ -481,6 +481,9 @@ http://177.71.71.83:8002/play/hbosignature
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://177.71.71.83:8002/play/hboxtreme
 
+#EXTINF:-1 group-title="FILMES/SERIES",My Time Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",NOS Studios [Portugal]
 http://185.236.229.21:9981/play/a054
 
