@@ -963,6 +963,9 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u
 ###### FLASHBACK ######
 #######################
 
+#EXTINF:-1 group-title="FLASHBACK",A-ha - Hunting High and Low
+https://get-mp4.xyz/videos/a-ha-hunting-high-and-low_138499.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",A-ha - Take on Me
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20A%20Ha%20:%20Take%20On%20Me%20(640x480).mp4
 
@@ -1005,8 +1008,14 @@ https://www.refugesl.com/movies/+ABBA%20-%20Voulez%20Vous.mp4
 #EXTINF:-1 group-title="FLASHBACK",Abba - Waterloo
 https://www.refugesl.com/movies/+ABBA%20-%20Waterloo.mp4
 
+#EXTINF:-1 group-title="FLASHBACK",Accept - Balls to the Wall
+https://get-mp4.xyz/videos/accept-balls-to-the-wall_314769.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",Accept - Princess of the Dawn
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1982%20-%20Accept%20:%20Princess%20of%20the%20Dawn%20(1280x720).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Accept - Russian Roulette
+https://dl.get-mp4.xyz/videos/accept-russian-roulette_177452.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",ACDC - Back in Black
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1980%20-%20ACDC%20:%20Back%20In%20Black%20(640x480).mp4
@@ -1466,6 +1475,9 @@ http://104.251.123.41/Smells%20Like%20Teen%20Spirit-Nirvana.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",NWA - Express Yourself
 http://104.251.123.41/Express%20Yourself-NWA.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Paula Abdul - Straight Up
+https://get-mp4.xyz/videos/paula-abdul-straight-up_260603.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Pet Shop Boys - Always on my Mind
 http://104.251.123.41/Always%20On%20My%20Mind-The%20Pet%20Shop%20Boys.mp4
