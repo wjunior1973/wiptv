@@ -312,9 +312,6 @@ http://168.205.87.198:8555/live/123456/123456/65.m3u8
 #EXTINF:-1 group-title="ESPORTES",Fox Sports 2
 http://168.205.87.198:8555/live/123456/123456/66.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",FreeSports
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Fuel TV
 http://185.236.229.21:9981/play/a05c
 
