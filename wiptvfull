@@ -999,6 +999,9 @@ http://177.20.208.58:8000/play/a05j/index.m3u8
 ###### FLASHBACK ######
 #######################
 
+#EXTINF:-1 group-title="FLASHBACK",A-ha - Hunting High and Low
+https://get-mp4.xyz/videos/a-ha-hunting-high-and-low_138499.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",A-ha - Lifelines
 http://mediamusic-journal.com/video/A-ha%20-%20Lifelines%20(2002).mp4
 
@@ -1362,6 +1365,18 @@ http://www.templier.eu/VIDEO-CLIPS/2000%20-%20Eminem%20:%20The%20Real%20Slim%20S
 #EXTINF:-1 group-title="FLASHBACK",Eminem - Without Me
 http://www.templier.eu/VIDEO-CLIPS/2002%20-%20Eminem%20:%20Without%20Me%20(640x480).mp4
 
+#EXTINF:-1 group-title="FLASHBACK",Erasure - Blue Savannah
+https://dl.get-mp4.xyz/videos/erasure-blue-savannah_235710.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Erasure - Love to Hate You
+https://get-mp4.xyz/videos/erasure-love-to-hate-you_210362.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Erasure - Oh L'amour
+https://dl.get-mp4.xyz/videos/erasure-oh-lamour_320367.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Erasure - Star
+https://dl.get-mp4.xyz/videos/erasure-star_239848.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",Europe - The Final Countdown
 http://www.templier.eu/VIDEO-CLIPS/1986%20-%20Europe%20:%20The%20Final%20Countdown%20(640x480.mp4
 
@@ -1403,6 +1418,9 @@ https://www.refugesl.com/movies/+My%20Way%2003%20-%20Frank%20Sinatra%20-%20Live%
 
 #EXTINF:-1 group-title="FLASHBACK",Frankie Goes to Hollywood - Relax
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Frankie%20Goes%20To%20Hollywood%20:%20Relax%20(320x246).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Gazebo - I Like Chopin
+https://dl.get-mp4.xyz/videos/gazebo-i-like-chopin_282615.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Genesis - I Can't Dance
 http://104.251.123.41/I%20Can't%20Dance-Genesis.mp4
@@ -1853,6 +1871,9 @@ http://104.251.123.41/Tom%20Sawyer-Rush.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Sabrina - Boys
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1987%20-%20Sabrina%20:%20Boys%20(600x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Sandra - Maria Magdalena
+https://get-mp4.xyz/videos/sandra-maria-magdalena_255744.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Scorpions - Rock You Like a Hurricane
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1984%20-%20Scorpions%20:%20Rock%20You%20Like%20A%20Hurricane%20(640x480).mp4
