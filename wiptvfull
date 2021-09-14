@@ -999,6 +999,9 @@ http://177.20.208.58:8000/play/a05j/index.m3u8
 ###### FLASHBACK ######
 #######################
 
+#EXTINF:-1 group-title="FLASHBACK",A-ha - Lifelines
+http://mediamusic-journal.com/video/A-ha%20-%20Lifelines%20(2002).mp4
+
 #EXTINF:-1 group-title="FLASHBACK",A-ha - Take on Me
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20A%20Ha%20:%20Take%20On%20Me%20(640x480).mp4
 
