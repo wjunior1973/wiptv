@@ -136,9 +136,6 @@ http://177.52.216.27:8000/play/a00v
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! AM - TV A Critica
 http://177.52.216.28:8000/play/a09k
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! ES
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
-
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! PB - TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 
@@ -216,10 +213,10 @@ https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.c
 http://191.37.223.133:8000/play/a028/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
-http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
+http://189.91.128.150:4444/udp/227.10.20.131:1234
 
 #EXTINF:-1 group-title="NOTICIAS",Band News [Opcao 2]
-http://189.91.128.150:4444/udp/227.10.20.131:1234
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Bloomberg
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -1080,8 +1077,14 @@ http://mediamusic-journal.com/video/Aerosmith%20-%20Cryin'%20(1993).mp4
 #EXTINF:-1 group-title="FLASHBACK",Aerosmith - Sweet Emotion
 http://104.251.123.41/Sweet%20Emotion-Aerosmith.mp4
 
+#EXTINF:-1 group-title="FLASHBACK",Alice Cooper - Love's a Loaded Gun
+https://dl.get-mp4.xyz/videos/alice-cooper-love-s-a-loaded-gun_620376.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",Alice Cooper - No More Mr. Nice Guy
 http://104.251.123.41/No%20More%20Mr%20Nice%20Guy-Alice%20Cooper.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Alice Cooper - Spark in the Dark
+https://dl.get-mp4.xyz/videos/alice-cooper-spark-in-the-dark_292654.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Alphaville - Big in Japan
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20:%20Big%20In%20Japan%20(1280x720).mp4
@@ -1146,11 +1149,17 @@ http://104.251.123.41/Help-The%20Beatles%20live.mp4
 #EXTINF:-1 group-title="FLASHBACK",Beatles - Hey Jude
 http://drlingvo.com/wp-content/uploads/2015/12/The-Beatles-Hey-Jude-1.mp4
 
+#EXTINF:-1 group-title="FLASHBACK",Beatles - Paperback Writer
+https://get-mp4.xyz/videos/the-beatles-paperback-writer_334848.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",Bee Gees - Jive Talking
 http://104.251.123.41/Jive%20Talkin-Bee%20Gees.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Bee Gees - Night Fever
 http://104.251.123.41/Night%20Fever-BeeGees.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Bee Gees - Too Much Heaven
+https://get-mp4.xyz/videos/bee-gees-too-much-heaven_604324.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Bee Gees - Staying Alive
 https://www.refugesl.com/movies/+Bee%20Gees%20-%20Stayin%20Alive.mp4
@@ -1166,6 +1175,9 @@ http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1990%20-%20Black%20Box%2
 
 #EXTINF:-1 group-title="FLASHBACK",Boney M - Daddy Cool
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1976%20-%20Boney%20M%20:%20Daddy%20Cool%20(854x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Boney M - Gotta Go Home
+https://get-mp4.xyz/videos/boney-m-gotta-go-home_143639.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Boney M - Ma Baker
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Boney%20M%20:%20Ma%20Baker%20(960x720).mp4
@@ -1188,17 +1200,44 @@ http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Bonnie%20Tyle
 #EXTINF:-1 group-title="FLASHBACK",Britney Spears - Toxic
 http://104.251.123.41/Toxic-Britney%20Spears.mp4
 
+#EXTINF:-1 group-title="FLASHBACK",C.C. Catch - Backseat of your Cadillac
+https://get-mp4.xyz/videos/cccatch-backseat-of-your-cadillac_266839.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",C.C. Catch - Heartbreak Hotel
+https://get-mp4.xyz/videos/cccatch-heartbreak-hotel_308908.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",C.C. Catch - Heaven and Hell
+https://get-mp4.xyz/videos/cccatch-heaven-and-hell_313728.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Captain Hollywood Project - More and More
+https://dl.get-mp4.xyz/videos/captain-hollywood-project-more-and-more_246000.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",Cat Stevens - Wild World
 http://104.251.123.41/Wild%20World-Cat%20Stevens.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Chicago - If You Leave Me Now
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Chicago%20:%20If%20you%20leave%20me%20now%20(640x480).mp4
 
+#EXTINF:-1 group-title="FLASHBACK",Chicago - Now
+https://dl.get-mp4.xyz/videos/chicago-now_240576.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Chicago - Will You Still Love Me
+https://dl.get-mp4.xyz/videos/chicago-will-you-still-love-me_892753.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",Chris de Burgh - Lady in Red
 https://www.refugesl.com/movies/+Chris%20De%20Burgh%2002%20-%20Lady%20In%20Red%201986.mp4
 
+#EXTINF:-1 group-title="FLASHBACK",Commodores - Nighshift
+https://get-mp4.xyz/videos/commodores-nightshift_129379.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",Coolio - Gangstas Paradise
 http://www.templier.eu/VIDEO-CLIPS/1995%20-%20Coolio%20:%20Gangsta's%20Paradise%20(654x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Corona - Rhythm of the Night
+https://get-mp4.xyz/videos/corona-rhythm-of-the-night_901225.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Crazy Frog - Axel F
+https://get-mp4.xyz/videos/crazy-frog-axel-f_168668.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Crowded House - Don't Dream It's Over
 http://104.251.123.41/Don't%20Dream%20It's%20Over-Crowded%20House.mp4
@@ -1214,6 +1253,15 @@ http://104.251.123.41/Time%20After%20Time-Cyndi%20Lauper.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Daryl Hall & John Oates - Maneater
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Daryl%20Hall%20&%20John%20Oates%20:%20Maneater%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Depeche Mode - A Question Of Time
+https://dl.get-mp4.xyz/videos/depeche-mode-a-question-of-time_251778.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Depeche Mode - Dream On
+https://dl.get-mp4.xyz/videos/depeche-mode-dream-on_666286.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Depeche Mode - Where's the Revolution
+https://get-mp4.xyz/videos/depeche-mode-where-s-the-revolution_662804.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Desireless - Voyage Voyage
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Desireless%20:%20Voyage%20Voyage%20(960x720).mp4
@@ -1293,8 +1341,23 @@ http://www.templier.eu/VIDEO-CLIPS/2002%20-%20Eminem%20:%20Without%20Me%20(640x4
 #EXTINF:-1 group-title="FLASHBACK",Europe - The Final Countdown
 http://www.templier.eu/VIDEO-CLIPS/1986%20-%20Europe%20:%20The%20Final%20Countdown%20(640x480.mp4
 
+#EXTINF:-1 group-title="FLASHBACK",Eurythmics - Don't Ask Me Why 
+https://dl.get-mp4.xyz/videos/eurythmics-don-t-ask-me-why_213769.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Eurythmics - Here Comes The Rain Again
+https://dl.get-mp4.xyz/videos/eurythmics-here-comes-the-rain-again_230610.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",Eurythmics - Sweet Dreams
 http://104.251.123.41/Sweet%20Dreams-Eurothmics.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Evanescence - Bring Me To Life
+https://get-mp4.xyz/videos/evanescence-bring-me-to-life_134516.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Evanescence - Everybody's Fool
+https://get-mp4.xyz/videos/evanescence-everybodys-fool_326521.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Evanescence - My Immortal
+https://get-mp4.xyz/videos/evanescence-my-immortal_272645.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Extreme - More Than Words
 http://104.251.123.41/More%20Than%20Words-Extreme.mp4
@@ -1308,6 +1371,9 @@ http://104.251.123.41/Rock%20Me%20Amadeus-Falco.mp4
 #EXTINF:-1 group-title="FLASHBACK",Foreigner - I Want To Know What Love Is
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Foreigner%20:%20I%20Want%20To%20Know%20What%20Love%20Is%20(640x480).mp4
 
+#EXTINF:-1 group-title="FLASHBACK",Foreigner - Until the End of Time
+https://dl.get-mp4.xyz/videos/foreigner-until-the-end-of-time_179467.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",Frank Sinatra - My Way
 https://www.refugesl.com/movies/+My%20Way%2003%20-%20Frank%20Sinatra%20-%20Live%20At%20Madison%20Square%20Garden%201974.mp4
 
@@ -1319,6 +1385,12 @@ http://104.251.123.41/I%20Can't%20Dance-Genesis.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Genesis - Invisible Touch
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Genesis%20:%20Invisible%20Touch%20(640x480).mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Gloria Estefan - Can't Stay Away From You
+https://dl.get-mp4.xyz/videos/gloria-estefan-can-t-stay-away-from-you_216745.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Gloria Estefan - Here We Are
+https://dl.get-mp4.xyz/videos/gloria-estefan-here-we-are_464629.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Gorillaz - Clint Eastwood
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%202000/2001%20-%20Gorillaz%20:%20Clint%20Eastwood%20(1280x720).mp4
@@ -1344,6 +1416,9 @@ http://104.251.123.41/November%20Rain-Guns%20N%20Roses.mp4
 #EXTINF:-1 group-title="FLASHBACK",Guns'n Roses - Paradise City
 http://104.251.123.41/Paradise%20City-Guns%20&%20Roses.mp4
 
+#EXTINF:-1 group-title="FLASHBACK",Guns'n Roses - Patience
+https://get-mp4.xyz/videos/guns-n-roses-patience_130829.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",Guns'n Roses - Sweet Child O'Mine
 http://104.251.123.41/Sweet%20Child%20O%20Mine-Guns%20N%20Roses.mp4
 
@@ -1353,6 +1428,9 @@ http://104.251.123.41/Welcome%20To%20The%20Jungle-Guns%20And%20Roses.mp4
 #EXTINF:-1 group-title="FLASHBACK",Haddaway - What is Love
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1993%20-%20Haddaway%20:%20What%20Is%20Love%20(1280x720).mp4
 
+#EXTINF:-1 group-title="FLASHBACK",Human Nature - Eternal Flame
+https://dl.get-mp4.xyz/videos/human-nature-eternal-flame_870545.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",Irene Cara - What a Feeling
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Irene%20cara%20:%20What%20A%20Feeling%20II%20(1280x718).mp4
 
@@ -1361,6 +1439,9 @@ https://www.refugesl.com/movies/+Somewhere%20Over%20The%20Rainbow%2006%20-%20Isr
 
 #EXTINF:-1 group-title="FLASHBACK",Jason Mraz - I'm Yours
 http://104.251.123.41/I'm%20Yours-Jason%20Mraz.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Jeff Beck - Behind the Veil
+https://dl.get-mp4.xyz/videos/jeff-beck-behind-the-veil_305112.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Jerry Lee Lewis - Great Balls Of Fire
 http://104.251.123.41/Great%20Balls%20Of%20Fire-Jerry%20Lee%20Lewis.mp4
@@ -1385,6 +1466,9 @@ http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Joe%20Cocker%
 
 #EXTINF:-1 group-title="FLASHBACK",John Lennon - Imagine
 http://104.251.123.41/Imagine-John%20Lennon.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Johnny Cash - Ghost Riders in the Sky
+https://dl.get-mp4.xyz/videos/johnny-cash-ghost-riders-in-the-sky_112791.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Katy Perry - California Gurls
 http://104.251.123.41/California%20Gurls-Katy%20Perry.mp4
@@ -1475,6 +1559,9 @@ http://104.251.123.41/Smells%20Like%20Teen%20Spirit-Nirvana.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",NWA - Express Yourself
 http://104.251.123.41/Express%20Yourself-NWA.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",Paula Abdul - Straight Up
+https://get-mp4.xyz/videos/paula-abdul-straight-up_260603.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",Pet Shop Boys - Always on my Mind
 http://104.251.123.41/Always%20On%20My%20Mind-The%20Pet%20Shop%20Boys.mp4
@@ -1647,6 +1734,12 @@ http://104.251.123.41/My%20Humps-Black%20Eyed%20Peas.mp4
 #EXTINF:-1 group-title="FLASHBACK",The Cars - Drive
 http://104.251.123.41/Drive-The%20Cars.mp4
 
+#EXTINF:-1 group-title="FLASHBACK",The Cranberries - Linger
+https://get-mp4.xyz/videos/the-cranberries-linger_183821.mp4
+
+#EXTINF:-1 group-title="FLASHBACK",The Cure - Boys don't Cry
+https://get-mp4.xyz/videos/the-cure-boys-don-t-cry_227901.mp4
+
 #EXTINF:-1 group-title="FLASHBACK",The Mamas and The Papas - California Dreamin
 http://104.251.123.41/California%20Dreamin-Mamas%20&%20The%20Papas.mp4
 
@@ -1662,7 +1755,7 @@ https://www.refugesl.com/movies/+The%20Platters%20-%20The%20Great%20Pretender%20
 #EXTINF:-1 group-title="FLASHBACK",The Police - Every Breath You Take
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20The%20Police%20:%20Every%20Breath%20You%20Take%20(640x480).mp4
 
-#EXTINF:-1 group-title="FLASHBACK",The Verver Pipe - Bittersweet Symphony
+#EXTINF:-1 group-title="FLASHBACK",The Verve Pipe - Bittersweet Symphony
 http://104.251.123.41/Bittersweet%20Symphony-The%20Verve%20Pipe.mp4
 
 #EXTINF:-1 group-title="FLASHBACK",The Who - Baba O'Rilley
