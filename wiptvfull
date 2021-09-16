@@ -539,6 +539,9 @@ https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
 ###### VARIEDADES ######
 ########################
 
+#EXTINF:-1 group-title="VARIEDADES",A Fazenda
+http://s3.meusrv.gq:8081/live/1/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://168.205.87.198:8555/live/123456/123456/18.m3u8
 
