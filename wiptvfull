@@ -13,9 +13,6 @@ http://143.255.128.190:8000/play/a00i
 #EXTINF:-1 group-title="TV ABERTA",Band Piaui
 http://170.80.82.6:8000/play/a00j/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band RO - TV Meridional
-http://191.37.223.131:8000/play/a00k/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Band RS - Ijui
 http://187.33.160.24:8000/play/4/index.m3u8
 
@@ -24,9 +21,6 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Cultura
 http://177.52.216.28:8000/play/a073
-
-#EXTINF:-1 group-title="TV ABERTA",Futura
-http://191.37.223.132:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo BA - TV Santa Cruz
 http://177.20.208.58:8000/play/a053/index.m3u8
@@ -60,9 +54,6 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 
 #EXTINF:-1 group-title="TV ABERTA",Globo RJ - InterTV Serra+Mar
 http://177.52.216.28:8000/play/a07h
-
-#EXTINF:-1 group-title="TV ABERTA",Globo RO - Rede Amazonica
-http://191.37.223.131:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo RS - RBS TV Cruz Alta
 http://187.33.160.24:8000/play/1/index.m3u8
@@ -109,9 +100,6 @@ http://187.33.160.24:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record RO - SIC TV
-http://191.37.223.131:8000/play/a00h/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Record RS
 http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 
@@ -129,9 +117,6 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! PR
 http://201.175.55.2:8000/play/a015/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! RO
-http://191.37.223.131:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! RS - TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
@@ -163,9 +148,6 @@ http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlis
 #EXTINF:-1 group-title="TV ABERTA",SBT PI - TV Cidade Verde [Opcao 2]
 http://170.80.82.6:8000/play/a004/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT RO - TV Allamanda
-http://191.37.223.131:8000/play/a00d/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",SBT RS - Ijui
 http://187.33.160.24:8000/play/3/index.m3u8
 
@@ -181,9 +163,6 @@ http://177.52.216.28:8000/play/a06m
 #EXTINF:-1 group-title="TV ABERTA",TV Gazeta MA
 http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w1349466157.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",TV Gazeta RO
-http://191.37.223.131:8000/play/a00e/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",TV Gazeta SP
 http://177.52.216.28:8000/play/a07z
 
@@ -196,9 +175,6 @@ https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.c
 ######################
 ###### NOTICIAS ######
 ######################
-
-#EXTINF:-1 group-title="NOTICIAS",24H News
-http://191.37.223.133:8000/play/a028/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://189.91.128.150:4444/udp/227.10.20.131:1234
@@ -418,9 +394,6 @@ https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Eurochannel [Audio Original]
-http://191.37.223.133:8000/play/a01j/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Film&Arts
 http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
 
@@ -438,9 +411,6 @@ http://185.236.229.21:9981/play/a05r
 
 #EXTINF:-1 group-title="FILMES/SERIES",FOX Movies [Portugal]
 http://185.236.229.21:9981/play/a039
-
-#EXTINF:-1 group-title="FILMES/SERIES",FX
-http://168.205.87.198:8555/live/123456/123456/68.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Ghost TV
 https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w2037615878.m3u8
@@ -756,17 +726,8 @@ http://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 group-title="INFANTIS",Retro Cartoon 2
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Ra-Tim-Bum
-http://191.37.223.133:8000/play/a01s/index.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Ra-Tim-Bum 2
-http://177.52.216.28:8000/play/a062
-
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w79601195.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
-http://191.37.223.133:8000/play/a02b/index.m3u8
 
 ####################
 ###### MUSICA ######
