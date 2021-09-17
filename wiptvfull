@@ -337,6 +337,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://177.20.208.58:8000/play/a058/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",CinePix
+https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Classique TV
 https://stmv1.srvstm.com/classique/classique/playlist.m3u8
 
