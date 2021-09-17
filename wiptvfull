@@ -179,9 +179,6 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 http://177.71.71.83:8002/play/cnnbrasil
 
-#EXTINF:-1 group-title="NOTICIAS",Euronews [Portugal]
-http://185.236.229.21:9981/play/a03l
-
 #EXTINF:-1 group-title="NOTICIAS",Globo News
 http://185.236.229.21:9981/play/a04v
 
@@ -485,9 +482,6 @@ http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3
 #EXTINF:-1 group-title="VARIEDADES",History 2
 http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",ID: Investigation Discovery [Portugal]
-http://185.236.229.21:9981/play/a05s
-
 #EXTINF:-1 group-title="VARIEDADES",Inspire
 http://191.37.223.133:8000/play/a029/index.m3u8
 
@@ -585,9 +579,6 @@ https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/c
 ####################
 ###### MUSICA ######
 ####################
-
-#EXTINF:-1 group-title="MUSICA",1HD Music Television
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Canal America Latino
 http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8
