@@ -130,9 +130,6 @@ http://177.20.208.58:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT AM - TV Guajara
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT MA - TV Difusora
-https://stream.amsolution.net.br:8443/live/60eef66583c80/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",SBT PB - TV Tambau
 http://143.255.128.190:8000/play/a007
 
@@ -178,9 +175,6 @@ https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.c
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://189.91.128.150:4444/udp/227.10.20.131:1234
-
-#EXTINF:-1 group-title="NOTICIAS",Band News [Opcao 2]
-http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Bloomberg
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
