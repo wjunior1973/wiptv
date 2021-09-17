@@ -403,9 +403,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 #EXTINF:-1 group-title="FILMES/SERIES",Star Trek Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
-http://189.91.128.150:4444/udp/227.10.20.88:1234
-
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://189.91.128.150:4444/udp/227.10.20.135:1234
 
