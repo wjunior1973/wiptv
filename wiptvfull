@@ -295,6 +295,9 @@ http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Canal 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1450196991.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Acao
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -346,6 +349,12 @@ http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Ghost TV
 https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w2037615878.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Londrina TV
+https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://189.91.128.150:4444/udp/227.10.20.89:1234
 
@@ -357,6 +366,12 @@ http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3
 
 #EXTINF:-1 group-title="FILMES/SERIES",Prime Box Brazil
 http://177.52.216.28:8000/play/a06b
+
+#EXTINF:-1 group-title="FILMES/SERIES",Rede Clone TV
+https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Rede TV Sul
+https://novo.bitstreaming.info:1936/8032/8032/chunklist_w1447587132.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",RSC TV
 http://177.11.96.110:9080/hls/sictv.m3u8
@@ -406,6 +421,12 @@ http://189.91.128.150:4444/udp/227.10.20.136:1234
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",TV Clube Web
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w92788023.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",TV Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -423,6 +444,9 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Web TV Cidade
+https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1651816352.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Wham TV Classic
 https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
