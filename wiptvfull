@@ -4,13 +4,13 @@
 ###### TV ABERTA ######
 #######################
 
-#EXTINF:-1 group-title="TV ABERTA",Band PB - TV Manaira
+#EXTINF:-1 group-title="TV ABERTA",Band PB
 http://143.255.128.190:8000/play/a00i
 
-#EXTINF:-1 group-title="TV ABERTA",Band Piaui
+#EXTINF:-1 group-title="TV ABERTA",Band PI
 http://170.80.82.6:8000/play/a00j/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band RS - Ijui
+#EXTINF:-1 group-title="TV ABERTA",Band RS
 http://187.33.160.24:8000/play/4/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band SP
@@ -19,40 +19,31 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Cultura
 http://177.52.216.28:8000/play/a073
 
-#EXTINF:-1 group-title="TV ABERTA",Globo BA - TV Santa Cruz
+#EXTINF:-1 group-title="TV ABERTA",Globo BA
 http://177.20.208.58:8000/play/a053/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo BA - TV Subae
-http://177.20.208.58:8000/play/a054/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo BA - TV Sudoeste
-http://177.20.208.58:8000/play/a052/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo MG - InterTV dos Vales
+#EXTINF:-1 group-title="TV ABERTA",Globo MG
 http://177.52.216.28:8000/play/a07g
 
-#EXTINF:-1 group-title="TV ABERTA",Globo MG - InterTV Grande Minas
-http://177.52.216.28:8000/play/a07f
-
-#EXTINF:-1 group-title="TV ABERTA",Globo PB - TV Cabo Branco
+#EXTINF:-1 group-title="TV ABERTA",Globo PB
 http://143.255.128.190:8000/play/a00d
 
-#EXTINF:-1 group-title="TV ABERTA",Globo PR - RPC
+#EXTINF:-1 group-title="TV ABERTA",Globo PR
 http://201.175.55.2:8000/play/a00t/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo PR - RPC [Opcao 2]
+#EXTINF:-1 group-title="TV ABERTA",Globo PR [Opcao 2]
 http://187.33.160.24:8000/play/6/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo RJ - InterTV Serra+Mar
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ [Opcao 2]
 http://177.52.216.28:8000/play/a07h
 
-#EXTINF:-1 group-title="TV ABERTA",Globo RS - RBS TV Cruz Alta
+#EXTINF:-1 group-title="TV ABERTA",Globo RS
 http://187.33.160.24:8000/play/1/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC TV Chapeco
+#EXTINF:-1 group-title="TV ABERTA",Globo SC
 http://187.33.160.24:8000/play/10/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
@@ -79,16 +70,16 @@ http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record PA
 http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record PB - TV Correio
+#EXTINF:-1 group-title="TV ABERTA",Record PB
 http://143.255.128.190:8000/play/a00j
 
-#EXTINF:-1 group-title="TV ABERTA",Record PI - TV Antena 10
+#EXTINF:-1 group-title="TV ABERTA",Record PI
 http://170.80.82.6:8000/play/a008/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record PR - RIC TV
+#EXTINF:-1 group-title="TV ABERTA",Record PR
 http://201.175.55.2:8000/play/a00u/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record PR - RIC TV [Opcao 2]
+#EXTINF:-1 group-title="TV ABERTA",Record PR [Opcao 2]
 http://187.33.160.24:8000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record RJ
@@ -100,19 +91,16 @@ http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record TO - TV Jovem
+#EXTINF:-1 group-title="TV ABERTA",Record TO
 http://177.52.216.27:8000/play/a00v
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! AM - TV A Critica
-http://177.52.216.28:8000/play/a09k
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! PB - TV Arapuan
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! PB
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! PR
 http://201.175.55.2:8000/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! RS - TV Pampa
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! SP
@@ -121,44 +109,41 @@ http://177.20.208.58:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! SP [Opcao 2]
 http://177.20.208.58:8000/play/a03p/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT AM - TV Guajara
+#EXTINF:-1 group-title="TV ABERTA",SBT AM
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PB - TV Tambau
+#EXTINF:-1 group-title="TV ABERTA",SBT PB
 http://143.255.128.190:8000/play/a007
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PE - TV Jornal Caruaru
+#EXTINF:-1 group-title="TV ABERTA",SBT PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w412493965.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PE - TV Jornal Recife
+#EXTINF:-1 group-title="TV ABERTA",SBT PE [Opcao 2]
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PI - TV Cidade Verde
+#EXTINF:-1 group-title="TV ABERTA",SBT PI
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PI - TV Cidade Verde [Opcao 2]
+#EXTINF:-1 group-title="TV ABERTA",SBT PI [Opcao 2]
 http://170.80.82.6:8000/play/a004/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT RS - Ijui
+#EXTINF:-1 group-title="TV ABERTA",SBT RS
 http://187.33.160.24:8000/play/3/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC TV
+#EXTINF:-1 group-title="TV ABERTA",SBT SC
 https://cdn-scc-10192.ciclano.io:1443/scc-10192/scc-10192/chunklist_w1559635310.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC TV Chapeco
+#EXTINF:-1 group-title="TV ABERTA",SBT SC [Opcao 2]
 http://187.33.160.24:8000/play/87/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV A Critica
+http://177.52.216.28:8000/play/a09k
 
 #EXTINF:-1 group-title="TV ABERTA",TV Escola
 http://177.52.216.28:8000/play/a06m
 
-#EXTINF:-1 group-title="TV ABERTA",TV Gazeta MA
-http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w1349466157.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",TV Gazeta SP
+#EXTINF:-1 group-title="TV ABERTA",TV Gazeta
 http://177.52.216.28:8000/play/a07z
-
-#EXTINF:-1 group-title="TV ABERTA",TV Miramar [Record Mocambique]
-http://143.255.128.190:8000/play/a00d
 
 #EXTINF:-1 group-title="TV ABERTA",Urban TV
 https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1612296799.m3u8
@@ -228,9 +213,6 @@ http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ESPORTES",Fox Sports
 https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?pbs=23fc816fa98d4dc0bd802e1154fc5b15
 
-#EXTINF:-1 group-title="ESPORTES",Fuel TV
-http://185.236.229.21:9981/play/a05c
-
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 
@@ -251,9 +233,6 @@ http://189.91.128.150:4444/udp/227.10.20.107:1234
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 6
 http://189.91.128.150:4444/udp/227.10.20.123:1234
-
-#EXTINF:-1 group-title="ESPORTES",Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Sport*TV 1
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
@@ -294,9 +273,6 @@ http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Canal 29
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1450196991.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Acao
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
