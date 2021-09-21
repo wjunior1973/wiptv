@@ -102,6 +102,12 @@ https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
 #EXTINF:-1 group-title="ESPORTES",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="ESPORTES",ESPN
+http://177.71.71.83:8001/play/espn
+
+#EXTINF:-1 group-title="ESPORTES",ESPN Brasil
+http://177.71.71.83:8001/play/espnbrasil
+
 #EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
@@ -217,6 +223,18 @@ http://177.11.96.110:9080/hls/sictv.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
 http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Star Hist
+http://177.71.71.83:8001/play/starhits
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Hits 2
+http://177.71.71.83:8001/play/starhits2
+
+#EXTINF:-1 group-title="FILMES/SERIES",SyFy
+http://177.71.71.83:8001/play/syfy
+
+#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
+http://177.71.71.83:8001/play/studiouniversal
+
 #EXTINF:-1 group-title="FILMES/SERIES",Tokusato TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -300,6 +318,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528
 #EXTINF:-1 group-title="VARIEDADES",Comedy Central
 http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery Channel
+http://177.71.71.83:8001/play/discoverychannel
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery H&H
+http://177.71.71.83:8001/play/discoveryheh
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+http://177.71.71.83:8001/play/discoveryscience
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
+http://177.71.71.83:8001/play/discoveryturbo
+
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
 
@@ -309,8 +339,17 @@ https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Fashion TV
 http://177.52.216.28:8000/play/a06f
 
+#EXTINF:-1 group-title="VARIEDADES",Food Network
+http://177.71.71.83:8001/play/foodnetwork
+
+#EXTINF:-1 group-title="VARIEDADES",GNT
+http://177.71.71.83:8001/play/gnt
+
 #EXTINF:-1 group-title="VARIEDADES",Hello TV
 http://191.37.223.133:8000/play/a022/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+http://177.71.71.83:8001/play/hgtv
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3u8
@@ -336,6 +375,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a
 #EXTINF:-1 group-title="VARIEDADES",MTV Brasil
 http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Multishow
+http://177.71.71.83:8001/play/multishow
+
 #EXTINF:-1 group-title="VARIEDADES",People are Awesome
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -353,6 +395,9 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",The Pet Collective
 https://the-pet-collective-international-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",TLC
+http://177.71.71.83:8001/play/tlc
 
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://177.52.216.28:8000/play/a06g
