@@ -147,6 +147,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",Fox Sports
 https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?pbs=23fc816fa98d4dc0bd802e1154fc5b15
 
+#EXTINF:-1 group-title="ESPORTES",Gol TV Brasil
+https://stmv5.samcast.com.br/caroline3961/caroline3961/chunklist_w2076930074.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Off
 http://177.71.71.83:8000/play/off
 
@@ -640,6 +643,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 
 #EXTINF:-1 group-title="MUSICA",VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MUSICA",Web TV Music
+https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1884756249.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Wham TV!
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
