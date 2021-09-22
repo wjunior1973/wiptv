@@ -274,7 +274,7 @@ http://177.11.96.110:9080/hls/sictv.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
 http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Star Hist
+#EXTINF:-1 group-title="FILMES/SERIES",Star Hits
 http://177.71.71.83:8001/play/starhits
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Hits 2
@@ -1823,7 +1823,7 @@ https://www.refugesl.com/movies/+The%20Platters%20-%20The%20Great%20Pretender%20
 #EXTINF:-1 group-title="VIDEOCLIPES",The Police - Every Breath You Take
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20The%20Police%20:%20Every%20Breath%20You%20Take%20(640x480).mp4
 
-#EXTINF:-1 group-title="VIDEOCLIPES",The Smashing Pumpkins - Tonight Tomight
+#EXTINF:-1 group-title="VIDEOCLIPES",The Smashing Pumpkins - Tonight Tonight
 https://dl.get-mp4.xyz/videos/the-smashing-pumpkins-tonight-tonight_173797.mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",The Verve Pipe - Bittersweet Symphony
