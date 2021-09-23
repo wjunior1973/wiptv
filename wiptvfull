@@ -37,14 +37,14 @@ http://200.194.238.229:8000/udp/227.0.0.1:1234
 #EXTINF:-1 group-title="TV ABERTA",Record SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT
-http://187.33.160.24:8000/play/87/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://177.20.208.58:8000/play/a03x/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",SBT
+http://187.33.160.24:8000/play/87/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",SBT SC
-https://cdn-scc-10192.ciclano.io:1443/scc-10192/scc-10192/chunklist_w1559635310.m3u8
+http://200.194.238.229:8000/udp/227.0.0.8:1234
 
 #EXTINF:-1 group-title="TV ABERTA",Shoptime
 http://177.71.71.83:8000/play/a0gt
@@ -63,9 +63,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Escola
 http://177.52.216.28:8000/play/a06m
-
-#EXTINF:-1 group-title="TV ABERTA",TV Galega Blumenau
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Gazeta
 http://177.52.216.28:8000/play/a07z
@@ -477,9 +474,6 @@ http://177.71.71.83:8001/play/foodnetwork
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://177.71.71.83:8001/play/gnt
 
-#EXTINF:-1 group-title="VARIEDADES",Hello TV
-http://191.37.223.133:8000/play/a022/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 http://177.71.71.83:8001/play/hgtv
 
@@ -488,9 +482,6 @@ http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3
 
 #EXTINF:-1 group-title="VARIEDADES",History 2
 http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Inspire
-http://191.37.223.133:8000/play/a029/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8
@@ -522,9 +513,6 @@ http://200.194.238.229:8000/udp/225.1.1.10:1234
 #EXTINF:-1 group-title="VARIEDADES",People are Awesome
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="VARIEDADES",Rede Mosaico
-http://191.37.223.133:8000/play/a021/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Rede QDM
 http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
 
@@ -549,17 +537,11 @@ http://200.194.238.229:8000/udp/227.0.0.34:1234
 #EXTINF:-1 group-title="VARIEDADES",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",UP Channel
-http://191.37.223.133:8000/play/a023/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Yeeaah!
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Yes Life
-http://191.37.223.133:8000/play/a025/index.m3u8
 
 ######################
 ###### INFANTIS ######
@@ -585,9 +567,6 @@ http://177.71.71.83:8000/play/boomerang
 
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 http://187.19.165.103:8181/play/a00o/index.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Clubinho Fun
-http://191.37.223.133:8000/play/a027/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://177.71.71.83:8000/play/gloob
