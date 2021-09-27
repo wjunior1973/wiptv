@@ -728,9 +728,6 @@ http://185.236.229.21:9981/play/a03b
 #EXTINF:-1 group-title="VARIEDADES",Canal Saude
 http://177.52.216.28:8000/play/a06n
 
-#EXTINF:-1 group-title="VARIEDADES",Clubinho Fun
-http://191.37.223.133:8000/play/a027/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Comedia TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -881,6 +878,9 @@ http://168.90.147.99:8080/cli_ig@tharyk20/21889/121
 
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 http://187.19.165.103:8181/play/a00o/index.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Clubinho Fun
+http://191.37.223.133:8000/play/a027/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://177.71.71.83:8001/play/discoverykids
