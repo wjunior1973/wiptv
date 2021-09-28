@@ -55,12 +55,6 @@ http://177.20.208.58:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo BA - TV Sudoeste
 http://177.20.208.58:8000/play/a052/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo Brasilia
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/3
-
-#EXTINF:-1 group-title="TV ABERTA",Globo CE - TV Verdes Mares
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/96
-
 #EXTINF:-1 group-title="TV ABERTA",Globo MG - InterTV dos Vales
 http://177.52.216.28:8000/play/a07g
 
@@ -69,15 +63,6 @@ http://177.52.216.28:8000/play/a07f
 
 #EXTINF:-1 group-title="TV ABERTA",Globo Minas
 http://168.205.87.198:8555/live/adriana/123456/70.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo Natal
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/7
-
-#EXTINF:-1 group-title="TV ABERTA",Globo Nordeste
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/75
-
-#EXTINF:-1 group-title="TV ABERTA",Globo PA - TV Liberal
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/18
 
 #EXTINF:-1 group-title="TV ABERTA",Globo PB - TV Cabo Branco
 http://143.255.128.190:8000/play/a00d
@@ -105,9 +90,6 @@ http://187.33.160.24:8000/play/1/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC Chapeco
 http://187.33.160.24:8000/play/10/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC Florianopolis
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/5
 
 #EXTINF:-1 group-title="TV ABERTA",Globo TO - TV Anhanguera
 http://177.52.216.27:8000/play/a00x
@@ -193,9 +175,6 @@ http://177.20.208.58:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT AM - TV Guajara
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT CE - TV Jangadeiro
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/90
-
 #EXTINF:-1 group-title="TV ABERTA",SBT GO - TV Serra Dourada
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1202038902_b1000000.m3u8
 
@@ -228,9 +207,6 @@ http://187.33.160.24:8000/play/3/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC TV
 http://187.33.160.24:8000/play/87/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT SP
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/238
 
 #EXTINF:-1 group-title="TV ABERTA",SBT TO
 http://177.52.216.27:8000/play/a00w
@@ -279,9 +255,6 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/225
-
-#EXTINF:-1 group-title="NOTICIAS",CNN Brasil [Opcao 2]
 http://168.205.87.198:8555/live/adriana/123456/28.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Euronews [Portugal]
@@ -300,26 +273,14 @@ http://177.52.216.27:8000/play/a00t
 ###### ESPORTES ######
 ######################
 
-#EXTINF:-1 group-title="ESPORTES",Band Sports
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/119
-
-#EXTINF:-1 group-title="ESPORTES",Combate
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/126
-
 #EXTINF:-1 group-title="ESPORTES",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://177.71.71.83:8001/play/espn
 
-#EXTINF:-1 group-title="ESPORTES",ESPN 2
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/143
-
 #EXTINF:-1 group-title="ESPORTES",ESPN Brasil
 http://177.71.71.83:8001/play/espnbrasil
-
-#EXTINF:-1 group-title="ESPORTES",ESPN Extra
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/145
 
 #EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -336,15 +297,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",Fish TV
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/146
-
-#EXTINF:-1 group-title="ESPORTES",Fox Sports
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/152
-
-#EXTINF:-1 group-title="ESPORTES",Fox Sports 2
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/153
-
 #EXTINF:-1 group-title="ESPORTES",Motorvision [Portugal]
 http://185.236.229.21:9981/play/a04z
 
@@ -356,21 +308,6 @@ http://187.19.165.103:8181/play/a00a/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 2
 http://187.19.165.103:8181/play/a00b/index.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 3
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/180
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 4
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/181
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 5
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/182
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 6
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/183
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 7
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/237
 
 #EXTINF:-1 group-title="ESPORTES",Sport*TV 1
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
@@ -389,15 +326,6 @@ http://31.220.41.88:8081/live/pt-sporttv5.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Sport*TV+
 http://185.236.229.21:9981/play/a03c
-
-#EXTINF:-1 group-title="ESPORTES",SporTV
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/188
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 2
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/189
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 3
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/190
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
@@ -463,41 +391,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 01
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/48
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 02
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/49
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 03
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/50
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 04
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/51
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 05
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/52
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 06
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/53
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 07
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/54
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 08
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/55
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 09
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/56
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 10
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/57
-
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://177.20.208.58:8000/play/a058/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/125
 
 #EXTINF:-1 group-title="FILMES/SERIES",Classique TV
 https://stmv1.srvstm.com/classique/classique/playlist.m3u8
@@ -532,9 +427,6 @@ http://185.236.229.21:9981/play/a05r
 #EXTINF:-1 group-title="FILMES/SERIES",FOX Movies [Portugal]
 http://185.236.229.21:9981/play/a039
 
-#EXTINF:-1 group-title="FILMES/SERIES",FX
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/229
-
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://187.19.165.103:8181/play/a00z/index.m3u8
 
@@ -544,14 +436,8 @@ http://187.19.165.103:8181/play/a010/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Family
 http://187.19.165.103:8181/play/a012/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/159
-
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
 http://187.19.165.103:8181/play/a011/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/161
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
 http://187.19.165.103:8181/play/a014/index.m3u8
@@ -559,17 +445,11 @@ http://187.19.165.103:8181/play/a014/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
 http://187.19.165.103:8181/play/a013/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/163
-
 #EXTINF:-1 group-title="FILMES/SERIES",Hello TV
 http://191.37.223.133:8000/play/a022/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Londrina TV
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Megapix
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/168
 
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -622,18 +502,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 http://187.19.165.103:8181/play/a00s/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/148
-
-#EXTINF:-1 group-title="FILMES/SERIES",Star Hits
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/150
-
-#EXTINF:-1 group-title="FILMES/SERIES",Star Hits 2
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/151
-
-#EXTINF:-1 group-title="FILMES/SERIES",Star Life
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/149
-
 #EXTINF:-1 group-title="FILMES/SERIES",Star Trek Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -660,18 +528,6 @@ http://187.19.165.103:8181/play/a00x/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
 http://187.19.165.103:8181/play/a00w/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/197
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/198
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/199
-
-#EXTINF:-1 group-title="FILMES/SERIES",TNT
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/201
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Series
 http://187.19.165.103:8181/play/a00r/index.m3u8
@@ -706,9 +562,6 @@ http://185.236.229.21:9981/play/a05z
 #EXTINF:-1 group-title="FILMES/SERIES",TVCine Top [Portugal]
 http://185.236.229.21:9981/play/a04w
 
-#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/205
-
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
 
@@ -728,24 +581,6 @@ https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",24 Kitchen [Portugal]
 http://185.236.229.21:9981/play/a05m
 
-#EXTINF:-1 group-title="VARIEDADES",A Fazenda [Cam 1]
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/265
-
-#EXTINF:-1 group-title="VARIEDADES",A Fazenda [Cam 2]
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/266
-
-#EXTINF:-1 group-title="VARIEDADES",A Fazenda [Cam 3]
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/267
-
-#EXTINF:-1 group-title="VARIEDADES",A Fazenda [Cam 4]
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/268
-
-#EXTINF:-1 group-title="VARIEDADES",A Fazenda [Cam 5]
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/269
-
-#EXTINF:-1 group-title="VARIEDADES",Animal Planet
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/114
-
 #EXTINF:-1 group-title="VARIEDADES",Arte1
 http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8
 
@@ -763,9 +598,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528
 
 #EXTINF:-1 group-title="VARIEDADES",Comedy Central
 http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Curta!
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/129
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
 http://177.71.71.83:8001/play/discoverychannel
@@ -821,9 +653,6 @@ http://143.255.128.190:8000/play/a00x
 #EXTINF:-1 group-title="VARIEDADES",Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="VARIEDADES",Mais na Tela
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/235
-
 #EXTINF:-1 group-title="VARIEDADES",Masterchef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -838,12 +667,6 @@ http://177.71.71.83:8001/play/multishow
 
 #EXTINF:-1 group-title="VARIEDADES",Mundo TV
 https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Nat Geo
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/172
-
-#EXTINF:-1 group-title="VARIEDADES",Nat geo Wild
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/174
 
 #EXTINF:-1 group-title="VARIEDADES",People are Awesome
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -881,9 +704,6 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Viva
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/207
-
 #EXTINF:-1 group-title="VARIEDADES",Yeeaah!
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
@@ -903,9 +723,6 @@ http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIS",Animestat!on
 https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Boomerang
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/121
-
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 http://187.19.165.103:8181/play/a00o/index.m3u8
 
@@ -915,21 +732,6 @@ http://191.37.223.133:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://177.71.71.83:8001/play/discoverykids
 
-#EXTINF:-1 group-title="INFANTIS",Disney Channel
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/138
-
-#EXTINF:-1 group-title="INFANTIS",Disney Jr
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/139
-
-#EXTINF:-1 group-title="INFANTIS",Disney XD
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/140
-
-#EXTINF:-1 group-title="INFANTIS",Gloob
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/154
-
-#EXTINF:-1 group-title="INFANTIS",Gloobinho
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/215
-
 #EXTINF:-1 group-title="INFANTIS",Jetsons TV 1
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
@@ -938,9 +740,6 @@ https://stmv1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Naruto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="INFANTIS",Nat Geo Kids
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/173
 
 #EXTINF:-1 group-title="INFANTIS",Nick
 http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_1.m3u8
@@ -956,9 +755,6 @@ http://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Retro Cartoon 2
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Tooncast
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/203
 
 #EXTINF:-1 group-title="INFANTIS",TV Ra-Tim-Bum
 http://177.52.216.28:8000/play/a063
@@ -1093,10 +889,6 @@ http://177.52.216.27:8000/play/a010
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
 http://177.20.208.58:8000/play/a05j/index.m3u8
-
-#########################
-###### TEMPORARIOS ######
-#########################
 
 #########################
 ###### VIDEOCLIPES ######
