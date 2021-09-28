@@ -31,6 +31,9 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band SP [Opcao 2]
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Band SP Interior
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Band TO
 http://177.52.216.27:8000/play/a00s
 
@@ -64,6 +67,12 @@ http://177.52.216.28:8000/play/a07g
 #EXTINF:-1 group-title="TV ABERTA",Globo MG - InterTV Grande Minas
 http://177.52.216.28:8000/play/a07f
 
+#EXTINF:-1 group-title="TV ABERTA",Globo Minas
+http://168.205.87.198:8555/live/adriana/123456/70.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo Natal
+http://168.90.147.99:8080/cli_ig@tharyk20/21889/7
+
 #EXTINF:-1 group-title="TV ABERTA",Globo Nordeste
 http://168.90.147.99:8080/cli_ig@tharyk20/21889/75
 
@@ -88,9 +97,6 @@ https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1
 #EXTINF:-1 group-title="TV ABERTA",Globo RJ - InterTV Serra+Mar
 http://177.52.216.28:8000/play/a07h
 
-#EXTINF:-1 group-title="TV ABERTA",Globo Natal
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/7
-
 #EXTINF:-1 group-title="TV ABERTA",Globo RO - Rede Amazonica
 http://191.37.223.131:8000/play/a00g/index.m3u8
 
@@ -102,9 +108,6 @@ http://187.33.160.24:8000/play/10/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC Florianopolis
 http://168.90.147.99:8080/cli_ig@tharyk20/21889/5
-
-#EXTINF:-1 group-title="TV ABERTA",Globo SP
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_1000/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo TO - TV Anhanguera
 http://177.52.216.27:8000/play/a00x
@@ -196,6 +199,9 @@ http://168.90.147.99:8080/cli_ig@tharyk20/21889/90
 #EXTINF:-1 group-title="TV ABERTA",SBT GO - TV Serra Dourada
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1202038902_b1000000.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",SBT MG - TV Alterosa
+http://168.205.87.198:8555/live/adriana/123456/104.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",SBT PB - TV Tambau
 http://143.255.128.190:8000/play/a007
 
@@ -244,14 +250,17 @@ http://177.52.216.28:8000/play/a06l
 #EXTINF:-1 group-title="TV ABERTA",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",TV Diario CE
-http://168.90.147.99:8080/cli_ig@tharyk20/21889/95
-
 #EXTINF:-1 group-title="TV ABERTA",TV Escola
 http://177.52.216.28:8000/play/a06m
 
 #EXTINF:-1 group-title="TV ABERTA",TV Gazeta
 http://177.52.216.28:8000/play/a07z
+
+#EXTINF:-1 group-title="TV ABERTA",TV Justica
+http://168.205.87.198:8555/live/adriana/123456/138.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Senado
+http://168.205.87.198:8555/live/adriana/123456/139.m3u8
 
 ######################
 ###### NOTICIAS ######
@@ -271,6 +280,9 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 http://168.90.147.99:8080/cli_ig@tharyk20/21889/225
+
+#EXTINF:-1 group-title="NOTICIAS",CNN Brasil [Opcao 2]
+http://168.205.87.198:8555/live/adriana/123456/28.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Euronews [Portugal]
 http://185.236.229.21:9981/play/a03l
@@ -335,6 +347,9 @@ http://168.90.147.99:8080/cli_ig@tharyk20/21889/153
 
 #EXTINF:-1 group-title="ESPORTES",Motorvision [Portugal]
 http://185.236.229.21:9981/play/a04z
+
+#EXTINF:-1 group-title="ESPORTES",NBA TV
+http://185.236.229.21:9981/play/a06c
 
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://187.19.165.103:8181/play/a00a/index.m3u8
@@ -417,6 +432,9 @@ http://185.236.229.21:9981/play/a05l
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN White [Portugal]
 http://185.236.229.21:9981/play/a05p
+
+#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
+http://168.205.87.198:8555/live/adriana/123456/159.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Acao
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -571,6 +589,9 @@ https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u
 #EXTINF:-1 group-title="FILMES/SERIES",Rede TV Sul
 https://novo.bitstreaming.info:1936/8032/8032/chunklist_w1447587132.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",RSC TV
+http://168.205.87.198:8555/live/adriana/123456/147.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",SERIE: A Mulher Bionica
 https://stmv1.srvstm.com/tvserie2/tvserie2/chunklist.m3u8
 
@@ -588,6 +609,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d100
 
 #EXTINF:-1 group-title="FILMES/SERIES",SERIE: Jornada nas Estrelas
 https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
+http://168.205.87.198:8555/live/adriana/123456/160.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
 http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8
@@ -624,6 +648,9 @@ http://185.236.229.21:9981/play/a04j
 
 #EXTINF:-1 group-title="FILMES/SERIES",TBS
 http://187.19.165.103:8181/play/a00p/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TCM
+http://168.205.87.198:8555/live/adriana/123456/112.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://187.19.165.103:8181/play/a00v/index.m3u8
@@ -727,6 +754,9 @@ http://185.236.229.21:9981/play/a03b
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Saude
 http://177.52.216.28:8000/play/a06n
+
+#EXTINF:-1 group-title="VARIEDADES",Casa e Cozinha [Portugal]
+http://185.236.229.21:9981/play/a060
 
 #EXTINF:-1 group-title="VARIEDADES",Comedia TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -952,6 +982,12 @@ http://45.14.38.4:9999/play/a01o
 #EXTINF:-1 group-title="MUSICA",Canal America Latino
 http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="MUSICA",Canal BRA
+http://168.205.87.198:8555/live/adriana/123456/24.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Canal Cult
+http://168.205.87.198:8555/live/adriana/123456/30.m3u8
+
 #EXTINF:-1 group-title="MUSICA",Canal Mega
 https://origin-02.nxplay.com.br/MEGA/video.m3u8?token=
 
@@ -1005,6 +1041,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf9
 
 #EXTINF:-1 group-title="MUSICA",VEVO 90's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MUSICA",VEVO Hip-Hop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1 group-title="MUSICA",VEVO Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
 #EXTINF:-1 group-title="MUSICA",VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
