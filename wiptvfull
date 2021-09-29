@@ -312,53 +312,11 @@ http://177.52.216.27:8000/play/a00t
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://199.127.62.234:8880/streams/46_.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",Bein Sports 1
-http://199.127.62.234:8880/streams/86_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Bein Sports 2
-http://199.127.62.234:8880/streams/87_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Bein Sports 3
-http://199.127.62.234:8880/streams/88_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Bein Sports 4
-http://199.127.62.234:8880/streams/89_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Bein Sports 5
-http://199.127.62.234:8880/streams/90_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Bein Sports 6
-http://199.127.62.234:8880/streams/91_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Bein Sports 7
-http://199.127.62.234:8880/streams/92_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",BT Sport 1
-http://199.127.62.234:8880/streams/441_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",BT Sport 2
-http://199.127.62.234:8880/streams/442_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",BT Sport 3
-http://199.127.62.234:8880/streams/443_.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://199.127.62.234:8880/streams/49_.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="ESPORTES",Eleven Sports 1
-http://199.127.62.234:8880/streams/327_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Eleven Sports 2
-http://199.127.62.234:8880/streams/328_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Eleven Sports 3
-http://199.127.62.234:8880/streams/329_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Eleven Sports 4
-http://199.127.62.234:8880/streams/330_.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Esporte Interativo
 http://199.127.62.234:8880/streams/467_.m3u8
@@ -400,9 +358,6 @@ http://199.127.62.234:8880/streams/57_.m3u8
 http://185.236.229.21:9981/play/a04z
 
 #EXTINF:-1 group-title="ESPORTES",NBA TV
-http://199.127.62.234:8880/streams/262_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",NBA TV - Sport*TV
 http://185.236.229.21:9981/play/a06c
 
 #EXTINF:-1 group-title="ESPORTES",Off
@@ -413,18 +368,6 @@ http://187.19.165.103:8181/play/a00a/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 2
 http://187.19.165.103:8181/play/a00b/index.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sky Sports Arena
-http://199.127.62.234:8880/streams/354_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sky Sports F1
-http://199.127.62.234:8880/streams/335_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sky Sports Football
-http://199.127.62.234:8880/streams/352_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sky Sports Golf
-http://199.127.62.234:8880/streams/263_.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Sport*TV 1
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
@@ -464,21 +407,6 @@ https://slvcs87g3x.akamaized.net/live/canal_02/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 3 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_03/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TSN 1
-http://199.127.62.234:8880/streams/375_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TSN 2
-http://199.127.62.234:8880/streams/376_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TSN 3
-http://199.127.62.234:8880/streams/377_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TSN 4
-http://199.127.62.234:8880/streams/378_.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TSN 5
-http://199.127.62.234:8880/streams/379_.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Woohoo
 http://177.20.208.58:8000/play/a022/index.m3u8
