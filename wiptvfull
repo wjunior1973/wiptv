@@ -604,9 +604,6 @@ http://199.127.62.234:8880/streams/7_.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Hello TV
 http://191.37.223.133:8000/play/a022/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Londrina TV
-https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u80
-
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://199.127.62.234:8880/streams/182_.m3u8
 
@@ -621,12 +618,6 @@ http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3
 
 #EXTINF:-1 group-title="FILMES/SERIES",Prime Box Brazil
 http://177.52.216.28:8000/play/a06b
-
-#EXTINF:-1 group-title="FILMES/SERIES",Rede Clone TV
-https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Rede TV Sul
-https://novo.bitstreaming.info:1936/8032/8032/chunklist_w1447587132.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",RSC TV
 http://168.205.87.198:8555/live/adriana/123456/147.m3u8
@@ -714,15 +705,6 @@ http://187.19.165.103:8181/play/a00r/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Tokusato TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="FILMES/SERIES",TV Aracati
-https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TV Carioca.Net
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w421996290.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TV Controles
-https://livefocamundo.com:8081/tvcontroles/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TV Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
