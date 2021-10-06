@@ -16,9 +16,6 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band Piaui
 http://170.80.82.6:8000/play/a00j/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band RS - Ijui
-http://187.33.160.24:8000/play/4/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Band SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
@@ -37,9 +34,6 @@ http://199.127.62.234:8880/streams/257_.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band SP Interior
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band TO
-http://177.52.216.27:8000/play/a00s
-
 #EXTINF:-1 group-title="TV ABERTA",Canal do Boi
 http://177.20.208.58:8000/play/a044/index.m3u8
 
@@ -47,7 +41,7 @@ http://177.20.208.58:8000/play/a044/index.m3u8
 http://199.127.62.234:8880/streams/17_.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Cultura
-http://177.52.216.28:8000/play/a073
+http://177.20.208.58:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Futura
 http://177.20.208.58:8000/play/a05l/index.m3u8
@@ -64,12 +58,6 @@ http://177.20.208.58:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo BA - TV Sudoeste
 http://177.20.208.58:8000/play/a052/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo MG - InterTV dos Vales
-http://177.52.216.28:8000/play/a07g
-
-#EXTINF:-1 group-title="TV ABERTA",Globo MG - InterTV Grande Minas
-http://177.52.216.28:8000/play/a07f
-
 #EXTINF:-1 group-title="TV ABERTA",Globo Minas
 http://168.205.87.198:8555/live/adriana/123456/70.m3u8
 
@@ -82,9 +70,6 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 group-title="TV ABERTA",Globo RJ [Opcao 2]
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo RJ - InterTV Serra+Mar
-http://177.52.216.28:8000/play/a07h
-
 #EXTINF:-1 group-title="TV ABERTA",Globo RO - Rede Amazonica
 http://191.37.223.131:8000/play/a00g/index.m3u8
 
@@ -96,9 +81,6 @@ http://187.33.160.24:8000/play/10/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://199.127.62.234:8880/streams/2_.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo TO - TV Anhanguera
-http://177.52.216.27:8000/play/a00x
 
 #EXTINF:-1 group-title="TV ABERTA",Polishop
 http://177.20.208.58:8000/play/a05c/index.m3u8
@@ -145,12 +127,6 @@ http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record TO - TV Jovem
-http://177.52.216.27:8000/play/a00v
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! AM - TV A Critica
-http://177.52.216.28:8000/play/a09k
-
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! PB - TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 
@@ -190,9 +166,6 @@ http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlis
 #EXTINF:-1 group-title="TV ABERTA",SBT PI - TV Cidade Verde [Opcao 2]
 http://170.80.82.6:8000/play/a004/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PR - Rede Massa
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",SBT RO - TV Allamanda
 http://191.37.223.131:8000/play/a00d/index.m3u8
 
@@ -205,9 +178,6 @@ http://187.33.160.24:8000/play/87/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT SP
 http://199.127.62.234:8880/streams/1_.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT TO
-http://177.52.216.27:8000/play/a00w
-
 #EXTINF:-1 group-title="TV ABERTA",Terceira Via TV
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 
@@ -215,19 +185,19 @@ https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
-http://177.52.216.28:8000/play/a06k
+http://177.20.208.58:8000/play/a05f/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil 2
-http://177.52.216.28:8000/play/a06l
+http://168.205.87.198:8555/live/adriana/123456/135.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Escola
-http://177.52.216.28:8000/play/a06m
+http://177.20.208.58:8000/play/a05h/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Gazeta
-http://177.52.216.28:8000/play/a07z
+http://189.14.209.52:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Justica
 http://168.205.87.198:8555/live/adriana/123456/138.m3u8
@@ -276,7 +246,7 @@ http://185.236.229.21:9981/play/a04v
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News [Opcao 2]
-http://177.52.216.27:8000/play/a00t
+http://168.205.87.198:8555/live/adriana/123456/97.m3u8
 
 ######################
 ###### ESPORTES ######
@@ -515,7 +485,7 @@ http://185.236.229.21:9981/play/a054
 http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Prime Box Brazil
-http://177.52.216.28:8000/play/a06b
+http://177.20.208.58:8000/play/a04f/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",RSC TV
 http://168.205.87.198:8555/live/adriana/123456/147.m3u8
@@ -657,7 +627,7 @@ http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3
 http://185.236.229.21:9981/play/a03b
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Saude
-http://177.52.216.28:8000/play/a06n
+http://177.20.208.58:8000/play/a05i/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Casa e Cozinha [Portugal]
 http://185.236.229.21:9981/play/a060
@@ -699,7 +669,7 @@ http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3
 https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Fashion TV
-http://177.52.216.28:8000/play/a06f
+http://177.20.208.58:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Food Network
 http://187.19.165.103:8181/play/a00h/index.m3u8
@@ -780,7 +750,7 @@ https://the-pet-collective-international-br.samsung.wurl.com/manifest/playlist.m
 http://177.71.71.83:8001/play/tlc
 
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
-http://177.52.216.28:8000/play/a06g
+http://168.205.87.198:8555/live/adriana/123456/124.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
@@ -864,13 +834,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f9200078883
 #EXTINF:-1 group-title="INFANTIS",Retro Cartoon
 http://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Retro Cartoon 2
-https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",TV Ra-Tim-Bum
-http://177.52.216.28:8000/play/a063
-
-#EXTINF:-1 group-title="INFANTIS",TV Ra-Tim-Bum [Opcao 2]
 http://199.127.62.234:8880/streams/136_.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
@@ -967,9 +931,6 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:-1 group-title="MUSICA",VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="MUSICA",Web TV Music
-https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1884756249.m3u8
-
 #EXTINF:-1 group-title="MUSICA",Wham TV!
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
 
@@ -981,7 +942,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
 ########################
 
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
-http://177.52.216.28:8000/play/a070
+http://168.205.87.198:8555/live/adriana/123456/25.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",CNT
 http://168.205.87.198:8555/live/adriana/123456/150.m3u8
@@ -995,14 +956,8 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",Novo Tempo
 https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Canal 21
-http://177.52.216.28:8000/play/a08s
-
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Gospel
 http://199.127.62.234:8880/streams/247_.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
-http://177.52.216.28:8000/play/a06x
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
 https://origin-02.nxplay.com.br/REDE_VIDA/video.m3u8
