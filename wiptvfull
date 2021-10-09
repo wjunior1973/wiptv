@@ -20,6 +20,9 @@ http://170.80.82.6:8000/play/a00j/index.m3u8
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band SP [Opcao 2]
+http://45.232.196.7:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band SP [Opcao 3]
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band SP Interior
@@ -54,6 +57,9 @@ https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1
 
 #EXTINF:-1 group-title="TV ABERTA",Globo RO - Rede Amazonica
 http://191.37.223.131:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
+http://45.232.196.7:8000/play/a025/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Polishop
 http://177.20.208.58:8000/play/a05c/index.m3u8
@@ -135,6 +141,9 @@ http://170.80.82.6:8000/play/a004/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT RO - TV Allamanda
 http://191.37.223.131:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
+http://45.232.196.7:8000/play/a014/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Terceira Via TV
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
@@ -544,6 +553,9 @@ http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3
 
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Loading
+http://45.232.196.7:8000/play/a02h/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
