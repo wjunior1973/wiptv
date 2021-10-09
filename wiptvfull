@@ -207,6 +207,12 @@ http://168.205.87.198:8555/live/adriana/123456/97.m3u8
 ###### ESPORTES ######
 ######################
 
+#EXTINF:-1 group-title="ESPORTES",Band Sports
+http://189.91.128.146:4444/udp/227.10.20.119:1234
+
+#EXTINF:-1 group-title="ESPORTES",Combate
+http://189.91.128.146:4444/udp/227.10.20.172:1234
+
 #EXTINF:-1 group-title="ESPORTES",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -237,8 +243,11 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",Motorvision [Portugal]
-http://185.236.229.21:9981/play/a04z
+#EXTINF:-1 group-title="ESPORTES",Fox Sports
+http://189.91.128.146:4444/udp/227.10.20.116:1234
+
+#EXTINF:-1 group-title="ESPORTES",Fox Sports 2
+http://189.91.128.146:4444/udp/227.10.20.132:1234
 
 #EXTINF:-1 group-title="ESPORTES",NBA TV
 http://185.236.229.21:9981/play/a06c
@@ -249,8 +258,17 @@ http://187.19.165.103:8181/play/a00a/index.m3u8
 #EXTINF:-1 group-title="ESPORTES",Premiere 2
 http://187.19.165.103:8181/play/a00b/index.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",Sport*TV+
-http://185.236.229.21:9981/play/a03c
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
+http://189.91.128.146:4444/udp/227.10.20.105:1234
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 4
+http://189.91.128.146:4444/udp/227.10.20.106:1234
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 5
+http://189.91.128.146:4444/udp/227.10.20.107:1234
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 6
+http://189.91.128.146:4444/udp/227.10.20.123:1234
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
@@ -319,6 +337,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://177.20.208.58:8000/play/a058/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
+http://189.91.128.146:4444/udp/227.10.20.159:1234
+
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -346,6 +367,9 @@ http://185.236.229.21:9981/play/a05r
 #EXTINF:-1 group-title="FILMES/SERIES",FOX Movies [Portugal]
 http://185.236.229.21:9981/play/a039
 
+#EXTINF:-1 group-title="FILMES/SERIES",FX
+http://189.91.128.146:4444/udp/227.10.20.138:1234
+
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://187.19.165.103:8181/play/a00z/index.m3u8
 
@@ -364,11 +388,17 @@ http://187.19.165.103:8181/play/a014/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
 http://187.19.165.103:8181/play/a013/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
+http://189.91.128.146:4444/udp/227.10.20.100:1234
+
 #EXTINF:-1 group-title="FILMES/SERIES",Hello TV
 http://191.37.223.133:8000/play/a022/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Jeannie e um Genio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="FILMES/SERIES",Megapix
+http://189.91.128.146:4444/udp/227.10.20.89:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -423,6 +453,15 @@ http://187.19.165.103:8181/play/a00x/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
 http://187.19.165.103:8181/play/a00w/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
+http://189.91.128.146:4444/udp/227.10.20.87:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
+http://189.91.128.146:4444/udp/227.10.20.134:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
+http://189.91.128.146:4444/udp/227.10.20.136:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 http://168.205.87.198:8555/live/adriana/123456/116.m3u8
@@ -614,6 +653,12 @@ http://191.37.223.133:8000/play/a027/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://177.71.71.83:8001/play/discoverykids
+
+#EXTINF:-1 group-title="INFANTIS",Disney Channel
+http://189.91.128.146:4444/udp/227.10.20.110:1234
+
+#EXTINF:-1 group-title="INFANTIS",Gloob
+http://189.91.128.146:4444/udp/227.10.20.91:1234
 
 #EXTINF:-1 group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
