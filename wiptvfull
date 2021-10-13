@@ -176,9 +176,6 @@ http://168.205.87.198:8555/live/adriana/123456/139.m3u8
 ###### NOTICIAS ######
 ######################
 
-#EXTINF:-1 group-title="NOTICIAS",24hNews
-http://191.37.223.133:8000/play/a028/index.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
 
@@ -343,9 +340,6 @@ http://189.91.128.146:4444/udp/227.10.20.159:1234
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Entretendo
-http://191.37.223.133:8000/play/a026/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Eurochannel
 http://177.20.208.58:8000/play/a04w/index.m3u8
 
@@ -390,9 +384,6 @@ http://187.19.165.103:8181/play/a013/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://189.91.128.146:4444/udp/227.10.20.100:1234
-
-#EXTINF:-1 group-title="FILMES/SERIES",Hello TV
-http://191.37.223.133:8000/play/a022/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Jeannie e um Genio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -648,9 +639,6 @@ http://168.205.87.198:8555/live/adriana/123456/22.m3u8
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 http://187.19.165.103:8181/play/a00o/index.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Clubinho Fun
-http://191.37.223.133:8000/play/a027/index.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://177.71.71.83:8001/play/discoverykids
 
@@ -677,9 +665,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f9200078883
 
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w79601195.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
-http://191.37.223.133:8000/play/a02b/index.m3u8
 
 ####################
 ###### MUSICA ######
