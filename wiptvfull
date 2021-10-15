@@ -176,9 +176,6 @@ http://168.205.87.198:8555/live/adriana/123456/139.m3u8
 ###### NOTICIAS ######
 ######################
 
-#EXTINF:-1 group-title="NOTICIAS",Band News
-http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
@@ -629,9 +626,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 
 #EXTINF:-1 group-title="INFANTIS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Animestat!on
-https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Boomerang
 http://168.205.87.198:8555/live/adriana/123456/22.m3u8
