@@ -276,9 +276,6 @@ http://177.71.71.83:8000/play/sportv
 #EXTINF:-1 group-title="ESPORTES",SporTV 2
 http://177.71.71.83:8000/play/sportv2
 
-#EXTINF:-1 group-title="ESPORTES",SporTV 3
-http://177.71.71.83:8000/play/sportv3
-
 #EXTINF:-1 group-title="ESPORTES",Sport*TV 1 [Portugal]
 http://185.236.229.21:9981/play/a072
 
