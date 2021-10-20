@@ -16,6 +16,9 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band Piaui
 http://170.80.82.6:8000/play/a00j/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Band RS
+http://187.33.160.24:8000/play/4/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Band SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
@@ -57,6 +60,15 @@ https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1
 
 #EXTINF:-1 group-title="TV ABERTA",Globo RO - Rede Amazonica
 http://191.37.223.131:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RS - RBS TV
+http://187.33.160.24:8000/play/1/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC TV
+http://187.33.160.24:8000/play/10/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
+http://45.232.196.7:8000/play/a025/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Polishop
 http://177.20.208.58:8000/play/a05c/index.m3u8
@@ -138,6 +150,15 @@ http://170.80.82.6:8000/play/a004/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT RO - TV Allamanda
 http://191.37.223.131:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT RS
+http://187.33.160.24:8000/play/3/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC
+http://187.33.160.24:8000/play/87/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
+http://45.232.196.7:8000/play/a014/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Shoptime
 http://189.91.128.146:4444/udp/227.10.20.162:1234
