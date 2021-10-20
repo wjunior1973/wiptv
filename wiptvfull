@@ -109,9 +109,6 @@ http://170.80.82.6:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record RO - SIC TV
-http://5953e7f9ae845.streamlock.net/2502/2502/chunklist.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Record RS
 http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 
@@ -885,7 +882,7 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
-https://origin-02.nxplay.com.br/REDE_VIDA/video.m3u8
+http://168.205.87.198:8555/live/adriana/123456/103.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
