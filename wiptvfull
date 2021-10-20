@@ -46,6 +46,9 @@ http://177.20.208.58:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo Minas
 http://168.205.87.198:8555/live/adriana/123456/70.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo Minas [Opcao 2]
+http://189.91.128.146:4444/udp/227.10.20.109:1234
+
 #EXTINF:-1 group-title="TV ABERTA",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
@@ -136,11 +139,14 @@ http://170.80.82.6:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT RO - TV Allamanda
 http://191.37.223.131:8000/play/a00d/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Terceira Via TV
-https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Shoptime
+http://189.91.128.146:4444/udp/227.10.20.162:1234
 
 #EXTINF:-1 group-title="TV ABERTA",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV A Critica
+http://189.91.128.146:4444/udp/227.10.20.164:1234
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://177.20.208.58:8000/play/a05f/index.m3u8
@@ -170,6 +176,12 @@ http://168.205.87.198:8555/live/adriana/123456/139.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://177.71.71.83:8000/play/bandnews
 
+#EXTINF:-1 group-title="NOTICIAS",Band News [Opcao 2]
+http://189.91.128.146:4444/udp/227.10.20.131:1234
+
+#EXTINF:-1 group-title="NOTICIAS",Bloomberg Brasil
+http://189.91.128.146:4444/udp/227.10.20.161:1234
+
 #EXTINF:-1 group-title="NOTICIAS",CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
@@ -178,6 +190,9 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 http://168.205.87.198:8555/live/adriana/123456/28.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",CNN Brasil [Opcao 2]
+http://189.91.128.146:4444/udp/227.10.20.176:1234
 
 #EXTINF:-1 group-title="NOTICIAS",Euronews [Portugal]
 http://185.236.229.21:9981/play/a03l
@@ -450,6 +465,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 http://187.19.165.103:8181/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
+http://189.91.128.146:4444/udp/227.10.20.139:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Hits
 http://177.71.71.83:8001/play/starhits
