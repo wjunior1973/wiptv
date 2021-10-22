@@ -221,14 +221,8 @@ http://168.205.87.198:8555/live/adriana/123456/28.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil [Opcao 2]
 http://189.91.128.146:4444/udp/227.10.20.176:1234
 
-#EXTINF:-1 group-title="NOTICIAS",Euronews [Portugal]
-http://185.236.229.21:9981/play/a03l
-
 #EXTINF:-1 group-title="NOTICIAS",GloboNews
 http://177.71.71.83:8000/play/globonews
-
-#EXTINF:-1 group-title="NOTICIAS",GloboNews [opcao 2]
-http://185.236.229.21:9981/play/a04v
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -291,9 +285,6 @@ http://189.91.128.146:4444/udp/227.10.20.116:1234
 #EXTINF:-1 group-title="ESPORTES",Fox Sports 2
 http://189.91.128.146:4444/udp/227.10.20.132:1234
 
-#EXTINF:-1 group-title="ESPORTES",NBA TV
-http://185.236.229.21:9981/play/a06c
-
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://187.19.165.103:8181/play/a00a/index.m3u8
 
@@ -318,24 +309,6 @@ http://177.71.71.83:8000/play/sportv
 #EXTINF:-1 group-title="ESPORTES",SporTV 2
 http://177.71.71.83:8000/play/sportv2
 
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 1 [Portugal]
-http://185.236.229.21:9981/play/a072
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 2 [Portugal]
-http://185.236.229.21:9981/play/a079
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 3 [Portugal]
-http://185.236.229.21:9981/play/a06i
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 4 [Portugal]
-http://185.236.229.21:9981/play/a06j
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 5 [Portugal]
-http://185.236.229.21:9981/play/a03n
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV+ [Portugal]
-http://185.236.229.21:9981/play/a03c
-
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
 
@@ -358,17 +331,8 @@ http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://187.19.165.103:8181/play/a00k/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",AMC [Portugal]
-http://185.236.229.21:9981/play/a04x
-
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",AXN Movies [Portugal]
-http://185.236.229.21:9981/play/a05l
-
-#EXTINF:-1 group-title="FILMES/SERIES",AXN White [Portugal]
-http://185.236.229.21:9981/play/a05p
 
 #EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
@@ -424,15 +388,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 #EXTINF:-1 group-title="FILMES/SERIES",Filmes Web
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",FOX Crime [Portugal
-http://185.236.229.21:9981/play/a066
-
-#EXTINF:-1 group-title="FILMES/SERIES",FOX Life [Portugal]
-http://185.236.229.21:9981/play/a05r
-
-#EXTINF:-1 group-title="FILMES/SERIES",FOX Movies [Portugal]
-http://185.236.229.21:9981/play/a039
-
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://189.91.128.146:4444/udp/227.10.20.138:1234
 
@@ -457,9 +412,6 @@ http://187.19.165.103:8181/play/a013/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://189.91.128.146:4444/udp/227.10.20.100:1234
 
-#EXTINF:-1 group-title="FILMES/SERIES",Hollywood [Portugal]
-http://185.236.229.21:9981/play/a06k
-
 #EXTINF:-1 group-title="FILMES/SERIES",Jeannie e um Genio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -468,9 +420,6 @@ http://177.71.71.83:8000/play/megapix
 
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",NOS Studios [Portugal]
-http://185.236.229.21:9981/play/a054
 
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount
 http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8
@@ -511,9 +460,6 @@ http://187.19.165.103:8181/play/a00l/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",SyFy
 http://187.19.165.103:8181/play/a00i/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",SyFy [Portugal]
-http://185.236.229.21:9981/play/a04j
-
 #EXTINF:-1 group-title="FILMES/SERIES",TBS
 http://187.19.165.103:8181/play/a00p/index.m3u8
 
@@ -553,18 +499,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523
 #EXTINF:-1 group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES/SERIES",TVCine Action [Portugal]
-http://185.236.229.21:9981/play/a04n
-
-#EXTINF:-1 group-title="FILMES/SERIES",TVCine Edition [Portugal]
-http://185.236.229.21:9981/play/a061
-
-#EXTINF:-1 group-title="FILMES/SERIES",TVCine Emotion [Portugal]
-http://185.236.229.21:9981/play/a05z
-
-#EXTINF:-1 group-title="FILMES/SERIES",TVCine Top [Portugal]
-http://185.236.229.21:9981/play/a04w
-
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
 
@@ -578,23 +512,14 @@ https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u
 ###### VARIEDADES ######
 ########################
 
-#EXTINF:-1 group-title="VARIEDADES",24 Kitchen [Portugal]
-http://185.236.229.21:9981/play/a05m
-
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://189.91.128.146:4444/udp/227.10.20.118:1234
 
 #EXTINF:-1 group-title="VARIEDADES",Arte1
 http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Blaze [Portugal]
-http://185.236.229.21:9981/play/a03b
-
 #EXTINF:-1 group-title="VARIEDADES",Canal Saude
 http://177.20.208.58:8000/play/a05i/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Casa e Cozinha [Portugal]
-http://185.236.229.21:9981/play/a060
 
 #EXTINF:-1 group-title="VARIEDADES",Comedia TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -799,9 +724,6 @@ https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="MUSICA",Loop 90s
 https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICA",MTV 00s
-http://185.236.229.21:9981/play/a03d
-
 #EXTINF:-1 group-title="MUSICA",MTV 80s
 http://78.83.191.18:8000/play/a06q
 
@@ -825,12 +747,6 @@ https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="MUSICA",Trace Brazuca
 http://177.71.71.83:8000/play/tracebrazuca
-
-#EXTINF:-1 group-title="MUSICA",Trace Toca
-http://185.236.229.21:9981/play/a04o
-
-#EXTINF:-1 group-title="MUSICA",Trace urban
-http://185.236.229.21:9981/play/a06g
 
 #EXTINF:-1 group-title="MUSICA",VEVO 2K's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
