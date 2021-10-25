@@ -40,6 +40,9 @@ http://168.205.87.198:8555/live/adriana/123456/32.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Futura
 http://191.37.223.132:8000/play/a00b/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo BA
+http://177.20.208.58:8000/play/a053/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo ES
 http://191.32.181.167:8000/play/a0hl
 
@@ -550,9 +553,6 @@ http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3
 
 #EXTINF:-1 group-title="VARIEDADES",Multishow
 http://177.71.71.83:8001/play/multishow
-
-#EXTINF:-1 group-title="VARIEDADES",Mundo TV
-https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",People are Awesome
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
