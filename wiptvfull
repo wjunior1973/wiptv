@@ -40,41 +40,20 @@ http://191.37.223.132:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo BA
 http://177.20.208.58:8000/play/a053/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo CE
-http://50.7.34.155:2200/BR/TV_Verdes_Mares_HD_Fortaleza-br/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo DF
-http://50.7.34.155:2200/BR/Globo_Brasilia_HD-br/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo ES
-http://50.7.34.155:2200/BR/GLOBO_VITORIA_-br/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Globo MG
 http://168.205.87.198:8555/live/adriana/123456/70.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo MG [Opcao 2]
 http://189.91.128.146:4444/udp/227.10.20.109:1234
 
-#EXTINF:-1 group-title="TV ABERTA",Globo Nordeste
-http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Globo PB
 http://187.19.165.103:8181/play/a002/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo PR
-http://50.7.34.155:2200/BR/RPC_TV_Curitiba_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo RO
 http://191.37.223.131:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SC
 http://179.125.119.154:8000/play/a015/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo SC [Opcao 2]
-http://50.7.34.155:2200/BR/GLOBO_Nsc_Joinville_-br/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo SP
-http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record AM
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
@@ -284,12 +263,6 @@ http://189.91.128.146:4444/udp/227.10.20.107:1234
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 6
 http://189.91.128.146:4444/udp/227.10.20.123:1234
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 7
-http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 8
-http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",SporTV
 http://177.71.71.83:8000/play/sportv
@@ -593,15 +566,6 @@ http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3
 #EXTINF:-1 group-title="VARIEDADES",Multishow
 http://177.71.71.83:8001/play/multishow
 
-#EXTINF:-1 group-title="VARIEDADES",Multishow [Opcao 2]
-http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",NatGeo
-http://50.7.34.155:2200/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",NatGeo Wild
-http://50.7.34.155:2200/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Nova Era TV
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
 
@@ -653,9 +617,6 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Viva
-http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8
-
 #########################
 ###### ANIMES/GEEK ######
 #########################
@@ -706,9 +667,6 @@ http://177.71.71.83:8000/play/disneyxd
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://189.91.128.146:4444/udp/227.10.20.91:1234
 
-#EXTINF:-1 group-title="INFANTIS",Gloobinho
-http://50.7.34.155:2200/BR/GLOOBINHO_-br/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
 
@@ -726,9 +684,6 @@ http://168.205.87.198:8555/live/adriana/123456/84.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w79601195.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Zoomoo
-http://50.7.34.155:2200/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8
 
 ####################
 ###### MUSICA ######
