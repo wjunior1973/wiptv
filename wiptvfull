@@ -98,7 +98,7 @@ http://191.37.223.131:8000/play/a00f/index.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w236745043.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! SP
-http://177.20.208.58:8000/play/a03x/index.m3u8
+https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! SP [Opcao 2]
 http://177.20.208.58:8000/play/a03p/index.m3u8
@@ -541,6 +541,9 @@ http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3
 
 #EXTINF:-1 group-title="VARIEDADES",History 2
 http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Jovem Pan
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 group-title="VARIEDADES",Life Channel Brasil
 https://hls.brasilstream.com.br/live/lifechannel/lifechannel/index.m3u8
