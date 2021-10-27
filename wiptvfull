@@ -185,6 +185,9 @@ http://168.205.87.198:8555/live/adriana/123456/28.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil [Opcao 2]
 http://189.91.128.146:4444/udp/227.10.20.176:1234
 
+#EXTINF:-1 group-title="NOTICIAS",Euronews [Portugal]
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",GloboNews
 http://177.71.71.83:8000/play/globonews
 
@@ -719,6 +722,9 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist
 #EXTINF:-1 group-title="MUSICA",Hitts
 http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="MUSICA",Live in Concert
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+
 #EXTINF:-1 group-title="MUSICA",Loop 80s
 https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
 
@@ -730,6 +736,9 @@ http://78.83.191.18:8000/play/a06q
 
 #EXTINF:-1 group-title="MUSICA",MTV Live
 http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICA",MTV Love Music
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e92e4694c027be6ecece1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=60&terminate=false&userId=
 
 #EXTINF:-1 group-title="MUSICA",MTV Unplugged
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -769,6 +778,9 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 
 #EXTINF:-1 group-title="MUSICA",VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MUSICA",VH1 Classics [Opcao 2]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="MUSICA",Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
