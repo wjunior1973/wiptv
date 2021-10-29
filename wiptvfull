@@ -289,6 +289,9 @@ http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 ###### FILMES/SERIES ######
 ###########################
 
+#EXTINF:-1 group-title="FILMES/SERIES",A Plus
+https://stmv1.srvif.com/aplus/aplus/chunklist_w966743469.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 
@@ -485,6 +488,9 @@ http://189.91.128.146:4444/udp/227.10.20.118:1234
 #EXTINF:-1 group-title="VARIEDADES",Arte1
 http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",AW TV
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b3128000.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Canal Saude
 http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
@@ -521,6 +527,9 @@ http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3
 #EXTINF:-1 group-title="VARIEDADES",Elemental Channel
 https://5c483b9d1019c.streamlock.net/8064/8064/chunklist_w1126418059.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",EUTV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Fail Army
 https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 
@@ -547,9 +556,6 @@ http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3
 
 #EXTINF:-1 group-title="VARIEDADES",Jovem Pan
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1 group-title="VARIEDADES",Life Channel Brasil
-https://hls.brasilstream.com.br/live/lifechannel/lifechannel/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8
@@ -616,6 +622,9 @@ http://177.71.71.83:8001/play/tlc
 
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://168.205.87.198:8555/live/adriana/123456/124.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",TV ND Brasil
+https://video01.kshost.com.br:4443/tv3685/tv3685/chunklist_w817106734.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
@@ -727,9 +736,6 @@ https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master
 
 #EXTINF:-1 group-title="MUSICA",Loop 80s
 https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Loop 90s
-https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA",MTV 80s
 http://78.83.191.18:8000/play/a06q
