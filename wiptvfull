@@ -823,7 +823,180 @@ http://168.205.87.198:8555/live/adriana/123456/103.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+https://59f1cbe63db89.
+streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+######################
+###### PORTUGAL ######
+######################
+
+#EXTINF:-1 groupt-title="PORTUGAL",24 Kitchen
+http://45.153.35.221:8000/play/a0vd
+
+#EXTINF:-1 groupt-title="PORTUGAL",AMC
+http://45.153.35.221:8000/play/a0wj
+
+#EXTINF:-1 groupt-title="PORTUGAL",AXN
+http://45.153.35.221:8000/play/a0zf
+
+#EXTINF:-1 groupt-title="PORTUGAL",AXN Movies
+http://45.153.35.221:8000/play/a0vc
+
+#EXTINF:-1 groupt-title="PORTUGAL",AXN White
+http://45.153.35.221:8000/play/a0vg
+
+#EXTINF:-1 groupt-title="PORTUGAL",Blaze
+http://45.153.35.221:8000/play/a0x9
+
+#EXTINF:-1 groupt-title="PORTUGAL",Canal Historia
+http://45.153.35.221:8000/play/a0rv
+
+#EXTINF:-1 groupt-title="PORTUGAL",Casa e Cozinha
+http://45.153.35.221:8000/play/a0vq
+
+#EXTINF:-1 groupt-title="PORTUGAL",Cinemundo
+http://45.153.35.221:8000/play/a0r9
+
+#EXTINF:-1 groupt-title="PORTUGAL",Discovery Channel
+http://45.153.35.221:8000/play/a0w7
+
+#EXTINF:-1 groupt-title="PORTUGAL",Eleven Sports 1
+http://45.153.35.221:8000/play/a0vm
+
+#EXTINF:-1 groupt-title="PORTUGAL",Eleven Sports 2
+http://45.153.35.221:8000/play/a0z5
+
+#EXTINF:-1 groupt-title="PORTUGAL",Eleven Sports 3
+http://45.153.35.221:8000/play/a0za
+
+#EXTINF:-1 groupt-title="PORTUGAL",Eleven Sports 4
+http://45.153.35.221:8000/play/a0vn
+
+#EXTINF:-1 groupt-title="PORTUGAL",Eleven Sports 5
+http://45.153.35.221:8000/play/a0vo
+
+#EXTINF:-1 groupt-title="PORTUGAL",Eleven Sports 6
+http://45.153.35.221:8000/play/a0z9
+
+#EXTINF:-1 groupt-title="PORTUGAL",Euronews
+http://45.153.35.221:8000/play/a0xj
+
+#EXTINF:-1 groupt-title="PORTUGAL",Eurosport 1
+http://45.153.35.221:8000/play/a0vh
+
+#EXTINF:-1 groupt-title="PORTUGAL",Eurosport 2
+http://45.153.35.221:8000/play/a0u4
+
+#EXTINF:-1 groupt-title="PORTUGAL",FOX
+http://45.153.35.221:8000/play/a0z4
+
+#EXTINF:-1 groupt-title="PORTUGAL",FOX Comedy
+http://45.153.35.221:8000/play/a0z8
+
+#EXTINF:-1 groupt-title="PORTUGAL",FOX Crime
+http://45.153.35.221:8000/play/a0ve
+
+#EXTINF:-1 groupt-title="PORTUGAL",FOX Life
+http://45.153.35.221:8000/play/a0vi
+
+#EXTINF:-1 groupt-title="PORTUGAL",FOX Movies
+http://45.153.35.221:8000/play/a0x8
+
+#EXTINF:-1 groupt-title="PORTUGAL",Fuel TV
+http://45.153.35.221:8000/play/a0wc
+
+#EXTINF:-1 groupt-title="PORTUGAL",Globo
+http://45.153.35.221:8000/play/a0rr
+
+#EXTINF:-1 groupt-title="PORTUGAL",Globo Now
+http://45.153.35.221:8000/play/a0wh
+
+#EXTINF:-1 groupt-title="PORTUGAL",Historia
+http://45.153.35.221:8000/play/a0ra
+
+#EXTINF:-1 groupt-title="PORTUGAL",Hollywood
+http://45.153.35.221:8000/play/a0u2
+
+#EXTINF:-1 groupt-title="PORTUGAL",MTV 00s
+http://45.153.35.221:8000/play/a0xb
+
+#EXTINF:-1 groupt-title="PORTUGAL",MTV Portugal
+http://45.153.35.221:8000/play/a0rx
+
+#EXTINF:-1 groupt-title="PORTUGAL",National Geographic
+http://45.153.35.221:8000/play/a0z2
+
+#EXTINF:-1 groupt-title="PORTUGAL",National Geographic WILD
+http://45.153.35.221:8000/play/a0vl
+
+#EXTINF:-1 groupt-title="PORTUGAL",NBA TV
+http://45.153.35.221:8000/play/a0w2
+
+#EXTINF:-1 groupt-title="PORTUGAL",NOS Studios
+http://45.153.35.221:8000/play/a0wp
+
+#EXTINF:-1 groupt-title="PORTUGAL",Odisseia
+http://45.153.35.221:8000/play/a0u3
+
+#EXTINF:-1 groupt-title="PORTUGAL",SIC Noticias
+http://45.153.35.221:8000/play/a0ui
+
+#EXTINF:-1 groupt-title="PORTUGAL",Sport TV 1
+http://45.153.35.221:8000/play/a0yz
+
+#EXTINF:-1 groupt-title="PORTUGAL",Sport TV 2
+http://45.153.35.221:8000/play/a0z0
+
+#EXTINF:-1 groupt-title="PORTUGAL",Sport TV 3
+http://45.153.35.221:8000/play/a0z1
+
+#EXTINF:-1 groupt-title="PORTUGAL",Sport TV 4
+http://45.153.35.221:8000/play/a0u1
+
+#EXTINF:-1 groupt-title="PORTUGAL",Sport TV 5
+http://45.153.35.221:8000/play/a0um
+
+#EXTINF:-1 groupt-title="PORTUGAL",Sport TV 6
+http://45.153.35.221:8000/play/a0un
+
+#EXTINF:-1 groupt-title="PORTUGAL",Sport TV NBA
+http://45.153.35.221:8000/play/a0vk
+
+#EXTINF:-1 groupt-title="PORTUGAL",Sport TV+
+http://45.153.35.221:8000/play/a0xa
+
+#EXTINF:-1 groupt-title="PORTUGAL",SyFy
+http://45.153.35.221:8000/play/a0xp
+
+#EXTINF:-1 groupt-title="PORTUGAL",TLC
+http://45.153.35.221:8000/play/a0x7
+
+#EXTINF:-1 groupt-title="PORTUGAL",Trace Toca
+http://45.153.35.221:8000/play/a0wa
+
+#EXTINF:-1 groupt-title="PORTUGAL",Trace Urban
+http://45.153.35.221:8000/play/a0w6
+
+#EXTINF:-1 groupt-title="PORTUGAL",TVCine ACTION
+http://45.153.35.221:8000/play/a0w9
+
+#EXTINF:-1 groupt-title="PORTUGAL",TVCine EDITION
+http://45.153.35.221:8000/play/a0vr
+
+#EXTINF:-1 groupt-title="PORTUGAL",TVCine EMOTION
+http://45.153.35.221:8000/play/a0vp
+
+#EXTINF:-1 groupt-title="PORTUGAL",TVCine TOP
+http://45.153.35.221:8000/play/a0wi
+
+#EXTINF:-1 groupt-title="PORTUGAL",TVI 24
+http://45.153.35.221:8000/play/a0rp
+
+#EXTINF:-1 groupt-title="PORTUGAL",TVI Reality
+http://45.153.35.221:8000/play/a0x5
+
+#EXTINF:-1 groupt-title="PORTUGAL",ZAP Viva
+http://45.153.35.221:8000/play/a0wo
 
 ########################
 ###### WEB RADIOS ######
