@@ -200,9 +200,6 @@ https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
 #EXTINF:-1 group-title="NOTICIAS",GloboNews
 http://177.71.71.83:8000/play/globonews
 
-#EXTINF:-1 group-title="NOTICIAS",JP News
-http://45.232.196.38:8001/play/a035/index.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
@@ -288,9 +285,6 @@ http://177.71.71.83:8000/play/sportv
 #EXTINF:-1 group-title="ESPORTES",SporTV 2
 http://177.71.71.83:8000/play/sportv2
 
-#EXTINF:-1 group-title="ESPORTES",SporTV 3
-http://45.232.196.38:8000/play/a05w/index.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
 
@@ -373,9 +367,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 #EXTINF:-1 group-title="FILMES/SERIES",Filmes Web
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Fox Movies
-http://51.15.0.141:88/fox_movies/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://189.91.128.146:4444/udp/227.10.20.138:1234
 
@@ -435,9 +426,6 @@ http://177.71.71.83:8001/play/starhits
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Hits 2
 http://177.71.71.83:8001/play/starhits2
-
-#EXTINF:-1 group-title="FILMES/SERIES",Star Life
-http://45.232.196.38:8000/play/a04v/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
 http://187.19.165.103:8181/play/a00l/index.m3u8
@@ -611,9 +599,6 @@ http://168.205.87.198:8555/live/adriana/123456/124.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Viva
-http://45.232.196.38:8000/play/a05x/index.m3u8
-
 #########################
 ###### ANIMES/GEEK ######
 #########################
@@ -629,9 +614,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559
 
 #EXTINF:-1 group-title="ANIMES/GEEK",South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="ANIMES/GEEK",Star Trek Channel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="ANIMES/GEEK",Tokusato TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -684,9 +666,6 @@ http://168.205.87.198:8555/live/adriana/123456/84.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w79601195.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Zoomoo
-http://45.232.196.38:8001/play/a02v/index.m3u8
 
 ####################
 ###### MUSICA ######
@@ -789,9 +768,6 @@ http://168.205.87.198:8555/live/adriana/123456/25.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",CNT
 http://168.205.87.198:8555/live/adriana/123456/150.m3u8
 
-#EXTINF:-1 group-title="RELIGIOSOS",Cristo Vive
-https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w308963911.m3u8
-
 #EXTINF:-1 group-title="RELIGIOSOS",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
@@ -812,347 +788,6 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
-#######################
-###### REGIONAIS ######
-#######################
-
-#EXTINF:-1 group-title="REGIONAIS",1001 Noites (Curitiba - PR)
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Aish Tv Brasil (Cabo Frio - RJ)
-https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",An TV (Andradas - MG)
-https://caikron.com.br:8082/tvandradas/tvandradas.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Bah! TV (Porto Alegre - RS)
-https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Clube Web TV (Sao Jose do Norte - RS)
-https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w1181204325.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Conecta+ TV (Nova Prata - RS)
-http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Londrina TV (Londrina - PR)
-https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w1732819933.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Master TV (Cascavel - PR)
-http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Portal News Web TV (Campos do Jordao - SP)
-https://stmv1.srvstm.com/portalnews/portalnews/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Primer TV (Sao Jose - SC)
-http://200.194.238.229:8383/live/primer/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Rede Familia (Limeira - SP)
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1096000.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Rede QDM (Hortolandia - SP)
-https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Santa Cecilia TV (Santos - SP)
-http://flash1.crossdigital.com.br/2063/2063/chunklist_w421548190.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Terceira Via TV  (Campo de Goytacazes - RJ)
-https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TR Web TV (Londrina - PR)
-https://novo.bitstreaming.info:1936/8132/8132/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Aracati (CE)
-https://livefocamundo.com:8081/tvaracati/index.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Brusque (SC)
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Carioca (RJ)
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w543831895.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Cidade Oeste (Mossoro - RN)
-http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8?token=undefined
-
-#EXTINF:-1 group-title="REGIONAIS",TV Cidade Viva (Joao Pessoa - PB)
-https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Clic Brasil (Osasco - SP)
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV das Artes (Embu das Artes - SP)
-https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/chunklist_w406428840.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Destak (Birigui - SP)
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Diario do Sertao (PB)
-http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Digital Birigui (SP)
-http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
-
-#EXTINF:-1 group-title="REGIONAIS",Tv Germana (Lagoa do Mato - MA)
-https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w560490958.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Guarulhos (SP)
-http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Interativa (PB)
-http://srv2.zcast.com.br/tvinterativa/tvinterativa/chunklist_w699108230.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Interlagos (SP)
-http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Ita News (Itapeva - SP)
-https://stmv1.samcast.com.br/ronaldo7151/ronaldo7151/chunklist_w1814222169.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Jaguar (Limoeiro do Norte - CE)
-https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist_w783002578.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Litoral (RS)
-https://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Max 90 (Aracatuba - SP)
-https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Metropole (Caucaia - CE)
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Metropole News (Goiania - GO)
-http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Natal (RN)
-http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Naza (Nazare - BA)
-https://stmv1.srvif.com/tvnaza/tvnaza/playlist-480p.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Omindare (SP)
-https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Osorio (Osorio - RS)
-https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w2137453495.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Otimista (Fortaleza - CE)
-https://hls.directradios.com/otimista/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Ouro Negro (Salvador - BA)
-https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/chunklist_w1988638036.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Pantanal (Campo Grande - MS)
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist-480p.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Ponta da Serra (Canoas - RS)
-https://srv2.zcast.com.br/juanes1546/juanes1546/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Portal MH (Maravilha - SC)
-https://srv4.zcast.com.br/ivo8888/ivo8888/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Precabura (Fortaleza - CE)
-http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Rio Preto (SJ do Rio Preto - SP)
-http://201.48.245.24:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Sandegi (Surubim - PE)
-https://video01.kshost.com.br/antonio9510/antonio9510/chunklist_w130287641.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV TWG (Guarei - SP)
-https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1428805801.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV Vale das Artes (Peruibe - SP)
-https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w2069670835.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",TV WM (Fortaleza - CE)
-https://stmv2.voxtvhd.com.br/tvwm/tvwm/chunklist_w260877361.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Unisul TV (Tubarao - SC)
-https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Web TV Cine (SP)
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w436946314.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Web TV Metropolitana (SP)
-https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist-480p.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Web TV Progresso (MA)
-https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w89246481.m3u8
-
-#EXTINF:-1 group-title="REGIONAIS",Web TV Uai (MG)
-https://livefocamundo.com:8081/webtvuai/tracks-v1a1/mono.m3u8
-
-######################
-###### PORTUGAL ######
-######################
-
-#EXTINF:-1 group-title="PORTUGAL",24 Kitchen
-http://45.153.35.221:8000/play/a0vd
-
-#EXTINF:-1 group-title="PORTUGAL",AMC
-http://45.153.35.221:8000/play/a0wj
-
-#EXTINF:-1 group-title="PORTUGAL",AXN
-http://45.153.35.221:8000/play/a0zf
-
-#EXTINF:-1 group-title="PORTUGAL",AXN Movies
-http://45.153.35.221:8000/play/a0vc
-
-#EXTINF:-1 group-title="PORTUGAL",AXN White
-http://45.153.35.221:8000/play/a0vg
-
-#EXTINF:-1 group-title="PORTUGAL",Blaze
-http://45.153.35.221:8000/play/a0x9
-
-#EXTINF:-1 group-title="PORTUGAL",Canal Historia
-http://45.153.35.221:8000/play/a0rv
-
-#EXTINF:-1 group-title="PORTUGAL",Casa e Cozinha
-http://45.153.35.221:8000/play/a0vq
-
-#EXTINF:-1 group-title="PORTUGAL",Cinemundo
-http://45.153.35.221:8000/play/a0r9
-
-#EXTINF:-1 group-title="PORTUGAL",Discovery Channel
-http://45.153.35.221:8000/play/a0w7
-
-#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 1
-http://45.153.35.221:8000/play/a0vm
-
-#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 2
-http://45.153.35.221:8000/play/a0z5
-
-#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 3
-http://45.153.35.221:8000/play/a0za
-
-#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 4
-http://45.153.35.221:8000/play/a0vn
-
-#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 5
-http://45.153.35.221:8000/play/a0vo
-
-#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 6
-http://45.153.35.221:8000/play/a0z9
-
-#EXTINF:-1 group-title="PORTUGAL",Euronews
-http://45.153.35.221:8000/play/a0xj
-
-#EXTINF:-1 group-title="PORTUGAL",Eurosport 1
-http://45.153.35.221:8000/play/a0vh
-
-#EXTINF:-1 group-title="PORTUGAL",Eurosport 2
-http://45.153.35.221:8000/play/a0u4
-
-#EXTINF:-1 group-title="PORTUGAL",FOX
-http://45.153.35.221:8000/play/a0z4
-
-#EXTINF:-1 group-title="PORTUGAL",FOX Comedy
-http://45.153.35.221:8000/play/a0z8
-
-#EXTINF:-1 group-title="PORTUGAL",FOX Crime
-http://45.153.35.221:8000/play/a0ve
-
-#EXTINF:-1 group-title="PORTUGAL",FOX Life
-http://45.153.35.221:8000/play/a0vi
-
-#EXTINF:-1 group-title="PORTUGAL",FOX Movies
-http://45.153.35.221:8000/play/a0x8
-
-#EXTINF:-1 group-title="PORTUGAL",Fuel TV
-http://45.153.35.221:8000/play/a0wc
-
-#EXTINF:-1 group-title="PORTUGAL",Globo
-http://45.153.35.221:8000/play/a0rr
-
-#EXTINF:-1 group-title="PORTUGAL",Globo Now
-http://45.153.35.221:8000/play/a0wh
-
-#EXTINF:-1 group-title="PORTUGAL",Historia
-http://45.153.35.221:8000/play/a0ra
-
-#EXTINF:-1 group-title="PORTUGAL",Hollywood
-http://45.153.35.221:8000/play/a0u2
-
-#EXTINF:-1 group-title="PORTUGAL",MTV 00s
-http://45.153.35.221:8000/play/a0xb
-
-#EXTINF:-1 group-title="PORTUGAL",MTV Portugal
-http://45.153.35.221:8000/play/a0rx
-
-#EXTINF:-1 group-title="PORTUGAL",National Geographic
-http://45.153.35.221:8000/play/a0z2
-
-#EXTINF:-1 group-title="PORTUGAL",National Geographic WILD
-http://45.153.35.221:8000/play/a0vl
-
-#EXTINF:-1 group-title="PORTUGAL",NBA TV
-http://45.153.35.221:8000/play/a0w2
-
-#EXTINF:-1 group-title="PORTUGAL",NOS Studios
-http://45.153.35.221:8000/play/a0wp
-
-#EXTINF:-1 group-title="PORTUGAL",Odisseia
-http://45.153.35.221:8000/play/a0u3
-
-#EXTINF:-1 group-title="PORTUGAL",SIC Noticias
-http://45.153.35.221:8000/play/a0ui
-
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 1
-http://45.153.35.221:8000/play/a0yz
-
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 2
-http://45.153.35.221:8000/play/a0z0
-
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 3
-http://45.153.35.221:8000/play/a0z1
-
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 4
-http://45.153.35.221:8000/play/a0u1
-
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 5
-http://45.153.35.221:8000/play/a0um
-
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 6
-http://45.153.35.221:8000/play/a0un
-
-#EXTINF:-1 group-title="PORTUGAL",Sport TV NBA
-http://45.153.35.221:8000/play/a0vk
-
-#EXTINF:-1 group-title="PORTUGAL",Sport TV+
-http://45.153.35.221:8000/play/a0xa
-
-#EXTINF:-1 group-title="PORTUGAL",SyFy
-http://45.153.35.221:8000/play/a0xp
-
-#EXTINF:-1 group-title="PORTUGAL",TLC
-http://45.153.35.221:8000/play/a0x7
-
-#EXTINF:-1 group-title="PORTUGAL",Trace Toca
-http://45.153.35.221:8000/play/a0wa
-
-#EXTINF:-1 group-title="PORTUGAL",Trace Urban
-http://45.153.35.221:8000/play/a0w6
-
-#EXTINF:-1 group-title="PORTUGAL",TVCine ACTION
-http://45.153.35.221:8000/play/a0w9
-
-#EXTINF:-1 group-title="PORTUGAL",TVCine EDITION
-http://45.153.35.221:8000/play/a0vr
-
-#EXTINF:-1 group-title="PORTUGAL",TVCine EMOTION
-http://45.153.35.221:8000/play/a0vp
-
-#EXTINF:-1 group-title="PORTUGAL",TVCine TOP
-http://45.153.35.221:8000/play/a0wi
-
-#EXTINF:-1 group-title="PORTUGAL",TVI 24
-http://45.153.35.221:8000/play/a0rp
-
-#EXTINF:-1 group-title="PORTUGAL",TVI Reality
-http://45.153.35.221:8000/play/a0x5
-
-#EXTINF:-1 group-title="PORTUGAL",ZAP Viva
-http://45.153.35.221:8000/play/a0wo
 
 ########################
 ###### WEB RADIOS ######
