@@ -189,6 +189,9 @@ http://168.205.87.198:8555/live/adriana/123456/32.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Futura
 http://191.37.223.132:8000/play/a00b/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Polishop
+http://191.37.223.132:8000/play/a020/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Shoptime
 http://189.91.128.146:4444/udp/227.10.20.162:1234
 
@@ -651,6 +654,9 @@ http://168.205.87.198:8555/live/adriana/123456/47.m3u8
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://189.91.128.146:4444/udp/227.10.20.91:1234
 
+#EXTINF:-1 group-title="INFANTIS",Gloobinho
+http://201.35.250.178:8001/play/a008
+
 #EXTINF:-1 group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
 
@@ -723,6 +729,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f3
 
 #EXTINF:-1 group-title="MUSICA",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Trace Brazuca
+http://201.35.250.178:8001/play/a00v
 
 #EXTINF:-1 group-title="MUSICA",VEVO 2K's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
