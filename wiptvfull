@@ -10,6 +10,9 @@ https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Agrocanal
 http://191.37.223.132:8000/play/a00t/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Amazon Sat
+https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Band ES
 http://189.14.209.52:8000/play/a00a/index.m3u8
 
@@ -130,8 +133,11 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1
 #EXTINF:-1 group-title="TV ABERTA",SBT MG
 http://168.205.87.198:8555/live/adriana/123456/104.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PA
+#EXTINF:-1 group-title="TV ABERTA",SBT PA - TV Floresta
 https://srv-mc.sistemafloresta.com.br/tvfloresta/tracks-v1a1/mono.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
+
+#EXTINF:-1 group-title="TV ABERTA",SBT PA - TV Guajara
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT PB
 http://143.255.128.190:8000/play/a007
@@ -500,6 +506,9 @@ http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
 http://189.91.128.146:4444/udp/227.10.20.80:1234
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery H&H
+http://168.205.87.198:8555/live/adriana/123456/35.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://187.19.165.103:8181/play/a00q/index.m3u8
 
@@ -526,6 +535,12 @@ http://168.205.87.198:8555/live/adriana/123456/61.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Food Network
 http://187.19.165.103:8181/play/a00h/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",GNT
+http://201.35.250.178:8001/play/a003
+
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+http://168.205.87.198:8555/live/123456/123456/71.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3u8
