@@ -1,5 +1,172 @@
 #EXTM3U
 
+########################
+###### REDE GLOBO ######
+########################
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo Minas
+http://168.205.87.198:8555/live/adriana/123456/70.m3u8
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo Minas [Opcao 2]
+http://189.91.128.146:4444/udp/227.10.20.109:1234
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo PB - TV Cabo Branco
+http://187.19.165.103:8181/play/a002/index.m3u8
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo PB - TV Cabo Branco [Opcao 2]
+http://143.255.128.190:8000/play/a00d
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo RO - TV Ji-Parana
+http://191.37.223.131:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV
+http://187.33.160.24:8000/play/1/index.m3u8
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV
+http://179.125.119.154:8000/play/a015/index.m3u8
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV [Opcao 2]
+http://187.33.160.24:8000/play/10/index.m3u8
+
+#################
+###### SBT ######
+#################
+
+#EXTINF:-1 group-title="SBT",SBT ES - TV Tribuna
+http://189.14.209.52:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="SBT",SBT GO - TV Serra Dourada
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1202038902_b1000000.m3u8
+
+#EXTINF:-1 group-title="SBT",SBT MG - TV Alterosa
+http://168.205.87.198:8555/live/adriana/123456/104.m3u8
+
+#EXTINF:-1 group-title="SBT",SBT PA - TV Floresta
+https://srv-mc.sistemafloresta.com.br/tvfloresta/tracks-v1a1/mono.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
+
+#EXTINF:-1 group-title="SBT",SBT PA - TV Guajara
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+
+#EXTINF:-1 group-title="SBT",SBT PB - TV Tambau
+http://143.255.128.190:8000/play/a007
+
+#EXTINF:-1 group-title="SBT",SBT PE - TV Jornal
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
+
+#EXTINF:-1 group-title="SBT",SBT PI - TV Cidade Verde
+http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 group-title="SBT",SBT PR - Rede Massa
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
+
+#EXTINF:-1 group-title="SBT",SBT RO - TV Allamanda
+http://191.37.223.131:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 group-title="SBT",SBT RS - TV Rio Grande
+http://187.33.160.24:8000/play/3/index.m3u8
+
+#EXTINF:-1 group-title="SBT",SBT SC - SCC TV
+http://179.125.119.154:8000/play/a017/index.m3u8
+
+#EXTINF:-1 group-title="SBT",SBT SC - SCC TV [Opcao 2]
+http://187.33.160.24:8000/play/87/index.m3u8
+
+#EXTINF:-1 group-title="SBT",SBT SP
+http://189.91.128.146:4444/udp/227.10.20.120:1234
+
+##################
+###### BAND ######
+##################
+
+#EXTINF:-1 group-title="BAND",Band ES - TV Capixaba
+http://189.14.209.52:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 group-title="BAND",Band PA - RBA TV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 group-title="BAND",Band PB - TV Tribuna
+http://143.255.128.190:8000/play/a00i
+
+#EXTINF:-1 group-title="BAND",Band RO - TV Meridional
+http://191.37.223.131:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="BAND",Band RS
+http://187.33.160.24:8000/play/4/index.m3u8
+
+#EXTINF:-1 group-title="BAND",Band SC - BVTV
+http://179.125.119.154:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title="BAND",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
+
+#EXTINF:-1 group-title="BAND",Band SP [Opcao 2]
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
+
+#EXTINF:-1 group-title="BAND",Band SP Interior
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+
+#########################
+###### REDE RECORD ######
+#########################
+
+#EXTINF:-1 group-title="REDE RECORD",Record AM
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 group-title="REDE RECORD",Record BA
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 group-title="REDE RECORD",Record BH
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 group-title="REDE RECORD",Record DF
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 group-title="REDE RECORD",Record GO
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+#EXTINF:-1 group-title="REDE RECORD",Record MG
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 group-title="REDE RECORD",Record PA
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+#EXTINF:-1 group-title="REDE RECORD",Record RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 group-title="REDE RECORD",Record RS
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
+#EXTINF:-1 group-title="REDE RECORD",Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+######################
+###### REDE TV! ######
+######################
+
+#EXTINF:-1 group-title="REDE TV!",Rede TV! AM - TV A Critica
+http://189.91.128.146:4444/udp/227.10.20.164:1234
+
+#EXTINF:-1 group-title="REDE TV!",Rede TV! ES
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5203998478089962000
+
+#EXTINF:-1 group-title="REDE TV!",Rede TV! MG
+http://168.205.87.198:8555/live/adriana/123456/102.m3u8
+
+#EXTINF:-1 group-title="REDE TV!",Rede TV! PB - TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
+
+#EXTINF:-1 group-title="REDE TV!",Rede TV! RO
+http://191.37.223.131:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 group-title="REDE TV!",Rede TV! RS - TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w236745043.m3u8
+
+#EXTINF:-1 group-title="REDE TV!",Rede TV! SP
+http://177.20.208.58:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 group-title="REDE TV!",Rede TV! TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w243720441.m3u8
+
 #######################
 ###### TV ABERTA ######
 #######################
@@ -13,33 +180,6 @@ http://191.37.223.132:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Amazon Sat
 https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band ES - TV Capixaba
-http://189.14.209.52:8000/play/a00a/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Band PA - RBA TV
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Band PB - TV Tribuna
-http://143.255.128.190:8000/play/a00i
-
-#EXTINF:-1 group-title="TV ABERTA",Band RO - TV Meridional
-http://191.37.223.131:8000/play/a00k/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Band RS
-http://187.33.160.24:8000/play/4/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Band SC - BVTV
-http://179.125.119.154:8000/play/a01h/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Band SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Band SP [Opcao 2]
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Band SP Interior
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",caTVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
 
@@ -48,126 +188,6 @@ http://168.205.87.198:8555/live/adriana/123456/32.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Futura
 http://191.37.223.132:8000/play/a00b/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo Minas
-http://168.205.87.198:8555/live/adriana/123456/70.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo Minas [Opcao 2]
-http://189.91.128.146:4444/udp/227.10.20.109:1234
-
-#EXTINF:-1 group-title="TV ABERTA",Globo PB - TV Cabo Branco
-http://187.19.165.103:8181/play/a002/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo PB - TV Cabo Branco [Opcao 2]
-http://143.255.128.190:8000/play/a00d
-
-#EXTINF:-1 group-title="TV ABERTA",Globo RO - TV Ji-Parana
-http://191.37.223.131:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo RS - RBS TV
-http://187.33.160.24:8000/play/1/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC TV
-http://179.125.119.154:8000/play/a015/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC TV [Opcao 2]
-http://187.33.160.24:8000/play/10/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record AM
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record BA
-http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record BH
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record DF
-http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record GO
-http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record MG
-http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record PA
-http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record RJ
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record RS
-http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! AM - TV A Critica
-http://189.91.128.146:4444/udp/227.10.20.164:1234
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! ES
-https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5203998478089962000
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! MG
-http://168.205.87.198:8555/live/adriana/123456/102.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! PB - TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! RO
-http://191.37.223.131:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! RS - TV Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w236745043.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! SP
-http://177.20.208.58:8000/play/a03x/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! TO
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w243720441.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT ES - TV Tribuna
-http://189.14.209.52:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT GO - TV Serra Dourada
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1202038902_b1000000.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT MG - TV Alterosa
-http://168.205.87.198:8555/live/adriana/123456/104.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT PA - TV Floresta
-https://srv-mc.sistemafloresta.com.br/tvfloresta/tracks-v1a1/mono.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
-
-#EXTINF:-1 group-title="TV ABERTA",SBT PA - TV Guajara
-https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT PB - TV Tambau
-http://143.255.128.190:8000/play/a007
-
-#EXTINF:-1 group-title="TV ABERTA",SBT PE - TV Jornal
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT PI - TV Cidade Verde
-http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT PR - Rede Massa
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT RO - TV Allamanda
-http://191.37.223.131:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT RS - TV Rio Grande
-http://187.33.160.24:8000/play/3/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC TV
-http://179.125.119.154:8000/play/a017/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC TV [Opcao 2]
-http://187.33.160.24:8000/play/87/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT SP
-http://189.91.128.146:4444/udp/227.10.20.120:1234
 
 #EXTINF:-1 group-title="TV ABERTA",Shoptime
 http://189.91.128.146:4444/udp/227.10.20.162:1234
