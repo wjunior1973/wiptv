@@ -13,9 +13,6 @@ http://189.91.128.146:4444/udp/227.10.20.109:1234
 #EXTINF:-1 group-title="REDE GLOBO",Globo PB - TV Cabo Branco
 http://187.19.165.103:8181/play/a002/index.m3u8
 
-#EXTINF:-1 group-title="REDE GLOBO",Globo PB - TV Cabo Branco [Opcao 2]
-http://143.255.128.190:8000/play/a00d
-
 #EXTINF:-1 group-title="REDE GLOBO",Globo RO - TV Ji-Parana
 http://191.37.223.131:8000/play/a00g/index.m3u8
 
@@ -41,14 +38,8 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1
 #EXTINF:-1 group-title="SBT",SBT MG - TV Alterosa
 http://168.205.87.198:8555/live/adriana/123456/104.m3u8
 
-#EXTINF:-1 group-title="SBT",SBT PA - TV Floresta
-https://srv-mc.sistemafloresta.com.br/tvfloresta/tracks-v1a1/mono.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
-
 #EXTINF:-1 group-title="SBT",SBT PA - TV Guajara
 https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT PB - TV Tambau
-http://143.255.128.190:8000/play/a007
 
 #EXTINF:-1 group-title="SBT",SBT PE - TV Jornal
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
@@ -83,9 +74,6 @@ http://189.14.209.52:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 group-title="BAND",Band PA - RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-
-#EXTINF:-1 group-title="BAND",Band PB - TV Tribuna
-http://143.255.128.190:8000/play/a00i
 
 #EXTINF:-1 group-title="BAND",Band RO - TV Meridional
 http://191.37.223.131:8000/play/a00k/index.m3u8
