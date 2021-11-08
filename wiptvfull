@@ -4,26 +4,158 @@
 ###### REDE GLOBO ######
 ########################
 
-#EXTINF:-1 group-title="REDE GLOBO",Globo Minas
-http://168.205.87.198:8555/live/adriana/123456/70.m3u8
+#EXTINF:-1 group-title="REDE GLOBO",Globo AL - TV Gazeta Alagoas
+http://201.20.67.70:9003/play/a01b
 
-#EXTINF:-1 group-title="REDE GLOBO",Globo Minas [Opcao 2]
-http://189.91.128.146:4444/udp/227.10.20.109:1234
+#EXTINF:-1 group-title="REDE GLOBO",Globo AM - Rede Amazonica Manaus
+http://201.20.67.70:9003/play/a00s
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo BA - TV Bahia
+http://201.20.67.70:9003/play/a011
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo BA - TV Santa Cruz
+http://201.20.67.70:9003/play/a01c
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo BA - TV Sudoeste
+http://201.20.67.70:9003/play/a01d
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo Brasilia
+http://201.20.67.70:9003/play/a022
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo CE - TV Verdes Mares
+http://201.20.67.70:9003/play/a005
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo ES - TV Gazeta Sul
+http://201.20.67.70:9003/play/a024
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo GO - TV Anhanguera
+http://201.20.67.70:9003/play/a008
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo MA - TV Mirante
+http://201.20.67.70:9003/play/a001
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo MG - EPTV Sul de Minas
+http://201.20.67.70:9003/play/a019
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo MG - InterTV dos Vales
+http://201.20.67.70:9003/play/a023
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo MG - InterTV Grande Minas
+http://201.20.67.70:9003/play/a014
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo MG - TV Integracao Araxa
+http://201.20.67.70:9003/play/a018
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo MG - TV Integracao Juiz de Fora
+http://201.20.67.70:9003/play/a00o
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo MS - TV Morena
+http://201.20.67.70:9003/play/a002
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo MT - TV Centro America
+http://201.20.67.70:9003/play/a004
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo Nordeste
+http://201.20.67.70:9003/play/a003
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo PA - TV Liberal
+http://201.20.67.70:9003/play/a010
 
 #EXTINF:-1 group-title="REDE GLOBO",Globo PB - TV Cabo Branco
 http://187.19.165.103:8181/play/a002/index.m3u8
 
+#EXTINF:-1 group-title="REDE GLOBO",Globo PE - TV Asa Branca
+http://201.20.67.70:9003/play/a00q
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo PI - TV Clube Teresina
+http://201.20.67.70:9003/play/a00r
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Cascavel
+http://201.20.67.70:9003/play/a00f
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Curitiba
+http://201.20.67.70:9003/play/a007
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Foz do Iguacu
+http://201.20.67.70:9003/play/a00c
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Londrina
+http://201.20.67.70:9003/play/a00g
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Maringa
+http://201.20.67.70:9003/play/a00t
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Paranavai
+http://201.20.67.70:9003/play/a016
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Ponta Grossa
+http://201.20.67.70:9003/play/a01a
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo RJ
+http://201.20.67.70:9003/play/a00z
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo RJ - InterTV Serra Mar
+http://201.20.67.70:9003/play/a00e
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo RN - InterTV Cabugi
+http://201.20.67.70:9003/play/a020
+
 #EXTINF:-1 group-title="REDE GLOBO",Globo RO - TV Ji-Parana
 http://191.37.223.131:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV
-http://187.33.160.24:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV Caxias do Sul
+http://201.20.67.70:9003/play/a00d
 
-#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV
-http://179.125.119.154:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV Passo Fundo
+http://201.20.67.70:9003/play/a00h
 
-#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV [Opcao 2]
-http://187.33.160.24:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV Pelotas
+http://201.20.67.70:9003/play/a00b
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV Santa Maria
+http://201.20.67.70:9003/play/a00y
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Blumenau
+http://201.20.67.70:9003/play/a017
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Centro Oeste
+http://201.20.67.70:9003/play/a00u
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Chapeco
+http://201.20.67.70:9003/play/a00v
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Criciuma
+http://201.20.67.70:9003/play/a00w
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Florianopolis
+http://201.20.67.70:9003/play/a009
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Joinville
+http://201.20.67.70:9003/play/a021
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SE - TV Sergipe
+http://201.20.67.70:9003/play/a00p
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SP - EPTV Campinas
+http://201.20.67.70:9003/play/a012
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SP - Fronteira Paulista
+http://201.20.67.70:9003/play/a00m
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SP - TV TEM Bauru
+http://201.20.67.70:9003/play/a00j
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SP - TV TEM Itapetininga
+http://201.20.67.70:9003/play/a00l
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SP - TV TEM SJ do Rio Preto
+http://201.20.67.70:9003/play/a00i
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SP - TV TEM Sorocaba
+http://201.20.67.70:9003/play/a00k
+
+#EXTINF:-1 group-title="REDE GLOBO",Globo SP - TV Vanguarda Taubate
+http://201.20.67.70:9003/play/a00a
 
 #################
 ###### SBT ######
@@ -32,14 +164,8 @@ http://187.33.160.24:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="SBT",SBT ES - TV Tribuna
 http://189.14.209.52:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 group-title="SBT",SBT GO - TV Serra Dourada
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1202038902_b1000000.m3u8
-
 #EXTINF:-1 group-title="SBT",SBT MG - TV Alterosa
 http://168.205.87.198:8555/live/adriana/123456/104.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT PA - TV Guajara
-https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 
 #EXTINF:-1 group-title="SBT",SBT PE - TV Jornal
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
@@ -354,9 +480,6 @@ http://191.37.223.133:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Cindie Lite
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Acao
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -383,9 +506,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="FILMES/SERIES",CineBrasil
-http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://189.91.128.146:4444/udp/227.10.20.159:1234
@@ -503,9 +623,6 @@ http://168.205.87.198:8555/live/adriana/123456/116.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Series
 http://187.19.165.103:8181/play/a00r/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TV Nova Play
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w2132556904.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TV Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -682,9 +799,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 
 #EXTINF:-1 group-title="ANIMES/GEEK",Tokusato TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="ANIMES/GEEK",Yeeaah!
-https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 ######################
 ###### INFANTIS ######
