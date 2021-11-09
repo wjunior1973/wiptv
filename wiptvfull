@@ -238,6 +238,9 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:-1 group-title="REDE RECORD",Record RS
 http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 
+#EXTINF:-1 group-title="REDE RECORD",Record SC - NDTV Florianopolis
+https://caikron.com.br:19360/floripa/floripa.m3u8
+
 #EXTINF:-1 group-title="REDE RECORD",Record SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
