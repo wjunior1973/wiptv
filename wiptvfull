@@ -1,270 +1,38 @@
 #EXTM3U
 
-########################
-###### REDE GLOBO ######
-########################
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo AL - TV Gazeta Alagoas
-http://201.20.67.70:9003/play/a01b
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo AM - Rede Amazonica Manaus
-http://201.20.67.70:9003/play/a00s
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo BA - TV Bahia
-http://201.20.67.70:9003/play/a011
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo Brasilia
-http://201.20.67.70:9003/play/a022
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo CE - TV Verdes Mares
-http://201.20.67.70:9003/play/a005
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo ES - TV Gazeta Sul
-http://201.20.67.70:9003/play/a024
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo GO - TV Anhanguera
-http://201.20.67.70:9003/play/a008
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo MA - TV Mirante
-http://201.20.67.70:9003/play/a001
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo MG - EPTV Sul de Minas
-http://201.20.67.70:9003/play/a019
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo MG - InterTV dos Vales
-http://201.20.67.70:9003/play/a023
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo MG - InterTV Grande Minas
-http://201.20.67.70:9003/play/a014
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo MG - TV Integracao Araxa
-http://201.20.67.70:9003/play/a018
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo MG - TV Integracao Juiz de Fora
-http://201.20.67.70:9003/play/a00o
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo Minas
-http://201.20.67.70:9003/play/a013
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo MS - TV Morena
-http://201.20.67.70:9003/play/a002
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo MT - TV Centro America
-http://201.20.67.70:9003/play/a004
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo Nordeste
-http://201.20.67.70:9003/play/a003
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo PA - TV Liberal
-http://201.20.67.70:9003/play/a010
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo PB - TV Cabo Branco
-http://187.19.165.103:8181/play/a002/index.m3u8
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo PE - TV Asa Branca
-http://201.20.67.70:9003/play/a00q
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo PI - TV Clube Teresina
-http://201.20.67.70:9003/play/a00r
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Cascavel
-http://201.20.67.70:9003/play/a00f
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Curitiba
-http://201.20.67.70:9003/play/a007
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Foz do Iguacu
-http://201.20.67.70:9003/play/a00c
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Londrina
-http://201.20.67.70:9003/play/a00g
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Maringa
-http://201.20.67.70:9003/play/a00t
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Paranavai
-http://201.20.67.70:9003/play/a016
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo PR - RPC Ponta Grossa
-http://201.20.67.70:9003/play/a01a
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo RJ
-http://201.20.67.70:9003/play/a00z
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo RJ - InterTV Serra Mar
-http://201.20.67.70:9003/play/a00e
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo RN - InterTV Cabugi
-http://201.20.67.70:9003/play/a020
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV Caxias do Sul
-http://201.20.67.70:9003/play/a00d
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV Passo Fundo
-http://201.20.67.70:9003/play/a00h
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV Pelotas
-http://201.20.67.70:9003/play/a00b
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV Porto Alegre
-http://201.20.67.70:9003/play/a006
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV Santa Maria
-http://201.20.67.70:9003/play/a00y
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Blumenau
-http://201.20.67.70:9003/play/a017
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Centro Oeste
-http://201.20.67.70:9003/play/a00u
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Chapeco
-http://201.20.67.70:9003/play/a00v
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Criciuma
-http://201.20.67.70:9003/play/a00w
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Florianopolis
-http://201.20.67.70:9003/play/a009
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SC - NSC TV Joinville
-http://201.20.67.70:9003/play/a021
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SE - TV Sergipe
-http://201.20.67.70:9003/play/a00p
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SP - EPTV Campinas
-http://201.20.67.70:9003/play/a012
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SP - Fronteira Paulista
-http://201.20.67.70:9003/play/a00m
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SP - TV TEM Bauru
-http://201.20.67.70:9003/play/a00j
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SP - TV TEM Itapetininga
-http://201.20.67.70:9003/play/a00l
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SP - TV TEM SJ do Rio Preto
-http://201.20.67.70:9003/play/a00i
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SP - TV TEM Sorocaba
-http://201.20.67.70:9003/play/a00k
-
-#EXTINF:-1 group-title="REDE GLOBO",Globo SP - TV Vanguarda Taubate
-http://201.20.67.70:9003/play/a00a
-
-#################
-###### SBT ######
-#################
-
-#EXTINF:-1 group-title="SBT",SBT ES - TV Tribuna
-http://189.14.209.52:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT MG - TV Alterosa
-http://168.205.87.198:8555/live/gustavo/123456/104.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT PE - TV Jornal
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT PI - TV Cidade Verde
-http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT PR - Rede Massa
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT RS - TV Rio Grande
-http://187.33.160.24:8000/play/3/index.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT SC - SCC TV
-http://179.125.119.154:8000/play/a017/index.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT SC - SCC TV [Opcao 2]
-http://187.33.160.24:8000/play/87/index.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT SP
-http://189.91.128.146:4444/udp/227.10.20.120:1234
-
-##################
-###### BAND ######
-##################
-
-#EXTINF:-1 group-title="BAND",Band ES - TV Capixaba
-http://189.14.209.52:8000/play/a00a/index.m3u8
-
-#EXTINF:-1 group-title="BAND",Band PA - RBA TV
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-
-#EXTINF:-1 group-title="BAND",Band RN
-http://170.80.157.9:8000/play/a01e
-
-#EXTINF:-1 group-title="BAND",Band RS
-http://187.33.160.24:8000/play/4/index.m3u8
-
-#EXTINF:-1 group-title="BAND",Band SC - BVTV
+######################
+###### TV LOCAL ######
+######################
+
+#EXTINF:-1 group-title="TV LOCAL",Band BVTV
 http://179.125.119.154:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 group-title="BAND",Band SP
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Blumenau
+http://201.20.67.70:9003/play/a017
 
-#########################
-###### REDE RECORD ######
-#########################
+#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Centro Oeste
+http://201.20.67.70:9003/play/a00u
 
-#EXTINF:-1 group-title="REDE RECORD",Record AM
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Chapeco
+http://201.20.67.70:9003/play/a00v
 
-#EXTINF:-1 group-title="REDE RECORD",Record BA
-http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Criciuma
+http://201.20.67.70:9003/play/a00w
 
-#EXTINF:-1 group-title="REDE RECORD",Record BH
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Florianopolis
+http://201.20.67.70:9003/play/a009
 
-#EXTINF:-1 group-title="REDE RECORD",Record DF
-http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Joinville
+http://201.20.67.70:9003/play/a021
 
-#EXTINF:-1 group-title="REDE RECORD",Record GO
-http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
-
-#EXTINF:-1 group-title="REDE RECORD",Record MG
-http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
-
-#EXTINF:-1 group-title="REDE RECORD",Record PA
-http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
-
-#EXTINF:-1 group-title="REDE RECORD",Record RJ
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-
-#EXTINF:-1 group-title="REDE RECORD",Record RS
-http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
-
-#EXTINF:-1 group-title="REDE RECORD",Record SC - NDTV Florianopolis
+#EXTINF:-1 group-title="TV LOCAL",Record NDTV
 https://caikron.com.br:19360/floripa/floripa.m3u8
 
-#EXTINF:-1 group-title="REDE RECORD",Record SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",SBT SCC TV
+http://179.125.119.154:8000/play/a017/index.m3u8
 
-######################
-###### REDE TV! ######
-######################
-
-#EXTINF:-1 group-title="REDE TV!",Rede TV! AM - TV A Critica
-http://189.91.128.146:4444/udp/227.10.20.164:1234
-
-#EXTINF:-1 group-title="REDE TV!",Rede TV! MG
-http://168.205.87.198:8555/live/gustavo/123456/102.m3u8
-
-#EXTINF:-1 group-title="REDE TV!",Rede TV! PB - TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
-
-#EXTINF:-1 group-title="REDE TV!",Rede TV! RS - TV Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w236745043.m3u8
-
-#EXTINF:-1 group-title="REDE TV!",Rede TV! SP
-http://170.80.157.9:8000/play/a021
-
-#EXTINF:-1 group-title="REDE TV!",Rede TV! TO
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w243720441.m3u8
+#EXTINF:-1 group-title="TV LOCAL",SBT SCC TV [Opcao 2]
+http://187.33.160.24:8000/play/87/index.m3u8
 
 #######################
 ###### TV ABERTA ######
@@ -288,11 +56,29 @@ http://191.37.223.132:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Polishop
 http://191.37.223.132:8000/play/a020/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! AM - TV A Critica
+http://189.91.128.146:4444/udp/227.10.20.164:1234
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! MG
+http://168.205.87.198:8555/live/gustavo/123456/102.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! PB - TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! RS - TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w236745043.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! SP
+http://170.80.157.9:8000/play/a021
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w243720441.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Shoptime
 http://189.91.128.146:4444/udp/227.10.20.162:1234
 
 #EXTINF:-1 group-title="TV ABERTA",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+http://evpp.mm.uol.com.br:1935/TV LOCAL_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/gustavo/123456/134.m3u8
