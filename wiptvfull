@@ -97,9 +97,6 @@ http://201.20.67.70:9003/play/a00e
 #EXTINF:-1 group-title="REDE GLOBO",Globo RN - InterTV Cabugi
 http://201.20.67.70:9003/play/a020
 
-#EXTINF:-1 group-title="REDE GLOBO",Globo RO - TV Ji-Parana
-http://191.37.223.131:8000/play/a00g/index.m3u8
-
 #EXTINF:-1 group-title="REDE GLOBO",Globo RS - RBS TV Caxias do Sul
 http://201.20.67.70:9003/play/a00d
 
@@ -176,9 +173,6 @@ http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlis
 #EXTINF:-1 group-title="SBT",SBT PR - Rede Massa
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
 
-#EXTINF:-1 group-title="SBT",SBT RO - TV Allamanda
-http://191.37.223.131:8000/play/a00d/index.m3u8
-
 #EXTINF:-1 group-title="SBT",SBT RS - TV Rio Grande
 http://187.33.160.24:8000/play/3/index.m3u8
 
@@ -201,8 +195,8 @@ http://189.14.209.52:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="BAND",Band PA - RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 group-title="BAND",Band RO - TV Meridional
-http://191.37.223.131:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="BAND",Band RN
+http://170.80.157.9:8000/play/a01e
 
 #EXTINF:-1 group-title="BAND",Band RS
 http://187.33.160.24:8000/play/4/index.m3u8
@@ -211,12 +205,6 @@ http://187.33.160.24:8000/play/4/index.m3u8
 http://179.125.119.154:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="BAND",Band SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
-
-#EXTINF:-1 group-title="BAND",Band SP [Opcao 2]
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
-
-#EXTINF:-1 group-title="BAND",Band SP Interior
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
 #########################
@@ -260,23 +248,17 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 group-title="REDE TV!",Rede TV! AM - TV A Critica
 http://189.91.128.146:4444/udp/227.10.20.164:1234
 
-#EXTINF:-1 group-title="REDE TV!",Rede TV! ES
-https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5203998478089962000
-
 #EXTINF:-1 group-title="REDE TV!",Rede TV! MG
 http://168.205.87.198:8555/live/adriana/123456/102.m3u8
 
 #EXTINF:-1 group-title="REDE TV!",Rede TV! PB - TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 
-#EXTINF:-1 group-title="REDE TV!",Rede TV! RO
-http://191.37.223.131:8000/play/a00f/index.m3u8
-
 #EXTINF:-1 group-title="REDE TV!",Rede TV! RS - TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w236745043.m3u8
 
 #EXTINF:-1 group-title="REDE TV!",Rede TV! SP
-http://177.20.208.58:8000/play/a03x/index.m3u8
+http://170.80.157.9:8000/play/a021
 
 #EXTINF:-1 group-title="REDE TV!",Rede TV! TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w243720441.m3u8
@@ -290,9 +272,6 @@ https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Agrocanal
 http://191.37.223.132:8000/play/a00t/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Amazon Sat
-https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",caTVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
@@ -508,7 +487,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://189.91.128.146:4444/udp/227.10.20.159:1234
+http://201.35.250.178:8001/play/a01b
 
 #EXTINF:-1 group-title="FILMES/SERIES",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w2089498850.m3u8
@@ -641,250 +620,6 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
-
-#############################
-###### FILMES 24 HORAS ######
-#############################
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Action 1
-http://92.246.85.77:8006/play/a014
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Action 2
-http://92.246.85.77:8006/play/a015
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Action 3
-http://92.246.85.77:8006/play/a016
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Action 4
-http://92.246.85.77:8006/play/a017
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Action 5
-http://92.246.85.77:8006/play/a018
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Action 6
-http://92.246.85.77:8006/play/a019
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Action 7
-http://92.246.85.77:8006/play/a01a
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Action 8
-http://92.246.85.77:8006/play/a01b
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Action 9
-http://92.246.85.77:8006/play/a01c
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Action 10
-http://92.246.85.77:8006/play/a01d
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Adventure 1
-http://92.246.85.77:8006/play/a02s
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Adventure 2
-http://92.246.85.77:8007/play/a001
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Adventure 3
-http://92.246.85.77:8007/play/a002
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Adventure 4
-http://92.246.85.77:8007/play/a003
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Adventure 5
-http://92.246.85.77:8007/play/a004
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Adventure 6
-http://92.246.85.77:8007/play/a005
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Adventure 7
-http://92.246.85.77:8007/play/a006
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Adventure 8
-http://92.246.85.77:8007/play/a007
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Adventure 9
-http://92.246.85.77:8007/play/a008
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Adventure 10
-http://92.246.85.77:8007/play/a009
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Comedy 1
-http://92.246.85.77:8006/play/a01o
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Comedy 2
-http://92.246.85.77:8006/play/a01p
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Comedy 3
-http://92.246.85.77:8006/play/a01q
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Comedy 4
-http://92.246.85.77:8006/play/a01r
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Comedy 5
-http://92.246.85.77:8006/play/a01s
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Comedy 6
-http://92.246.85.77:8006/play/a01t
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Comedy 7
-http://92.246.85.77:8006/play/a01u
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Comedy 8
-http://92.246.85.77:8006/play/a01v
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Comedy 9
-http://92.246.85.77:8006/play/a01w
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Comedy 10
-http://92.246.85.77:8006/play/a01x
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Crime 1
-http://92.246.85.77:8006/play/a01e
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Crime 2
-http://92.246.85.77:8006/play/a01f
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Crime 3
-http://92.246.85.77:8006/play/a01g
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Crime 4
-http://92.246.85.77:8006/play/a01h
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Crime 5
-http://92.246.85.77:8006/play/a01i
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Crime 6
-http://92.246.85.77:8006/play/a01j
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Crime 7
-http://92.246.85.77:8006/play/a01k
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Crime 8
-http://92.246.85.77:8006/play/a01l
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Crime 9
-http://92.246.85.77:8006/play/a01m
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Crime 10
-http://92.246.85.77:8006/play/a01n
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Documentary 1
-http://92.246.85.77:8007/play/a01n
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Documentary 2
-http://92.246.85.77:8007/play/a01o
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Documentary 3
-http://92.246.85.77:8007/play/a01p
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Documentary 4
-http://92.246.85.77:8007/play/a01q
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Documentary 5
-http://92.246.85.77:8007/play/a01r
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Documentary 6
-http://92.246.85.77:8007/play/a01s
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Documentary 7
-http://92.246.85.77:8007/play/a01t
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Documentary 8
-http://92.246.85.77:8007/play/a01u
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Documentary 9
-http://92.246.85.77:8007/play/a01v
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Documentary 10
-http://92.246.85.77:8007/play/a01w
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Drama 1
-http://92.246.85.77:8006/play/a01y
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Drama 2
-http://92.246.85.77:8006/play/a01z
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Drama 3
-http://92.246.85.77:8006/play/a020
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Drama 4
-http://92.246.85.77:8006/play/a021
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Drama 5
-http://92.246.85.77:8006/play/a022
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Drama 6
-http://92.246.85.77:8006/play/a023
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Drama 7
-http://92.246.85.77:8006/play/a024
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Drama 8
-http://92.246.85.77:8006/play/a025
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Drama 9
-http://92.246.85.77:8006/play/a026
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Drama 10
-http://92.246.85.77:8006/play/a027
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Horror-Thriller 1
-http://92.246.85.77:8006/play/a028
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Horror-Thriller 2
-http://92.246.85.77:8006/play/a029
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Horror-Thriller 3
-http://92.246.85.77:8006/play/a02a
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Horror-Thriller 4
-http://92.246.85.77:8006/play/a02b
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Horror-Thriller 5
-http://92.246.85.77:8006/play/a02c
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Horror-Thriller 6
-http://92.246.85.77:8006/play/a02d
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Horror-Thriller 7
-http://92.246.85.77:8006/play/a02e
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Horror-Thriller 8
-http://92.246.85.77:8006/play/a02f
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Horror-Thriller 9
-http://92.246.85.77:8006/play/a02g
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Horror-Thriller 10
-http://92.246.85.77:8006/play/a02h
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Sci-Fi 1
-http://92.246.85.77:8006/play/a02i
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Sci-Fi 2
-http://92.246.85.77:8006/play/a02j
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Sci-Fi 3
-http://92.246.85.77:8006/play/a02k
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Sci-Fi 4
-http://92.246.85.77:8006/play/a02l
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Sci-Fi 5
-http://92.246.85.77:8006/play/a02m
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Sci-Fi 6
-http://92.246.85.77:8006/play/a02n
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Sci-Fi 7
-http://92.246.85.77:8006/play/a02o
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Sci-Fi 8
-http://92.246.85.77:8006/play/a02p
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Sci-Fi 9
-http://92.246.85.77:8006/play/a02q
-
-#EXTINF:-1 group-title="FILMES 24 HORAS",Sci-Fi 10
-http://92.246.85.77:8006/play/a02r
 
 ########################
 ###### VARIEDADES ######
