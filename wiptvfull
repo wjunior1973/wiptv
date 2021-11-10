@@ -1,39 +1,5 @@
 #EXTM3U
 
-######################
-###### TV LOCAL ######
-######################
-
-#EXTINF:-1 group-title="TV LOCAL",Band BVTV
-http://179.125.119.154:8000/play/a01h/index.m3u8
-
-#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Blumenau
-http://201.20.67.70:9003/play/a017
-
-#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Centro Oeste
-http://201.20.67.70:9003/play/a00u
-
-#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Chapeco
-http://201.20.67.70:9003/play/a00v
-
-#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Criciuma
-http://201.20.67.70:9003/play/a00w
-
-#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Florianopolis
-http://201.20.67.70:9003/play/a009
-
-#EXTINF:-1 group-title="TV LOCAL",Globo NSC TV Joinville
-http://201.20.67.70:9003/play/a021
-
-#EXTINF:-1 group-title="TV LOCAL",Record NDTV
-https://caikron.com.br:19360/floripa/floripa.m3u8
-
-#EXTINF:-1 group-title="TV LOCAL",SBT SCC TV
-http://179.125.119.154:8000/play/a017/index.m3u8
-
-#EXTINF:-1 group-title="TV LOCAL",SBT SCC TV [Opcao 2]
-http://187.33.160.24:8000/play/87/index.m3u8
-
 #######################
 ###### TV ABERTA ######
 #######################
@@ -44,6 +10,9 @@ https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Agrocanal
 http://191.37.223.132:8000/play/a00t/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Band BVTV
+http://179.125.119.154:8000/play/a01h/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",caTVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
 
@@ -53,8 +22,29 @@ http://168.205.87.198:8555/live/gustavo/123456/32.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Futura
 http://191.37.223.132:8000/play/a00b/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV Blumenau
+http://201.20.67.70:9003/play/a017
+
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV Centro Oeste
+http://201.20.67.70:9003/play/a00u
+
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV Chapeco
+http://201.20.67.70:9003/play/a00v
+
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV Criciuma
+http://201.20.67.70:9003/play/a00w
+
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV Florianopolis
+http://201.20.67.70:9003/play/a009
+
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV Joinville
+http://201.20.67.70:9003/play/a021
+
 #EXTINF:-1 group-title="TV ABERTA",Polishop
 http://191.37.223.132:8000/play/a020/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record NDTV
+https://caikron.com.br:19360/floripa/floripa.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! AM - TV A Critica
 http://189.91.128.146:4444/udp/227.10.20.164:1234
@@ -74,11 +64,17 @@ http://170.80.157.9:8000/play/a021
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w243720441.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",SBT SCC TV
+http://179.125.119.154:8000/play/a017/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SCC TV [Opcao 2]
+http://187.33.160.24:8000/play/87/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Shoptime
 http://189.91.128.146:4444/udp/227.10.20.162:1234
 
 #EXTINF:-1 group-title="TV ABERTA",Terra Viva
-http://evpp.mm.uol.com.br:1935/TV LOCAL_live/terraviva/playlist.m3u8
+http://evpp.mm.uol.com.br:1935/TV ABERTA_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/gustavo/123456/134.m3u8
