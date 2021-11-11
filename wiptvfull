@@ -110,7 +110,7 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w236745043.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! SP
-http://170.80.157.9:8000/play/a021
+http://177.20.208.58:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w243720441.m3u8
@@ -146,7 +146,7 @@ http://189.91.128.146:4444/udp/227.10.20.120:1234
 http://189.91.128.146:4444/udp/227.10.20.162:1234
 
 #EXTINF:-1 group-title="TV ABERTA",Terra Viva
-http://evpp.mm.uol.com.br:1935/TV ABERTA_live/terraviva/playlist.m3u8
+http://189.91.128.146:4444/udp/227.10.20.142:1234
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/gustavo/123456/134.m3u8
