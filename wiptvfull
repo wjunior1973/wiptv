@@ -173,6 +173,12 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Record News [Opcao 2]
 http://168.205.87.198:8555/live/adriana/123456/97.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",SIC Noticias
+http://84.90.197.228:3111/stream/channelid/2139397528?ticket=9CAB49DF25D47200DF3306E80B70C862C0A72066&profile=pass
+
+#EXTINF:-1 group-title="NOTICIAS",TVI 24
+http://84.90.197.228:3111/stream/channelid/2010703598?ticket=95717B635ADE4B6CFB3E32AD58B53AA11B390350&profile=pass
+
 #EXTINF:-1 group-title="NOTICIAS",TVideoNews
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
 
@@ -403,6 +409,9 @@ http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3
 
 #EXTINF:-1 group-title="VARIEDADES",Conecta+ Web TV
 http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Crime+Investigation
+http://84.90.197.228:3111/stream/channelid/772581288?ticket=DFD15D061045F010419A3749044F1C9281B52E86&profile=pass
 
 #EXTINF:-1 group-title="VARIEDADES",Demand Africa
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
@@ -636,6 +645,9 @@ https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="MUSICA",M2
 http://live.m2.tv/hls3/stream.m3u8
+
+#EXTINF:-1 group-title="MUSICA",MCM Pop
+http://84.90.197.228:3111/stream/channelid/80167554?ticket=121C888128FA0007FFF982F94BE5DD9ABAC27599&profile=pass
 
 #EXTINF:-1 group-title="MUSICA",MTV 80s
 http://78.83.191.18:8000/play/a06q
