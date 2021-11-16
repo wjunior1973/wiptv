@@ -10,16 +10,22 @@ https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Agro Canal
 http://168.205.87.198:8555/live/adriana/123456/10.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band ES
+#EXTINF:-1 group-title="TV ABERTA",Amazon Sat
+https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band ES - TV Capixaba
 http://189.14.209.52:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band PA
+#EXTINF:-1 group-title="TV ABERTA",Band PA - RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band RS
+#EXTINF:-1 group-title="TV ABERTA",Band PR - Maringa
+http://45.148.147.13:8005/play/a00j
+
+#EXTINF:-1 group-title="TV ABERTA",Band RS - Ijui
 http://187.33.160.24:8000/play/4/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band SC
+#EXTINF:-1 group-title="TV ABERTA",Band SC - BVTV
 http://179.125.119.154:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band SP
@@ -40,23 +46,53 @@ http://168.205.87.198:8555/live/adriana/123456/32.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Futura
 http://191.37.223.132:8000/play/a00b/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo BA
+#EXTINF:-1 group-title="TV ABERTA",Globo AM - Rede Amazonica
+http://45.148.147.13:8005/play/a01y
+
+#EXTINF:-1 group-title="TV ABERTA",Globo BA - TV Sudoeste
 http://177.20.208.58:8000/play/a052/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo ES
+#EXTINF:-1 group-title="TV ABERTA",Globo ES - TV Gazeta
 http://189.14.209.52:8000/play/a00c/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo MG
+#EXTINF:-1 group-title="TV ABERTA",Globo Minas
 http://168.205.87.198:8555/live/adriana/123456/70.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo RS
+#EXTINF:-1 group-title="TV ABERTA",Globo PE - TV Asa Branca
+http://45.148.147.13:8005/play/a01z
+
+#EXTINF:-1 group-title="TV ABERTA",Globo PI - TV Clube
+http://45.148.147.13:8005/play/a02b
+
+#EXTINF:-1 group-title="TV ABERTA",Globo PR - RPC Curitiba
+http://45.148.147.13:8005/play/a024
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ
+http://45.148.147.13:8005/play/a00v
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ - InterTV Alto Litoral
+http://45.148.147.13:8005/play/a01j
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RN - TV Cabugi
+http://45.148.147.13:8005/play/a020
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RS - RBS TV
 http://187.33.160.24:8000/play/1/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SC
+#EXTINF:-1 group-title="TV ABERTA",Globo RS - RBS TV [Opcao 2]
+http://45.148.147.13:8005/play/a02o
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC TV
 http://179.125.119.154:8000/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SC [Opcao 2]
+#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC TV [Opcao 2]
 http://187.33.160.24:8000/play/10/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC TV Florianopolis
+http://45.148.147.13:8005/play/a01p
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP - TV Vanguarda
+http://45.148.147.13:8005/play/a01r
 
 #EXTINF:-1 group-title="TV ABERTA",Polishop
 http://191.37.223.132:8000/play/a020/index.m3u8
@@ -76,43 +112,49 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! MG
 http://168.205.87.198:8555/live/adriana/123456/102.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! PB
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! PB - TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! RS
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! RS - TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w236745043.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! SP
 http://177.20.208.58:8000/play/a03p/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT ES
+#EXTINF:-1 group-title="TV ABERTA",SBT ES - TV Tribuna
 http://189.14.209.52:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT MG
+#EXTINF:-1 group-title="TV ABERTA",SBT GO - TV Serra Dourada
+http://45.148.147.13:8005/play/a027
+
+#EXTINF:-1 group-title="TV ABERTA",SBT MG - TV Alterosa
 http://168.205.87.198:8555/live/adriana/123456/104.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT MT
+#EXTINF:-1 group-title="TV ABERTA",SBT MT - Bem TV
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PA
-https://srv-mc.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
+#EXTINF:-1 group-title="TV ABERTA",SBT PA - TV Paraense
+https://streaming.portaltvparaense.com.br:50176/rtp_live/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PE
+#EXTINF:-1 group-title="TV ABERTA",SBT PE - TV Jornal
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PI
+#EXTINF:-1 group-title="TV ABERTA",SBT PI - TV Cidade Verde
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PR
+#EXTINF:-1 group-title="TV ABERTA",SBT PR - Rede Massa
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT RS
+#EXTINF:-1 group-title="TV ABERTA",SBT Rio
+http://45.148.147.13:8005/play/a02c
+
+#EXTINF:-1 group-title="TV ABERTA",SBT RS - TV Rio Grande
 http://187.33.160.24:8000/play/3/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SC
+#EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC TV
 http://179.125.119.154:8000/play/a017/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SC [Opcao 2]
+#EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC TV [Opcao 2]
 http://187.33.160.24:8000/play/87/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Terra Viva
@@ -479,6 +521,9 @@ http://168.205.87.198:8555/live/adriana/123456/142.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="VARIEDADES",Mais na Tela
+http://45.148.147.13:8005/play/a00i
+
 #EXTINF:-1 group-title="VARIEDADES",Masterchef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -493,6 +538,9 @@ http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3
 
 #EXTINF:-1 group-title="VARIEDADES",Multishow
 http://201.35.250.178:8001/play/a004
+
+#EXTINF:-1 group-title="VARIEDADES",Multishow [Opcao 2]
+http://45.148.147.13:8008/play/a00j
 
 #EXTINF:-1 group-title="VARIEDADES",Pegadinhas
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
@@ -518,11 +566,14 @@ https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",TCM 10
-https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 group-title="VARIEDADES",TBS
+http://45.148.147.13:8005/play/a010
 
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://168.205.87.198:8555/live/adriana/123456/124.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Tru TV
+http://45.148.147.13:8005/play/a02d
 
 #EXTINF:-1 group-title="VARIEDADES",Up Channel
 http://191.37.223.133:8000/play/a023/index.m3u8
@@ -532,6 +583,9 @@ https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/c
 
 #EXTINF:-1 group-title="VARIEDADES",Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="VARIEDADES",Viva
+http://45.148.147.13:8008/play/a00i
 
 #EXTINF:-1 group-title="VARIEDADES",Yeeaah!
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
@@ -545,6 +599,9 @@ http://191.37.223.133:8000/play/a025/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",A Turma da Monica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="INFANTIS",Baby TV
+http://45.148.147.13:8008/play/a012
 
 #EXTINF:-1 group-title="INFANTIS",Boomerang
 http://168.205.87.198:8555/live/adriana/123456/22.m3u8
@@ -560,6 +617,9 @@ http://168.205.87.198:8555/live/adriana/123456/46.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney XD
 http://168.205.87.198:8555/live/adriana/123456/47.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Gloob
+http://45.148.147.13:8008/play/a016
 
 #EXTINF:-1 group-title="INFANTIS",Gloobinho
 http://201.35.250.178:8001/play/a008
@@ -610,6 +670,9 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="MUSICA",88 Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSICA",BIS
+http://45.148.147.13:8008/play/a00l
+
 #EXTINF:-1 group-title="MUSICA",Canal America Latino
 http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8
 
@@ -649,6 +712,9 @@ http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 group-title="MUSICA",MCM Pop
 http://84.90.197.228:3111/stream/channelid/80167554?ticket=121C888128FA0007FFF982F94BE5DD9ABAC27599&profile=pass
 
+#EXTINF:-1 group-title="MUSICA",MTV 00s
+http://45.148.147.13:8008/play/a00o
+
 #EXTINF:-1 group-title="MUSICA",MTV 80s
 http://78.83.191.18:8000/play/a06q
 
@@ -670,9 +736,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICA",Power TV
-http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSICA",Qello Concerts
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -684,6 +747,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playli
 
 #EXTINF:-1 group-title="MUSICA",Salto Brasa Music
 https://salto-streams.nl/hls/sotv1_high.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Studio TV
+https://streamingtv.ddoti.com.br/hls/stream.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Trace Brazuca
 http://201.35.250.178:8001/play/a00v
