@@ -127,9 +127,6 @@ http://45.148.147.13:8005/play/a027
 #EXTINF:-1 group-title="TV ABERTA",SBT MG - TV Alterosa
 http://168.205.87.198:8555/live/adriana/123456/104.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT MT - Bem TV
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",SBT PA - TV Paraense
 https://streaming.portaltvparaense.com.br:50176/rtp_live/index.m3u8
 
@@ -211,12 +208,6 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News [Opcao 2]
 http://168.205.87.198:8555/live/adriana/123456/97.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",SIC Noticias
-http://84.90.197.228:3111/stream/channelid/2139397528?ticket=9CAB49DF25D47200DF3306E80B70C862C0A72066&profile=pass
-
-#EXTINF:-1 group-title="NOTICIAS",TVI 24
-http://84.90.197.228:3111/stream/channelid/2010703598?ticket=95717B635ADE4B6CFB3E32AD58B53AA11B390350&profile=pass
 
 #EXTINF:-1 group-title="NOTICIAS",TVideoNews
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
@@ -651,9 +642,6 @@ https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/c
 #EXTINF:-1 group-title="VARIEDADES",Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="VARIEDADES",Viva
-http://45.148.147.13:8008/play/a00i
-
 #EXTINF:-1 group-title="VARIEDADES",Yeeaah!
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
@@ -731,9 +719,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="MUSICA",88 Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICA",BIS
-http://45.148.147.13:8008/play/a00l
-
 #EXTINF:-1 group-title="MUSICA",Canal America Latino
 http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8
 
@@ -772,9 +757,6 @@ http://live.m2.tv/hls3/stream.m3u8
 
 #EXTINF:-1 group-title="MUSICA",MCM Pop
 http://84.90.197.228:3111/stream/channelid/80167554?ticket=121C888128FA0007FFF982F94BE5DD9ABAC27599&profile=pass
-
-#EXTINF:-1 group-title="MUSICA",MTV 00s
-http://45.148.147.13:8008/play/a00o
 
 #EXTINF:-1 group-title="MUSICA",MTV 80s
 http://78.83.191.18:8000/play/a06q
