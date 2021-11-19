@@ -130,17 +130,11 @@ http://168.205.87.198:8555/live/adriana/123456/104.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT PA - TV Paraense
 https://streaming.portaltvparaense.com.br:50176/rtp_live/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT PE - TV Jornal
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",SBT PI - TV Cidade Verde
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT PR - Rede Massa
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT Rio
-http://45.148.147.13:8005/play/a02c
 
 #EXTINF:-1 group-title="TV ABERTA",SBT RS - TV Rio Grande
 http://187.33.160.24:8000/play/3/index.m3u8
@@ -236,24 +230,6 @@ http://45.148.147.13:8002/play/a008
 
 #EXTINF:-1 group-title="ESPORTES",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="ESPORTES",DAZN 1
-http://45.148.147.13:8002/play/a00i
-
-#EXTINF:-1 group-title="ESPORTES",DAZN 2
-http://45.148.147.13:8002/play/a00j
-
-#EXTINF:-1 group-title="ESPORTES",DAZN 3
-http://45.148.147.13:8002/play/a00k
-
-#EXTINF:-1 group-title="ESPORTES",DAZN 4
-http://45.148.147.13:8002/play/a00l
-
-#EXTINF:-1 group-title="ESPORTES",DAZN 5
-http://45.148.147.13:8002/play/a00m
-
-#EXTINF:-1 group-title="ESPORTES",DAZN 6
-http://45.148.147.13:8002/play/a00n
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/123456/123456/60.m3u8
