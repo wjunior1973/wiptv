@@ -83,6 +83,9 @@ http://168.205.87.198:8555/live/adriana/123456/28.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Euronews
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",Globonews
+http://livetv2021.site:8080/9897876765/6576567/169
+
 #EXTINF:-1 group-title="NOTICIAS",JP News
 http://168.205.87.198:8555/live/adriana/123456/161.m3u8
 
@@ -95,6 +98,9 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://191.37.223.132:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Combate
+http://livetv2021.site:8080/9897876765/6576567/119
 
 #EXTINF:-1 group-title="ESPORTES",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -135,6 +141,36 @@ http://201.35.250.178:8001/play/a00l
 #EXTINF:-1 group-title="ESPORTES",Fox Sports 2
 http://201.35.250.178:8001/play/a00m
 
+#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
+http://livetv2021.site:8080/9897876765/6576567/122
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 2
+http://livetv2021.site:8080/9897876765/6576567/124
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
+http://livetv2021.site:8080/9897876765/6576567/6624
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 4
+http://livetv2021.site:8080/9897876765/6576567/419
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 5
+http://livetv2021.site:8080/9897876765/6576567/136
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 6
+http://livetv2021.site:8080/9897876765/6576567/134
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 7
+http://livetv2021.site:8080/9897876765/6576567/135
+
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://livetv2021.site:8080/9897876765/6576567/56
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 2
+http://livetv2021.site:8080/9897876765/6576567/6623
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 3
+http://livetv2021.site:8080/9897876765/6576567/113
+
 #EXTINF:-1 group-title="ESPORTES",Woohoo
 http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 
@@ -145,11 +181,17 @@ http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",AMC
+http://livetv2021.site:8080/9897876765/6576567/71
+
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
 http://191.37.223.133:8000/play/a024/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Canal Brasil
+http://livetv2021.site:8080/9897876765/6576567/117
 
 #EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
@@ -160,8 +202,38 @@ http://201.35.250.178:8001/play/a01b
 #EXTINF:-1 group-title="FILMES/SERIES",Entretendo
 http://191.37.223.133:8000/play/a026/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Eurochannel
+http://livetv2021.site:8080/9897876765/6576567/6669
+
 #EXTINF:-1 group-title="FILMES/SERIES",Film&Arts
 http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",FX
+http://livetv2021.site:8080/9897876765/6576567/8844
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO
+http://livetv2021.site:8080/9897876765/6576567/125
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
+http://livetv2021.site:8080/9897876765/6576567/126
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
+http://livetv2021.site:8080/9897876765/6576567/130
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
+http://livetv2021.site:8080/9897876765/6576567/8473
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
+http://livetv2021.site:8080/9897876765/6576567/127
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
+http://livetv2021.site:8080/9897876765/6576567/132
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
+http://livetv2021.site:8080/9897876765/6576567/131
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
+http://livetv2021.site:8080/9897876765/6576567/8474
 
 #EXTINF:-1 group-title="FILMES/SERIES",Jeannie e um Genio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -182,13 +254,46 @@ http://168.205.87.198:8555/live/adriana/123456/160.m3u8
 http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Space
-http://solutionplay.xyz:8080/techruthes/10987658/6466
+http://livetv2021.site:8080/9897876765/6576567/6672
 
-#EXTINF:-1 group-title="FILMES/SERIES",Space
-http://solutionplay.xyz:8080/techruthes/10987658/6439
+#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
+http://livetv2021.site:8080/9897876765/6576567/58
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Hits
+http://livetv2021.site:8080/9897876765/6576567/930
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Hits 2
+http://livetv2021.site:8080/9897876765/6576567/902
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Life
+http://livetv2021.site:8080/9897876765/6576567/6744
+
+#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
+http://livetv2021.site:8080/9897876765/6576567/733
+
+#EXTINF:-1 group-title="FILMES/SERIES",SyFy
+http://livetv2021.site:8080/9897876765/6576567/8854
 
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
 http://168.205.87.198:8555/live/adriana/123456/112.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
+http://livetv2021.site:8080/9897876765/6576567/1
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
+http://livetv2021.site:8080/9897876765/6576567/607
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
+http://livetv2021.site:8080/9897876765/6576567/63
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
+http://livetv2021.site:8080/9897876765/6576567/65
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
+http://livetv2021.site:8080/9897876765/6576567/59
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
+http://livetv2021.site:8080/9897876765/6576567/2
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 http://168.205.87.198:8555/live/adriana/123456/116.m3u8
@@ -201,6 +306,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523
 
 #EXTINF:-1 group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
+http://livetv2021.site:8080/9897876765/6576567/121
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
@@ -264,14 +372,26 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528
 #EXTINF:-1 group-title="VARIEDADES",Comedy Central
 http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Curta!
+http://livetv2021.site:8080/9897876765/6576567/6653
+
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
-http://168.205.87.198:8555/live/adriana/123456/33.m3u8
+http://livetv2021.site:8080/9897876765/6576567/6655
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
-http://168.205.87.198:8555/live/adriana/123456/35.m3u8
+http://livetv2021.site:8080/9897876765/6576567/8838
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://168.205.87.198:8555/live/adriana/123456/36.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+http://livetv2021.site:8080/9897876765/6576567/78
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://livetv2021.site:8080/9897876765/6576567/6662
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery World
+http://livetv2021.site:8080/9897876765/6576567/6663
 
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
@@ -287,6 +407,9 @@ http://168.205.87.198:8555/live/adriana/123456/61.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Fashionbox
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="VARIEDADES",Food Network
+http://livetv2021.site:8080/9897876765/6576567/8843
 
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://201.35.250.178:8001/play/a003
@@ -318,11 +441,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a00071798
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Like
+http://livetv2021.site:8080/9897876765/6576567/106
+
 #EXTINF:-1 group-title="VARIEDADES",Loading
 http://168.205.87.198:8555/live/adriana/123456/142.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="VARIEDADES",Mais na Tela
+http://livetv2021.site:8080/9897876765/6576567/171
 
 #EXTINF:-1 group-title="VARIEDADES",Masterchef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -335,6 +464,18 @@ http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3
 
 #EXTINF:-1 group-title="VARIEDADES",Multishow
 http://201.35.250.178:8001/play/a004
+
+#EXTINF:-1 group-title="VARIEDADES",Multishow [Opcao 2]
+http://livetv2021.site:8080/9897876765/6576567/6642
+
+#EXTINF:-1 group-title="VARIEDADES",NatGeo
+http://livetv2021.site:8080/9897876765/6576567/8851
+
+#EXTINF:-1 group-title="VARIEDADES",NatGeo Wild
+http://livetv2021.site:8080/9897876765/6576567/8849
+
+#EXTINF:-1 group-title="VARIEDADES",Off
+http://livetv2021.site:8080/9897876765/6576567/170
 
 #EXTINF:-1 group-title="VARIEDADES",Paramount+
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
@@ -360,6 +501,9 @@ http://191.37.223.132:8000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",TBS
+http://livetv2021.site:8080/9897876765/6576567/76
+
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://168.205.87.198:8555/live/adriana/123456/124.m3u8
 
@@ -368,6 +512,9 @@ https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/c
 
 #EXTINF:-1 group-title="VARIEDADES",Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="VARIEDADES",Viva
+http://livetv2021.site:8080/9897876765/6576567/115
 
 #EXTINF:-1 group-title="VARIEDADES",Yeeaah!
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
@@ -391,11 +538,17 @@ http://168.205.87.198:8555/live/adriana/123456/26.m3u8
 #EXTINF:-1 group-title="INFANTIS",Clubinho Fun
 http://191.37.223.133:8000/play/a027/index.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Disney Channel
+http://livetv2021.site:8080/9897876765/6576567/8840
+
 #EXTINF:-1 group-title="INFANTIS",Disney Jr
 http://168.205.87.198:8555/live/adriana/123456/46.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney XD
 http://168.205.87.198:8555/live/adriana/123456/47.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Gloob
+http://livetv2021.site:8080/9897876765/6576567/172
 
 #EXTINF:-1 group-title="INFANTIS",Gloobinho
 http://201.35.250.178:8001/play/a008
@@ -437,6 +590,9 @@ http://191.37.223.133:8000/play/a02b/index.m3u8
 ###### MUSICA ######
 ####################
 
+#EXTINF:-1 group-title="MUSICA",Bis
+http://livetv2021.site:8080/9897876765/6576567/173
+
 #EXTINF:-1 group-title="MUSICA",Canal BRA
 http://168.205.87.198:8555/live/adriana/123456/24.m3u8
 
@@ -457,6 +613,9 @@ http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Loop 80s
 https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
+
+#EXTINF:-1 group-title="MUSICA",MTV 00s
+http://livetv2021.site:8080/9897876765/6576567/6894
 
 #EXTINF:-1 group-title="MUSICA",MTV 80s
 http://78.83.191.18:8000/play/a06q
