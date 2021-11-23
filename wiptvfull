@@ -1824,9 +1824,6 @@ https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #EXTINF:-1 group-title="RITMOS",Festa
 http://6d9a.webradio.upx.net.br:9070/stream?
 
-#EXTINF:-1 group-title="RITMOS",Flashback
-http://paineldj5.com.br:8003/stream?type=.mp3
-
 #EXTINF:-1 group-title="RITMOS",Folk
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 
