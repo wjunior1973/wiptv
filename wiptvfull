@@ -46,6 +46,9 @@ http://179.125.119.154:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC TV [Opcao 2]
 http://187.33.160.24:8000/play/87/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
+http://livetv2021.site:8080/9897876765/6576567/68
+
 #EXTINF:-1 group-title="TV ABERTA",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
@@ -727,6 +730,46 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 
 #EXTINF:-1 group-title="MUSICA",VH1 Classics 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+########################
+###### RELIGIOSOS ######
+########################
+
+#EXTINF:-1 group-title="RELIGIOSOS",Boa Vontade
+http://168.205.87.198:8555/live/1499/123456/21.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
+http://168.205.87.198:8555/live/1499/123456/25.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",CNT
+http://168.205.87.198:8555/live/1499/123456/150.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Novo Tempo
+https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Plenitude TV
+https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Boas Novas
+http://170.80.157.9:8000/play/a02i
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Genesis
+http://168.205.87.198:8555/live/1499/123456/98.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
+http://168.205.87.198:8555/live/1499/123456/103.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Evangelizar
+http://191.37.223.132:8000/play/a02l/index.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
 #########################
 ###### VIDEOCLIPES ######
@@ -1668,44 +1711,198 @@ https://dl.get-mp4.xyz/videos/whigfield-saturday-night_246247.mp4
 #EXTINF:-1 group-title="VIDEOCLIPES",YES - Owner of a Lonely Heart
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Yes%20:%20Owner%20of%20a%20Lonely%20Heart%20(1920x1080).mp4
 
-########################
-###### RELIGIOSOS ######
-########################
+####################
+###### RADIOS ######
+####################
 
-#EXTINF:-1 group-title="RELIGIOSOS",Boa Vontade
-http://168.205.87.198:8555/live/1499/123456/21.m3u8
+#EXTINF:-1 group-title="RADIOS",93 FM
+https://18133.live.streamtheworld.com/FM93_SC
 
-#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
-http://168.205.87.198:8555/live/1499/123456/25.m3u8
+#EXTINF:-1 group-title="RADIOS",A Cor Da Vida FM
+http://cast.midiaip.com.br:7102/1;
 
-#EXTINF:-1 group-title="RELIGIOSOS",CNT
-http://168.205.87.198:8555/live/1499/123456/150.m3u8
+#EXTINF:-1 group-title="RADIOS",Antena FM
+http://108.61.43.2:8232/stream2?sid=2/stream
 
-#EXTINF:-1 group-title="RELIGIOSOS",IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",Araras FM 107.7
+http://radio1.suaradionanet.net:10841/stream?type=.flv
 
-#EXTINF:-1 group-title="RELIGIOSOS",Novo Tempo
-https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RADIOS",Atlantida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/http-live/atl_poa.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="RELIGIOSOS",Plenitude TV
-https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",Band FM
+http://162.244.80.106:11011/;stream/1
 
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Boas Novas
-http://170.80.157.9:8000/play/a02i
+#EXTINF:-1 group-title="RADIOS",Cabo Branco FM
+http://audio.cabobranco.tv.br:8000/cbfm
 
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Genesis
-http://168.205.87.198:8555/live/1499/123456/98.m3u8
+#EXTINF:-1 group-title="RADIOS",Globo RJ FM
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
-http://168.205.87.198:8555/live/1499/123456/103.m3u8
+#EXTINF:-1 group-title="RADIOS",Jovem Pan FM
+http://hts02.kshost.com.br:8732/;stream/1
 
-#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:-1 group-title="RADIOS",Jovem Pan News FM
+http://hts03.kshost.com.br:8466/live
 
-#EXTINF:-1 group-title="RELIGIOSOS",TV Evangelizar
-http://191.37.223.132:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="RADIOS",Liberdade 95.9 FM
+http://streaming11.hstbr.net:8060/live?type=.flv
 
-#EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",Lider 97 FM
+http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIOS",Power FM
+http://listen.181fm.com:7080/181-power_128k.mp3
+
+#EXTINF:-1 group-title="RADIOS",Radio 104 FM
+http://cast4.audiostream.com.br:8651/mp3
+
+#EXTINF:-1 group-title="RADIOS",Radio Alegria FM
+http://stream.ouveai.com.br:8061/;
+
+#EXTINF:-1 group-title="RADIOS",Radio Beat 98 FM
+http://s23.hstbr.net:8072/live
+
+#EXTINF:-1 group-title="RADIOS",Radio Continental FM
+http://cast4.audiostream.com.br:8650/mp3
+
+#EXTINF:-1 group-title="RADIOS",Radio Eldorado FM 107.3
+https://estadaohls-lh.akamaihd.net/i/estadaohls_1@301351/index_200_a-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="RADIOS",Radio Energia FM 97
+http://audio.97fm.com.br/energia
+
+#EXTINF:-1 group-title="RADIOS",Radio Express FM
+http://cast4.audiostream.com.br:8648/mp3
+
+#EXTINF:-1 group-title="RADIOS",Radio Imbe FM
+http://cast4.audiostream.com.br:8660/mp3
+
+#EXTINF:-1 group-title="RADIOS",Radio Mania FM
+http://shout35.crossradio.com.br:8086/1/;stream/1
+
+#EXTINF:-1 group-title="RADIOS",Radio Princesa FM
+http://noasrv.caster.fm:10124/stream
+
+#EXTINF:-1 group-title="RADIOS",Radio Truckers FM
+http://radio.truckers.fm
+
+#EXTINF:-1 group-title="RADIOS",Radio Xangrila FM
+http://cast4.audiostream.com.br:8659/mp3
+
+####################
+###### RITMOS ######
+####################
+
+#EXTINF:-1 group-title="RITMOS",Anos 60
+https://radios.rtbf.be/wr-c21-60-128.mp3
+
+#EXTINF:-1 group-title="RITMOS",Anos 70
+http://uplink.duplexfx.com:8066/
+
+#EXTINF:-1 group-title="RITMOS",Anos 80 [1]
+http://hestia2.cdnstream.com:80/1069_64
+
+#EXTINF:-1 group-title="RITMOS",Anos 80 [2]
+http://mp3channels.webradio.de:80/80er-kulthits
+
+#EXTINF:-1 group-title="RITMOS",Anos 90 [1]
+http://mp3channels.webradio.de:80/90er-hits
+
+#EXTINF:-1 group-title="RITMOS",Anos 90 [2]
+http://uplink.duplexfx.com:8012/
+
+#EXTINF:-1 group-title="RITMOS",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+
+#EXTINF:-1 group-title="RITMOS",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+
+#EXTINF:-1 group-title="RITMOS",Eletronica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Festa
+http://6d9a.webradio.upx.net.br:9070/stream?
+
+#EXTINF:-1 group-title="RITMOS",Flashback
+http://paineldj5.com.br:8003/stream?type=.mp3
+
+#EXTINF:-1 group-title="RITMOS",Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Forro
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream?
+
+#EXTINF:-1 group-title="RITMOS",Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+
+#EXTINF:-1 group-title="RITMOS",MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Musica Classica
+http://6d9a.webradio.upx.net.br:9970/stream
+
+#EXTINF:-1 group-title="RITMOS",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+
+#EXTINF:-1 group-title="RITMOS",Pagode [1]
+http://6d9a.webradio.upx.net.br:9061/stream
+
+#EXTINF:-1 group-title="RITMOS",Pagode [2]
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Rock Classico
+http://hestia2.cdnstream.com:80/1074_128
+
+#EXTINF:-1 group-title="RITMOS",Romanticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Sertanejo Romantico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
 
 ###### LISTA DESENVOLVIDA E MANTIDA POR WILSON J A JUNIOR - (47) 991565863 / wjunior1973@gmail.com ######
