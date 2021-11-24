@@ -684,7 +684,7 @@ http://livetv2021.site:8080/9897876765/6576567/6894
 http://78.83.191.18:8000/play/a06q
 
 #EXTINF:-1 group-title="MUSICA",MTV Live
-http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
+http://livetv2021.site:8080/9897876765/6576567/6646
 
 #EXTINF:-1 group-title="MUSICA",MTV Love Music
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e92e4694c027be6ecece1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=60&terminate=false&userId=
