@@ -105,9 +105,6 @@ http://191.37.223.132:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://livetv2021.site:8080/9897876765/6576567/119
 
-#EXTINF:-1 group-title="ESPORTES",Combate World
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/1499/123456/60.m3u8
 
@@ -241,9 +238,6 @@ http://livetv2021.site:8080/9897876765/6576567/131
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://livetv2021.site:8080/9897876765/6576567/8474
 
-#EXTINF:-1 group-title="FILMES/SERIES",Jeannie e um Genio
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://solutionplay.xyz:8080/techruthes/10987658/6457
 
@@ -306,12 +300,6 @@ http://168.205.87.198:8555/live/1499/123456/116.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Series
 http://168.205.87.198:8555/live/1499/123456/117.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TV Retro
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="FILMES/SERIES",TV Series
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES/SERIES",Universal TV
 http://livetv2021.site:8080/9897876765/6576567/121
@@ -429,9 +417,6 @@ http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3
 #EXTINF:-1 group-title="VARIEDADES",CineBrasil TV
 http://191.37.223.133:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Comedia TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 group-title="VARIEDADES",Comedy Central
 http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3u8
 
@@ -453,23 +438,20 @@ http://livetv2021.site:8080/9897876765/6576567/78
 #EXTINF:-1 group-title="VARIEDADES",Discovery Theater
 http://livetv2021.site:8080/9897876765/6576567/6662
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
+http://189.91.128.146:4444/udp/227.10.20.82:1234
+
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
 http://livetv2021.site:8080/9897876765/6576567/6663
 
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Estilo de Vida
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 group-title="VARIEDADES",Fail Army
 https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Fashion TV
 http://168.205.87.198:8555/live/1499/123456/61.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Fashionbox
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="VARIEDADES",Food Network
 http://livetv2021.site:8080/9897876765/6576567/8843
@@ -495,12 +477,6 @@ https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Inspire
 http://191.37.223.133:8000/play/a029/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Investigacao TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="VARIEDADES",Jovem Pan
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8
 
@@ -510,17 +486,8 @@ http://livetv2021.site:8080/9897876765/6576567/106
 #EXTINF:-1 group-title="VARIEDADES",Loading
 http://168.205.87.198:8555/live/1499/123456/142.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Love Nature
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 group-title="VARIEDADES",Mais na Tela
 http://livetv2021.site:8080/9897876765/6576567/171
-
-#EXTINF:-1 group-title="VARIEDADES",Masterchef
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="VARIEDADES",Misterios TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="VARIEDADES",MTV Brasil
 http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8
@@ -539,18 +506,6 @@ http://livetv2021.site:8080/9897876765/6576567/8849
 
 #EXTINF:-1 group-title="VARIEDADES",Off
 http://livetv2021.site:8080/9897876765/6576567/170
-
-#EXTINF:-1 group-title="VARIEDADES",Paramount+
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="VARIEDADES",Pegadinhas
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="VARIEDADES",People are Awesome
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="VARIEDADES",Porta dos Fundos
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="VARIEDADES",Rede Mosaico
 http://191.37.223.133:8000/play/a021/index.m3u8
@@ -573,9 +528,6 @@ http://168.205.87.198:8555/live/1499/123456/124.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Vida Real
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 group-title="VARIEDADES",Viva
 http://livetv2021.site:8080/9897876765/6576567/115
 
@@ -588,9 +540,6 @@ http://191.37.223.133:8000/play/a025/index.m3u8
 ######################
 ###### INFANTIS ######
 ######################
-
-#EXTINF:-1 group-title="INFANTIS",A Turma da Monica
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="INFANTIS",Boomerang
 http://168.205.87.198:8555/live/1499/123456/22.m3u8
@@ -619,9 +568,6 @@ http://201.35.250.178:8001/play/a008
 #EXTINF:-1 group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/1499/123456/143.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Naruto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
 #EXTINF:-1 group-title="INFANTIS",NatGeo Kids
 http://201.35.250.178:8001/play/a00n
 
@@ -630,12 +576,6 @@ http://livetv2021.site:8080/9897876765/6576567/6620
 
 #EXTINF:-1 group-title="INFANTIS",Nick Jr
 http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_3.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Nick Teen
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="INFANTIS",O Reino Infantil
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
@@ -648,88 +588,6 @@ https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/c
 
 #EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
 http://191.37.223.133:8000/play/a02b/index.m3u8
-
-####################
-###### MUSICA ######
-####################
-
-#EXTINF:-1 group-title="MUSICA",Bis
-http://livetv2021.site:8080/9897876765/6576567/173
-
-#EXTINF:-1 group-title="MUSICA",Canal BRA
-http://168.205.87.198:8555/live/1499/123456/24.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Canal Cult
-http://168.205.87.198:8555/live/1499/123456/30.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Canal Mega
-https://origin-02.nxplay.com.br/MEGA/video.m3u8?token=
-
-#EXTINF:-1 group-title="MUSICA",Canal SCH
-http://168.205.87.198:8555/live/1499/123456/105.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Classic Hits
-http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Hitts
-http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Loop 80s
-https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
-
-#EXTINF:-1 group-title="MUSICA",MTV 00s
-http://livetv2021.site:8080/9897876765/6576567/6894
-
-#EXTINF:-1 group-title="MUSICA",MTV 80s
-http://78.83.191.18:8000/play/a06q
-
-#EXTINF:-1 group-title="MUSICA",MTV Live
-http://livetv2021.site:8080/9897876765/6576567/6646
-
-#EXTINF:-1 group-title="MUSICA",MTV Love Music
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e92e4694c027be6ecece1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=60&terminate=false&userId=
-
-#EXTINF:-1 group-title="MUSICA",MTV Unplugged
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 group-title="MUSICA",Music Box Brazil
-http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Play TV
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Studio TV
-https://streamingtv.ddoti.com.br/hls/stream.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Trace Brazuca
-http://201.35.250.178:8001/play/a00v
-
-#EXTINF:-1 group-title="MUSICA",VEVO 2K's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="MUSICA",VEVO 70's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="MUSICA",VEVO 80's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="MUSICA",VEVO 90's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="MUSICA",VEVO Hip-Hop
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-
-#EXTINF:-1 group-title="MUSICA",VEVO Pop
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b635b43dd1a399b39eee&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=890&terminate=false&userId=
-
-#EXTINF:-1 group-title="MUSICA",VH1 Classics
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="MUSICA",VH1 Classics 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ########################
 ###### RELIGIOSOS ######
@@ -753,9 +611,6 @@ https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",Plenitude TV
 https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
 
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Boas Novas
-http://170.80.157.9:8000/play/a02i
-
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Genesis
 http://168.205.87.198:8555/live/1499/123456/98.m3u8
 
@@ -770,6 +625,106 @@ http://191.37.223.132:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+####################
+###### MUSICA ######
+####################
+
+#EXTINF:-1 group-title="MUSICA",Bis
+http://livetv2021.site:8080/9897876765/6576567/173
+
+#EXTINF:-1 group-title="MUSICA",Canal BRA
+http://168.205.87.198:8555/live/1499/123456/24.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Canal Cult
+http://168.205.87.198:8555/live/1499/123456/30.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Canal Mega
+https://origin-02.nxplay.com.br/MEGA/video.m3u8?token=
+
+#EXTINF:-1 group-title="MUSICA",Canal SCH
+http://168.205.87.198:8555/live/1499/123456/105.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Classic Hits
+http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Eurodance 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Hitts
+http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICA",HQM Classic
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",HQM Dance
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",HQM Folk
+https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",HQM Hits
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",HQM Pop
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",HQM Remember
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",HQM Rock
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Loop 70s
+https://e3562d9b4aeb44bebe907ac25c2917ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_distrotv/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Loop 80s
+https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Loop 90s
+https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Loop Flashback
+https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",MTV 00s
+http://livetv2021.site:8080/9897876765/6576567/6894
+
+#EXTINF:-1 group-title="MUSICA",MTV 80s
+http://78.83.191.18:8000/play/a06q
+
+#EXTINF:-1 group-title="MUSICA",MTV Live
+http://livetv2021.site:8080/9897876765/6576567/6646
+
+#EXTINF:-1 group-title="MUSICA",Music Box Brazil
+http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Play TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Studio TV
+https://streamingtv.ddoti.com.br/hls/stream.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Trace Brazuca
+http://201.35.250.178:8001/play/a00v
+
+#EXTINF:-1 group-title="MUSICA",VEVO 80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",VEVO Hip Hop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1 group-title="MUSICA",VEVO Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",VEVO Pop Europe
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Virgin Radio TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 
 #########################
 ###### VIDEOCLIPES ######
@@ -930,9 +885,6 @@ http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1990%20-%20Black%20Box%2
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Bon Jovi - Always
 https://get-mp4.xyz/videos/bon-jovi-always_689551.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Bon Jovi - Blaze of Glory
-https://data.mymp3app.com/480/jon-bon-jovi-blaze-of-glory-(480p).mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Bon Jovi - It's My Life
 https://get-mp4.xyz/videos/bon-jovi-its-my-life_317694.mp4
@@ -1170,9 +1122,6 @@ http://104.251.123.41/Welcome%20To%20The%20Jungle-Guns%20And%20Roses.mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Haddaway - What is Love
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1993%20-%20Haddaway%20:%20What%20Is%20Love%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Housemartins - Build
-https://data.mymp3app.com/360/the-housemartins-build-(360p).mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",INXS - Never Tear Us Apart
 https://get-mp4.xyz/videos/inxs-never-tear-us-apart_266054.mp4
@@ -1668,15 +1617,6 @@ http://104.251.123.41/Fast%20Car-Traci%20Chapman.mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Twisted Sisters - We're Not Gonna Take It
 http://104.251.123.41/Were%20Not%20Gonna%20Take%20It-Twisted%20Sister.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",U2 - Pride In The Name Of Love
-https://data.mymp3app.com/480/u2-pride-in-the-name-of-love-(480p).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",U2 - Vertigo
-https://data.mymp3app.com/480/u2-vertigo-(480p).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",U2 - With Or Without You
-https://data.mymp3app.com/480/u2-with-or-without-you-(480p).mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",UB40 - Here I Am
 https://get-mp4.xyz/videos/ub40-here-i-am_266337.mp4
