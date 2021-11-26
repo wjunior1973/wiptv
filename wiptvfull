@@ -171,21 +171,6 @@ http://livetv2021.site:8080/9897876765/6576567/6623
 #EXTINF:-1 group-title="ESPORTES",SporTV 3
 http://livetv2021.site:8080/9897876765/6576567/113
 
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 1 [Portugal]
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 2 [Portugal]
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 3 [Portugal]
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 4 [Portugal]
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 5 [Portugal]
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Woohoo
 http://168.205.87.198:8555/live/1499/123456/141.m3u8
 
