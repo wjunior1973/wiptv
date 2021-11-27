@@ -74,9 +74,6 @@ http://168.205.87.198:8555/live/1499/123456/139.m3u8
 ###### NOTICIAS ######
 ######################
 
-#EXTINF:-1 group-title="NOTICIAS",24H News
-http://191.37.223.133:8000/play/a028/index.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://191.37.223.132:8000/play/a02v/index.m3u8
 
@@ -141,9 +138,6 @@ http://201.35.250.178:8001/play/a00l
 #EXTINF:-1 group-title="ESPORTES",Fox Sports 2
 http://201.35.250.178:8001/play/a00m
 
-#EXTINF:-1 group-title="ESPORTES",NBA TV
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://livetv2021.site:8080/9897876765/6576567/122
 
@@ -158,12 +152,6 @@ http://livetv2021.site:8080/9897876765/6576567/419
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 5
 http://livetv2021.site:8080/9897876765/6576567/136
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 6
-http://livetv2021.site:8080/9897876765/6576567/134
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 7
-http://livetv2021.site:8080/9897876765/6576567/135
 
 #EXTINF:-1 group-title="ESPORTES",SporTV
 http://livetv2021.site:8080/9897876765/6576567/56
