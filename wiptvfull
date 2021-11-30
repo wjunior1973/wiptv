@@ -235,9 +235,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 #EXTINF:-1 group-title="FILMES/SERIES",Filmes Suspense
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Web
-http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://189.91.128.146:4444/udp/227.10.20.138:1234
 
@@ -288,9 +285,6 @@ http://187.94.148.4:8000/play/a02i/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
 http://189.91.128.146:4444/udp/227.10.20.88:1234
-
-#EXTINF:-1 group-title="FILMES/SERIES",TCM
-http://45.148.147.13:8002/play/a054/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://187.94.148.4:8000/play/a02j/index.m3u8
