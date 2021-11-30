@@ -178,12 +178,6 @@ http://168.205.87.198:8555/live/1499/123456/141.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",AMC
-http://45.148.147.13:8001/play/a097/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",AXN
-http://45.148.147.13:8001/play/a098/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
 http://191.37.223.133:8000/play/a024/index.m3u8
 
@@ -521,9 +515,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA",VEVO Pop Europe
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Virgin Radio TV
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 
 ######################
 ###### INFANTIS ######
