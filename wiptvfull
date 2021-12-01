@@ -489,6 +489,9 @@ http://189.91.128.146:4444/udp/227.10.20.134:1234
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 http://187.94.148.4:8000/play/a02g/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",TV Clube Web
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -522,6 +525,9 @@ http://189.91.128.146:4444/udp/227.10.20.82:1234
 
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Elemental Channel
+https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Estilo de Vida
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -869,6 +875,10 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro+
 http://191.37.223.132:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",AgroBrasil TV
+#EXTINF:-1,AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro Canal
 http://168.205.87.198:8555/live/1499/123456/10.m3u8
