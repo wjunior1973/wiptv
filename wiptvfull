@@ -257,6 +257,9 @@ http://168.205.87.198:8555/live/1499/123456/161.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",SIC Noticias
+http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",TV Brasil
 http://168.205.87.198:8555/live/1499/123456/134.m3u8
 
@@ -345,6 +348,9 @@ http://201.35.250.178:8001/play/a009
 #EXTINF:-1 group-title="ESPORTES",Premiere 7
 http://201.35.250.178:8001/play/a00a
 
+#EXTINF:-1 group-title="ESPORTES",Sky Sports F1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",SporTV
 http://201.35.250.178:8001/play/a00d
 
@@ -356,6 +362,9 @@ http://45.148.147.13:8007/play/a06p
 
 #EXTINF:-1 group-title="ESPORTES",Woohoo
 http://168.205.87.198:8555/live/1499/123456/141.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",WWE Network
+http://93.152.174.144:4000/play/WWE/index.m3u8
 
 ###########################
 ###### FILMES/SERIES ######
