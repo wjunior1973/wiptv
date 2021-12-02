@@ -169,6 +169,9 @@ http://191.37.223.133:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record RS
 http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Record SC - NDTV
+http://179.125.119.154:8000/play/a01j/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Record SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
@@ -272,6 +275,9 @@ http://168.205.87.198:8555/live/1499/123456/139.m3u8
 ######################
 ###### ESPORTES ######
 ######################
+
+#EXTINF:-1 group-title="ESPORTES",All Sports
+http://168.205.87.198:8555/live/1499/123456/148.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://191.37.223.132:8000/play/a02t/index.m3u8
@@ -394,6 +400,12 @@ http://201.35.250.178:8001/play/a01b
 #EXTINF:-1 group-title="FILMES/SERIES",Curta!
 http://45.148.147.13:8011/play/a03u
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cynemax
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1553373919.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Entretendo
 http://191.37.223.133:8000/play/a026/index.m3u8
 
@@ -436,8 +448,17 @@ http://201.35.250.178:8001/play/a01o
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://201.35.250.178:8001/play/a01d
 
+#EXTINF:-1 group-title="FILMES/SERIES",Imperial TV
+https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1061287993.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Londrina TV
+https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://45.148.147.13:8005/play/a00u
+
+#EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount Channel
 http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8
@@ -447,6 +468,9 @@ http://168.205.87.198:8555/live/1499/123456/83.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Retro TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="FILMES/SERIES",Runtime
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/1499/123456/160.m3u8
@@ -471,6 +495,9 @@ http://189.91.128.146:4444/udp/227.10.20.88:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",SyFy
 http://45.148.147.13:8005/play/a00z
+
+#EXTINF:-1 group-title="FILMES/SERIES",TCM
+http://45.161.252.33/TCM_BR/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://187.94.148.4:8000/play/a02j/index.m3u8
@@ -538,9 +565,6 @@ http://45.148.147.13:8010/play/a014
 
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Elemental Channel
-https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Estilo de Vida
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -926,16 +950,733 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u
 http://191.37.223.132:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",AgroBrasil TV
-#EXTINF:-1,AgroBrasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro Canal
 http://168.205.87.198:8555/live/1499/123456/10.m3u8
 
+#EXTINF:-1 group-title="AGRONEGOCIOS",Agrotour Web TV
+https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w1242989245.m3u8
+
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
 http://191.37.223.132:8000/play/a00t/index.m3u8
 
+#EXTINF:-1 group-title="AGRONEGOCIOS",Nova TV Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+
 #EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#############################
+###### CANAIS DIVERSOS ######
+#############################
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Allegro Web TV
+https://livefocamundo.com:8081/allegrowebtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Alpha Channel
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Alternativa Web TV
+https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Amazon Sat
+https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Araruna TV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",AWC Channel
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Bah! TV
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/chunklist_b2628000.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Blits TV
+https://video01.logicahost.com.br/blitstv/blitstv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",BMTV
+https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w2051079811.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",BraziTV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Smart
+https://5a57bda70564a.streamlock.net/smart/smart.sdp/chunklist_w1327273803.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",BRZ Channel
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",BSTV
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w406781354.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Cabo Frio TV
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal 10 Foz
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal da Pecuaria
+https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal FCV TV
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Smart
+https://5a57bda70564a.streamlock.net/smart/smart.sdp/chunklist_w1327273803.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal UM
+http://191.37.223.133:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",CaTVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1039387785.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Caxias TV
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/chunklist_w744938849.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Central TV
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Conecta+ TV
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",ConecTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Conexao TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Creative TV Brasil
+https://video01.logicahost.com.br/creativetv/creativetv/chunklist_w1065479792.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Demand Africa
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Elemental Channel
+https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Ely TV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Ghost TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w2037615878.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Lavras TV Web
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",MAM News Web TV
+https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Master Show TV
+http://mastershowtv.videovox.pw/master6123/master6123/chunklist_w88667257.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Multicultura
+http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w452323085.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Nossa TV
+https://cdn.jmvstream.com/w/AVJ-9733/playlist/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Nova Barreiros Web TV
+http://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Nova Era TV
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Nova Gazeta TV - SBT
+http://video02.kshost.com.br/sueli3485/sueli3485/chunklist_w1130746084.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",OESC TV
+https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Parana Turismo TV
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Per  Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Plan TV
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Plena TV
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Portal Ativo
+https://flussonic-tv.jupiter.com.br/portalativo/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Portal News Web TV
+https://stmv1.srvstm.com/portalnews/portalnews/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",PPZ TV
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w299865220.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Primer TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Q Tal Channel
+https://video01.logicahost.com.br/qtalchannel/qtalchannel/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RBC TV
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RBTV SP
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RCC TV
+https://video02.kshost.com.br/edvaldo1425/edvaldo1425/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RCTV Interativa
+https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RDTV Digital
+https://5d82644094cc0.streamlock.net/8144/8144/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede Clone
+https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1944295461.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede Litoral News
+https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede Metropole
+http://168.205.87.198:8555/live/adriana/123456/99.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede Minas
+http://168.205.87.198:8555/live/adriana/123456/101.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede Nova TV
+https://5d2c98775bafe.streamlock.net:443/8058/8058/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede SPTV
+https://video01.logicahost.com.br/websptv/websptv/chunklist_w685259184.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede TV Sul
+https://novo.bitstreaming.info:1936/8032/8032/chunklist_w2087166645.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede TVC
+https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Resende Web TV
+https://5d82644094cc0.streamlock.net:443/resendetv/resendetv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RGTV
+https://stmv3.samcast.com.br/italo8170/italo8170/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RSC TV
+http://168.205.87.198:8555/live/1499/123456/147.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sertao TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1802821028.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Seven TV
+https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sou TV
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sul TV
+https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Summer TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Teleweb TV
+https://video02.kshost.com.br/acessweb7837/acessweb7837/chunklist_w2069879305.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Tere TV
+https://5b7f3c45ab7c2.streamlock.net/8158/8158/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Terceira Via TV
+https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Tierra Mia TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV A Cara da Bahia
+https://stmv1.painelvideo.top/jatoba/jatoba/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV A Folha
+https://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV A Plateia
+https://stmv1.samcast.com.br/kamal9663/kamal9663/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV A7
+https://livefocamundo.com:8081/simoes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Aberta SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV ACE
+https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV ADO
+https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1801393516.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Alagonet
+https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV America
+https://cdn.jmvstream.com/w/AVJ-9818/playlist/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Aracati
+https://livefocamundo.com:8081/tvaracati/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Boqueirao
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Braga Brasil
+https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w94211491.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Caldeirao
+https://5a57bda70564a.streamlock.net/tvcaldeirao/tvcaldeirao.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Camocim Web
+https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w1331803459.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Capital Teresina
+https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Caragua
+https://cdn.jmvstream.com/w/AVJ-9779/playlist/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Caravelas
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1131983888.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Carioca
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w543831895.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Ceara
+https://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Centro Sul
+https://novo.bitstreaming.info:1936/tvcentrosultvstation/tvcentrosultvstation/chunklist_w908028520.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Channel Network
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Cidade Canal 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Cidade Oeste
+http://radios.primedata.com.br:5080/LiveApp/streams/872258137935361699746456.m3u8?token=undefined
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Cidade Tiradentes
+https://novo.bitstreaming.info:1936/8284/8284/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Cidade Viva
+https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Cinec
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Clic Brasil
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV CNB
+https://livefocamundo.com:8081/tvcnb/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Cognopolis
+https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/chunklist_w1989881567.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w1629104183.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Controles
+https://livefocamundo.com:8081/tvcontroles/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV das Artes
+https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/chunklist_w406428840.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Destak
+http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w1869059217.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Destaque Nacional
+https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Diario do Sertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w472027995.m3u8?ValterHD
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Digital Birigui
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV do Povo
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Empire Magazine
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV FAAP
+http://midia.faap.br/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Galega
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Gallo
+https://5c483b9d1019c.streamlock.net:443/8202/8202/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Gazeta Norte Mineira
+https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Germana
+https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w560490958.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Gramado
+https://video01.kshost.com.br:4443/tv4477/tv4477/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Grande Natal
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Grava
+https://stmv1.redegrava.com.br/redegrava/redegrava/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Guaruja
+https://59e4b6c1beddc.streamlock.net:443/8138/8138/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Guarulhos
+http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Hora 1
+https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/chunklist_w96738037.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Hora 1
+https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Ibate
+https://5eaa6849d0971.streamlock.net/8034/8034/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Ibiapana
+https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Inforbahia
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Interativa
+http://srv2.zcast.com.br/tvinterativa/tvinterativa/chunklist_w699108230.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Interlagos
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/chunklist_w532957556.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Iracema
+https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Ita News
+https://stmv1.samcast.com.br/ronaldo7151/ronaldo7151/chunklist_w1814222169.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV J.Sid
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Jaguar
+https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist_w783002578.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Japi
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Lider do Vale
+https://5d82644094cc0.streamlock.net/liderdovaletv/liderdovaletv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Litoral
+http://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Maceio
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Mackenzie
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Mais Brasil
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1926521392.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Mais Marica
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Mais News
+https://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Mais Nordeste
+https://5eaa6849d0971.streamlock.net/tvmaisnordestetv/tvmaisnordestetv/chunklist_w231897700.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Mar
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Mares Guarapari
+https://59f1cbe63db89.streamlock.net:1443/tvmaresguarapari/_definst_/tvmaresguarapari/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Max
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Max 90
+https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Metropole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w2133373253.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Mix
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w804213180.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Naza
+https://stmv1.srvif.com/tvnaza/tvnaza/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV ND do Brasil
+https://video01.kshost.com.br:4443/tv3685/tv3685/chunklist_w817106734.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Nova Onda
+https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w1156158175.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1369810498.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV NTV
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV O Povo
+https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Oeste
+https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Omindare
+https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Onix
+https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Opcao
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Opiniao Play
+https://livefocamundo.com:8081/opiniaoplay/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Otimista
+https://hls.directradios.com/otimista/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Ouro Negro
+https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/chunklist_w1988638036.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Pantanal
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Passo Fundo
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Pioneira
+https://livefocamundo.com:8081/tvpioneira/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Pocos
+https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Ponta da Serra
+https://srv2.zcast.com.br/juanes1546/juanes1546/chunklist_w1824873531.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Ponta do Seixas
+https://livefocamundo.com:8081/tvpontadoseixascanal9/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Portal Midia
+https://video01.kshost.com.br/portalmidia/portalmidia/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Portal MH
+https://srv4.zcast.com.br/ivo8888/ivo8888/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Potengi
+https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Precabura
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Progresso Web TV
+https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w755298038.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV RBC
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Rio preto
+http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV RP
+https://5b7f3c45ab7c2.streamlock.net/8042/8042/chunklist_w967863438_DVR.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Sandegi
+https://video01.kshost.com.br/antonio9510/antonio9510/chunklist_w130287641.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV SDB
+https://novo.bitstreaming.info:1936/8094/8094/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Sertao Petrolina
+https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Sete Lagoas
+https://livefocamundo.com:8081/tvsetelagoas/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Show de Bola
+https://videodj.fm5.com.br:19360/showdebola/showdebola.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Sol
+http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Sol Comunidade
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Sul Bahia
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Sul de Minas
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Top Sul
+https://srv2.zcast.com.br/tvtopsul/tvtopsul/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Varzea Grande
+https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Vale das Artes
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w2069670835.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Vale do Uruara
+https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Verdes Campos SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Vicosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Vida Formosa
+https://stmv2.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Vitoria
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist_w267612778.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Votuline
+https://srv5.zcast.com.br/votuline/votuline/chunklist_w1485642929.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV WA
+https://cdn.jmvstream.com/w/LVW-9892/ngrp:LVW9892_PCIeyMXAKy_all/chunklist_b1596000.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Web Parana
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV WM
+https://stmv2.voxtvhd.com.br/tvwm/tvwm/chunklist_w260877361.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV WTJ Minas
+https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV8 Brasil
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVC
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVC Rio
+http://206.189.110.55:8080/hls/live.stream.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVC-16
+http://stmv4.srvstm.com/tvc162/tvc162/chunklist_w1729307143.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVCI  (Paranagu -PR)
+http://flash8.crossdigital.com.br/2306/2306/chunklist_w1536778850.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVi
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVI 24H [Portugal]
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVI Reality
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVideo News
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVN BRASIL
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVU ABC
+https://59f1cbe63db89.streamlock.net:1443/hotgarage/_definst_/hotgarage/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",UTV
+https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Vale TV
+https://cdn-valetv.ciclano.io:1443/valetv/valetv/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Vila TV
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1795654218.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Vintage TV
+https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Virtual TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w75240921.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",VRT Channel
+https://stream.vrtchannel.tv.br:1936/vrtchannel/vrtchannel/chunklist_w1390026849.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",VV8 TV
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Agua Boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Caico
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Cine
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w436946314.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Fronteira
+https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Maceio
+https://5cf4a2c2512a2.streamlock.net/webtvmaceio/webtvmaceio/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Olho Dagua
+https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Uai
+https://livefocamundo.com:8081/webtvuai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Xtreme
+https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1552474072.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",WTV Brasil
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/chunklist_w1649349494.m3u8
 
 ###### LISTA DESENVOLVIDA E MANTIDA POR WILSON J A JUNIOR - (47) 991565863 / wjunior1973@gmail.com ######
