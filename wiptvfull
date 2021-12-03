@@ -385,6 +385,9 @@ http://200.4.96.59:8002/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://200.4.96.59:8003/play/a02t/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w2051079811.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
 http://191.37.223.133:8000/play/a024/index.m3u8
 
@@ -541,6 +544,9 @@ http://187.94.148.4:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1369810498.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -555,6 +561,12 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 http://189.91.128.146:4444/udp/227.10.20.126:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",Web TV Cine
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w436946314.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Web TV Xtreme
+https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1552474072.m3u8
 
 ########################
 ###### VARIEDADES ######
@@ -1019,9 +1031,6 @@ https://video01.logicahost.com.br/blitstv/blitstv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",BMTV
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Bons Tempos TV
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w2051079811.m3u8
-
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
@@ -1129,9 +1138,6 @@ https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Parana Turismo TV
 http://200.189.113.201/hls/tve.m3u8
-
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Per  Channel
-https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Plan TV
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
@@ -1466,9 +1472,6 @@ https://video01.kshost.com.br:4443/tv3685/tv3685/chunklist_w817106734.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TV Nova Onda
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w1156158175.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Nova Play
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1369810498.m3u8
-
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TV NTV
 https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
 
@@ -1607,7 +1610,7 @@ http://206.189.110.55:8080/hls/live.stream.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TVC-16
 http://stmv4.srvstm.com/tvc162/tvc162/chunklist_w1729307143.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",TVCI  (Paranagu -PR)
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVCI
 http://flash8.crossdigital.com.br/2306/2306/chunklist_w1536778850.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TVi
@@ -1658,9 +1661,6 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Caico
 https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Cine
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w436946314.m3u8
-
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Fronteira
 https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
 
@@ -1669,9 +1669,6 @@ https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Uai
 https://livefocamundo.com:8081/webtvuai/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Web TV Xtreme
-https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1552474072.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",WTV Brasil
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/chunklist_w1649349494.m3u8
