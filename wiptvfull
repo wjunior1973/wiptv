@@ -445,6 +445,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://189.91.128.146:4444/udp/227.10.20.138:1234
 
+#EXTINF:-1 group-title="FILMES/SERIES",GLN Filmes
+https://srv2.zcast.com.br/glnfilmes/glnfilmes/chunklist_w1099290131.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://201.35.250.178:8001/play/a01k
 
@@ -1004,6 +1007,9 @@ https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Araruna TV
 https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",AW TV
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",AWC Channel
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist-480p.m3u8
 
@@ -1099,6 +1105,9 @@ https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Master Show TV
 http://mastershowtv.videovox.pw/master6123/master6123/chunklist_w88667257.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",MRL TV
+https://stmv1.samcast.com.br/mrltv/mrltv/chunklist_w1178448696.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Multicultura
 http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/tracks-v1a1/mono.m3u8?sd=10&rebase=on
@@ -1246,6 +1255,9 @@ https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TV ADO
 https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1801393516.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Alianca Catarinense
+https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TV America
 https://cdn.jmvstream.com/w/AVJ-9818/playlist/playlist.m3u8
@@ -1588,9 +1600,6 @@ https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS DIVERSOS",TV8 Brasil
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TVC
 https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
