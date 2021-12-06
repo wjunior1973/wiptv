@@ -403,6 +403,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://191.37.223.133:8000/play/a00l/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cinema Sky 1
+http://45.148.147.13:8000/play/a01w
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cinema Sky 2
+http://45.148.147.13:8000/play/a01x
+
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://201.35.250.178:8001/play/a01b
 
