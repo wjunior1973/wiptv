@@ -270,6 +270,9 @@ http://168.205.87.198:8555/live/adriana/123456/148.m3u8
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://200.4.96.59:8002/play/a0f9/index.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Combate
+http://200.4.96.59:8002/play/a0em/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/adriana/123456/60.m3u8
 
@@ -281,21 +284,6 @@ http://168.205.87.198:8555/live/adriana/123456/50.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",ESPN Extra
 http://200.4.96.59:8002/play/a0dv/index.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Fish TV
 http://201.35.250.178:8001/play/a00u
@@ -341,6 +329,21 @@ http://201.35.250.178:8001/play/a00c
 
 #EXTINF:-1 group-title="ESPORTES",SporTV 3
 http://200.4.96.59:8002/play/a0ej/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Woohoo
 http://168.205.87.198:8555/live/adriana/123456/141.m3u8
