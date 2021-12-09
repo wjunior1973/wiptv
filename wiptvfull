@@ -218,6 +218,9 @@ http://179.125.119.154:8000/play/a017/index.m3u8
 ###### NOTICIAS ######
 ######################
 
+#EXTINF:-1 group-title="NOTICIAS",24h News
+http://191.37.223.133:8000/play/a028/index.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://200.4.96.59:8002/play/a0fa/index.m3u8
 
@@ -367,6 +370,9 @@ http://200.4.96.59:8003/play/a02t/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w2051079811.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
+http://191.37.223.133:8000/play/a024/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
 
@@ -392,7 +398,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
-http://168.205.87.198:8555/live/1499/123456/145.m3u8
+http://191.37.223.133:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinema Sky 1
 http://45.148.147.13:8000/play/a01w
@@ -411,6 +417,9 @@ https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1553373919.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Entretendo
+http://191.37.223.133:8000/play/a026/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Eurochannel
 http://200.4.96.59:8002/play/a0dt/index.m3u8
