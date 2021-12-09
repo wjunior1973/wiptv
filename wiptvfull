@@ -400,12 +400,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://191.37.223.133:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Cinema Sky 1
-http://45.148.147.13:8000/play/a01w
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cinema Sky 2
-http://45.148.147.13:8000/play/a01x
-
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://201.35.250.178:8001/play/a01b
 
@@ -992,9 +986,6 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w406781354.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Cabo Frio TV
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal da Pecuaria
-https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
-
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Canal FCV TV
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist-480p.m3u8
 
@@ -1148,17 +1139,11 @@ http://168.205.87.198:8555/live/adriana/123456/147.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Sertao TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1802821028.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Seven TV
-https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
-
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Sou TV
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
-
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Teleweb TV
-https://video02.kshost.com.br/acessweb7837/acessweb7837/chunklist_w2069879305.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Tere TV
 https://5b7f3c45ab7c2.streamlock.net/8158/8158/chunklist.m3u8
@@ -1204,9 +1189,6 @@ https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w94211491.m3u8
-
-#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Caldeirao
-https://5a57bda70564a.streamlock.net/tvcaldeirao/tvcaldeirao.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TV Camocim Web
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w1331803459.m3u8
