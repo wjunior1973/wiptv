@@ -153,9 +153,6 @@ http://201.35.250.178:8001/play/a009
 #EXTINF:-1 group-title="ESPORTES",Premiere 7
 http://201.35.250.178:8001/play/a00a
 
-#EXTINF:-1 group-title="ESPORTES",Sky Sports F1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",SporTV
 http://201.35.250.178:8001/play/a00d
 
@@ -182,9 +179,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Woohoo
 http://168.205.87.198:8555/live/adriana/123456/141.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",WWE Network
-http://93.152.174.144:4000/play/WWE/index.m3u8
 
 
 ###########################
