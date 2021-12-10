@@ -294,7 +294,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3cfdef9e1ea26dc7e4cc835dd4c02f5ad3b2c9ca3da090296225a713a480d119.png" group-title="FILMES/SERIES",Runtime
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/classic-1-logo-png-transparent.png" group-title="FILMES/SERIES",Series Classicas
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d3de398e682d6958762def3914cb211c8f062e8b24df9a2d95d5bfc0aa4b80c0.png" group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/adriana/123456/160.m3u8
 
 #EXTINF:-1 tvg-logo="https://sony-grid.noblink.net/sharktankbr6/media/logo-canal-sony.png" group-title="FILMES/SERIES",Sony Channel
@@ -573,49 +573,49 @@ http://201.35.250.178:8001/play/a00v
 ######################
 
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Cartoon Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/2560px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="INFANTIS",Cartoon Network
 http://187.94.148.4:8000/play/a02k/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Cartoonito
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1420633973680705539/2I-jDhPq_400x400.png" group-title="INFANTIS",Cartoonito
 http://200.4.96.59:8002/play/a0dw/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Disney Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1280px-Disney_Channel_logo_%282014%29.svg.png" group-title="INFANTIS",Disney Channel
 http://168.205.87.198:8555/live/adriana/123456/45.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Disney Jr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="INFANTIS",Disney Jr
 http://168.205.87.198:8555/live/adriana/123456/46.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Disney XD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1280px-Disney_XD_-_2015.svg.png" group-title="INFANTIS",Disney XD
 http://168.205.87.198:8555/live/adriana/123456/47.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Gloob
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="INFANTIS",Gloob
 http://200.4.96.59:8002/play/a0ew/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Gloobinho
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="INFANTIS",Gloobinho
 http://201.35.250.178:8001/play/a008
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Kids TV
+#EXTINF:-1 tvg-logo="http://www.paellacreativa.com.ar/wp-content/uploads/2014/04/logos_creativos_televisores_4.jpg" group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",NatGeo Kids
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-la1ODq4soUM/XX0nsfZaHOI/AAAAAAAAX8g/EqFO52KpRqk34S1jQ5IrY6dSRkXM4CEJgCEwYBhgL/s1600/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIS",NatGeo Kids
 http://201.35.250.178:8001/play/a00n
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Nick
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="INFANTIS",Nick
 http://200.4.96.59:8002/play/a0dz/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Nick Jr.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="INFANTIS",Nick Jr.
 http://200.4.96.59:8003/play/a03s/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Toon Goggle
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ffizLpXcL.png" group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",TV Ra-Tim-Bum
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_ra-tim-bum-1_m.png" group-title="INFANTIS",TV Ra-Tim-Bum
 http://168.205.87.198:8555/live/adriana/123456/84.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Urban Kids
+#EXTINF:-1 tvg-logo="https://www.global-fibra.com/assets/img/urban_kids_logo.png" group-title="INFANTIS",Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w79601195.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Zoomoo Kids
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1351547167417249794/FTM93HO7_400x400.jpg" group-title="INFANTIS",Zoomoo Kids
 http://200.4.96.59:8004/play/a0du/index.m3u8
 
 
@@ -624,37 +624,37 @@ http://200.4.96.59:8004/play/a0du/index.m3u8
 ########################
 
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",Boa Vontade
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/LBV-logo-8C93509571-seeklogo.com.png" group-title="RELIGIOSOS",Boa Vontade
 http://168.205.87.198:8555/live/adriana/123456/21.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",Cancao Nova
+#EXTINF:-1 tvg-logo="https://cdns-images.dzcdn.net/images/artist/65bd827140e3fc8ebe11b7c39fef79b9/500x500.jpg" group-title="RELIGIOSOS",Cancao Nova
 http://168.205.87.198:8555/live/adriana/123456/25.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",CNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/CNT_logo.svg/960px-CNT_logo.svg.png" group-title="RELIGIOSOS",CNT
 http://168.205.87.198:8555/live/adriana/123456/150.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",IMPD TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295062723/GLOBO_E_A_M_O_400x400.jpg" group-title="RELIGIOSOS",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",Novo Tempo
+#EXTINF:-1 tvg-logo="http://files.adventistas.org/noticias/pt/2015/02/Sem-t%C3%ADtulo-1.jpg" group-title="RELIGIOSOS",Novo Tempo
 http://168.205.87.198:8555/live/adriana/123456/149.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",Plenitude TV
+#EXTINF:-1 tvg-logo="https://iaptd.com.br/images/logo_pomba.png" group-title="RELIGIOSOS",Plenitude TV
 https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",Rede Genesis
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-genesis-hd_m.png" group-title="RELIGIOSOS",Rede Genesis
 http://168.205.87.198:8555/live/adriana/123456/98.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",Rede Vida
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/rede-vida-logo.png" group-title="RELIGIOSOS",Rede Vida
 http://168.205.87.198:8555/live/adriana/123456/103.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",TV Aparecida
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/rede-vida-logo.png" group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",TV Evangelizar
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-PvO_w14oUy8/VeiwSERO2VI/AAAAAAAALdQ/tobOv2x2jxM/s1600/11061715_692023860899704_5921566725396874940_n.jpg" group-title="RELIGIOSOS",TV Evangelizar
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",TV Pai Eterno
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="RELIGIOSOS",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
 
