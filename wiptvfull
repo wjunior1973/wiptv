@@ -519,52 +519,49 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 ####################
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",BIS
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080522229492998144/Eckl0Y2H_400x400.jpg" group-title="MUSICA",BIS
 http://200.4.96.59:8002/play/a0ex/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Canal BRA
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-uOsSklg868w/U4jGb9uLReI/AAAAAAAABVo/KkHKZA0E5WA/s1600/M%C3%BAsica-Brasileira-Imagem-4.jpg" group-title="MUSICA",Canal BRA
 http://168.205.87.198:8555/live/adriana/123456/24.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Canal Cult
+#EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/dizzyjam-images/shops/shop874/logo/cultmusic_v1.png" group-title="MUSICA",Canal Cult
 http://168.205.87.198:8555/live/adriana/123456/30.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Canal Mega
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943303396672466944/ndezcdk__400x400.jpg" group-title="MUSICA",Canal Mega
 http://168.205.87.198:8555/live/adriana/123456/75.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Canal SCH
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2049863.jpg" group-title="MUSICA",Canal SCH
 http://168.205.87.198:8555/live/adriana/123456/105.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Classic Hits
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s284350d.png" group-title="MUSICA",Classic Hits
 http://168.205.87.198:8555/live/adriana/123456/27.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Hitts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/The_Hits_2020_Logo.png" group-title="MUSICA",Hitts
 http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Loop 80s
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000653353839-yj891e-t500x500.jpg" group-title="MUSICA",Loop 80s
 https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Loop 90s
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000653353839-yj891e-t500x500.jpg" group-title="MUSICA",Loop 90s
 https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV 00's
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00's
 http://200.4.96.59:8003/play/a03z/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV Biggest Pop
+#EXTINF:-1 tvg-logo="https://simg.nicepng.com/png/small/57-579195_mtv-mtv-logo.png" group-title="MUSICA",MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV Live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1049px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSICA",MTV Live
 http://200.4.96.59:8004/play/a0dr/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Music Box Brazil
+#EXTINF:-1 tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2019/06/logo-music.png" group-title="MUSICA",Music Box Brazil
 http://187.94.148.4:8000/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Retro Plus
+#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Studio TV
-https://streamingtv.ddoti.com.br/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Trace Brazuca
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_trace-brazuca_m.png" group-title="MUSICA",Trace Brazuca
 http://201.35.250.178:8001/play/a00v
 
 
