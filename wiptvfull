@@ -99,85 +99,85 @@ http://168.205.87.198:8555/live/adriana/123456/139.m3u8
 ######################
 
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",All Sports
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="ESPORTES",All Sports
 http://168.205.87.198:8555/live/adriana/123456/148.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Band Sports
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/771/968/png-transparent-bandsports-television-channel-logo-band-television-text-rectangle-thumbnail.png" group-title="ESPORTES",Band Sports
 http://200.4.96.59:8002/play/a0f9/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Combate
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="ESPORTES",Combate
 http://200.4.96.59:8002/play/a0em/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/espn_nuevo_logo.png?itok=Dew0aaPw" group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/adriana/123456/60.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Espn_2.png" group-title="ESPORTES",ESPN 2
 http://168.205.87.198:8555/live/adriana/123456/49.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN Brasil
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/espnbrasil-logo.jpg" group-title="ESPORTES",ESPN Brasil
 http://168.205.87.198:8555/live/adriana/123456/50.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN Extra
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/Logo_ESPN_Extra.png" group-title="ESPORTES",ESPN Extra
 http://200.4.96.59:8002/play/a0dv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Fish TV
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="ESPORTES",Fish TV
 http://201.35.250.178:8001/play/a00u
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Fox Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="ESPORTES",Fox Sports
 http://201.35.250.178:8001/play/a00l
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/378-3788373_ver-fox-sport-en-vivo-gratis-por-internet.png" group-title="ESPORTES",Fox Sports 2
 http://201.35.250.178:8001/play/a00m
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Off
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="ESPORTES",Off
 http://200.4.96.59:8002/play/a0eu/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere Clubes
+#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere Clubes
 http://200.4.96.59:8002/play/a0er/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere 2
+#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 2
 http://200.4.96.59:8002/play/a0es/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere 3
+#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 3
 http://201.35.250.178:8001/play/a00e
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere 4
+#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 4
 http://201.35.250.178:8001/play/a005
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere 5
+#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 5
 http://200.4.96.59:8002/play/a0et/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere 6
+#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 6
 http://201.35.250.178:8001/play/a009
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere 7
+#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 7
 http://201.35.250.178:8001/play/a00a
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SporTV
+#EXTINF:-1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/08/sportv-3.png" group-title="ESPORTES",SporTV
 http://201.35.250.178:8001/play/a00d
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SporTV 2
+#EXTINF:-1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/08/sportv-3.png" group-title="ESPORTES",SporTV 2
 http://201.35.250.178:8001/play/a00c
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SporTV 3
+#EXTINF:-1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/08/sportv-3.png" group-title="ESPORTES",SporTV 3
 http://200.4.96.59:8002/play/a0ej/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",TNT Sports 1
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-1-cl-2560.png" group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",TNT Sports 2
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-1-cl-2560.png" group-title="ESPORTES",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",TNT Sports 3
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-1-cl-2560.png" group-title="ESPORTES",TNT Sports 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",TNT Sports 4
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-1-cl-2560.png" group-title="ESPORTES",TNT Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",TNT Sports 5
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-1-cl-2560.png" group-title="ESPORTES",TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Woohoo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png" group-title="ESPORTES",Woohoo
 http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 
 
