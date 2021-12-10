@@ -366,151 +366,151 @@ http://200.4.96.59:8003/play/a02r/index.m3u8
 ########################
 
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Animal Planet
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180519/rfe/kisspng-animal-planet-logo-television-channel-5b00ac97651460.971763791526770839414.jpg" group-title="VARIEDADES",Animal Planet
 http://200.4.96.59:8002/play/a0fe/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Arte1
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="VARIEDADES",Arte1
 http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Comedia
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="VARIEDADES",Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Comedy Central
+#EXTINF:-1 tvg-logo="https://varioscanais.com/wp-content/uploads/2021/10/Comedy-Central.jpg" group-title="VARIEDADES",Comedy Central
 http://200.4.96.59:8003/play/a01y/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Cultura
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="VARIEDADES",Cultura
 http://177.20.208.58:8000/play/a01x/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Discovery Channel
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="VARIEDADES",Discovery Channel
 http://200.4.96.59:8003/play/a02v/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Discovery H&H
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="VARIEDADES",Discovery H&H
 http://168.205.87.198:8555/live/adriana/123456/35.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Discovery ID
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="VARIEDADES",Discovery ID
 http://168.205.87.198:8555/live/adriana/123456/36.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Discovery Science
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/521/498/png-clipart-logo-science-channel-television-channel-discovery-science-science-television-text.png" group-title="VARIEDADES",Discovery Science
 http://200.4.96.59:8002/play/a0ds/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Discovery Theater
+#EXTINF:-1 tvg-logo="https://www.detalle.cotes.net.bo/app/public/appWeb_/assets/images/canales/355.png" group-title="VARIEDADES",Discovery Theater
 http://200.4.96.59:8003/play/a03e/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="VARIEDADES",Discovery Turbo
 http://200.4.96.59:8002/play/a0eo/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Discovery World
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png" group-title="VARIEDADES",Discovery World
 http://200.4.96.59:8003/play/a03f/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",E!
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.jpg" group-title="VARIEDADES",E!
 http://200.4.96.59:8003/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Estilo de Vida
+#EXTINF:-1 tvg-logo="https://vrchennai.com/UploadFile/Storeimage/Lifestyle-big.png" group-title="VARIEDADES",Estilo de Vida
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Fail Army
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/891-8910473_aol-logo-png-failarmy.png" group-title="VARIEDADES",Fail Army
 https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Fashion TV
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="VARIEDADES",Fashion TV
 http://168.205.87.198:8555/live/adriana/123456/61.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Fashionbox
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/FashionBox_HD_logo.png" group-title="VARIEDADES",Fashionbox
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Food Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="VARIEDADES",Food Network
 http://200.4.96.59:8003/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Fuel TV
+#EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2019/05/fuel-tv.png" group-title="VARIEDADES",Fuel TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Futura
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="VARIEDADES",Futura
 http://200.4.96.59:8002/play/a0f7/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",GNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Gnt_logo.jpg" group-title="VARIEDADES",GNT
 http://201.35.250.178:8001/play/a003
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",HGTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HGTV
 http://200.4.96.59:8002/play/a0dq/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",History
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="VARIEDADES",History
 http://200.4.96.59:8003/play/a02q/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",History 2
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180403/xhw/kisspng-h2-logo-television-channel-history-history-5ac40eabe7e074.8917502815227982519498.jpg" group-title="VARIEDADES",History 2
 http://201.35.250.178:8001/play/a00g
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Hollywire
+#EXTINF:-1 tvg-logo="https://shizukany.com/wp-content/uploads/2015/07/hollywire-logo.jpg" group-title="VARIEDADES",Hollywire
 https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Investigacao TV
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/Crime-PNG-Image-File.png" group-title="VARIEDADES",Investigacao TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Jovem Pan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/1200px-Jovem_Pan_logo.svg.png" group-title="VARIEDADES",Jovem Pan
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Lifetime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="VARIEDADES",Lifetime
 http://200.4.96.59:8003/play/a036/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Loading
+#EXTINF:-1 tvg-logo="https://www.radioamc.com.br/admin/assets/img/news/7926-2021-07-06.png" group-title="VARIEDADES",Loading
 http://187.94.148.4:8000/play/a02l/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Mais na Tela
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/maisglobosatb.png" group-title="VARIEDADES",Mais na Tela
 http://200.4.96.59:8004/play/a0f8/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",MasterChef
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/95/e5/71/95e571188eb6c369fd279e07c8191500.png" group-title="VARIEDADES",MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Misterios TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3YSg65xT8Jc/YKyMQRE99jI/AAAAAAAAKyA/VibYVa9LHisfzxvpFd8Ntcjph0b9BWLOwCLcBGAsYHQ/s0/pluto-tv-misterios-logo-img-postagem.jpg" group-title="VARIEDADES",Misterios TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Multishow
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" group-title="VARIEDADES",Multishow
 http://200.4.96.59:8003/play/a021/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Nat Geo
+#EXTINF:-1 tvg-logo="https://www.swapy.com.br/wp-content/uploads/2019/07/nationa-geographic.png" group-title="VARIEDADES",Nat Geo
 http://200.4.96.59:8002/play/a0f2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="VARIEDADES",Nat Geo Wild
 http://200.4.96.59:8002/play/a0f3/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Paramount+ Apresenta
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="VARIEDADES",Paramount+ Apresenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",People are Awesome
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71TbFSjRGiL.png" group-title="VARIEDADES",People are Awesome
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Polishop
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1127922666583752704/wMxGyDfV.png" group-title="VARIEDADES",Polishop
 http://200.4.96.59:8004/play/a0eg/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Porta dos Fundos
+#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2014/06/11/11185705069029.jpg" group-title="VARIEDADES",Porta dos Fundos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",SESC TV
+#EXTINF:-1 tvg-logo="https://www.sescma.com.br/wp-content/uploads/2019/05/Logo-Sesc-Redondo2.png" group-title="VARIEDADES",SESC TV
 http://177.20.208.58:8000/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Smithsonian Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Smithsonian_sun_logo_no_text.svg/200px-Smithsonian_sun_logo_no_text.svg.png" group-title="VARIEDADES",Smithsonian Channel
 http://200.4.96.59:8002/play/a0dn/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Tastemade Brasil
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/1274429/tastemade-squarelogo-1572291748061.png" group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",TLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/320px-Tlc_logo_discovery.jpg" group-title="VARIEDADES",TLC
 http://200.4.96.59:8003/play/a02u/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Travel Box Brazil
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="VARIEDADES",Travel Box Brazil
 http://168.205.87.198:8555/live/adriana/123456/124.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",TV Escola
+#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/item_images/254080/imagen-tv-escola-0big.jpg" group-title="VARIEDADES",TV Escola
 http://200.4.96.59:8004/play/a0eo/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Urban Docs
+#EXTINF:-1 tvg-logo="https://www.global-fibra.com/assets/img/urban_doc_logo.png" group-title="VARIEDADES",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Vida Real
+#EXTINF:-1 tvg-logo="https://swebtoon-phinf.pstatic.net/20190404_127/1554338229824kKuck_JPEG/thumbnail.jpg" group-title="VARIEDADES",Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Viva
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1383265076812029952/djywr2Vs_400x400.jpg" group-title="VARIEDADES",Viva
 http://200.4.96.59:8002/play/a0ek/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Yeeaah!
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1282860389324267521/K91lzBKq_400x400.jpg" group-title="VARIEDADES",Yeeaah!
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 
