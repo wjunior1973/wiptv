@@ -393,7 +393,7 @@ http://168.205.87.198:8555/live/adriana/123456/36.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/521/498/png-clipart-logo-science-channel-television-channel-discovery-science-science-television-text.png" group-title="VARIEDADES",Discovery Science
 http://200.4.96.59:8002/play/a0ds/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.detalle.cotes.net.bo/app/public/appWeb_/assets/images/canales/355.png" group-title="VARIEDADES",Discovery Theater
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ed/2c/fe/ed2cfeb6643400720e248aed49cc76fb.jpg" group-title="VARIEDADES",Discovery Theater
 http://200.4.96.59:8003/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="VARIEDADES",Discovery Turbo
