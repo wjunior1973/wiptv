@@ -186,178 +186,178 @@ http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 ###########################
 
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",A&E
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canal-ae.jpg" group-title="FILMES/SERIES",A&E
 http://200.4.96.59:8002/play/a0e9/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",AMC
+#EXTINF:-1 tvg-logo="https://bravi.tv/wp-content/uploads/2016/11/amc_logo.png" group-title="FILMES/SERIES",AMC
 http://200.4.96.59:8002/play/a0dp/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",AXN
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="FILMES/SERIES",AXN
 http://200.4.96.59:8003/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Bora Filmes
+#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/bora_newLogo.png" group-title="FILMES/SERIES",Bora Filmes
 http://191.37.223.133:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Chaves & Chapolin
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="FILMES/SERIES",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Cine Classicos
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Cine Classicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Cine Comedia
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Cine Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Cine Drama
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Cine Familia
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Cine Familia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Cine Romance
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Cine Romance
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Cine Sucessos
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Cine Terror
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",CineBrasil TV
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="FILMES/SERIES",CineBrasil TV
 http://191.37.223.133:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Cinemax
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/cinemax-novologo.jpg" group-title="FILMES/SERIES",Cinemax
 http://201.35.250.178:8001/play/a01b
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Curta!
+#EXTINF:-1 tvg-logo="https://www.tribunaribeirao.com.br/site/wp-content/uploads/2020/05/Curta.png" group-title="FILMES/SERIES",Curta!
 http://200.4.96.59:8002/play/a0du/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Dark Matter TV
+#EXTINF:-1 tvg-logo="https://www.darkmattertv.com/themes/custom/tri/dark_matter_tv/img/header.png" group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Entretendo
+#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/entretendo_newLogo.png" group-title="FILMES/SERIES",Entretendo
 http://191.37.223.133:8000/play/a026/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Eurochannel
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/661951026820349952/tIe4KUW6_400x400.png" group-title="FILMES/SERIES",Eurochannel
 http://200.4.96.59:8002/play/a0dt/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Filmes Acao
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Filmes Acao
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Filmes Nacionais
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Filmes Nacionais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Filmes Suspense
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Filmes Suspense
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",FX
+#EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/01/22/76/87/360_F_122768712_adghxTZayKpQUTSPxzM8f8PRJifjfRr6.jpg" group-title="FILMES/SERIES",FX
 http://200.4.96.59:8002/play/a0f5/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",HBO
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/541-5412578_hbo-hbo-app-logo-png-transparent-png.png" group-title="FILMES/SERIES",HBO
 http://201.35.250.178:8001/play/a01k
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",HBO 2
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/541-5412578_hbo-hbo-app-logo-png-transparent-png.png" group-title="FILMES/SERIES",HBO 2
 http://201.35.250.178:8001/play/a01l
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",HBO Family
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/541-5412578_hbo-hbo-app-logo-png-transparent-png.png" group-title="FILMES/SERIES",HBO Family
 http://201.35.250.178:8001/play/a01n
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",HBO Mundi
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/541-5412578_hbo-hbo-app-logo-png-transparent-png.png" group-title="FILMES/SERIES",HBO Mundi
 http://201.35.250.178:8001/play/a01c
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",HBO Plus
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/541-5412578_hbo-hbo-app-logo-png-transparent-png.png" group-title="FILMES/SERIES",HBO Plus
 http://201.35.250.178:8001/play/a01m
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",HBO Pop
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/541-5412578_hbo-hbo-app-logo-png-transparent-png.png" group-title="FILMES/SERIES",HBO Pop
 http://201.35.250.178:8001/play/a01p
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",HBO Signature HD
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/541-5412578_hbo-hbo-app-logo-png-transparent-png.png" group-title="FILMES/SERIES",HBO Signature HD
 http://201.35.250.178:8001/play/a01o
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",HBO Xtreme
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/541-5412578_hbo-hbo-app-logo-png-transparent-png.png" group-title="FILMES/SERIES",HBO Xtreme
 http://201.35.250.178:8001/play/a01d
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Megapix
+#EXTINF:-1 tvg-logo="https://skyassinetv.com.br/images/easy-hd/megapix.png" group-title="FILMES/SERIES",Megapix
 http://200.4.96.59:8004/play/a0e0/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",My Time Brazil
+#EXTINF:-1 tvg-logo="https://aetlive.s3.us-west-2.amazonaws.com/assets/img/2020/12/28144143/mytime.jpg" group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Paramount Channel
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-3.png" group-title="FILMES/SERIES",Paramount Channel
 http://200.4.96.59:8003/play/a01z/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Prime Box Brazil
+#EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png" group-title="FILMES/SERIES",Prime Box Brazil
 http://168.205.87.198:8555/live/adriana/123456/83.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Retro TV
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Retro TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Runtime
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3cfdef9e1ea26dc7e4cc835dd4c02f5ad3b2c9ca3da090296225a713a480d119.png" group-title="FILMES/SERIES",Runtime
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Series Classicas
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/classic-1-logo-png-transparent.png" group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/adriana/123456/160.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Sony Channel
+#EXTINF:-1 tvg-logo="https://sony-grid.noblink.net/sharktankbr6/media/logo-canal-sony.png" group-title="FILMES/SERIES",Sony Channel
 http://200.4.96.59:8003/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Star Channel
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="FILMES/SERIES",Star Channel
 http://187.94.148.4:8000/play/a02i/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Star Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/2560px-Star_Hits_2020.svg.png" group-title="FILMES/SERIES",Star Hits
 http://200.4.96.59:8003/play/a02z/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Star Hits 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Star_Hits_2_2020.svg/1024px-Star_Hits_2_2020.svg.png" group-title="FILMES/SERIES",Star Hits 2
 http://200.4.96.59:8003/play/a030/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Star Life
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png" group-title="FILMES/SERIES",Star Life
 http://200.4.96.59:8002/play/a0f6/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Studio Universal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="FILMES/SERIES",Studio Universal
 http://200.4.96.59:8003/play/a037/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",SyFy
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png" group-title="FILMES/SERIES",SyFy
 http://200.4.96.59:8003/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",TCM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES/SERIES",TCM
 http://45.161.252.33/TCM_BR/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Telecine Action
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Action
 http://200.4.96.59:8004/play/a0e1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Telecine Cult
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Cult
 http://200.4.96.59:8004/play/a0e3/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Telecine Fun
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Fun
 http://200.4.96.59:8004/play/a0e2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Telecine Pipoca
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Pipoca
 http://200.4.96.59:8003/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Telecine Premium
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Premium
 http://200.4.96.59:8003/play/a03i/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Telecine Touch
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Touch
 http://livetv2021.site:8080/9897876765/6576567/2
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",TNT
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180410/rfe/kisspng-tnt-series-turner-broadcasting-system-television-l-comedy-5acc428b20ba37.0820969215233358191341.jpg" group-title="FILMES/SERIES",TNT
 http://200.4.96.59:8003/play/a02j/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",TNT Series
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/f3/15/52f315609171d413ee47ce0ab8c1e4f3.png" group-title="FILMES/SERIES",TNT Series
 http://200.4.96.59:8003/play/a02i/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",TV Series
+#EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Universal TV
+#EXTINF:-1 tvg-logo="https://cinemaparasempre.com.br/wp-content/uploads/2020/04/1-2.jpg" group-title="FILMES/SERIES",Universal TV
 http://200.4.96.59:8002/play/a0eq/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Urban Movies
+#EXTINF:-1 tvg-logo="https://service.lignettelecom.com.br/playlignet/static/icons/logos/canais/51.png" group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Urban Series
+#EXTINF:-1 tvg-logo="https://www.global-fibra.com/assets/img/urban_series_logo.png" group-title="FILMES/SERIES",Urban Series
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w949993906.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Warner Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="FILMES/SERIES",Warner Channel
 http://200.4.96.59:8003/play/a02r/index.m3u8
 
 
