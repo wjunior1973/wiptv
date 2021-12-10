@@ -48,49 +48,49 @@ http://200.4.96.59:8003/play/a03a/index.m3u8
 ######################
 
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",24h News
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/891/279/png-transparent-downtown-vancouver-24-hours-newspaper-sun-media-quebecor-media-inc-h-logo-miscellaneous-text-orange.png" group-title="NOTICIAS",24h News
 http://191.37.223.133:8000/play/a028/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",Band News
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTICIAS",Band News
 http://200.4.96.59:8002/play/a0fa/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",CBN Rio
+#EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="NOTICIAS",CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",CBN Sao Paulo
+#EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="NOTICIAS",CBN Sao Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",CNN Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/480px-CNN_Brasil.svg.png" group-title="NOTICIAS",CNN Brasil
 http://168.205.87.198:8555/live/adriana/123456/28.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",Euronews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="NOTICIAS",Euronews
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",Globo News
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1459484193910624260/jd8_KII-_400x400.png" group-title="NOTICIAS",Globo News
 http://200.4.96.59:8003/play/a03h/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",JP News
+#EXTINF:-1 tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="NOTICIAS",JP News
 http://168.205.87.198:8555/live/adriana/123456/161.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",Record News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/1200px-Record_News_%28color%29.svg.png" group-title="NOTICIAS",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",SIC Noticias
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="NOTICIAS",SIC Noticias
 http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",TV Brasil
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/09/unnamed.jpg" group-title="NOTICIAS",TV Brasil
 http://168.205.87.198:8555/live/adriana/123456/134.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",TV Brasil 2
+#EXTINF:-1 tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-brasil-2.png" group-title="NOTICIAS",TV Brasil 2
 http://168.205.87.198:8555/live/adriana/123456/135.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",TV Camara
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title="NOTICIAS",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",TV Justica
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304545487085862912/p1yGw8kQ_400x400.jpg" group-title="NOTICIAS",TV Justica
 http://168.205.87.198:8555/live/adriana/123456/138.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",TV Senado
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Ru3vwxDsa94/XxMiy3u4t8I/AAAAAAAAOMg/KkfNQsntaa81U9pkIr9O0tr9BDBliWWCgCNcBGAsYHQ/s1600/TV%2BSENADO%2BRJ.jpg" group-title="NOTICIAS",TV Senado
 http://168.205.87.198:8555/live/adriana/123456/139.m3u8
 
 
@@ -322,7 +322,10 @@ http://200.4.96.59:8003/play/a035/index.m3u8
 http://45.161.252.33/TCM_BR/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Telecine Action
-http://187.94.148.4:8000/play/a02j/index.m3u8
+http://200.4.96.59:8004/play/a0e1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Telecine Cult
+http://200.4.96.59:8004/play/a0e3/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Telecine Fun
 http://200.4.96.59:8004/play/a0e2/index.m3u8
@@ -333,8 +336,14 @@ http://200.4.96.59:8003/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Telecine Premium
 http://200.4.96.59:8003/play/a03i/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",Telecine Touch
+http://livetv2021.site:8080/9897876765/6576567/2
+
 #EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",TNT
 http://200.4.96.59:8003/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",TNT Series
+http://200.4.96.59:8003/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -531,47 +540,23 @@ http://168.205.87.198:8555/live/adriana/123456/27.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Hitts
 http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM Classic
-https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM Dance
-https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM Folk
-https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM Hits
-https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM Pop
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM Remember
-https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM Rock
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Loop 80s
 https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Loop 90s
 https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Loop Flashback
-https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV 80s
-http://78.83.191.18:8000/play/a06q
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV 00's
+http://200.4.96.59:8003/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV Live
+http://200.4.96.59:8004/play/a0dr/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Music Box Brazil
 http://187.94.148.4:8000/play/a02m/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Play TV
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
@@ -582,50 +567,17 @@ https://streamingtv.ddoti.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Trace Brazuca
 http://201.35.250.178:8001/play/a00v
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",VEVO 80s
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",VEVO Hip Hop
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",VEVO Pop
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",VEVO Pop Europe
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-
 
 ######################
 ###### INFANTIS ######
 ######################
 
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",A vida moderna de Rocko
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Anime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Anime Acao
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",As  Pistas de Blue
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",As Aventuras de Jackie Chan
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Babyfirst
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Cartoonito
-http://200.4.96.59:8002/play/a0dw/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="INFANTIS",Cartoon Network
 http://187.94.148.4:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INFANTIS",Cartoonito
-http://168.205.87.198:8555/live/adriana/123456/22.m3u8
+http://200.4.96.59:8002/play/a0dw/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INFANTIS",Disney Channel
 http://168.205.87.198:8555/live/adriana/123456/45.m3u8
@@ -642,41 +594,20 @@ http://200.4.96.59:8002/play/a0ew/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INFANTIS",Gloobinho
 http://201.35.250.178:8001/play/a008
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Junior TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="" group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Kids TV 2
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Naruto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="" group-title="INFANTIS",NatGeo Kids
 http://201.35.250.178:8001/play/a00n
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Nick Classico
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Nick
+http://200.4.96.59:8002/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INFANTIS",Nick Jr.
 http://200.4.96.59:8003/play/a03s/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Nick Jr. Club
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Nick Teen
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Tokusato
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="" group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Turma da Monica
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="" group-title="INFANTIS",TV Ra-Tim-Bum
 http://168.205.87.198:8555/live/adriana/123456/84.m3u8
