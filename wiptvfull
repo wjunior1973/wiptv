@@ -594,7 +594,7 @@ http://200.4.96.59:8002/play/a0ew/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="INFANTIS",Gloobinho
 http://201.35.250.178:8001/play/a008
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615hMYiYO3L.png" group-title="INFANTIS",Kids TV
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/b683ab7538c677bf1bc93848a9545644.png" group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-la1ODq4soUM/XX0nsfZaHOI/AAAAAAAAX8g/EqFO52KpRqk34S1jQ5IrY6dSRkXM4CEJgCEwYBhgL/s1600/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIS",NatGeo Kids
@@ -636,7 +636,7 @@ http://168.205.87.198:8555/live/adriana/123456/150.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295062723/GLOBO_E_A_M_O_400x400.jpg" group-title="RELIGIOSOS",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",Novo Tempo
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-h9_CkH7QJXI/VEAb0dcWxWI/AAAAAAAAAuM/ylmZcAxl9lg/s320/novotempo.jpg" group-title="RELIGIOSOS",Novo Tempo
 http://168.205.87.198:8555/live/adriana/123456/149.m3u8
 
 #EXTINF:-1 tvg-logo="https://iaptd.com.br/images/logo_pomba.png" group-title="RELIGIOSOS",Plenitude TV
