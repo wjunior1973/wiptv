@@ -75,9 +75,6 @@ http://168.205.87.198:8555/live/adriana/123456/161.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/1200px-Record_News_%28color%29.svg.png" group-title="NOTICIAS",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="NOTICIAS",SIC Noticias
-http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/09/unnamed.jpg" group-title="NOTICIAS",TV Brasil
 http://168.205.87.198:8555/live/adriana/123456/134.m3u8
 
