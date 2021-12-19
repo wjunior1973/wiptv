@@ -15,9 +15,6 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="TV ABERTA",Globo SC
 http://179.125.119.154:8000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="TV ABERTA",Globo SC [Opcao 2]
-http://177.85.116.101/NSCTV-Lages/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="TV ABERTA",Globo SP
 http://200.4.97.162:8000/play/a01t/index.m3u8
 
@@ -34,9 +31,6 @@ http://177.20.208.58:8000/play/a03x/index.m3u8
 http://177.20.208.58:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="TV ABERTA",SBT SC
-http://187.33.160.24:8000/play/87/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="TV ABERTA",SBT SC [Opcao 2]
 http://179.125.119.154:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="TV ABERTA",SBT SP
@@ -316,7 +310,7 @@ http://200.4.96.59:8003/play/a037/index.m3u8
 http://200.4.96.59:8003/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES/SERIES",TCM
-http://45.161.252.33/TCM_BR/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Action
 http://200.4.96.59:8004/play/a0e1/index.m3u8
@@ -650,78 +644,6 @@ http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="RELIGIOSOS",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
-
-#############################
-###### CANAIS PORTUGAL ######
-#############################
-
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",24 Kitchen
-http://85.241.119.59:8080/play/a019
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",AMC
-http://85.241.119.59:8080/play/a00u
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",AXN
-http://85.241.119.59:8080/play/a00g
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",AXN Movies
-http://85.241.119.59:8080/play/a028
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",AXN White
-http://85.241.119.59:8080/play/a027
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",Blaze
-http://85.241.119.59:8080/play/a026
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",CNN Portugal
-http://85.241.119.59:8080/play/a00d
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",Cinemundo
-http://85.241.119.59:8080/play/a00y
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",Discovery Channel
-http://85.241.119.59:8080/play/a01f
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",FOX
-http://85.241.119.59:8080/play/a00e
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",FOX Crime
-http://85.241.119.59:8080/play/a024
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",FOX Life
-http://85.241.119.59:8080/play/a023
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",FOX Movies
-http://85.241.119.59:8080/play/a022
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",Globo
-http://85.241.119.59:8080/play/a011
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",Historia
-http://85.241.119.59:8080/play/a01d
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",Hollywood
-http://85.241.119.59:8080/play/a010
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",MTV 00s
-http://85.241.119.59:8080/play/a02r
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",National Geographic
-http://85.241.119.59:8080/play/a01a
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",Odisseia
-http://85.241.119.59:8080/play/a01c
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",SyFy
-http://85.241.119.59:8080/play/a00h
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",TLC
-http://85.241.119.59:8080/play/a02a
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/%C3%ADcone-redondo-do-vetor-da-bandeira-de-portugal-102690985.jpg" group-title="CANAIS PORTUGAL",VH1
-http://85.241.119.59:8080/play/a01e
 
 
 ###### LISTA DESENVOLVIDA E MANTIDA POR WILSON J A JUNIOR - (47) 991565863 / wjunior1973@gmail.com ######
