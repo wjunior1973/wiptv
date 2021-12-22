@@ -27,14 +27,8 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.poder360.com.br/2021/03/redetv.png" group-title="TV ABERTA",Rede TV!
 http://177.20.208.58:8000/play/a03x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.poder360.com.br/2021/03/redetv.png" group-title="TV ABERTA",Rede TV! [Opcao 2]
-http://177.20.208.58:8000/play/a03p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="TV ABERTA",SBT SC
 http://179.125.119.154:8000/play/a017/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="TV ABERTA",SBT SP
-http://200.4.96.59:8003/play/a03a/index.m3u8
 
 
 ######################
@@ -42,11 +36,8 @@ http://200.4.96.59:8003/play/a03a/index.m3u8
 ######################
 
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/891/279/png-transparent-downtown-vancouver-24-hours-newspaper-sun-media-quebecor-media-inc-h-logo-miscellaneous-text-orange.png" group-title="NOTICIAS",24h News
-http://191.37.223.133:8000/play/a028/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTICIAS",Band News
-http://200.4.96.59:8002/play/a0fa/index.m3u8
+http://189.91.128.150:4444/udp/227.10.20.131:1234
 
 #EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="NOTICIAS",CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
@@ -59,9 +50,6 @@ http://168.205.87.198:8555/live/adriana/123456/28.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="NOTICIAS",Euronews
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1459484193910624260/jd8_KII-_400x400.png" group-title="NOTICIAS",Globo News
-http://200.4.96.59:8003/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="NOTICIAS",JP News
 http://168.205.87.198:8555/live/adriana/123456/161.m3u8
@@ -94,10 +82,10 @@ http://168.205.87.198:8555/live/adriana/123456/139.m3u8
 http://168.205.87.198:8555/live/adriana/123456/148.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/771/968/png-transparent-bandsports-television-channel-logo-band-television-text-rectangle-thumbnail.png" group-title="ESPORTES",Band Sports
-http://200.4.96.59:8002/play/a0f9/index.m3u8
+http://189.91.128.150:4444/udp/227.10.20.119:1234
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="ESPORTES",Combate
-http://200.4.96.59:8002/play/a0em/index.m3u8
+http://189.91.128.150:4444/udp/227.10.20.172:1234
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/espn_nuevo_logo.png?itok=Dew0aaPw" group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/adriana/123456/60.m3u8
@@ -109,7 +97,7 @@ http://168.205.87.198:8555/live/adriana/123456/49.m3u8
 http://168.205.87.198:8555/live/adriana/123456/50.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/Logo_ESPN_Extra.png" group-title="ESPORTES",ESPN Extra
-http://200.4.96.59:8002/play/a0dv/index.m3u8
+http://168.205.87.198:8555/live/adriana/123456/51.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="ESPORTES",Fish TV
 http://201.35.250.178:8001/play/a00u
@@ -120,38 +108,14 @@ http://201.35.250.178:8001/play/a00l
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/378-3788373_ver-fox-sport-en-vivo-gratis-por-internet.png" group-title="ESPORTES",Fox Sports 2
 http://201.35.250.178:8001/play/a00m
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="ESPORTES",Off
-http://200.4.96.59:8002/play/a0eu/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere Clubes
-http://200.4.96.59:8002/play/a0er/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 2
-http://200.4.96.59:8002/play/a0es/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 3
-http://201.35.250.178:8001/play/a00e
-
-#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 4
-http://201.35.250.178:8001/play/a005
-
-#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 5
-http://200.4.96.59:8002/play/a0et/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 6
-http://201.35.250.178:8001/play/a009
-
-#EXTINF:-1 tvg-logo="https://apksshare.com/wp-content/uploads/2021/06/Premiere-APK-MOD-Download-4.0.3.png" group-title="ESPORTES",Premiere 7
-http://201.35.250.178:8001/play/a00a
+http://189.91.128.150:4444/udp/227.10.20.102:1234
 
 #EXTINF:-1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/08/sportv-3.png" group-title="ESPORTES",SporTV
 http://201.35.250.178:8001/play/a00d
 
 #EXTINF:-1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/08/sportv-3.png" group-title="ESPORTES",SporTV 2
 http://201.35.250.178:8001/play/a00c
-
-#EXTINF:-1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/08/sportv-3.png" group-title="ESPORTES",SporTV 3
-http://200.4.96.59:8002/play/a0ej/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-1-cl-2560.png" group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -178,16 +142,7 @@ http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canal-ae.jpg" group-title="FILMES/SERIES",A&E
-http://200.4.96.59:8002/play/a0e9/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://bravi.tv/wp-content/uploads/2016/11/amc_logo.png" group-title="FILMES/SERIES",AMC
-http://200.4.96.59:8002/play/a0dp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="FILMES/SERIES",AXN
-http://200.4.96.59:8003/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/bora_newLogo.png" group-title="FILMES/SERIES",Bora Filmes
-http://191.37.223.133:8000/play/a024/index.m3u8
+http://201.35.250.178:8001/play/a00h
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="FILMES/SERIES",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
@@ -214,22 +169,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="FILMES/SERIES",CineBrasil TV
-http://191.37.223.133:8000/play/a00l/index.m3u8
+http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/cinemax-novologo.jpg" group-title="FILMES/SERIES",Cinemax
 http://201.35.250.178:8001/play/a01b
 
-#EXTINF:-1 tvg-logo="https://www.tribunaribeirao.com.br/site/wp-content/uploads/2020/05/Curta.png" group-title="FILMES/SERIES",Curta!
-http://200.4.96.59:8002/play/a0du/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.darkmattertv.com/themes/custom/tri/dark_matter_tv/img/header.png" group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/entretendo_newLogo.png" group-title="FILMES/SERIES",Entretendo
-http://191.37.223.133:8000/play/a026/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/661951026820349952/tIe4KUW6_400x400.png" group-title="FILMES/SERIES",Eurochannel
-http://200.4.96.59:8002/play/a0dt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",Filmes Acao
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -241,7 +187,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/01/22/76/87/360_F_122768712_adghxTZayKpQUTSPxzM8f8PRJifjfRr6.jpg" group-title="FILMES/SERIES",FX
-http://200.4.96.59:8002/play/a0f5/index.m3u8
+http://189.91.128.150:4444/udp/227.10.20.138:1234
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/541-5412578_hbo-hbo-app-logo-png-transparent-png.png" group-title="FILMES/SERIES",HBO
 http://201.35.250.178:8001/play/a01k
@@ -268,13 +214,10 @@ http://201.35.250.178:8001/play/a01o
 http://201.35.250.178:8001/play/a01d
 
 #EXTINF:-1 tvg-logo="https://skyassinetv.com.br/images/easy-hd/megapix.png" group-title="FILMES/SERIES",Megapix
-http://200.4.96.59:8004/play/a0e0/index.m3u8
+http://189.91.128.150:4444/udp/227.10.20.89:1234
 
 #EXTINF:-1 tvg-logo="https://aetlive.s3.us-west-2.amazonaws.com/assets/img/2020/12/28144143/mytime.jpg" group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-3.png" group-title="FILMES/SERIES",Paramount Channel
-http://200.4.96.59:8003/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png" group-title="FILMES/SERIES",Prime Box Brazil
 http://168.205.87.198:8555/live/adriana/123456/83.m3u8
@@ -289,58 +232,16 @@ https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 http://168.205.87.198:8555/live/adriana/123456/160.m3u8
 
 #EXTINF:-1 tvg-logo="https://sony-grid.noblink.net/sharktankbr6/media/logo-canal-sony.png" group-title="FILMES/SERIES",Sony Channel
-http://200.4.96.59:8003/play/a02s/index.m3u8
+http://189.91.128.150:4444/udp/227.10.20.127:1234
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="FILMES/SERIES",Star Channel
 http://187.94.148.4:8000/play/a02i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/2560px-Star_Hits_2020.svg.png" group-title="FILMES/SERIES",Star Hits
-http://200.4.96.59:8003/play/a02z/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Star_Hits_2_2020.svg/1024px-Star_Hits_2_2020.svg.png" group-title="FILMES/SERIES",Star Hits 2
-http://200.4.96.59:8003/play/a030/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png" group-title="FILMES/SERIES",Star Life
-http://200.4.96.59:8002/play/a0f6/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="FILMES/SERIES",Studio Universal
-http://200.4.96.59:8003/play/a037/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png" group-title="FILMES/SERIES",SyFy
-http://200.4.96.59:8003/play/a035/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES/SERIES",TCM
-
-
-#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Action
-http://200.4.96.59:8004/play/a0e1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Cult
-http://200.4.96.59:8004/play/a0e3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Fun
-http://200.4.96.59:8004/play/a0e2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Pipoca
-http://200.4.96.59:8003/play/a03k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Premium
-http://200.4.96.59:8003/play/a03i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2019/07/novo-logo-telecine-seu-momento-cinema-versao-negativa-1024x1024.jpg" group-title="FILMES/SERIES",Telecine Touch
-http://livetv2021.site:8080/9897876765/6576567/2
-
-#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180410/rfe/kisspng-tnt-series-turner-broadcasting-system-television-l-comedy-5acc428b20ba37.0820969215233358191341.jpg" group-title="FILMES/SERIES",TNT
-http://200.4.96.59:8003/play/a02j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/f3/15/52f315609171d413ee47ce0ab8c1e4f3.png" group-title="FILMES/SERIES",TNT Series
-http://200.4.96.59:8003/play/a02i/index.m3u8
+http://189.91.128.150:4444/udp/227.10.20.88:1234
 
 #EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://cinemaparasempre.com.br/wp-content/uploads/2020/04/1-2.jpg" group-title="FILMES/SERIES",Universal TV
-http://200.4.96.59:8002/play/a0eq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://service.lignettelecom.com.br/playlignet/static/icons/logos/canais/51.png" group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
@@ -348,17 +249,11 @@ https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.c
 #EXTINF:-1 tvg-logo="https://www.global-fibra.com/assets/img/urban_series_logo.png" group-title="FILMES/SERIES",Urban Series
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w949993906.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="FILMES/SERIES",Warner Channel
-http://200.4.96.59:8003/play/a02r/index.m3u8
-
 
 ########################
 ###### VARIEDADES ######
 ########################
 
-
-#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180519/rfe/kisspng-animal-planet-logo-television-channel-5b00ac97651460.971763791526770839414.jpg" group-title="VARIEDADES",Animal Planet
-http://200.4.96.59:8002/play/a0fe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="VARIEDADES",Arte1
 http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8
@@ -366,35 +261,14 @@ http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3
 #EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="VARIEDADES",Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://varioscanais.com/wp-content/uploads/2021/10/Comedy-Central.jpg" group-title="VARIEDADES",Comedy Central
-http://200.4.96.59:8003/play/a01y/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="VARIEDADES",Cultura
 http://177.20.208.58:8000/play/a01x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="VARIEDADES",Discovery Channel
-http://200.4.96.59:8003/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="VARIEDADES",Discovery H&H
 http://168.205.87.198:8555/live/adriana/123456/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="VARIEDADES",Discovery ID
 http://168.205.87.198:8555/live/adriana/123456/36.m3u8
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/521/498/png-clipart-logo-science-channel-television-channel-discovery-science-science-television-text.png" group-title="VARIEDADES",Discovery Science
-http://200.4.96.59:8002/play/a0ds/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="VARIEDADES",Discovery Theater
-http://200.4.96.59:8003/play/a03e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="VARIEDADES",Discovery Turbo
-http://200.4.96.59:8002/play/a0eo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png" group-title="VARIEDADES",Discovery World
-http://200.4.96.59:8003/play/a03f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.jpg" group-title="VARIEDADES",E!
-http://200.4.96.59:8003/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vrchennai.com/UploadFile/Storeimage/Lifestyle-big.png" group-title="VARIEDADES",Estilo de Vida
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -408,23 +282,17 @@ http://168.205.87.198:8555/live/adriana/123456/61.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/FashionBox_HD_logo.png" group-title="VARIEDADES",Fashionbox
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="VARIEDADES",Food Network
-http://200.4.96.59:8003/play/a034/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2019/05/fuel-tv.png" group-title="VARIEDADES",Fuel TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="VARIEDADES",Futura
-http://200.4.96.59:8002/play/a0f7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Gnt_logo.jpg" group-title="VARIEDADES",GNT
 http://201.35.250.178:8001/play/a003
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HGTV
-http://200.4.96.59:8002/play/a0dq/index.m3u8
+http://168.205.87.198:8555/live/123456/123456/71.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="VARIEDADES",History
-http://200.4.96.59:8003/play/a02q/index.m3u8
+http://189.91.128.150:4444/udp/227.10.20.130:1234
 
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180403/xhw/kisspng-h2-logo-television-channel-history-history-5ac40eabe7e074.8917502815227982519498.jpg" group-title="VARIEDADES",History 2
 http://201.35.250.178:8001/play/a00g
@@ -438,14 +306,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/1200px-Jovem_Pan_logo.svg.png" group-title="VARIEDADES",Jovem Pan
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="VARIEDADES",Lifetime
-http://200.4.96.59:8003/play/a036/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.radioamc.com.br/admin/assets/img/news/7926-2021-07-06.png" group-title="VARIEDADES",Loading
 http://187.94.148.4:8000/play/a02l/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/maisglobosatb.png" group-title="VARIEDADES",Mais na Tela
-http://200.4.96.59:8004/play/a0f8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/95/e5/71/95e571188eb6c369fd279e07c8191500.png" group-title="VARIEDADES",MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -454,13 +316,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" group-title="VARIEDADES",Multishow
-http://200.4.96.59:8003/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.swapy.com.br/wp-content/uploads/2019/07/nationa-geographic.png" group-title="VARIEDADES",Nat Geo
-http://200.4.96.59:8002/play/a0f2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="VARIEDADES",Nat Geo Wild
-http://200.4.96.59:8002/play/a0f3/index.m3u8
+http://201.35.250.178:8001/play/a004
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="VARIEDADES",Paramount+ Apresenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -468,38 +324,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71TbFSjRGiL.png" group-title="VARIEDADES",People are Awesome
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1127922666583752704/wMxGyDfV.png" group-title="VARIEDADES",Polishop
-http://200.4.96.59:8004/play/a0eg/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2014/06/11/11185705069029.jpg" group-title="VARIEDADES",Porta dos Fundos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://www.sescma.com.br/wp-content/uploads/2019/05/Logo-Sesc-Redondo2.png" group-title="VARIEDADES",SESC TV
 http://177.20.208.58:8000/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Smithsonian_sun_logo_no_text.svg/200px-Smithsonian_sun_logo_no_text.svg.png" group-title="VARIEDADES",Smithsonian Channel
-http://200.4.96.59:8002/play/a0dn/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/1274429/tastemade-squarelogo-1572291748061.png" group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/320px-Tlc_logo_discovery.jpg" group-title="VARIEDADES",TLC
-http://200.4.96.59:8003/play/a02u/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="VARIEDADES",Travel Box Brazil
 http://168.205.87.198:8555/live/adriana/123456/124.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/item_images/254080/imagen-tv-escola-0big.jpg" group-title="VARIEDADES",TV Escola
-http://200.4.96.59:8004/play/a0eo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.global-fibra.com/assets/img/urban_doc_logo.png" group-title="VARIEDADES",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
 
 #EXTINF:-1 tvg-logo="https://swebtoon-phinf.pstatic.net/20190404_127/1554338229824kKuck_JPEG/thumbnail.jpg" group-title="VARIEDADES",Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1383265076812029952/djywr2Vs_400x400.jpg" group-title="VARIEDADES",Viva
-http://200.4.96.59:8002/play/a0ek/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1282860389324267521/K91lzBKq_400x400.jpg" group-title="VARIEDADES",Yeeaah!
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
@@ -509,9 +350,6 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 ###### MUSICA ######
 ####################
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080522229492998144/Eckl0Y2H_400x400.jpg" group-title="MUSICA",BIS
-http://200.4.96.59:8002/play/a0ex/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-uOsSklg868w/U4jGb9uLReI/AAAAAAAABVo/KkHKZA0E5WA/s1600/M%C3%BAsica-Brasileira-Imagem-4.jpg" group-title="MUSICA",Canal BRA
 http://168.205.87.198:8555/live/adriana/123456/24.m3u8
@@ -537,14 +375,8 @@ https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000653353839-yj891e-t500x500.jpg" group-title="MUSICA",Loop 90s
 https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00's
-http://200.4.96.59:8003/play/a03z/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://simg.nicepng.com/png/small/57-579195_mtv-mtv-logo.png" group-title="MUSICA",MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1049px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSICA",MTV Live
-http://200.4.96.59:8004/play/a0dr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2019/06/logo-music.png" group-title="MUSICA",Music Box Brazil
 http://187.94.148.4:8000/play/a02m/index.m3u8
@@ -564,9 +396,6 @@ http://201.35.250.178:8001/play/a00v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/2560px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="INFANTIS",Cartoon Network
 http://187.94.148.4:8000/play/a02k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1420633973680705539/2I-jDhPq_400x400.png" group-title="INFANTIS",Cartoonito
-http://200.4.96.59:8002/play/a0dw/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1280px-Disney_Channel_logo_%282014%29.svg.png" group-title="INFANTIS",Disney Channel
 http://168.205.87.198:8555/live/adriana/123456/45.m3u8
 
@@ -576,9 +405,6 @@ http://168.205.87.198:8555/live/adriana/123456/46.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1280px-Disney_XD_-_2015.svg.png" group-title="INFANTIS",Disney XD
 http://168.205.87.198:8555/live/adriana/123456/47.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="INFANTIS",Gloob
-http://200.4.96.59:8002/play/a0ew/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="INFANTIS",Gloobinho
 http://201.35.250.178:8001/play/a008
 
@@ -587,12 +413,6 @@ http://168.205.87.198:8555/live/adriana/123456/143.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-la1ODq4soUM/XX0nsfZaHOI/AAAAAAAAX8g/EqFO52KpRqk34S1jQ5IrY6dSRkXM4CEJgCEwYBhgL/s1600/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIS",NatGeo Kids
 http://201.35.250.178:8001/play/a00n
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="INFANTIS",Nick
-http://200.4.96.59:8002/play/a0dz/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="INFANTIS",Nick Jr.
-http://200.4.96.59:8003/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ffizLpXcL.png" group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
@@ -604,7 +424,7 @@ http://168.205.87.198:8555/live/adriana/123456/84.m3u8
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w79601195.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1351547167417249794/FTM93HO7_400x400.jpg" group-title="INFANTIS",Zoomoo Kids
-http://200.4.96.59:8004/play/a0du/index.m3u8
+http://168.205.87.198:8555/live/adriana/123456/162.m3u8
 
 
 ########################
