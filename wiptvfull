@@ -240,6 +240,9 @@ http://187.94.148.4:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="FILMES/SERIES",Studio Universal
 http://189.91.128.150:4444/udp/227.10.20.88:1234
 
+#EXTINF:-1 group-title="FILMES/SERIES",TNT
+http://187.94.148.4:8000/play/a02g/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil.png" group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
