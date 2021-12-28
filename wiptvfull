@@ -240,14 +240,8 @@ http://168.205.87.198:8555/live/adriana/123456/160.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
 http://189.91.128.150:4444/udp/227.10.20.127:1234
 
-#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
-http://187.94.148.4:8000/play/a02i/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
 http://189.91.128.150:4444/udp/227.10.20.88:1234
-
-#EXTINF:-1 group-title="FILMES/SERIES",TNT
-http://187.94.148.4:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -314,9 +308,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adb
 
 #EXTINF:-1 group-title="VARIEDADES",Jovem Pan
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="VARIEDADES",Loading
-http://187.94.148.4:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -387,9 +378,6 @@ https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 group-title="MUSICA",MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="MUSICA",Music Box Brazil
-http://187.94.148.4:8000/play/a02m/index.m3u8
-
 #EXTINF:-1 group-title="MUSICA",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 
@@ -401,9 +389,6 @@ http://201.35.250.178:8001/play/a00v
 ###### INFANTIS ######
 ######################
 
-
-#EXTINF:-1 group-title="INFANTIS",Cartoon Network
-http://187.94.148.4:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Cartoonito
 http://168.205.87.198:8555/live/adriana/123456/22.m3u8
