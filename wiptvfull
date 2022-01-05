@@ -319,7 +319,7 @@ http://177.20.208.58:8000/play/a01x/index.m3u8
 http://168.205.87.198:8555/live/adriana/123456/33.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
-http://168.205.87.198:8555/live/adriana/123456/35.m3u8
+http://187.94.148.10:8090/play/a00e/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://168.205.87.198:8555/live/adriana/123456/36.m3u8
