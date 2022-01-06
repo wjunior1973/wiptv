@@ -354,6 +354,9 @@ https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="VARIEDADES",Comedy Central
+http://200.4.96.59:8003/play/a01y/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Cultura
 http://177.20.208.58:8000/play/a01x/index.m3u8
 
