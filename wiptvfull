@@ -202,7 +202,7 @@ http://200.4.96.59:8002/play/a0ez/index.m3u8
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Film & Arts
-http://200.4.96.59:8004/play/a0dv/index.m3u8
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://200.4.96.59:8002/play/a0f5/index.m3u8
@@ -230,9 +230,6 @@ http://200.4.96.59:8003/play/a027/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://200.4.96.59:8002/play/a0f1/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Megapix
-http://200.4.96.59:8004/play/a0e0/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -278,15 +275,6 @@ http://200.4.96.59:8003/play/a02h/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
 http://189.91.128.150:4444/udp/227.10.20.124:1234
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
-http://200.4.96.59:8004/play/a0e1/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
-http://200.4.96.59:8004/play/a0e3/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
-http://200.4.96.59:8004/play/a0e2/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
 http://200.4.96.59:8003/play/a03k/index.m3u8
@@ -364,7 +352,7 @@ https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 http://168.205.87.198:8555/live/adriana/123456/61.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Fish TV
-http://200.4.96.59:8004/play/a0eq/index.m3u8
+http://168.205.87.198:8555/live/adriana/123456/62.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Food Network
 http://200.4.96.59:8003/play/a034/index.m3u8
@@ -391,7 +379,7 @@ https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
 http://200.4.96.59:8003/play/a036/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Mais na Tela
-http://200.4.96.59:8004/play/a0f8/index.m3u8
+http://200.4.96.59:8002/play/a0ev/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",MTV
 http://200.4.96.59:8003/play/a01w/index.m3u8
@@ -406,7 +394,7 @@ http://200.4.96.59:8002/play/a0f2/index.m3u8
 http://200.4.96.59:8002/play/a0f3/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Polishop
-http://200.4.96.59:8004/play/a0eg/index.m3u8
+http://170.80.157.9:8000/play/a031
 
 #EXTINF:-1 group-title="VARIEDADES",Sabor & Arte
 http://200.4.96.59:8002/play/a0fr/index.m3u8
@@ -415,7 +403,7 @@ http://200.4.96.59:8002/play/a0fr/index.m3u8
 http://177.20.208.58:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Shoptime
-http://200.4.96.59:8004/play/a0f0/index.m3u8
+http://168.205.87.198:8555/live/adriana/123456/164.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Smithsonian Channel
 http://200.4.96.59:8002/play/a0dn/index.m3u8
@@ -431,9 +419,6 @@ https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/c
 
 #EXTINF:-1 group-title="VARIEDADES",Viva
 http://200.4.96.59:8002/play/a0ek/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Yeeaah!
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 
 ####################
@@ -479,9 +464,6 @@ http://200.4.96.59:8002/play/a0dx/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Trace Brazuca
-http://200.4.96.59:8004/play/a0dw/index.m3u8
 
 
 ######################
@@ -572,96 +554,6 @@ http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
-
-####################
-###### FILMES ######
-####################
-
-
-#EXTINF:-1 group-title="FILMES",Bem Vindo A Selva
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/Bem-Vindo%20%c3%a0%20Selva%20.mp4
-
-#EXTINF:-1 group-title="FILMES",Bloodshot
-http://187.45.108.196/FILMES/Lan%c3%a7amentos/Bloodshot.mp4
-
-#EXTINF:-1 group-title="FILMES",Diario De Um Banana
-http://www.ntc.net.br/downloads/Di%e1rio%20de%20um%20Banana%20(2010)%20720p%20Dublado%20-%20Alan_680.mp4
-
-#EXTINF:-1 group-title="FILMES",Duro De Matar
-http://www.ntc.net.br/downloads/Duro%20de%20Matar%20-By%20JefePsb%20-%20WOLVERDONFILMES.COM.mkv
-
-#EXTINF:-1 group-title="FILMES",Era Uma Vez Em Hollywood
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/Era.Uma.Vez.em.Hollywood.2019.720p.BluRay.x264.DUBLADO.mp4
-
-#EXTINF:-1 group-title="FILMES",Homem-Aranha: Longe De Casa
-http://187.45.108.196/FILMES/Lan%c3%a7amentos/Homem-Aranha.Longe.de.Casa.2019.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4
-
-#EXTINF:-1 group-title="FILMES",Interestelar
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/Interestelar.mp4
-
-#EXTINF:-1 group-title="FILMES",Jobs
-http://www.ntc.net.br/downloads/Jobs%20720p%20s.mp4
-
-#EXTINF:-1 group-title="FILMES",John Wick - De Volta Ao Jogo
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/De.Volta.ao.Jogo.2014.720p.BluRay.x264.DUBLADO-BLUDV.mp4
-
-#EXTINF:-1 group-title="FILMES",John Wick 2 - Um Novo Dia Para Morrer
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/John.Wick.Um.Novo.Dia.Para.Matar.2017.720p.WEB-DL.x264.DUBLADO-BLUDV.mp4
-
-#EXTINF:-1 group-title="FILMES",John Wick 3 - Parabellum
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/John.Wick.3.Parabellum.2019.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.TVv.mp4
-
-#EXTINF:-1 group-title="FILMES",Justiceiro
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/Justicero.mp4
-
-#EXTINF:-1 group-title="FILMES",Liga Da Justica - Snyder's Cut
-http://www.ntc.net.br/downloads/COMANDO.TO%20-%20Zack.Snyders.Justice.League.2021.720p.HMAX.WEB-DL.DDP5.1.Atmos.H.264-DUAL.mkv
-
-#EXTINF:-1 group-title="FILMES",Matrix
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/Matrix.mp4
-
-#EXTINF:-1 group-title="FILMES",Matrix Reloaded
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/Matrix%20Reloaded.mp4
-
-#EXTINF:-1 group-title="FILMES",Matrix Revolutions
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/Matrix%20Revolutions.mp4
-
-#EXTINF:-1 group-title="FILMES",Minha Mae E Uma Peca
-http://www.ntc.net.br/downloads/Minha%20M%e3e%20%c9%20Uma%20Pe%e7a%20-%20O%20Filme%20(2013)%20BDrip%20720p%20Nacional.mkv
-
-#EXTINF:-1 group-title="FILMES",Monster Hunter 
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/Monster%20Hunter.mp4
-
-#EXTINF:-1 group-title="FILMES",Mortal Kombat
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/Mortal%20Konbat.mp4
-
-#EXTINF:-1 group-title="FILMES",Mulher Maravilha
-http://187.45.108.196/FILMES/Lan%c3%a7amentos/Mulher-Maravilha.mp4
-
-#EXTINF:-1 group-title="FILMES",Pantera Negra
-http://www.ntc.net.br/downloads/Pantera.Negra.2018.720p.mp4
-
-#EXTINF:-1 group-title="FILMES",Projeto Gemini
-http://187.45.108.196/FILMES/A%C3%A7%C3%A3o/Projeto%20Gemini.mp4
-
-#EXTINF:-1 group-title="FILMES",Sonic - O Filme
-http://www.ntc.net.br/downloads/Sonic.O.Filme.2020.720p.WEB-DL.x264.DUAL.COMANDO.TO.mkv
-
-#EXTINF:-1 group-title="FILMES",Star Wars: A Ascensao Skywalker
-http://187.45.108.196/FILMES/Aventura/Star%20Wars%20A%20Ascens%c3%a3o%20Skywalker_x264.mp4
-
-#EXTINF:-1 group-title="FILMES",Terremoto: A Falha De San Andreas
-http://187.45.108.196/FILMES/Aventura/Terremoto%20-%20A%20Falha%20de%20San%20Andreas%20.mp4
-
-#EXTINF:-1 group-title="FILMES",Tom E Jerry
-http://www.ntc.net.br/downloads/Tom.and.Jerry.2021.1080p.WEBRip.Official.Dublado.mkv
-
-#EXTINF:-1 group-title="FILMES",Viuva Negra
-http://187.45.108.196/FILMES/Lan%c3%a7amentos/Vi%c3%bava%20Negra%202021%20WEB-DL%201080p%20DUAL%205.1_x264.mp4
-
-#EXTINF:-1 group-title="FILMES",Zootopia
-http://www.ntc.net.br/downloads/Zootopia.mp4
 
 
 ###### LISTA DESENVOLVIDA E MANTIDA POR WILSON J A JUNIOR - (47) 991565863 / wjunior1973@gmail.com ######
