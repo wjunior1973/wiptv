@@ -151,6 +151,9 @@ http://168.205.87.198:8555/live/adriana/123456/61.m3u8
 #EXTINF:-1,Film & Arts
 http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Filmes Web
+http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
+
 #EXTINF:-1,Fish TV
 http://201.35.250.178:8001/play/a00u
 
@@ -241,6 +244,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de1
 #EXTINF:-1,Megapix
 http://189.91.128.150:4444/udp/227.10.20.89:1234
 
+#EXTINF:-1,Motorvision
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+
 #EXTINF:-1,MTV Live
 http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
 
@@ -256,11 +262,17 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1,Nat Geo Kids
 http://201.35.250.178:8001/play/a00n
 
+#EXTINF:-1,NGT
+http://45.232.196.5:8000/play/a00p/index.m3u8
+
 #EXTINF:-1,Nick Jr.
 http://189.91.128.150:4444/udp/227.10.20.167:1234
 
 #EXTINF:-1,Novo Tempo
 http://168.205.87.198:8555/live/adriana/123456/149.m3u8
+
+#EXTINF:-1,Paramount Channel
+http://189.91.128.150:4444/udp/227.10.20.140:1234
 
 #EXTINF:-1,Plenitude TV
 https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
@@ -294,6 +306,12 @@ http://168.205.87.198:8555/live/adriana/123456/103.m3u8
 
 #EXTINF:-1,Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+
+#EXTINF:-1,RIT TV
+http://168.205.87.198:8555/live/adriana/123456/168.m3u8
+
+#EXTINF:-1,RSC TV
+http://168.205.87.198:8555/live/adriana/123456/147.m3u8
 
 #EXTINF:-1,Runtime
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
@@ -370,6 +388,9 @@ http://189.91.128.150:4444/udp/227.10.20.134:1234
 #EXTINF:-1,Telecine Touch
 http://189.91.128.150:4444/udp/227.10.20.136:1234
 
+#EXTINF:-1,Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
 #EXTINF:-1,TNT
 http://transcoder-itatiba-01.nxplay.com.br/TNT/index.m3u8
 
@@ -393,6 +414,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1,Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:-1,Top TV
+http://45.232.196.5:8000/play/a018/index.m3u8
 
 #EXTINF:-1,Trace Brazuca
 http://201.35.250.178:8001/play/a00v
