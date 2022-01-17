@@ -385,9 +385,6 @@ http://170.80.157.9:8000/play/a021
 #EXTINF:-1,Rede Vida
 http://168.205.87.198:8555/live/adriana/123456/103.m3u8
 
-#EXTINF:-1,Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
-
 #EXTINF:-1,RIT TV
 http://168.205.87.198:8555/live/adriana/123456/168.m3u8
 
