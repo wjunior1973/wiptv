@@ -6,23 +6,23 @@
 #######################
 
 
-#EXTINF:-1 group-title="TV ABERTA",Band
+#EXTINF:-1 group-title="TV ABERTA",Band SC - BVTV
 http://179.125.119.154:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band [Op. 2]
+#EXTINF:-1 group-title="TV ABERTA",Band SP
 http://200.4.96.59:8003/play/a039/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo
+#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC TV
 http://179.125.119.154:8000/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo [Op. 2]
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://200.4.96.59:8002/play/a0fk/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record
+#EXTINF:-1 group-title="TV ABERTA",Record SC - NDTV
 http://179.125.119.154:8000/play/a01j/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record [Op. 2]
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://200.4.96.59:8003/play/a03c/index.m3u8
@@ -30,10 +30,10 @@ http://200.4.96.59:8003/play/a03c/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! [Op. 2]
 http://177.20.208.58:8000/play/a03x/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT
+#EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC
 http://179.125.119.154:8000/play/a017/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT [Op. 2]
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
 http://200.4.96.59:8003/play/a03a/index.m3u8
 
 
