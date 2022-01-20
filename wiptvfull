@@ -16,7 +16,7 @@ http://179.125.119.154:8000/play/a015/index.m3u8
 http://179.125.119.154:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
-http://50.7.34.155:2200/BR/Rede_TV_HD-br/tracks-v1a1/mono.m3u8
+http://177.20.208.58:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SC - SCC
 http://179.125.119.154:8000/play/a017/index.m3u8
@@ -62,9 +62,6 @@ http://168.205.87.198:8555/live/adriana/123456/139.m3u8
 ###### ESPORTES ######
 ######################
 
-
-#EXTINF:-1 group-title="ESPORTES",All Sports
-http://168.205.87.198:8555/live/adriana/123456/148.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://168.205.87.198:8555/live/adriana/123456/176.m3u8
@@ -148,7 +145,7 @@ http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
-http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
+http://189.91.128.150:4444/udp/227.10.20.129:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://168.205.87.198:8555/live/adriana/123456/145.m3u8
@@ -310,7 +307,7 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 http://168.205.87.198:8555/live/adriana/123456/124.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TV Escola
-http://170.80.157.9:8000/play/a02l
+http://45.232.196.5:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
@@ -473,12 +470,6 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Novo Tempo
 http://168.205.87.198:8555/live/adriana/123456/149.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Plenitude TV
-https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Genesis
-http://168.205.87.198:8555/live/adriana/123456/98.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
 http://168.205.87.198:8555/live/adriana/123456/103.m3u8
