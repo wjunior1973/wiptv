@@ -9,17 +9,32 @@
 #EXTINF:-1 group-title="TV ABERTA",Band SC [BVTV]
 http://179.125.119.154:8000/play/a01h/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Band
+http://45.232.196.5:8000/play/a00x/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo SC [NSC TV]
 http://179.125.119.154:8000/play/a015/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
+http://45.232.196.5:8000/play/a025/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record SC [NDTV]
 http://179.125.119.154:8000/play/a01j/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://177.20.208.58:8000/play/a03x/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! [Opcao 2]
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5203998478089962000
+
 #EXTINF:-1 group-title="TV ABERTA",SBT SC [SCC]
 http://179.125.119.154:8000/play/a017/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
+http://45.232.196.5:8000/play/a014/index.m3u8
 
 
 ######################
@@ -35,6 +50,9 @@ http://168.205.87.198:8555/live/adriana/123456/28.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Euronews
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",GloboNews
+http://187.94.148.10:8090/play/a00z/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",JP News
 http://168.205.87.198:8555/live/adriana/123456/161.m3u8
@@ -90,6 +108,9 @@ http://189.91.128.150:4444/udp/227.10.20.132:1234
 #EXTINF:-1 group-title="ESPORTES",NBA TV
 https://bit.ly/nbatvusa?/index.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",OFF
+http://187.94.148.10:8090/play/a028/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://189.91.128.150:4444/udp/227.10.20.102:1234
 
@@ -107,6 +128,15 @@ http://189.91.128.150:4444/udp/227.10.20.107:1234
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 6
 http://189.91.128.150:4444/udp/227.10.20.123:1234
+
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://187.94.148.10:8090/play/a026/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 2
+http://187.94.148.10:8090/play/a00y/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 3
+http://187.94.148.10:8092/play/a02m/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Sport*TV 1 [Portugal]
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
@@ -150,6 +180,15 @@ http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",AMC
+http://187.94.148.10:8090/play/a02l/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",AXN
+http://187.94.148.10:8090/play/a016/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
+http://187.94.148.10:8090/play/a00j/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 
@@ -190,7 +229,7 @@ http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137492
 http://189.91.128.150:4444/udp/227.10.20.158:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
-http://189.91.128.150:4444/udp/227.10.20.89:1234
+http://187.94.148.10:8092/play/a02o/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -216,8 +255,14 @@ http://transcoder-itatiba-01.nxplay.com.br/SPACE/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://189.91.128.150:4444/udp/227.10.20.139:1234
 
+#EXTINF:-1 group-title="FILMES/SERIES",Star Life
+http://187.94.148.10:8092/play/a005/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
 http://189.91.128.150:4444/udp/227.10.20.88:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",Syfy
+http://187.94.148.10:8092/play/a02q/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
 http://189.91.128.150:4444/udp/227.10.20.124:1234
@@ -267,14 +312,20 @@ https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES",BRSuper TV
 http://168.205.87.198:8555/live/adriana/123456/147.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Comedy Central
+http://187.94.148.10:8092/play/a00w/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Cultura
 http://177.20.208.58:8000/play/a01x/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Curta!
+http://187.94.148.10:8092/play/a012/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
 http://168.205.87.198:8555/live/adriana/123456/33.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
-http://189.91.128.150:4444/udp/227.10.20.85:1234
+http://187.94.148.10:8090/play/a00e/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://168.205.87.198:8555/live/adriana/123456/36.m3u8
@@ -283,7 +334,10 @@ http://168.205.87.198:8555/live/adriana/123456/36.m3u8
 http://189.91.128.150:4444/udp/227.10.20.177:1234
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
-http://189.91.128.150:4444/udp/227.10.20.82:1234
+http://187.94.148.10:8090/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",E!
+http://187.94.148.10:8092/play/a00q/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Fashion TV
 http://168.205.87.198:8555/live/adriana/123456/61.m3u8
@@ -291,14 +345,38 @@ http://168.205.87.198:8555/live/adriana/123456/61.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Fish TV
 http://189.91.128.150:4444/udp/227.10.20.117:1234
 
+#EXTINF:-1 group-title="VARIEDADES",Food Network
+http://187.94.148.10:8090/play/a025/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Futura
 http://189.91.128.150:4444/udp/227.10.20.165:1234
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://189.91.128.150:4444/udp/227.10.20.130:1234
 
+#EXTINF:-1 group-title="VARIEDADES",History 2
+http://187.94.148.10:8090/play/a00k/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Hollywire
 https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Lifetime
+http://187.94.148.10:8092/play/a009/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Mais na tela
+http://187.94.148.10:8092/play/a00d/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",MTV
+http://187.94.148.10:8092/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Multishow
+http://187.94.148.10:8092/play/a00p/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",NatGeo
+http://187.94.148.10:8090/play/a00o/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",NatGeo Wild
+http://187.94.148.10:8092/play/a027/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",NGT
 http://45.232.196.5:8000/play/a00p/index.m3u8
@@ -312,17 +390,26 @@ http://168.205.87.198:8555/live/adriana/123456/172.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Shoptime
 http://168.205.87.198:8555/live/adriana/123456/164.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Smithsonian Channel
+http://168.205.87.198:8555/live/adriana/123456/173.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://168.205.87.198:8555/live/adriana/123456/124.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",TruTV
+http://187.94.148.10:8090/play/a02d/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",TV Escola
 http://45.232.196.5:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Viva
+http://187.94.148.10:8092/play/a004/index.m3u8
 
 
 #############################
@@ -399,6 +486,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb
 ####################
 
 
+#EXTINF:-1 group-title="MUSICA",BIS
+http://187.94.148.10:8092/play/a00e/index.m3u8
+
 #EXTINF:-1 group-title="MUSICA",Canal BRA
 http://168.205.87.198:8555/live/adriana/123456/24.m3u8
 
@@ -468,6 +558,9 @@ http://168.205.87.198:8555/live/adriana/123456/26.m3u8
 #EXTINF:-1 group-title="INFANTIS",Cartoonito
 http://168.205.87.198:8555/live/adriana/123456/22.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Discovery Kids
+http://187.94.148.10:8092/play/a02s/index.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Disney Channel
 http://168.205.87.198:8555/live/adriana/123456/45.m3u8
 
@@ -480,14 +573,23 @@ http://168.205.87.198:8555/live/adriana/123456/47.m3u8
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://189.91.128.150:4444/udp/227.10.20.91:1234
 
+#EXTINF:-1 group-title="INFANTIS",Gloobinho
+http://187.94.148.10:8092/play/a02r/index.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",NatGeo Kids
+http://187.94.148.10:8090/play/a00n/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nick Jr.
 http://189.91.128.150:4444/udp/227.10.20.167:1234
 
 #EXTINF:-1 group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:-1 group-title="INFANTIS",Tooncast
+http://187.94.148.10:8090/play/a02g/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",TV Ra-Tim-Bum
 http://168.205.87.198:8555/live/adriana/123456/84.m3u8
