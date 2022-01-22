@@ -402,6 +402,9 @@ http://187.94.148.10:8092/play/a004/index.m3u8
 #############################
 
 
+#EXTINF:-1 group-title="VARIEDADES",BBB 22
+http://187.94.148.10:8092/play/a03l/index.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
 
