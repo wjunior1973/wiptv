@@ -16,7 +16,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
 http://179.125.119.154:8000/play/a015/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
-http://200.4.97.162:8000/play/a01t/index.m3u8
+http://187.94.148.10:8090/play/a02y/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record SC [NDTV]
 http://179.125.119.154:8000/play/a01j/index.m3u8
@@ -137,21 +137,6 @@ http://187.94.148.10:8090/play/a00y/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",SporTV 3
 http://187.94.148.10:8092/play/a02m/index.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 1 [Portugal]
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 2 [Portugal]
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 3 [Portugal]
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 4 [Portugal]
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Sport*TV 5 [Portugal]
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
