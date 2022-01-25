@@ -205,7 +205,7 @@ http://189.91.128.150:4444/udp/227.10.20.156:1234
 http://189.91.128.150:4444/udp/227.10.20.158:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
-http://187.94.148.10:8092/play/a02o/index.m3u8
+http://200.4.96.59:8004/play/a0e0/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -323,6 +323,9 @@ http://187.94.148.10:8090/play/a025/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Futura
 http://189.91.128.150:4444/udp/227.10.20.165:1234
+
+#EXTINF:-1 group-title="VARIEDADES",GNT
+http://187.94.148.10:8092/play/a01w/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://189.91.128.150:4444/udp/227.10.20.130:1234
