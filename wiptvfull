@@ -61,7 +61,7 @@ http://200.4.96.59:8002/play/a0fy/index.m3u8
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",TV Brasil
-http://168.205.87.198:8555/live/adriana/123456/134.m3u8
+http://200.4.97.162:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",TV Brasil 2
 http://168.205.87.198:8555/live/adriana/123456/135.m3u8
@@ -73,7 +73,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 http://168.205.87.198:8555/live/adriana/123456/138.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",TV Senado
-http://168.205.87.198:8555/live/adriana/123456/139.m3u8
+http://45.232.196.5:8000/play/a027/index.m3u8
 
 
 ######################
@@ -232,7 +232,7 @@ https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 http://168.205.87.198:8555/live/adriana/123456/160.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Space
-http://transcoder-itatiba-01.nxplay.com.br/SPACE/index.m3u8
+http://200.4.96.59:8003/play/a02k/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://200.4.96.59:8002/play/a0f4/index.m3u8
@@ -274,7 +274,7 @@ http://200.4.96.59:8003/play/a03i/index.m3u8
 http://200.4.96.59:8003/play/a03j/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
-http://transcoder-itatiba-01.nxplay.com.br/TNT/index.m3u8
+http://187.94.148.10:8090/play/a011/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Series
 http://200.4.96.59:8003/play/a02i/index.m3u8
