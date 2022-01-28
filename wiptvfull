@@ -84,6 +84,15 @@ http://dnslist.ca:80/13833180/50169992/51
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://dnslist.ca:80/13833180/50169992/59
 
+#EXTINF:-1 group-title="ESPORTES",Eleven 1
+http://ccdn.ai:80/J5yx1/679TQJtyy/75026.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Eleven 2
+http://ccdn.ai:80/J5yx1/679TQJtyy/77583.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Eleven 3
+http://ccdn.ai:80/J5yx1/679TQJtyy/77584.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/adriana/123456/60.m3u8
 
@@ -465,6 +474,9 @@ http://187.94.148.10:8092/play/a027/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Polishop
 http://177.20.208.58:8000/play/a05b/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Sabor & Arte
+http://ccdn.ai:80/J5yx1/679TQJtyy/112017.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Shoptime
 http://168.205.87.198:8555/live/adriana/123456/164.m3u8
 
@@ -498,8 +510,14 @@ http://187.94.148.10:8092/play/a004/index.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS",A Grande Familia
 http://dnslist.ca:80/13833180/50169992/43413
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",A Pantera Cor de Rosa
+http://ccdn.ai:80/J5yx1/679TQJtyy/135537.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",ALF - O ETeimoso
 http://dnslist.ca:80/13833180/50169992/47465
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Bake Off Brasil - Celebridades
+http://ccdn.ai:80/J5yx1/679TQJtyy/138017.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",BBB 22
 http://187.94.148.10:8092/play/a03l/index.m3u8
@@ -512,6 +530,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Dois Homens e Meio
 http://dnslist.ca:80/13833180/50169992/43372
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Drake e Josh
+http://ccdn.ai:80/J5yx1/679TQJtyy/137622.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Escolinha do Professor Raimundo
+http://ccdn.ai:80/J5yx1/679TQJtyy/137611.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Estilo de Vida
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -527,6 +551,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",He-Man
 http://dnslist.ca:80/13833180/50169992/38040
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Irmao do Jorel
+http://ccdn.ai:80/J5yx1/679TQJtyy/135567.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Irmaos a Obra
+http://ccdn.ai:80/J5yx1/679TQJtyy/140782.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Jeannie e um Genio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -558,6 +588,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsu
 #EXTINF:-1 group-title="CANAIS 24 HORAS",O Encantador de Caes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Os Roni
+http://ccdn.ai:80/J5yx1/679TQJtyy/138964.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Os Simpsons
 http://dnslist.ca:80/13833180/50169992/20130
 
@@ -585,6 +618,9 @@ http://dnslist.ca:80/13833180/50169992/20435
 #EXTINF:-1 group-title="CANAIS 24 HORAS",South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Ta Puxado
+http://ccdn.ai:80/J5yx1/679TQJtyy/140756.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",The Pet Collective
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -593,6 +629,9 @@ http://dnslist.ca:80/13833180/50169992/38074
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Todo Mundo Odeia O Chris
 http://dnslist.ca:80/13833180/50169992/15811
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Toma La Da Ca
+http://ccdn.ai:80/J5yx1/679TQJtyy/138938.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",TV Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -614,6 +653,138 @@ http://dnslist.ca:80/13833180/50169992/43392
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+####################
+###### BBB 22 ######
+####################
+
+
+#EXTINF:-1 group-title="BBB 22",BBB Cam 1
+http://ccdn.ai:80/J5yx1/679TQJtyy/146839.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Cam 2
+http://ccdn.ai:80/J5yx1/679TQJtyy/128603.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Cam 3
+http://ccdn.ai:80/J5yx1/679TQJtyy/128606.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Cam 4
+http://ccdn.ai:80/J5yx1/679TQJtyy/147416.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Cam 5
+http://ccdn.ai:80/J5yx1/679TQJtyy/147428.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Cam 6
+http://ccdn.ai:80/J5yx1/679TQJtyy/147204.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Mosaico
+http://ccdn.ai:80/J5yx1/679TQJtyy/147207.m3u8
+
+
+##########################
+###### SAI DE BAIXO ######
+##########################
+
+
+#EXTINF:-1 group-title="SAI DE BAIXO",Temp. 01
+http://ccdn.ai:80/J5yx1/679TQJtyy/140747.m3u8
+
+#EXTINF:-1 group-title="SAI DE BAIXO",Temp. 02
+http://ccdn.ai:80/J5yx1/679TQJtyy/140748.m3u8
+
+#EXTINF:-1 group-title="SAI DE BAIXO",Temp. 03
+http://ccdn.ai:80/J5yx1/679TQJtyy/140749.m3u8
+
+#EXTINF:-1 group-title="SAI DE BAIXO",Temp. 04
+http://ccdn.ai:80/J5yx1/679TQJtyy/140750.m3u8
+
+#EXTINF:-1 group-title="SAI DE BAIXO",Temp. 05
+http://ccdn.ai:80/J5yx1/679TQJtyy/140751.m3u8
+
+#EXTINF:-1 group-title="SAI DE BAIXO",Temp. 06
+http://ccdn.ai:80/J5yx1/679TQJtyy/140752.m3u8
+
+#EXTINF:-1 group-title="SAI DE BAIXO",Temp. 07
+http://ccdn.ai:80/J5yx1/679TQJtyy/140753.m3u8
+
+#EXTINF:-1 group-title="SAI DE BAIXO",Temp. 08
+http://ccdn.ai:80/J5yx1/679TQJtyy/140754.m3u8
+
+
+#################################
+###### THE BIG BANG THEORY ######
+#################################
+
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 01
+http://ccdn.ai:80/J5yx1/679TQJtyy/135456.m3u8
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 02
+http://ccdn.ai:80/J5yx1/679TQJtyy/135457.m3u8
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 03
+http://ccdn.ai:80/J5yx1/679TQJtyy/135458.m3u8
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 04
+http://ccdn.ai:80/J5yx1/679TQJtyy/135459.m3u8
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 05
+http://ccdn.ai:80/J5yx1/679TQJtyy/135460.m3u8
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 06
+http://ccdn.ai:80/J5yx1/679TQJtyy/135461.m3u8
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 07
+http://ccdn.ai:80/J5yx1/679TQJtyy/135462.m3u8
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 08
+http://ccdn.ai:80/J5yx1/679TQJtyy/135463.m3u8
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 09
+http://ccdn.ai:80/J5yx1/679TQJtyy/135464.m3u8
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 10
+http://ccdn.ai:80/J5yx1/679TQJtyy/135465.m3u8
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 11
+http://ccdn.ai:80/J5yx1/679TQJtyy/135466.m3u8
+
+#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 12
+http://ccdn.ai:80/J5yx1/679TQJtyy/135467.m3u8
+
+
+##########################
+###### VAI QUE COLA ######
+##########################
+
+
+#EXTINF:-1 group-title="VAI QUE COLA",Temp. 01
+http://ccdn.ai:80/J5yx1/679TQJtyy/137440.m3u8
+
+#EXTINF:-1 group-title="VAI QUE COLA",Temp. 02
+http://ccdn.ai:80/J5yx1/679TQJtyy/137441.m3u8
+
+#EXTINF:-1 group-title="VAI QUE COLA",Temp. 03
+http://ccdn.ai:80/J5yx1/679TQJtyy/137442.m3u8
+
+#EXTINF:-1 group-title="VAI QUE COLA",Temp. 04
+http://ccdn.ai:80/J5yx1/679TQJtyy/137443.m3u8
+
+#EXTINF:-1 group-title="VAI QUE COLA",Temp. 05
+http://ccdn.ai:80/J5yx1/679TQJtyy/137444.m3u8
+
+#EXTINF:-1 group-title="VAI QUE COLA",Temp. 06
+http://ccdn.ai:80/J5yx1/679TQJtyy/137445.m3u8
+
+#EXTINF:-1 group-title="VAI QUE COLA",Temp. 07
+http://ccdn.ai:80/J5yx1/679TQJtyy/137446.m3u8
+
+#EXTINF:-1 group-title="VAI QUE COLA",Temp. 08
+http://ccdn.ai:80/J5yx1/679TQJtyy/137447.m3u8
+
+#EXTINF:-1 group-title="VAI QUE COLA",Temp. 09
+http://ccdn.ai:80/J5yx1/679TQJtyy/137448.m3u8
 
 
 ####################
@@ -739,27 +910,6 @@ https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/c
 http://168.205.87.198:8555/live/adriana/123456/162.m3u8
 
 
-##########################
-###### AGRONEGOCIOS ######
-##########################
-
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Agro Canal
-http://177.20.208.58:8000/play/a044/index.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",AgroMais
-http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
-http://177.20.208.58:8000/play/a057/index.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
-http://187.94.148.10:8092/play/a022/index.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
-
 ########################
 ###### RELIGIOSOS ######
 ########################
@@ -791,6 +941,84 @@ http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+
+######################
+###### PORTUGAL ######
+######################
+
+
+#EXTINF:-1 group-title="PORTUGAL",AMC
+http://ccdn.ai:80/J5yx1/679TQJtyy/74804.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",AXN
+http://ccdn.ai:80/J5yx1/679TQJtyy/74810.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",AXN Black
+http://ccdn.ai:80/J5yx1/679TQJtyy/74808.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",AXN White
+http://ccdn.ai:80/J5yx1/679TQJtyy/74813.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",CineMundo
+http://ccdn.ai:80/J5yx1/679TQJtyy/74838.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",Fox
+http://ccdn.ai:80/J5yx1/679TQJtyy/74885.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",Fox Comedy
+http://ccdn.ai:80/J5yx1/679TQJtyy/74881.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",Fox Crime
+http://ccdn.ai:80/J5yx1/679TQJtyy/74883.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",Fox Life
+http://ccdn.ai:80/J5yx1/679TQJtyy/74888.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",Fox Movies
+http://ccdn.ai:80/J5yx1/679TQJtyy/74891.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",Hollywood
+http://ccdn.ai:80/J5yx1/679TQJtyy/74896.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",NOS Studios
+http://ccdn.ai:80/J5yx1/679TQJtyy/74922.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",SyFy
+http://ccdn.ai:80/J5yx1/679TQJtyy/74984.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",TVCine ACTION
+http://ccdn.ai:80/J5yx1/679TQJtyy/75003.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",TVCine EDITION
+http://ccdn.ai:80/J5yx1/679TQJtyy/75006.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",TVCine EMOTION
+http://ccdn.ai:80/J5yx1/679TQJtyy/75009.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",TVCine TOP
+http://ccdn.ai:80/J5yx1/679TQJtyy/75012.m3u8
+
+
+##########################
+###### AGRONEGOCIOS ######
+##########################
+
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",Agro Canal
+http://177.20.208.58:8000/play/a044/index.m3u8
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",AgroMais
+http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
+http://177.20.208.58:8000/play/a057/index.m3u8
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
+http://187.94.148.10:8092/play/a022/index.m3u8
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
 
 ###### LISTA DESENVOLVIDA E MANTIDA POR WILSON J A JUNIOR - (47) 991565863 / wjunior1973@gmail.com ######
