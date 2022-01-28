@@ -43,10 +43,10 @@ http://187.94.148.4:8000/play/a02f/index.m3u8
 
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
-http://168.205.87.198:8555/live/adriana/123456/174.m3u8
+http://dnslist.ca:80/13833180/50169992/48
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
-http://168.205.87.198:8555/live/adriana/123456/28.m3u8
+http://dnslist.ca:80/13833180/50169992/43625
 
 #EXTINF:-1 group-title="NOTICIAS",Euronews
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
@@ -55,7 +55,7 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
 http://187.94.148.10:8090/play/a00z/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",JP News
-http://168.205.87.198:8555/live/adriana/123456/161.m3u8
+http://dnslist.ca:80/13833180/50169992/75688
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -63,14 +63,11 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 group-title="NOTICIAS",TV Brasil
 http://200.4.97.162:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",TV Brasil 2
-http://168.205.87.198:8555/live/adriana/123456/135.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",TV Justica
-http://168.205.87.198:8555/live/adriana/123456/138.m3u8
+http://dnslist.ca:80/13833180/50169992/46439
 
 #EXTINF:-1 group-title="NOTICIAS",TV Senado
 http://45.232.196.5:8000/play/a027/index.m3u8
@@ -82,10 +79,10 @@ http://45.232.196.5:8000/play/a027/index.m3u8
 
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
-http://168.205.87.198:8555/live/adriana/123456/176.m3u8
+http://dnslist.ca:80/13833180/50169992/51
 
 #EXTINF:-1 group-title="ESPORTES",Combate
-http://187.94.148.10:8092/play/a016/index.m3u8
+http://dnslist.ca:80/13833180/50169992/59
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/adriana/123456/60.m3u8
@@ -237,6 +234,12 @@ http://187.94.148.10:8092/play/a00r/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://187.94.148.4:8000/play/a02i/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Star Hits 1
+http://dnslist.ca:80/13833180/50169992/40696
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Hits 2
+http://dnslist.ca:80/13833180/50169992/40697
+
 #EXTINF:-1 group-title="FILMES/SERIES",Star Life
 http://187.94.148.10:8092/play/a005/index.m3u8
 
@@ -283,19 +286,100 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 http://187.94.148.10:8092/play/a00a/index.m3u8
 
 
+############################
+###### CINEMA EM CASA ######
+############################
+
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Comedia
+http://dnslist.ca:80/13833180/50169992/39463
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Familia
+http://dnslist.ca:80/13833180/50169992/39469
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Lancamentos
+http://dnslist.ca:80/13833180/50169992/39470
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Marvel
+http://dnslist.ca:80/13833180/50169992/39465
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Oscar
+http://dnslist.ca:80/13833180/50169992/39467
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Pipoca 1
+http://dnslist.ca:80/13833180/50169992/39455
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Pipoca 2
+http://dnslist.ca:80/13833180/50169992/39456
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Pipoca 3
+http://dnslist.ca:80/13833180/50169992/39459
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Romance
+http://dnslist.ca:80/13833180/50169992/39468
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Sky 1
+http://dnslist.ca:80/13833180/50169992/40793
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Sky 2
+http://dnslist.ca:80/13833180/50169992/40794
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Sky 3
+http://dnslist.ca:80/13833180/50169992/40795
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Sky 4
+http://dnslist.ca:80/13833180/50169992/40796
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Sky 5
+http://dnslist.ca:80/13833180/50169992/40797
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Sky 6
+http://dnslist.ca:80/13833180/50169992/38585
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Sky 7
+http://dnslist.ca:80/13833180/50169992/38586
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Sky 8
+http://dnslist.ca:80/13833180/50169992/38587
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Sky 9
+http://dnslist.ca:80/13833180/50169992/38588
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Sky 10
+http://dnslist.ca:80/13833180/50169992/38589
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Terror
+http://dnslist.ca:80/13833180/50169992/39466
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Cine Vingadores
+http://dnslist.ca:80/13833180/50169992/39464
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Sky Play 1
+http://dnslist.ca:80/13833180/50169992/43601
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Sky Play 2
+http://dnslist.ca:80/13833180/50169992/43602
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Sky Play 3
+http://dnslist.ca:80/13833180/50169992/43603
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Sky Play 4
+http://dnslist.ca:80/13833180/50169992/43604
+
+#EXTINF:-1 group-title="CINEMA EM CASA",Sky Play 5
+http://dnslist.ca:80/13833180/50169992/43605
+
+
 ########################
 ###### VARIEDADES ######
 ########################
 
 
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
-http://189.91.128.150:4444/udp/227.10.20.118:1234
+http://dnslist.ca:80/13833180/50169992/44
 
 #EXTINF:-1 group-title="VARIEDADES",Arte1
 https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",BRSuper TV
-http://168.205.87.198:8555/live/adriana/123456/147.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Brasil
 http://187.94.148.10:8090/play/a02b/index.m3u8
@@ -313,13 +397,22 @@ http://187.94.148.10:8092/play/a012/index.m3u8
 http://187.94.148.10:8090/play/a02i/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
-http://187.94.148.10:8090/play/a00e/index.m3u8
+http://dnslist.ca:80/13833180/50169992/42143
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://187.94.148.10:8090/play/a00p/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+http://dnslist.ca:80/13833180/50169992/67
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://dnslist.ca:80/13833180/50169992/68
+
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
 http://187.94.148.10:8090/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery World
+http://dnslist.ca:80/13833180/50169992/70
 
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://187.94.148.10:8092/play/a00q/index.m3u8
@@ -338,6 +431,9 @@ http://177.20.208.58:8000/play/a05l/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://187.94.148.10:8092/play/a01w/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+http://dnslist.ca:80/13833180/50169992/102
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://187.94.148.10:8092/play/a02t/index.m3u8
@@ -358,7 +454,7 @@ http://187.94.148.10:8092/play/a00d/index.m3u8
 http://187.94.148.10:8092/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Multishow
-http://187.94.148.10:8092/play/a00p/index.m3u8
+http://dnslist.ca:80/13833180/50169992/110
 
 #EXTINF:-1 group-title="VARIEDADES",NatGeo
 http://187.94.148.10:8090/play/a00o/index.m3u8
@@ -399,6 +495,12 @@ http://187.94.148.10:8092/play/a004/index.m3u8
 #############################
 
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",A Grande Familia
+http://dnslist.ca:80/13833180/50169992/43413
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",ALF - O ETeimoso
+http://dnslist.ca:80/13833180/50169992/47465
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",BBB 22
 http://187.94.148.10:8092/play/a03l/index.m3u8
 
@@ -408,14 +510,23 @@ http://168.205.87.198:8555/live/adriana/123456/159.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Comedy Central
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Dois Homens e Meio
+http://dnslist.ca:80/13833180/50169992/43372
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Estilo de Vida
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Fail Army
 https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Familia Dinossauro
+http://dnslist.ca:80/13833180/50169992/37992
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Fashionstream
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",He-Man
+http://dnslist.ca:80/13833180/50169992/38040
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Jeannie e um Genio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -426,6 +537,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a00071798
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Kenan & Kel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Lady Night
+http://dnslist.ca:80/13833180/50169992/77562
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -435,11 +549,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7ee
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Misterios TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Mr. Bean
+http://dnslist.ca:80/13833180/50169992/21664
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Nashville
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",O Encantador de Caes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Os Simpsons
+http://dnslist.ca:80/13833180/50169992/20130
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Panico na TV
+http://dnslist.ca:80/13833180/50169992/43384
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Pegadinhas
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
@@ -447,8 +570,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf8886100076
 #EXTINF:-1 group-title="CANAIS 24 HORAS",People are Awesome
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Pesadelo Na Cozinha
+http://dnslist.ca:80/13833180/50169992/77720
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Porta dos Fundos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Silvio Santos
+http://dnslist.ca:80/13833180/50169992/43388
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Sobrenatural
+http://dnslist.ca:80/13833180/50169992/20435
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -456,8 +588,29 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 #EXTINF:-1 group-title="CANAIS 24 HORAS",The Pet Collective
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",ThunderCats
+http://dnslist.ca:80/13833180/50169992/38074
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Todo Mundo Odeia O Chris
+http://dnslist.ca:80/13833180/50169992/15811
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",TV Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",UltraMan
+http://dnslist.ca:80/13833180/50169992/38076
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Um Maluco No Pedaco
+http://dnslist.ca:80/13833180/50169992/18823
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Vai Que Cola
+http://dnslist.ca:80/13833180/50169992/47748
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Voce Na TV
+http://dnslist.ca:80/13833180/50169992/43391
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Voce Sabia?
+http://dnslist.ca:80/13833180/50169992/43392
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
