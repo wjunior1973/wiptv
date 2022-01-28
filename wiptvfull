@@ -265,7 +265,7 @@ http://187.94.148.10:8092/play/a00s/index.m3u8
 http://187.94.148.10:8090/play/a029/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
-http://200.4.96.59:8003/play/a03j/index.m3u8
+http://187.94.148.10:8090/play/a029/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 http://187.94.148.10:8090/play/a011/index.m3u8
@@ -298,7 +298,7 @@ https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 http://168.205.87.198:8555/live/adriana/123456/147.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Brasil
-http://200.4.96.59:8002/play/a0el/index.m3u8
+http://187.94.148.10:8090/play/a02b/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Comedy Central
 http://187.94.148.10:8092/play/a00w/index.m3u8
@@ -400,7 +400,7 @@ http://187.94.148.10:8092/play/a004/index.m3u8
 
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",BBB 22
-http://200.4.96.59:8004/play/a0f9/index.m3u8
+http://187.94.148.10:8092/play/a03l/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
