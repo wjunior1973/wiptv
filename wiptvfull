@@ -60,18 +60,6 @@ http://dnslist.ca:80/13833180/50169992/75688
 #EXTINF:-1 group-title="NOTICIAS",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",TV Brasil
-http://200.4.97.162:8000/play/a01h/index.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",TV Camara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",TV Justica
-http://dnslist.ca:80/13833180/50169992/46439
-
-#EXTINF:-1 group-title="NOTICIAS",TV Senado
-http://45.232.196.5:8000/play/a027/index.m3u8
-
 
 ######################
 ###### ESPORTES ######
