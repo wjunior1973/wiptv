@@ -228,18 +228,6 @@ http://168.205.87.198:8555/live/adriana/123456/160.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 http://187.94.148.10:8092/play/a00r/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
-http://187.94.148.4:8000/play/a02i/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Star Hits 1
-http://dnslist.ca:80/13833180/50169992/40696
-
-#EXTINF:-1 group-title="FILMES/SERIES",Star Hits 2
-http://dnslist.ca:80/13833180/50169992/40697
-
-#EXTINF:-1 group-title="FILMES/SERIES",Star Life
-http://187.94.148.10:8092/play/a005/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
 http://187.94.148.10:8092/play/a00v/index.m3u8
 
@@ -248,9 +236,6 @@ http://187.94.148.10:8092/play/a02q/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
 http://187.94.148.10:8092/play/a00u/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
-http://187.94.148.4:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
 http://187.94.148.10:8090/play/a012/index.m3u8
@@ -700,48 +685,6 @@ http://ccdn.ai:80/J5yx1/679TQJtyy/140753.m3u8
 http://ccdn.ai:80/J5yx1/679TQJtyy/140754.m3u8
 
 
-#################################
-###### THE BIG BANG THEORY ######
-#################################
-
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 01
-http://ccdn.ai:80/J5yx1/679TQJtyy/135456.m3u8
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 02
-http://ccdn.ai:80/J5yx1/679TQJtyy/135457.m3u8
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 03
-http://ccdn.ai:80/J5yx1/679TQJtyy/135458.m3u8
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 04
-http://ccdn.ai:80/J5yx1/679TQJtyy/135459.m3u8
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 05
-http://ccdn.ai:80/J5yx1/679TQJtyy/135460.m3u8
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 06
-http://ccdn.ai:80/J5yx1/679TQJtyy/135461.m3u8
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 07
-http://ccdn.ai:80/J5yx1/679TQJtyy/135462.m3u8
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 08
-http://ccdn.ai:80/J5yx1/679TQJtyy/135463.m3u8
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 09
-http://ccdn.ai:80/J5yx1/679TQJtyy/135464.m3u8
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 10
-http://ccdn.ai:80/J5yx1/679TQJtyy/135465.m3u8
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 11
-http://ccdn.ai:80/J5yx1/679TQJtyy/135466.m3u8
-
-#EXTINF:-1 group-title="THE BIG BANG THEORY",Temp. 12
-http://ccdn.ai:80/J5yx1/679TQJtyy/135467.m3u8
-
-
 ##########################
 ###### VAI QUE COLA ######
 ##########################
@@ -823,7 +766,7 @@ http://95.141.128.163:8004/play/a0k8
 http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Music Box Brazil
-http://187.94.148.4:8000/play/a02m/index.m3u8
+http://177.20.208.58:8000/play/a04g/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Rockland
 http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
