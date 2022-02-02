@@ -10,7 +10,7 @@
 http://179.125.119.154:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band SP
-http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
+http://45.232.196.5:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SC [NSC TV]
 http://179.125.119.154:8000/play/a015/index.m3u8
@@ -163,7 +163,7 @@ http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 http://187.94.148.10:8090/play/a02l/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
-http://187.94.148.10:8090/play/a016/index.m3u8
+http://187.85.237.8:8825/ipvt_005
 
 #EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
 http://187.94.148.10:8090/play/a00j/index.m3u8
@@ -455,6 +455,9 @@ http://187.94.148.10:8090/play/a00o/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",NatGeo Wild
 http://187.94.148.10:8092/play/a027/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",OX TV
+https://alanza.iptv2022.com/OX_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Polishop
 http://177.20.208.58:8000/play/a05b/index.m3u8
