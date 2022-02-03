@@ -43,10 +43,10 @@ http://187.94.148.4:8000/play/a02f/index.m3u8
 
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
-http://dnslist.ca:80/13833180/50169992/48
+http://187.94.148.10:8090/play/a00r/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
-http://168.205.87.198:8555/live/adriana/123456/28.m3u8
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Euronews
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
@@ -67,10 +67,10 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
-http://dnslist.ca:80/13833180/50169992/51
+https://origin-02.nxplay.com.br/band_spor_139913_1_/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Combate
-http://dnslist.ca:80/13833180/50169992/59
+http://187.94.148.10:8092/play/a016/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/adriana/123456/60.m3u8
@@ -168,6 +168,9 @@ http://189.91.128.150:4444/udp/227.10.20.159:1234
 #EXTINF:-1 group-title="FILMES/SERIES",CLC
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Dark Flix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -222,6 +225,9 @@ https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/adriana/123456/160.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 http://187.94.148.10:8092/play/a00r/index.m3u8
 
@@ -266,6 +272,12 @@ http://187.94.148.10:8090/play/a011/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Series
 http://187.94.148.10:8092/play/a011/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TVJN
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
@@ -349,7 +361,7 @@ http://187.94.148.10:8092/play/a00d/index.m3u8
 http://187.94.148.10:8092/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Multishow
-http://dnslist.ca:80/13833180/50169992/110
+http://187.94.148.10:8092/play/a00p/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",NatGeo
 http://187.94.148.10:8090/play/a00o/index.m3u8
@@ -509,6 +521,18 @@ http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Music Box Brazil
 http://177.20.208.58:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Qello Concerts
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICA",Qwest Classical
+https://qwest-classic-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICA",Qwest Jazz & Beyond
+https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICA",Qwest TV Mix
+https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICA",Rockland
 http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
