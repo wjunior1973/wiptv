@@ -34,7 +34,7 @@ https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5
 http://179.125.119.154:8000/play/a017/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SP
-http://187.94.148.4:8000/play/a02f/index.m3u8
+http://189.91.128.150:4444/udp/227.10.20.120:1234
 
 
 ######################
@@ -89,9 +89,6 @@ http://189.91.128.150:4444/udp/227.10.20.116:1234
 
 #EXTINF:-1 group-title="ESPORTES",Fox Sports 2
 http://189.91.128.150:4444/udp/227.10.20.132:1234
-
-#EXTINF:-1 group-title="ESPORTES",NBA TV
-https://bit.ly/nbatvusa?/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",OFF
 http://187.94.148.10:8090/play/a028/index.m3u8
@@ -163,7 +160,7 @@ http://187.94.148.10:8090/play/a00j/index.m3u8
 http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://189.91.128.150:4444/udp/227.10.20.159:1234
+http://189.11.143.160:8001/play/a01b
 
 #EXTINF:-1 group-title="FILMES/SERIES",CLC
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
@@ -243,6 +240,9 @@ http://187.94.148.10:8092/play/a00v/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Syfy
 http://187.94.148.10:8092/play/a02q/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",TBS
+http://177.104.160.101:8000/play/a011
+
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
 http://187.94.148.10:8092/play/a00u/index.m3u8
 
@@ -300,6 +300,9 @@ https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Canal Brasil
 http://187.94.148.10:8090/play/a02b/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Chef TV
+http://177.104.160.101:8000/play/a00u
+
 #EXTINF:-1 group-title="VARIEDADES",Comedy Central
 http://187.94.148.10:8092/play/a00w/index.m3u8
 
@@ -313,7 +316,7 @@ http://187.94.148.10:8092/play/a012/index.m3u8
 http://187.94.148.10:8090/play/a02i/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
-http://187.94.148.10:8090/play/a00e/index.m3u8
+http://177.104.160.101:8000/play/a00e
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://187.94.148.10:8090/play/a00p/index.m3u8
@@ -339,6 +342,9 @@ http://177.20.208.58:8000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://187.94.148.10:8092/play/a01w/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+http://177.104.160.101:8000/play/a00j
+
 #EXTINF:-1 group-title="VARIEDADES",History
 http://187.94.148.10:8092/play/a02t/index.m3u8
 
@@ -358,7 +364,7 @@ http://187.94.148.10:8092/play/a00d/index.m3u8
 http://187.94.148.10:8092/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Multishow
-http://187.94.148.10:8092/play/a00p/index.m3u8
+http://189.11.143.160:8001/play/a004
 
 #EXTINF:-1 group-title="VARIEDADES",NatGeo
 http://187.94.148.10:8090/play/a00o/index.m3u8
@@ -530,12 +536,6 @@ http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
-
-#EXTINF:-1 group-title="MUSICA",VEVO 80's
-https://bit.ly/vevo80s?wmsAuthSign=InspirationLinks
-
-#EXTINF:-1 group-title="MUSICA",VEVO 90's
-https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
 
 
 ######################
