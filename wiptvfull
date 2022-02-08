@@ -34,7 +34,7 @@ https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5
 http://179.125.119.154:8000/play/a017/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SP
-http://189.91.128.150:4444/udp/227.10.20.120:1234
+http://45.232.196.5:8000/play/a014/index.m3u8
 
 
 ######################
@@ -135,6 +135,9 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Urban Turbo
+https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Woohoo
 http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 
@@ -160,10 +163,7 @@ http://187.94.148.10:8090/play/a00j/index.m3u8
 http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://189.11.143.160:8001/play/a01b
-
-#EXTINF:-1 group-title="FILMES/SERIES",CLC
-https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+http://189.91.128.150:4444/udp/227.10.20.159:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
@@ -240,9 +240,6 @@ http://187.94.148.10:8092/play/a00v/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Syfy
 http://187.94.148.10:8092/play/a02q/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",TBS
-http://177.104.160.101:8000/play/a011
-
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
 http://187.94.148.10:8092/play/a00u/index.m3u8
 
@@ -300,9 +297,6 @@ https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Canal Brasil
 http://187.94.148.10:8090/play/a02b/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Chef TV
-http://177.104.160.101:8000/play/a00u
-
 #EXTINF:-1 group-title="VARIEDADES",Comedy Central
 http://187.94.148.10:8092/play/a00w/index.m3u8
 
@@ -316,7 +310,7 @@ http://187.94.148.10:8092/play/a012/index.m3u8
 http://187.94.148.10:8090/play/a02i/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
-http://177.104.160.101:8000/play/a00e
+http://187.94.148.10:8090/play/a00e/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://187.94.148.10:8090/play/a00p/index.m3u8
@@ -342,9 +336,6 @@ http://177.20.208.58:8000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://187.94.148.10:8092/play/a01w/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",HGTV
-http://177.104.160.101:8000/play/a00j
-
 #EXTINF:-1 group-title="VARIEDADES",History
 http://187.94.148.10:8092/play/a02t/index.m3u8
 
@@ -364,7 +355,7 @@ http://187.94.148.10:8092/play/a00d/index.m3u8
 http://187.94.148.10:8092/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Multishow
-http://189.11.143.160:8001/play/a004
+http://187.94.148.10:8092/play/a00p/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",NatGeo
 http://187.94.148.10:8090/play/a00o/index.m3u8
@@ -626,9 +617,6 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Evangelizar
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
 
 ##########################
