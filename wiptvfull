@@ -6,19 +6,19 @@
 #######################
 
 
-#EXTINF:-1 group-title="TV ABERTA",Band SC [BVTV]
+#EXTINF:-1 group-title="TV ABERTA",Band SC
 http://179.125.119.154:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band SP
 http://45.232.196.5:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SC [NSC TV]
+#EXTINF:-1 group-title="TV ABERTA",Globo SC
 http://179.125.119.154:8000/play/a015/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://187.94.148.10:8090/play/a02y/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record SC [NDTV]
+#EXTINF:-1 group-title="TV ABERTA",Record SC
 http://179.125.119.154:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record SP
@@ -30,7 +30,7 @@ http://50.7.34.155:2200/BR/Rede_TV_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! [Opcao 2]
 https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5203998478089962000
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SC [SCC]
+#EXTINF:-1 group-title="TV ABERTA",SBT SC
 http://179.125.119.154:8000/play/a017/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SP
@@ -247,7 +247,7 @@ http://187.94.148.10:8092/play/a02q/index.m3u8
 http://187.94.148.10:8092/play/a00u/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
-http://189.91.128.150:4444/udp/227.10.20.135:1234
+http://200.4.96.59:8004/play/a0e1/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
 http://187.94.148.10:8090/play/a012/index.m3u8
@@ -313,13 +313,22 @@ http://187.94.148.10:8092/play/a012/index.m3u8
 http://187.94.148.10:8090/play/a02i/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
-http://187.94.148.10:8090/play/a00e/index.m3u8
+http://200.4.96.59:8002/play/a0en/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://187.94.148.10:8090/play/a00p/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+http://200.4.96.59:8002/play/a0ds/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
 http://187.94.148.10:8090/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://200.4.96.59:8003/play/a03e/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery World
+http://200.4.96.59:8003/play/a03f/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://187.85.237.34:8825/ipvt_004
@@ -338,6 +347,9 @@ http://177.20.208.58:8000/play/a05l/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://187.94.148.10:8092/play/a01w/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+http://200.4.96.59:8002/play/a0dq/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://187.94.148.10:8092/play/a02t/index.m3u8
@@ -405,8 +417,14 @@ http://187.94.148.10:8092/play/a004/index.m3u8
 #############################
 
 
-#EXTINF:-1 group-title="CANAIS 24 HORAS",BBB 22
-http://187.94.148.10:8092/play/a03l/index.m3u8
+#EXTINF:-1 group-title="CANAIS 24 HORAS",BBB [Cam 1]
+http://200.4.96.59:8004/play/a0f9/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",BBB [Cam 2]
+http://200.4.96.59:8004/play/a0fa/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",BBB [Mosaico]
+http://200.4.96.59:8004/play/a0fb/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
