@@ -175,7 +175,7 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Film & Arts
-http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8
+http://200.4.96.59:8004/play/a0dv/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://187.94.148.10:8090/play/a00i/index.m3u8
@@ -631,7 +631,7 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 http://168.205.87.198:8555/live/adriana/123456/149.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
-http://168.205.87.198:8555/live/adriana/123456/103.m3u8
+http://187.85.237.34:8825/ipvt_005
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
