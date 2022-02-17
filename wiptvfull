@@ -28,7 +28,7 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 http://50.7.34.155:2200/BR/Rede_TV_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! [Opcao 2]
-https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5203998478089962000
+https://canal1.proxy.tokplay.com.br:443/videos/REDE_TV/format720p_REDE_TV.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SC
 http://179.125.119.154:8000/play/a017/index.m3u8
@@ -41,9 +41,6 @@ http://45.232.196.5:8000/play/a014/index.m3u8
 ###### NOTICIAS ######
 ######################
 
-
-#EXTINF:-1 group-title="NOTICIAS",24h News
-http://191.37.223.133:8000/play/a028/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://187.94.148.10:8090/play/a00r/index.m3u8
@@ -155,9 +152,6 @@ http://187.94.148.10:8090/play/a02l/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://187.85.237.8:8825/ipvt_005
-
-#EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
-http://191.37.223.133:8000/play/a024/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
 http://187.94.148.10:8090/play/a00j/index.m3u8
@@ -272,9 +266,6 @@ http://187.94.148.10:8092/play/a011/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TVJN
-https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
