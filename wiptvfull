@@ -16,7 +16,7 @@ https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
 http://179.125.119.154:8000/play/a015/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
-http://200.4.97.162:8000/play/a01t/index.m3u8
+http://200.4.96.59:8002/play/a0fk/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record SC
 http://179.125.119.154:8000/play/a01j/index.m3u8
