@@ -48,6 +48,9 @@ http://cdn.connectbr.com.br/BandNews/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",Euronews
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",GloboNews
 http://187.85.237.3:8220/ipvt_004
 
@@ -68,6 +71,24 @@ http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://189.91.128.150:4444/udp/227.10.20.172:1234
+
+#EXTINF:-1 group-title="ESPORTES",Eleven 1
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+
+#EXTINF:-1 group-title="ESPORTES",Eleven 2
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+
+#EXTINF:-1 group-title="ESPORTES",Eleven 3
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+
+#EXTINF:-1 group-title="ESPORTES",Eleven 4
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+
+#EXTINF:-1 group-title="ESPORTES",Eleven 5
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+
+#EXTINF:-1 group-title="ESPORTES",Eleven 6
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/adriana/123456/60.m3u8
@@ -111,6 +132,12 @@ http://200.4.96.59:8003/play/a03q/index.m3u8
 #EXTINF:-1 group-title="ESPORTES",SporTV 2
 http://200.4.96.59:8003/play/a03p/index.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",SporTV 3
+http://200.4.96.59:8002/play/a0ej/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 4
+http://200.4.96.59:8003/play/a03u/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
@@ -141,6 +168,9 @@ http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",AMC
+http://200.4.96.59:8002/play/a0dp/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://187.85.237.8:8825/ipvt_005
 
@@ -151,7 +181,10 @@ http://200.4.96.59:8003/play/a02s/index.m3u8
 http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://189.91.128.150:4444/udp/227.10.20.159:1234
+http://200.4.96.59:8002/play/a0ez/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemundo
+http://62.28.71.186:45678/http/192.168.150.137:7050/cinemundohd
 
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
@@ -176,6 +209,9 @@ http://200.4.96.59:8003/play/a024/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Family
 http://200.4.96.59:8003/play/a026/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
+http://200.4.96.59:8002/play/a0f0/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
 http://200.4.96.59:8003/play/a025/index.m3u8
@@ -252,6 +288,9 @@ http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Universal Channel
+http://200.4.96.59:8002/play/a0eq/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
 
@@ -279,11 +318,14 @@ http://200.4.96.59:8003/play/a01y/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Cultura
 http://177.20.208.58:8000/play/a01x/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Curta!
+http://200.4.96.59:8002/play/a0du/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
 http://200.4.96.59:8003/play/a02v/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
-http://168.205.87.198:8555/live/adriana/123456/35.m3u8
+http://200.4.96.59:8002/play/a0en/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://200.4.96.59:8003/play/a03g/index.m3u8
@@ -317,6 +359,9 @@ http://177.20.208.58:8000/play/a05l/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://187.85.237.26:8825/ipvt_005
+
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+http://200.4.96.59:8002/play/a0dq/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://200.4.96.59:8003/play/a02q/index.m3u8
