@@ -46,7 +46,7 @@ http://200.4.96.59:8003/play/a03a/index.m3u8
 http://cdn.connectbr.com.br/BandNews/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+http://177.104.160.101:8000/play/a007
 
 #EXTINF:-1 group-title="NOTICIAS",Euronews
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
@@ -71,24 +71,6 @@ http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://189.91.128.150:4444/udp/227.10.20.172:1234
-
-#EXTINF:-1 group-title="ESPORTES",Eleven 1
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-
-#EXTINF:-1 group-title="ESPORTES",Eleven 2
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-
-#EXTINF:-1 group-title="ESPORTES",Eleven 3
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-
-#EXTINF:-1 group-title="ESPORTES",Eleven 4
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-
-#EXTINF:-1 group-title="ESPORTES",Eleven 5
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
-
-#EXTINF:-1 group-title="ESPORTES",Eleven 6
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/adriana/123456/60.m3u8
@@ -183,12 +165,6 @@ http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://200.4.96.59:8002/play/a0ez/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Cinemundo
-http://62.28.71.186:45678/http/192.168.150.137:7050/cinemundohd
-
-#EXTINF:-1 group-title="FILMES/SERIES",Dark Flix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -239,9 +215,6 @@ http://177.20.208.58:8000/play/a04f/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Runtime
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 http://200.4.96.59:8003/play/a02k/index.m3u8
