@@ -211,7 +211,7 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 http://200.4.96.59:8003/play/a01z/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Prime Box Brazil
-http://177.20.208.58:8000/play/a04f/index.m3u8
+http://177.104.160.101:8000/play/a00a
 
 #EXTINF:-1 group-title="FILMES/SERIES",Runtime
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
@@ -289,7 +289,7 @@ https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 http://200.4.96.59:8003/play/a01y/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Cultura
-http://177.20.208.58:8000/play/a01x/index.m3u8
+http://200.4.96.59:8002/play/a0fl/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Curta!
 http://200.4.96.59:8002/play/a0du/index.m3u8
@@ -319,7 +319,7 @@ http://200.4.96.59:8003/play/a03f/index.m3u8
 http://187.85.237.34:8825/ipvt_004
 
 #EXTINF:-1 group-title="VARIEDADES",Fashion TV
-http://177.20.208.58:8000/play/a04h/index.m3u8
+http://177.104.160.101:8000/play/a00c
 
 #EXTINF:-1 group-title="VARIEDADES",Fish TV
 http://200.4.96.59:8004/play/a0eq/index.m3u8
@@ -328,7 +328,7 @@ http://200.4.96.59:8004/play/a0eq/index.m3u8
 http://200.4.96.59:8003/play/a034/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Futura
-http://177.20.208.58:8000/play/a05l/index.m3u8
+https://canal1.proxy.tokplay.com.br:443/videos/FUTURA/format720p_FUTURA.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://187.85.237.26:8825/ipvt_005
@@ -361,7 +361,7 @@ http://187.85.237.26:8825/ipvt_002
 https://alanza.iptv2022.com/OX_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Polishop
-http://177.20.208.58:8000/play/a05b/index.m3u8
+http://200.4.96.59:8004/play/a0eg/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Sabor & Arte
 http://168.205.87.198:8555/live/adriana/123456/172.m3u8
@@ -376,10 +376,10 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 http://168.205.87.198:8555/live/adriana/123456/40.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
-http://177.20.208.58:8000/play/a04i/index.m3u8
+http://177.104.160.101:8000/play/a00b
 
 #EXTINF:-1 group-title="VARIEDADES",TV Escola
-http://177.20.208.58:8000/play/a05h/index.m3u8
+http://187.85.237.8:8825/ipvt_002
 
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
@@ -489,17 +489,11 @@ https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="MUSICA",Loop 90s
 https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
 
-#EXTINF:-1 group-title="MUSICA",MCM Top
-http://185.140.187.67:8085/udp/238.2.0.45:1234
-
-#EXTINF:-1 group-title="MUSICA",MTV 00s
-http://185.140.187.67:8085/udp/238.2.1.22:1234
-
 #EXTINF:-1 group-title="MUSICA",MTV Live
-http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
+http://177.104.160.101:8000/play/a019
 
 #EXTINF:-1 group-title="MUSICA",Music Box Brazil
-http://177.20.208.58:8000/play/a04g/index.m3u8
+http://177.104.160.101:8000/play/a00d
 
 #EXTINF:-1 group-title="MUSICA",Qello Concerts
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?ROGERIOTORRES
@@ -607,13 +601,13 @@ http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro Canal
-http://177.20.208.58:8000/play/a044/index.m3u8
+http://168.205.87.198:8555/live/adriana/123456/10.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",AgroMais
 http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
-http://177.20.208.58:8000/play/a057/index.m3u8
+http://200.4.96.59:8003/play/a0098/index.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
 http://200.4.96.59:8004/play/a0f6/index.m3u8
