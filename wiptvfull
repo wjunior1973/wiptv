@@ -16,13 +16,13 @@ https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
 http://179.125.119.154:8000/play/a015/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
-http://200.4.96.59:8002/play/a0fk/index.m3u8
+http://200.4.97.162:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record SC
 http://179.125.119.154:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+http://200.146.229.129:8001/play/a005
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://50.7.34.155:2200/BR/Rede_TV_HD-br/tracks-v1a1/mono.m3u8
@@ -114,12 +114,6 @@ http://200.4.96.59:8003/play/a03q/index.m3u8
 #EXTINF:-1 group-title="ESPORTES",SporTV 2
 http://200.4.96.59:8003/play/a03p/index.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",SporTV 3
-http://200.4.96.59:8002/play/a0ej/index.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 4
-http://200.4.96.59:8003/play/a03u/index.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
@@ -163,37 +157,13 @@ http://200.4.96.59:8003/play/a02s/index.m3u8
 http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://200.4.96.59:8002/play/a0ez/index.m3u8
+http://200.146.229.129:8000/play/a00r
 
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",DC TV
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137489
-
-#EXTINF:-1 group-title="FILMES/SERIES",Disney+
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137521
-
 #EXTINF:-1 group-title="FILMES/SERIES",Film & Arts
 http://200.4.96.59:8004/play/a0dv/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Acao
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137494
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Classicos
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137495
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Comedia
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137497
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Faroeste
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137496
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Ficcao
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137515
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Netflix
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137491
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
@@ -211,7 +181,7 @@ http://200.4.96.59:8003/play/a024/index.m3u8
 http://200.4.96.59:8003/play/a026/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
-http://200.4.96.59:8002/play/a0f0/index.m3u8
+http://200.146.229.129:8000/play/a00s
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
 http://200.4.96.59:8003/play/a025/index.m3u8
@@ -219,20 +189,11 @@ http://200.4.96.59:8003/play/a025/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
 http://200.4.96.59:8003/play/a028/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Portugal
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137492
-
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
 http://200.4.96.59:8003/play/a027/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://189.91.128.150:4444/udp/227.10.20.100:1234
-
-#EXTINF:-1 group-title="FILMES/SERIES",Marvel
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137493
-
-#EXTINF:-1 group-title="FILMES/SERIES",Marvel 2
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137490
 
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://200.4.96.59:8004/play/a0e0/index.m3u8
@@ -257,9 +218,6 @@ http://50.7.34.155:2201/BR/Star_Channel-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Life
 http://50.7.34.155:2201/BR/Star_Life-br/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Star Wars World
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137504
 
 #EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
 http://200.4.96.59:8003/play/a037/index.m3u8
@@ -297,9 +255,6 @@ http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Universal Channel
-http://200.4.96.59:8002/play/a0eq/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
 
@@ -325,7 +280,7 @@ https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 http://200.4.96.59:8003/play/a01y/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Cultura
-http://200.4.96.59:8002/play/a0fl/index.m3u8
+http://200.146.229.129:8000/play/a003
 
 #EXTINF:-1 group-title="VARIEDADES",Curta!
 http://200.4.96.59:8002/play/a0du/index.m3u8
@@ -334,7 +289,7 @@ http://200.4.96.59:8002/play/a0du/index.m3u8
 http://200.4.96.59:8003/play/a02v/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
-http://200.4.96.59:8002/play/a0en/index.m3u8
+http://177.104.160.101:8000/play/a00e
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://200.4.96.59:8003/play/a03g/index.m3u8
@@ -474,17 +429,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsu
 #EXTINF:-1 group-title="CANAIS 24 HORAS",O Encantador de Caes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Os Simpsons
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137510
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Pegadinhas
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Pegadinhas 2
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137507
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Pegadinhas 3
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137508
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",People are Awesome
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
