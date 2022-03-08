@@ -325,7 +325,7 @@ https://canal1.proxy.tokplay.com.br:443/videos/FUTURA/format720p_FUTURA.m3u8
 http://187.85.237.26:8825/ipvt_005
 
 #EXTINF:-1 group-title="VARIEDADES",HGTV
-http://200.4.96.59:8002/play/a0dq/index.m3u8
+http://177.104.160.101:8000/play/a00j
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://200.4.96.59:8003/play/a02q/index.m3u8
