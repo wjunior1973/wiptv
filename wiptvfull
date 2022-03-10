@@ -70,7 +70,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Combate
-http://189.91.128.150:4444/udp/227.10.20.172:1234
+http://200.4.96.59:8002/play/a0em/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/adriana/123456/60.m3u8
@@ -85,28 +85,31 @@ http://168.205.87.198:8555/live/adriana/123456/50.m3u8
 http://168.205.87.198:8555/live/adriana/123456/51.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Fox Sports
-http://189.91.128.150:4444/udp/227.10.20.116:1234
+http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Fox Sports 2
-http://189.91.128.150:4444/udp/227.10.20.132:1234
+http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
-http://189.91.128.150:4444/udp/227.10.20.102:1234
+http://200.4.96.59:8002/play/a0er/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 2
-http://189.91.128.150:4444/udp/227.10.20.104:1234
+http://200.4.96.59:8002/play/a0es/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 3
-http://189.91.128.150:4444/udp/227.10.20.105:1234
+http://200.4.96.59:8003/play/a03r/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 4
-http://189.91.128.150:4444/udp/227.10.20.106:1234
+http://200.4.96.59:8003/play/a022/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 5
-http://189.91.128.150:4444/udp/227.10.20.107:1234
+http://200.4.96.59:8002/play/a0et/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 6
-http://189.91.128.150:4444/udp/227.10.20.123:1234
+http://200.4.96.59:8002/play/a0ed/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 7
+http://200.4.96.59:8002/play/a0ee/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",SporTV
 http://200.4.96.59:8003/play/a03q/index.m3u8
@@ -193,7 +196,7 @@ http://200.4.96.59:8003/play/a028/index.m3u8
 http://200.4.96.59:8003/play/a027/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
-http://189.91.128.150:4444/udp/227.10.20.100:1234
+http://200.4.96.59:8002/play/a0f1/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://200.4.96.59:8004/play/a0e0/index.m3u8
@@ -226,7 +229,7 @@ http://200.4.96.59:8003/play/a037/index.m3u8
 http://200.4.96.59:8003/play/a035/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
-http://189.91.128.150:4444/udp/227.10.20.124:1234
+http://200.146.229.129:8001/play/a02r
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://200.4.96.59:8004/play/a0e1/index.m3u8
@@ -295,10 +298,10 @@ http://200.4.96.59:8002/play/a0en/index.m3u8
 http://200.4.96.59:8003/play/a03g/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Science
-http://189.91.128.150:4444/udp/227.10.20.177:1234
+http://200.146.229.129:8001/play/a02b
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
-http://189.91.128.150:4444/udp/227.10.20.82:1234
+http://200.4.96.59:8002/play/a0eo/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Theater
 http://200.4.96.59:8003/play/a03e/index.m3u8
@@ -529,7 +532,7 @@ http://168.205.87.198:8555/live/adriana/123456/46.m3u8
 http://168.205.87.198:8555/live/adriana/123456/47.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Gloob
-http://189.91.128.150:4444/udp/227.10.20.91:1234
+http://200.4.96.59:8002/play/a0ew/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
