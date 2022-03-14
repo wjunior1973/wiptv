@@ -601,7 +601,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 http://187.85.237.34:8825/ipvt_005
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
-http://200.4.96.59:8003/play/a02f/index.m3u8
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Evangelizar
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
