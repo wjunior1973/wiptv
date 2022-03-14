@@ -13,10 +13,10 @@ http://170.82.200.38:8080/band/tracks-v1a1/mono.m3u8
 https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo [1]
-http://170.82.200.38:8080/globo/tracks-v1a1/mono.m3u8
+http://200.4.96.59:8002/play/a0fk/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo [2]
-http://50.7.34.155:2200/BR/Globo_HD_SP-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://170.82.200.38:8080/globo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record [1]
 http://200.4.97.162:8000/play/a01r/index.m3u8
@@ -148,7 +148,7 @@ http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
-http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
+http://200.146.229.129:8001/play/a01r
 
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://200.4.96.59:8002/play/a0dp/index.m3u8
@@ -226,10 +226,7 @@ https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 http://200.4.96.59:8003/play/a02k/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
-http://50.7.34.155:2201/BR/Star_Channel-br/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Star Life
-http://50.7.34.155:2201/BR/Star_Life-br/tracks-v1a1/mono.m3u8
+http://170.82.200.38:8080/fox/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
 http://200.4.96.59:8003/play/a037/index.m3u8
@@ -556,7 +553,7 @@ http://168.205.87.198:8555/live/adriana/123456/143.m3u8
 http://200.4.96.59:8003/play/a033/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nick
-http://50.7.34.155:2200/BR/Nickelodeon_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://200.4.96.59:8002/play/a0dz/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nick Jr.
 http://200.4.96.59:8003/play/a03s/index.m3u8
