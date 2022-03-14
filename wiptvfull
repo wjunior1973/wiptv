@@ -6,34 +6,34 @@
 #######################
 
 
-#EXTINF:-1 group-title="TV ABERTA",Band SC
-http://179.125.119.154:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Band [1]
+http://170.82.200.38:8080/band/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band SP
+#EXTINF:-1 group-title="TV ABERTA",Band [2]
 https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SC
-http://179.125.119.154:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo [1]
+http://170.82.200.38:8080/globo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SP
-http://200.4.97.162:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo [2]
+http://50.7.34.155:2200/BR/Globo_HD_SP-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
-#EXTINF:-1 group-title="TV ABERTA",Record SC
-http://179.125.119.154:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Record [1]
+http://200.4.97.162:8000/play/a01r/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record SP
+#EXTINF:-1 group-title="TV ABERTA",Record [2]
 http://200.146.229.129:8001/play/a005
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV!
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! [1]
 http://50.7.34.155:2200/BR/Rede_TV_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! [Opcao 2]
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! [2]
 https://canal1.proxy.tokplay.com.br:443/videos/REDE_TV/format720p_REDE_TV.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SC
-http://179.125.119.154:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",SBT [1]
+http://200.4.96.59:8003/play/a03a/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SP
+#EXTINF:-1 group-title="TV ABERTA",SBT [2]
 http://200.4.96.59:8003/play/a03a/index.m3u8
 
 
@@ -519,9 +519,6 @@ https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICA",Qwest TV Mix
 https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICA",Rockland
-http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
-
 #EXTINF:-1 group-title="MUSICA",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 
@@ -559,7 +556,7 @@ http://168.205.87.198:8555/live/adriana/123456/143.m3u8
 http://200.4.96.59:8003/play/a033/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nick
-http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
+http://50.7.34.155:2200/BR/Nickelodeon_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:-1 group-title="INFANTIS",Nick Jr.
 http://200.4.96.59:8003/play/a03s/index.m3u8
