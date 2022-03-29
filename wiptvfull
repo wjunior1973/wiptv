@@ -81,11 +81,23 @@ http://200.4.96.59:8004/play/a0e6/index.m3u8
 ######################
 
 
+#EXTINF:-1 group-title="ESPORTES",All Elite Wrestling
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Canal 11 Portugal
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://200.4.96.59:8002/play/a0em/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+#EXTINF:-1 group-title="ESPORTES",Combat Go
+https://ov.ottera.tv/live/master.m3u8?channel=jun_cg
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://168.205.87.198:8555/live/adriana/123456/60.m3u8
@@ -171,6 +183,9 @@ http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://200.4.96.59:8002/play/a0e9/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Adrenalina Freezone
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://200.4.96.59:8002/play/a0dp/index.m3u8
 
@@ -188,6 +203,9 @@ http://200.4.96.59:8002/play/a0ez/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",CLC
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Dark Flix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
@@ -248,6 +266,9 @@ https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Spark TV
+https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://200.4.96.59:8002/play/afte/index.m3u8
@@ -453,6 +474,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Anime Acao
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",AniTV
+https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",BBB 1
 http://200.4.96.59:8004/play/a0f9/index.m3u8
 
@@ -464,6 +488,12 @@ http://200.4.96.59:8004/play/a0fb/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Cindie Lite
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Comedia Brasil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Comedy Central
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -632,6 +662,9 @@ http://168.205.87.198:8555/live/adriana/123456/84.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w79601195.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Xilam TV
+https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
 http://200.4.96.59:8004/play/a0du/index.m3u8
