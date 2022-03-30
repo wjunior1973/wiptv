@@ -69,9 +69,6 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 group-title="NOTICIAS",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",TV 247
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ylZVxeqD8l0
-
 #EXTINF:-1 group-title="NOTICIAS",TV Camara
 http://stream2.camara.gov.br:8134/tv2/manifest.m3u8
 
@@ -266,9 +263,6 @@ http://200.4.96.59:8002/play/a0dy/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist_w553269129.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Runtime
-https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
@@ -492,9 +486,6 @@ http://200.4.96.59:8004/play/a0fa/index.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS",BBB Mosaico
 http://200.4.96.59:8004/play/a0fb/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Cartoon Network Stream
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hpXd-M9ZDCE
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
 
@@ -533,9 +524,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsu
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",O Encantador de Caes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Os Simpsons
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=qFjDkVvRk1M
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Pegadinhas
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
@@ -630,9 +618,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="INFANTIS",A Turma da Monica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="INFANTIS",Antiks
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=m5iQczCVsF4
-
 #EXTINF:-1 group-title="INFANTIS",Baby TV
 http://200.4.96.59:8004/play/a0es/index.m3u8
 
@@ -665,9 +650,6 @@ http://200.4.96.59:8002/play/a0dz/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nick Jr.
 http://200.4.96.59:8003/play/a03s/index.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Peppa Pig
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=6xBFTOVef2M
 
 #EXTINF:-1 group-title="INFANTIS",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w498278998.m3u8
