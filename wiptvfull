@@ -6,34 +6,34 @@
 #######################
 
 
-#EXTINF:-1 group-title="TV ABERTA",Band 1
+#EXTINF:-1 group-title="TV ABERTA",Band SC
 http://179.125.119.154:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band 2
+#EXTINF:-1 group-title="TV ABERTA",Band
 https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo 1
+#EXTINF:-1 group-title="TV ABERTA",Globo SC
 http://179.125.119.154:8000/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo 2
+#EXTINF:-1 group-title="TV ABERTA",Globo
 http://170.82.200.38:8080/globo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record 1
+#EXTINF:-1 group-title="TV ABERTA",Record SC
 http://179.125.119.154:8000/play/a01j/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record 2
+#EXTINF:-1 group-title="TV ABERTA",Record
 http://200.4.97.162:8000/play/a01r/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! 1
+#EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://200.4.96.59:8003/play/a03c/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! 2
 https://canal1.proxy.tokplay.com.br:443/videos/REDE_TV/format720p_REDE_TV.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT 1
+#EXTINF:-1 group-title="TV ABERTA",SBT SC
 http://179.125.119.154:8000/play/a017/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT 2
+#EXTINF:-1 group-title="TV ABERTA",SBT
 http://200.4.97.162:8000/play/a020/index.m3u8
 
 
@@ -56,6 +56,9 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 http://170.82.200.38:8080/cnn_brasil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",CNN internacional
+https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Euronews
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
@@ -96,23 +99,17 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://200.4.96.59:8002/play/a0em/index.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",Combate Global
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-
-#EXTINF:-1 group-title="ESPORTES",Combat Go
-https://ov.ottera.tv/live/master.m3u8?channel=jun_cg
-
 #EXTINF:-1 group-title="ESPORTES",ESPN
-http://168.205.87.198:8555/live/adriana/123456/60.m3u8
+http://200.4.96.59:8003/play/a02b/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",ESPN 2
-http://168.205.87.198:8555/live/adriana/123456/49.m3u8
+http://200.4.96.59:8002/play/a0f8/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",ESPN Brasil
-http://168.205.87.198:8555/live/adriana/123456/50.m3u8
+http://200.4.96.59:8003/play/a02a/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",ESPN Extra
-http://168.205.87.198:8555/live/adriana/123456/51.m3u8
+http://200.4.96.59:8002/play/a0d99/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Fox Sports
 http://200.4.96.59:8003/play/a031/index.m3u8
@@ -264,6 +261,9 @@ http://200.4.96.59:8002/play/a0dy/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist_w553269129.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=665
+
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
 
@@ -284,9 +284,6 @@ http://200.4.96.59:8003/play/a035/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TBS
 http://200.4.96.59:8003/play/a02h/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TCM
-http://168.205.87.198:8555/live/1499/123456/112.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://200.4.96.59:8004/play/a0e1/index.m3u8
@@ -355,13 +352,10 @@ http://200.4.96.59:8002/play/a0fl/index.m3u8
 http://200.4.96.59:8002/play/a0du/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
-http://168.205.87.198:8555/live/1499/123456/33.m3u8
+http://200.4.96.59:8003/play/a02v/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
 http://200.4.96.59:8002/play/a0en/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery ID
-http://168.205.87.198:8555/live/1499/123456/36.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Science
 http://200.4.96.59:8002/play/a0ds/index.m3u8
@@ -444,8 +438,11 @@ http://200.4.96.59:8002/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",TCM 10
+http://168.205.87.198:8555/live/1499/123456/187.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",TLC
-http://168.205.87.198:8555/live/adriana/123456/40.m3u8
+http://200.4.96.59:8003/play/a02u/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://168.205.87.198:8555/live/1499/123456/124.m3u8
@@ -613,7 +610,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 http://200.4.96.59:8004/play/a0es/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
-http://168.205.87.198:8555/live/adriana/123456/26.m3u8
+http://200.4.96.59:8003/play/a02g/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Cartoonito
 http://200.4.96.59:8002/play/a0dw/index.m3u8
@@ -622,13 +619,13 @@ http://200.4.96.59:8002/play/a0dw/index.m3u8
 http://170.82.200.38:8080/discovery_kids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney Channel
-http://168.205.87.198:8555/live/adriana/123456/45.m3u8
+http://200.4.96.59:8002/play/a0ep/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney Jr
-http://168.205.87.198:8555/live/adriana/123456/46.m3u8
+http://170.82.200.38:8080/disney_jr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney XD
-http://168.205.87.198:8555/live/adriana/123456/47.m3u8
+http://200.4.96.59:8004/play/a0fp/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://200.4.96.59:8002/play/a0ew/index.m3u8
