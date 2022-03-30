@@ -90,6 +90,9 @@ http://200.4.96.59:8004/play/a0e6/index.m3u8
 #EXTINF:-1 group-title="ESPORTES",All Elite Wrestling
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="ESPORTES",All Sports
+http://168.205.87.198:8555/live/adriana/123456/148.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
 
@@ -201,9 +204,6 @@ http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://200.4.96.59:8002/play/a0ez/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",CLC
-https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
@@ -218,9 +218,6 @@ http://200.4.96.59:8004/play/a0dv/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",GLN Filmes
-https://srv2.zcast.com.br/glnfilmes/glnfilmes/chunklist_w1099290131.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://200.4.96.59:8003/play/a023/index.m3u8
@@ -257,9 +254,6 @@ http://200.4.96.59:8003/play/a01z/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Prime Box Brazil
 http://200.4.96.59:8002/play/a0dy/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",RBC
-https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist_w553269129.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=665
@@ -336,11 +330,17 @@ http://168.205.87.198:8555/live/1499/123456/18.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Arte1
 https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",AWTV
+http://168.205.87.198:8555/live/adriana/123456/181.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Canal Brasil
 http://200.4.96.59:8002/play/a0el/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Saude
 http://177.20.208.58:8000/play/a05i/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Central TV
+http://168.205.87.198:8555/live/adriana/123456/177.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Comedy Central
 http://200.4.96.59:8003/play/a01y/index.m3u8
@@ -398,6 +398,9 @@ http://200.4.96.59:8002/play/a0e8/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Hollywire
 https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",ISTV
+http://168.205.87.198:8555/live/adriana/123456/182.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://187.85.237.32:8825/ipvt_001
@@ -458,6 +461,9 @@ https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/c
 
 #EXTINF:-1 group-title="VARIEDADES",Viva
 http://200.4.96.59:8002/play/a0ek/index.m3u8
+
+#EXTINF:-1,Yeeaah!
+http://168.205.87.198:8555/live/adriana/123456/193.m3u8
 
 
 #############################
@@ -692,6 +698,9 @@ http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 ###### AGRONEGOCIOS ######
 ##########################
 
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",Agro Brasil
+http://168.205.87.198:8555/live/adriana/123456/7.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro Canal
 http://168.205.87.198:8555/live/adriana/123456/10.m3u8
