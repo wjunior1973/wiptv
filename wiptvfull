@@ -175,7 +175,7 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Woohoo
-http://168.205.87.198:8555/live/adriana/123456/141.m3u8
+http://170.82.200.38:8080/woohoo/tracks-v1a1/mono.m3u8
 
 
 ###########################
@@ -376,7 +376,7 @@ http://187.85.237.34:8825/ipvt_004
 http://177.20.208.58:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Fish TV
-http://168.205.87.198:8555/live/1499/123456/62.m3u8
+http://200.4.96.59:8004/play/a0eq/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Food Network
 http://200.4.96.59:8003/play/a034/index.m3u8
@@ -639,8 +639,14 @@ http://200.4.96.59:8004/play/a0fp/index.m3u8
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://200.4.96.59:8002/play/a0ew/index.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Gloobinho
+http://200.4.96.59:8002/play/a0fd/index.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",NatGeo Kids
+http://200.4.96.59:8003/play/a033/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nick
 http://200.4.96.59:8002/play/a0dz/index.m3u8
@@ -677,9 +683,6 @@ http://168.205.87.198:8555/live/adriana/123456/21.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
 http://168.205.87.198:8555/live/adriana/123456/25.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",CNT
-http://168.205.87.198:8555/live/adriana/123456/150.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
