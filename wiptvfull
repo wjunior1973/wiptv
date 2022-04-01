@@ -118,7 +118,7 @@ http://200.4.96.59:8002/play/a0d99/index.m3u8
 http://200.4.96.59:8003/play/a031/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Fox Sports 2
-http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
+http://200.4.96.59:8003/play/a032/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Off
 http://200.4.96.59:8002/play/a0eu/index.m3u8
@@ -631,7 +631,7 @@ http://170.82.200.38:8080/discovery_kids/tracks-v1a1/mono.m3u8
 http://200.4.96.59:8002/play/a0ep/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney Jr
-http://170.82.200.38:8080/disney_jr/tracks-v1a1/mono.m3u8
+http://200.4.96.59:8002/play/a0do/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney XD
 http://200.4.96.59:8004/play/a0fp/index.m3u8
