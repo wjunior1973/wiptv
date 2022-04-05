@@ -22,7 +22,7 @@ http://170.82.200.38:8080/globo/tracks-v1a1/mono.m3u8
 http://179.125.119.154:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record
-http://200.4.97.162:8000/play/a01r/index.m3u8
+https://r7live05-lh.akamaihd.net/i/pgm05_1@833313/master.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://200.4.96.59:8003/play/a03c/index.m3u8
@@ -34,7 +34,7 @@ https://canal1.proxy.tokplay.com.br:443/videos/REDE_TV/format720p_REDE_TV.m3u8
 http://179.125.119.154:8000/play/a017/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT
-http://200.4.97.162:8000/play/a020/index.m3u8
+http://200.4.96.59:8003/play/a03a/index.m3u8
 
 
 ######################
@@ -44,9 +44,6 @@ http://200.4.97.162:8000/play/a020/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://cdn.connectbr.com.br/BandNews/index.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Band News FM
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=O-5aVk5Q29I
 
 #EXTINF:-1 group-title="NOTICIAS",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
@@ -712,7 +709,7 @@ http://168.205.87.198:8555/live/adriana/123456/7.m3u8
 http://168.205.87.198:8555/live/adriana/123456/10.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",AgroMais
-http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
+https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
 http://177.20.208.58:8000/play/a057/index.m3u8
