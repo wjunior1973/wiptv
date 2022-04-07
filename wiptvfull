@@ -201,9 +201,6 @@ http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://200.4.96.59:8002/play/a0ez/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Dark Flix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -326,9 +323,6 @@ http://168.205.87.198:8555/live/1499/123456/18.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Arte1
 https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",AWTV
-http://168.205.87.198:8555/live/adriana/123456/181.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Brasil
 http://200.4.96.59:8002/play/a0el/index.m3u8
@@ -628,7 +622,7 @@ http://170.82.200.38:8080/discovery_kids/tracks-v1a1/mono.m3u8
 http://200.4.96.59:8002/play/a0ep/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney Jr
-http://200.4.96.59:8002/play/a0do/index.m3u8
+http://192.99.254.113:2022/DisneyJrHD/video.m3u8?token=dL4-fonte_calos
 
 #EXTINF:-1 group-title="INFANTIS",Disney XD
 http://200.4.96.59:8004/play/a0fp/index.m3u8
