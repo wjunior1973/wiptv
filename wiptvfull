@@ -762,6 +762,9 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #########################
 
 
+#EXTINF:-1 group-title="VIDEOCLIPES",2 Unlimited - Nothing Like The Rain
+http://80s.lt/Files/Videos/MusicVideos/2%20Unlimited%20-%20Nothing%20Like%20The%20Rain.mp4
+
 #EXTINF:-1 group-title="VIDEOCLIPES",Accept - Princess of the Dawn
 http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1982%20-%20Accept%20:%20Princess%20of%20the%20Dawn%20(1280x720).mp4
 
@@ -789,6 +792,9 @@ http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1980%20-%20ACDC%20:%20You%20
 #EXTINF:-1 group-title="VIDEOCLIPES",Ace of Base - The Sign
 http://104.251.123.41/The%20Sign-Ace%20Of%20Base.mp4
 
+#EXTINF:-1 group-title="VIDEOCLIPES",Adele - Hello
+http://80s.lt/Files/Videos/MusicVideos/Adele%20-%20Hello.mp4
+
 #EXTINF:-1 group-title="VIDEOCLIPES",Aerosmith - Crazy
 http://104.251.123.41/Crazy-Aerosmith.mp4
 
@@ -813,6 +819,9 @@ http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20
 #EXTINF:-1 group-title="VIDEOCLIPES",Alphaville - Sounds Like a Melody
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20:%20Sounds%20Like%20A%20Melody%20(960x720).mp4
 
+#EXTINF:-1 group-title="VIDEOCLIPES",Anos 90 - Varios Clipes
+http://93.185.0.167:443/(@@)/AV-OS-SW/AUDIO-VIDEO/0muzika0/video90s.mp4
+
 #EXTINF:-1 group-title="VIDEOCLIPES",B52's - Legal Tender
 http://104.251.123.41/Legal%20Tender-The%20B52s.mp4
 
@@ -824,6 +833,9 @@ http://104.251.123.41/Private%20Idaho-B%2052s.mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",B52's - Rock Lobster
 http://104.251.123.41/Rock%20Lobster-B52s.mp4
+
+#EXTINF:-1 group-title="VIDEOCLIPES",Back Street Boys - I Want It That Way
+http://mediamusic-journal.com/video/Backstreet%20Boys%20-%20I%20Want%20It%20That%20Way%20(1999).mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Beatles - Come Together
 http://104.251.123.41/Come%20Together-The%20Beatles.mp4
@@ -845,6 +857,9 @@ http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Berlin%20:%20
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Billy Idol - Dancing With Myself
 http://104.251.123.41/Dancing%20With%20Myself-Billy%20Idol.mp4
+
+#EXTINF:-1 group-title="VIDEOCLIPES",Billy Joel - Uptown Girl
+https://www.datazap.net/sites/3213/videos/Billy%20Joel%20-%20Uptown%20Girl.mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Black Box - Ride on Time
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1990%20-%20Black%20Box%20:%20Ride%20on%20Time%20(480x360).mp4
@@ -873,6 +888,9 @@ http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Bonnie%20Tyle
 #EXTINF:-1 group-title="VIDEOCLIPES",Britney Spears - Toxic
 http://104.251.123.41/Toxic-Britney%20Spears.mp4
 
+#EXTINF:-1 group-title="VIDEOCLIPES",Britney Spears - We Will Rock You (Pepsi Commercial)
+http://80s.lt/Files/Videos/MusicVideos/Britney%20Spears,%20Beyonce%20&%20Pink%20-%20We%20Will%20Rock%20You%20(Pepsi).mp4
+
 #EXTINF:-1 group-title="VIDEOCLIPES",Cat Stevens - Wild World
 http://104.251.123.41/Wild%20World-Cat%20Stevens.mp4
 
@@ -896,6 +914,9 @@ http://104.251.123.41/Time%20After%20Time-Cyndi%20Lauper.mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Daryl Hall & John Oates - Maneater
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Daryl%20Hall%20&%20John%20Oates%20:%20Maneater%20(640x480).mp4
+
+#EXTINF:-1 group-title="VIDEOCLIPES",Def Leppard - Love Bites
+http://80s.lt/Files/Videos/MusicVideos/Def%20Leppard%20-%20Love%20Bites%20(Live).mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Desireless - Voyage Voyage
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Desireless%20:%20Voyage%20Voyage%20(960x720).mp4
@@ -926,6 +947,9 @@ http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Strait
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Don Omar - Danza Kuduro
 http://104.251.123.41/Danza%20Kuduro-Don%20Omard.mp4
+
+#EXTINF:-1 group-title="VIDEOCLIPES",Elton John - Nikita
+http://80s.lt/Files/Videos/MusicVideos/Elton%20John%20-%20Nikita.mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Eminem - Just Lose It
 http://104.251.123.41/Just%20Lose%20It-Eminem.mp4
@@ -977,6 +1001,9 @@ http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Genesis%20:%2
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Gorillaz - Clint Eastwood
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%202000/2001%20-%20Gorillaz%20:%20Clint%20Eastwood%20(1280x720).mp4
+
+#EXTINF:-1 group-title="VIDEOCLIPES",Grease - Greased Lighting
+https://www.datazap.net/sites/3213/videos/Grease%20-%20Greased%20Lightning%20%5b%20With%20Lyrics%20%5d.mp4
 
 #EXTINF:-1 group-title="VIDEOCLIPES",Grease - You're The One That I Want
 http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Grease%20:%20You're%20the%20one%20that%20I%20want%20(640x480).mp4
