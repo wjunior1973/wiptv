@@ -7,30 +7,21 @@
 
 
 #EXTINF:-1 group-title="TV ABERTA",Band
-http://179.125.119.154:8000/play/a01h/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Band 2
 https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band 3
+#EXTINF:-1 group-title="TV ABERTA",Band 2
 http://168.195.212.33:8000/play/a004/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo
-http://179.125.119.154:8000/play/a015/index.m3u8
+http://200.4.96.59:8002/play/a0fk/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo 2
-http://45.232.196.5:8000/play/a025/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo 3
 https://canal1.proxy.tokplay.com.br:443/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record
 http://179.125.119.154:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record 2
-http://45.232.196.5:8000/play/a00v/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record 3
 http://200.4.96.59:8003/play/a03d/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
@@ -39,17 +30,11 @@ http://200.4.96.59:8003/play/a03c/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! 2
 https://canal1.proxy.tokplay.com.br:443/videos/REDE_TV/format720p_REDE_TV.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! 3
-http://187.85.237.31:8825/ipvt_001
-
 #EXTINF:-1 group-title="TV ABERTA",SBT
 http://179.125.119.154:8000/play/a017/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT 2
 http://200.4.96.59:8003/play/a03a/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT 3
-http://45.232.196.5:8000/play/a014/index.m3u8
 
 
 ######################
