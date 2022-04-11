@@ -6,23 +6,32 @@
 #######################
 
 
-#EXTINF:-1 group-title="TV ABERTA",Band SC
+#EXTINF:-1 group-title="TV ABERTA",Band
 http://179.125.119.154:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band
+#EXTINF:-1 group-title="TV ABERTA",Band 2
 https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SC
-http://179.125.119.154:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Band 3
+http://168.195.212.33:8000/play/a004/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo
-http://200.4.96.59:8002/play/a0fk/index.m3u8
+http://179.125.119.154:8000/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record SC
-http://179.125.119.154:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo 2
+http://45.232.196.5:8000/play/a025/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo 3
+https://canal1.proxy.tokplay.com.br:443/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record
-https://r7live05-lh.akamaihd.net/i/pgm05_1@833313/master.m3u8
+http://179.125.119.154:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record 2
+http://45.232.196.5:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record 3
+http://200.4.96.59:8003/play/a03d/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://200.4.96.59:8003/play/a03c/index.m3u8
@@ -30,11 +39,17 @@ http://200.4.96.59:8003/play/a03c/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! 2
 https://canal1.proxy.tokplay.com.br:443/videos/REDE_TV/format720p_REDE_TV.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SC
-http://179.125.119.154:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! 3
+http://187.85.237.31:8825/ipvt_001
 
 #EXTINF:-1 group-title="TV ABERTA",SBT
+http://179.125.119.154:8000/play/a017/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT 2
 http://200.4.96.59:8003/play/a03a/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT 3
+http://45.232.196.5:8000/play/a014/index.m3u8
 
 
 ######################
@@ -450,9 +465,6 @@ http://200.4.96.59:8003/play/a021/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",NatGeo
 http://200.4.96.59:8002/play/a0f2/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",NatGeo Wild
-http://200.4.96.59:8002/play/a0f3/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",OX TV
 https://alanza.iptv2022.com/OX_TV/tracks-v1a1/mono.m3u8
 
@@ -663,12 +675,6 @@ http://170.82.200.38:8080/discovery_kids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INFANTIS",Disney Channel
 http://200.4.96.59:8002/play/a0ep/index.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Disney Jr
-http://192.99.254.113:2022/DisneyJrHD/video.m3u8?token=dL4-fonte_calos
-
-#EXTINF:-1 group-title="INFANTIS",Disney XD
-http://200.4.96.59:8004/play/a0fp/index.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://200.4.96.59:8002/play/a0ew/index.m3u8
 
@@ -677,9 +683,6 @@ http://200.4.96.59:8002/play/a0fd/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",NatGeo Kids
-http://200.4.96.59:8003/play/a033/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nick
 http://200.4.96.59:8002/play/a0dz/index.m3u8
