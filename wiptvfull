@@ -6,6 +6,9 @@
 #######################
 
 
+#EXTINF:-1 group-title="TV ABERTA",Band RS
+http://45.175.61.242:8000/play/a005/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Band SP
 http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
 
@@ -21,8 +24,14 @@ http://177.20.208.58:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo BA 3
 http://177.20.208.58:8000/play/a052/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo BA 4
+http://177.20.208.58:8000/play/a053/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo MG
 http://168.205.87.198:8555/live/adriana/123456/70.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RS
+http://45.175.61.242:8000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://livetv2021.site:8080/9897876765/6576567/81
@@ -59,6 +68,9 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT PR
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT RS
+http://45.175.61.242:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT MG
 http://168.205.87.198:8555/live/adriana/123456/104.m3u8
