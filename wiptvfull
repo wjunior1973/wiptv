@@ -6,35 +6,65 @@
 #######################
 
 
-#EXTINF:-1 group-title="TV ABERTA",Band
-https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band 2
-http://168.195.212.33:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Band SP Interior
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist_w652691274.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo
-http://200.4.96.59:8002/play/a0fk/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo 2
+#EXTINF:-1 group-title="TV ABERTA",Globo BA
 https://canal1.proxy.tokplay.com.br:443/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record
+#EXTINF:-1 group-title="TV ABERTA",Globo BA 2
+http://177.20.208.58:8000/play/a054/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo BA 3
+http://177.20.208.58:8000/play/a052/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo MG
+http://168.205.87.198:8555/live/adriana/123456/70.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
+http://livetv2021.site:8080/9897876765/6576567/81
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP - EPTV RP
+http://45.183.12.18:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record RS
+http://45.175.61.242:8000/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record SP
 http://45.232.196.5:8000/play/a00v/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record 2
-http://200.4.96.59:8003/play/a03d/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Record SP Interior
+http://45.183.12.18:8001/play/a00g/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
-http://200.4.96.59:8003/play/a03c/index.m3u8
+http://168.205.87.198:8555/live/adriana/123456/102.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! 2
-https://canal1.proxy.tokplay.com.br:443/videos/REDE_TV/format720p_REDE_TV.m3u8
+https://canal1.proxy.tokplay.com.br/streams/REDE_TV/auto.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT
-http://200.4.96.59:8001/play/a020/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! 3
+http://187.85.237.31:8825/ipvt_001
 
-#EXTINF:-1 group-title="TV ABERTA",SBT 2
-http://200.4.96.59:8003/play/a03a/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! 4
+http://177.20.208.58:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! 5
+http://177.20.208.58:8000/play/a03p/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT PR
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT MG
+http://168.205.87.198:8555/live/adriana/123456/104.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
+http://45.232.196.5:8000/play/a014/index.m3u8
 
 
 ######################
@@ -743,588 +773,6 @@ https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist.m3u
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
-
-#########################
-###### VIDEOCLIPES ######
-#########################
-
-
-#EXTINF:-1 group-title="VIDEOCLIPES",2 Unlimited - Nothing Like The Rain
-http://80s.lt/Files/Videos/MusicVideos/2%20Unlimited%20-%20Nothing%20Like%20The%20Rain.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Accept - Princess of the Dawn
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1982%20-%20Accept%20:%20Princess%20of%20the%20Dawn%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - Back in Black
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1980%20-%20ACDC%20:%20Back%20In%20Black%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - Hells Bells
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1980%20-%20ACDC%20:%20Hells%20Bells%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - Highway to Hell
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1979%20-%20ACDC%20:%20Highway%20to%20Hell%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - It's a Long Way To The Top
-http://104.251.123.41/It's%20A%20Long%20Way%20To%20The%20Top-ACDC.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - Thats the Way I Wanna Rock'n'Roll
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1988%20-%20ACDC%20:%20That's%20The%20Way%20I%20Wanna%20Rock%20'N'%20Roll%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - Thundestruck
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1990%20-%20ACDC%20:%20Thunderstruck%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",ACDC - You Shook Me All Night Long
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/ACDC/1980%20-%20ACDC%20:%20You%20Shook%20Me%20All%20Night%20Long%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Ace of Base - The Sign
-http://104.251.123.41/The%20Sign-Ace%20Of%20Base.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Adele - Hello
-http://80s.lt/Files/Videos/MusicVideos/Adele%20-%20Hello.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Aerosmith - Crazy
-http://104.251.123.41/Crazy-Aerosmith.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Aerosmith - Sweet Emotion
-http://104.251.123.41/Sweet%20Emotion-Aerosmith.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",A-ha - Take on Me
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20A%20Ha%20:%20Take%20On%20Me%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Alice Cooper - No More Mr. Nice Guy
-http://104.251.123.41/No%20More%20Mr%20Nice%20Guy-Alice%20Cooper.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Alphaville - Big in Japan
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20:%20Big%20In%20Japan%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Alphaville - Dance With Me
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Alphaville%20:%20Dance%20With%20Me%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Alphaville - Forever Young
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20:%20Forever%20Young%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Alphaville - Sounds Like a Melody
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Alphaville%20:%20Sounds%20Like%20A%20Melody%20(960x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Anos 90 - Varios Clipes
-http://93.185.0.167:443/(@@)/AV-OS-SW/AUDIO-VIDEO/0muzika0/video90s.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",B52's - Legal Tender
-http://104.251.123.41/Legal%20Tender-The%20B52s.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",B52's - Love Shack
-http://104.251.123.41/Love%20Shack-The%20B52s.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",B52's - Private Idaho
-http://104.251.123.41/Private%20Idaho-B%2052s.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",B52's - Rock Lobster
-http://104.251.123.41/Rock%20Lobster-B52s.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Back Street Boys - I Want It That Way
-http://mediamusic-journal.com/video/Backstreet%20Boys%20-%20I%20Want%20It%20That%20Way%20(1999).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Beatles - Come Together
-http://104.251.123.41/Come%20Together-The%20Beatles.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Beatles - Don't Let Me Down
-http://104.251.123.41/Don't%20Let%20Me%20Down-The%20Beatles.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Beatles - Help!
-http://104.251.123.41/Help-The%20Beatles%20live.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Bee Gees - Jive Talking
-http://104.251.123.41/Jive%20Talkin-Bee%20Gees.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Bee Gees - Night Fever
-http://104.251.123.41/Night%20Fever-BeeGees.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Berlin - Take My Breath Away
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Berlin%20:%20Take%20My%20Breath%20Away%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Billy Idol - Dancing With Myself
-http://104.251.123.41/Dancing%20With%20Myself-Billy%20Idol.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Billy Joel - Uptown Girl
-https://www.datazap.net/sites/3213/videos/Billy%20Joel%20-%20Uptown%20Girl.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Black Box - Ride on Time
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1990%20-%20Black%20Box%20:%20Ride%20on%20Time%20(480x360).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Boney M - Daddy Cool
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1976%20-%20Boney%20M%20:%20Daddy%20Cool%20(854x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Boney M - Ma Baker
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Boney%20M%20:%20Ma%20Baker%20(960x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Boney M - Rasputin
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1978%20-%20Boney%20M%20:%20Rasputin%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Boney M - Rivers of Babylon
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1978%20-%20Boney%20M%20:%20Rivers%20of%20Babylon%20(854x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Boney M - Sunny
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1976%20-%20Boney%20M%20:%20Sunny%20(960x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Bonnie Tyler - Holding Out for a Hero
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Bonnie%20Tyler%20:%20Holding%20Out%20For%20A%20Hero%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Bonnie Tyler - Total Eclipse of the Heart
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Bonnie%20Tyler%20:%20Total%20Eclipse%20Of%20The%20Heart%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Britney Spears - Toxic
-http://104.251.123.41/Toxic-Britney%20Spears.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Britney Spears - We Will Rock You (Pepsi Commercial)
-http://80s.lt/Files/Videos/MusicVideos/Britney%20Spears,%20Beyonce%20&%20Pink%20-%20We%20Will%20Rock%20You%20(Pepsi).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Cat Stevens - Wild World
-http://104.251.123.41/Wild%20World-Cat%20Stevens.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Chicago - If You Leave Me Now
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Chicago%20:%20If%20you%20leave%20me%20now%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Coolio - Gangstas Paradise
-http://www.templier.eu/VIDEO-CLIPS/1995%20-%20Coolio%20:%20Gangsta's%20Paradise%20(654x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Crowded House - Don't Dream It's Over
-http://104.251.123.41/Don't%20Dream%20It's%20Over-Crowded%20House.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Culture Club - Karma Chameleon
-http://104.251.123.41/Karma%20Chamelion-Culture%20Club.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Cyndi Lauper - Girls Just Wanna Have Fun
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Cyndi%20Lauper%20:%20Girls%20Just%20Want%20To%20Have%20Fun%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Cyndi Lauper - Time After Time
-http://104.251.123.41/Time%20After%20Time-Cyndi%20Lauper.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Daryl Hall & John Oates - Maneater
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Daryl%20Hall%20&%20John%20Oates%20:%20Maneater%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Def Leppard - Love Bites
-http://80s.lt/Files/Videos/MusicVideos/Def%20Leppard%20-%20Love%20Bites%20(Live).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Desireless - Voyage Voyage
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Desireless%20:%20Voyage%20Voyage%20(960x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Brothers in Arms
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20Brothers%20In%20Arms%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Hotel California
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1976%20-%20Eagles%20:%20Hotel%20California%20(730x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Money for Nothing
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20Money%20For%20Nothing%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Romeo and Juliet
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1980%20-%20Dire%20Straits%20:%20Romeo%20and%20Juliet%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - So Far Away
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20So%20Far%20Away%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Sultans of Swing
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1978%20-%20Dire%20Straits%20:%20Sultans%20Of%20Swing%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Tunnel of Love
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1980%20-%20Dire%20Straits%20:%20Tunnel%20of%20Love%20(640x480)%20-%20A.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Dire Straits - Walk of Life
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Dire%20Straits%20:%20Walk%20Of%20Life%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Don Omar - Danza Kuduro
-http://104.251.123.41/Danza%20Kuduro-Don%20Omard.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Elton John - Nikita
-http://80s.lt/Files/Videos/MusicVideos/Elton%20John%20-%20Nikita.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - Just Lose It
-http://104.251.123.41/Just%20Lose%20It-Eminem.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - Like Toy Soldiers
-http://www.templier.eu/VIDEO-CLIPS/2004%20-%20Eminem%20:%20Like%20Toy%20Soldiers%20(854x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - Lose Yourself
-http://www.templier.eu/VIDEO-CLIPS/2002%20-%20Eminem%20:%20Lose%20Yourself%20(1920x1080).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - My Name Is
-http://104.251.123.41/My%20Name%20Is-Emenem.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - Rap God
-http://104.251.123.41/Rap%20God-Eminem.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - The Real Slim Shady
-http://www.templier.eu/VIDEO-CLIPS/2000%20-%20Eminem%20:%20The%20Real%20Slim%20Shady%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Eminem - Without Me
-http://www.templier.eu/VIDEO-CLIPS/2002%20-%20Eminem%20:%20Without%20Me%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Europe - The Final Countdown
-http://www.templier.eu/VIDEO-CLIPS/1986%20-%20Europe%20:%20The%20Final%20Countdown%20(640x480.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Eurythmics - Sweet Dreams
-http://104.251.123.41/Sweet%20Dreams-Eurothmics.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Extreme - More Than Words
-http://104.251.123.41/More%20Than%20Words-Extreme.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Faith No More - Epic
-http://104.251.123.41/Epic-Faith%20No%20More.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Falco - Rock Me Amadeus
-http://104.251.123.41/Rock%20Me%20Amadeus-Falco.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Foreigner - I Want To Know What Love Is
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Foreigner%20:%20I%20Want%20To%20Know%20What%20Love%20Is%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Frankie Goes to Hollywood - Relax
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Frankie%20Goes%20To%20Hollywood%20:%20Relax%20(320x246).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Genesis - I Can't Dance
-http://104.251.123.41/I%20Can't%20Dance-Genesis.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Genesis - Invisible Touch
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Genesis%20:%20Invisible%20Touch%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Gorillaz - Clint Eastwood
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%202000/2001%20-%20Gorillaz%20:%20Clint%20Eastwood%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Grease - Greased Lighting
-https://www.datazap.net/sites/3213/videos/Grease%20-%20Greased%20Lightning%20%5b%20With%20Lyrics%20%5d.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Grease - You're The One That I Want
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Grease%20:%20You're%20the%20one%20that%20I%20want%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Green Day - American Idiot
-http://104.251.123.41/American%20Idiot-Green%20Day.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Green Day - Basket Case
-http://104.251.123.41/Basket%20Case-Green%20Day.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Green Day - Holiday
-http://104.251.123.41/Holiday-Green%20Day.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Green Day - Jesus of Suburbia
-http://104.251.123.41/Jesus%20Of%20Suburbia-Green%20Day.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Guns'n Roses - November Rain
-http://104.251.123.41/November%20Rain-Guns%20N%20Roses.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Guns'n Roses - Paradise City
-http://104.251.123.41/Paradise%20City-Guns%20&%20Roses.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Guns'n Roses - Sweet Child O'Mine
-http://104.251.123.41/Sweet%20Child%20O%20Mine-Guns%20N%20Roses.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Guns'n Roses - Welcome to the Jungle
-http://104.251.123.41/Welcome%20To%20The%20Jungle-Guns%20And%20Roses.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Haddaway - What is Love
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1993%20-%20Haddaway%20:%20What%20Is%20Love%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Irene Cara - What a Feeling
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Irene%20cara%20:%20What%20A%20Feeling%20II%20(1280x718).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Jason Mraz - I'm Yours
-http://104.251.123.41/I'm%20Yours-Jason%20Mraz.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Jerry Lee Lewis - Great Balls Of Fire
-http://104.251.123.41/Great%20Balls%20Of%20Fire-Jerry%20Lee%20Lewis.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Joan Jett - I Love Rock'n'Roll
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1981%20-%20Joan%20Jett%20:%20I%20Love%20Rock%20'N%20Roll%20(960x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Joe Cocker - With a Little Help from My Friends
-http://104.251.123.41/With%20A%20Little%20Help%20From%20My%20Friends-Joe%20Cocker.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Joe Cocker - You Can Leave Your Hat On
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Joe%20Cocker%20:%20You%20Can%20Leave%20Your%20Hat%20On%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",John Lennon - Imagine
-http://104.251.123.41/Imagine-John%20Lennon.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Katy Perry - California Gurls
-http://104.251.123.41/California%20Gurls-Katy%20Perry.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Katy Perry - Firework
-http://104.251.123.41/Firework-Katy%20Perry.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Katy Perry - I Kissed a Girl
-http://104.251.123.41/I%20Kissed%20A%20Girl-Katy%20Perry.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Kenny Loggins - Danger Zone
-http://104.251.123.41/Danger%20Zone-Kenny%20Loggins.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Kenny Loggins - Footloose
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Kenny%20Loggins%20:%20Footloose%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Kim Carnes - Bette Davis Eyes
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1981%20-%20Kim%20Carnes%20:%20Bette%20Davis%20Eyes%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",KISS - I was made for Loving You
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1979%20-%20Kiss%20:%20I%20Was%20Made%20For%20Lovin'%20You%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Lady Gaga - Bad Romance
-http://104.251.123.41/Bad%20Romance-Lady%20Gaga.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Lipps Inc - Funkytown
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1979%20-%20Lipps%20Inc%20:%20Funkytown%20(720x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Lou Bega - Mambo no. 5
-http://104.251.123.41/Mambo%20No%205-Lou%20Bega.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Maroon 5 - Moves Like Jagger
-http://104.251.123.41/Moves%20Like%20Jagger-Maroon%205.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",MC Hammer - You Can't Touch This
-http://104.251.123.41/You%20Can't%20Touch%20This-MC%20Hammer.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Meghan Trainor - All About That Bass
-http://104.251.123.41/All%20About%20That%20Bass-Meghan%20Trainor.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Men At Work - Down Under
-http://104.251.123.41/Down%20Under-Men%20At%20Work.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Men At Work - Who Can It Be Now
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1981%20-%20Men%20At%20Work%20:%20Who%20Can%20It%20Be%20Now%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Metallica - Nothing Else Matters
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1991%20-%20Metallica%20:%20Nothing%20Else%20Matters%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Michael Jackson - Beat It
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Michael%20Jackson%20:%20Beat%20It%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Michael Jackson - Billie Jean
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Michael%20Jackson%20:%20Billie%20Jean%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Michael Jackson - Rock With You
-http://104.251.123.41/Rock%20With%20You-Michael%20Jackson.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Michael Jackson - The Way You Make Me Feel
-http://104.251.123.41/The%20Way%20You%20Make%20Me%20Feel-Michael%20Jackson.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Michael Jackson - Thriller
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Thriller%20:%20Michael%20Jackson%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Midnight Oil - Beds Are Burning
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1987%20-%20Midnight%20Oil%20:%20Beds%20Are%20Burning%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Miley Cyrus - Wrecking Ball
-http://104.251.123.41/Wrecking%20Ball-Miley%20Cyrus.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Modern Talking - Brother Louie
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Modern%20Talking%20:%20Brother%20Louie%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Natalie Imbruglia - Torn
-http://104.251.123.41/Torn-Natalie%20Imbruglia.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",New Order - Bizarre Love Triangle
-http://104.251.123.41/Bizarre%20Love%20Triangle-New%20Order.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Nirvana - Come as you Are
-http://104.251.123.41/Come%20As%20You%20Are-Nirvana.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Nirvana - Smells Like Teen Spirit
-http://104.251.123.41/Smells%20Like%20Teen%20Spirit-Nirvana.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",NWA - Express Yourself
-http://104.251.123.41/Express%20Yourself-NWA.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Pet Shop Boys - Always on my Mind
-http://104.251.123.41/Always%20On%20My%20Mind-The%20Pet%20Shop%20Boys.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Pet Shop Boys - Domino Dancing
-http://104.251.123.41/Domino%20Dancing-Pet%20Shop%20Boys.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Pet Shop Boys - West End Girls
-http://104.251.123.41/West%20End%20Girls-Pet%20Shop%20Girls.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Peter Gabriel - Sledgehammer
-http://104.251.123.41/Sledgehammer-Peter%20Gabriel.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Pharrell Williams - Happy
-http://104.251.123.41/Happy-Pherrel.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Phil Collins - Another Day in Paradise
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1989%20-%20Phil%20Collins%20:%20Another%20Day%20In%20Paradise%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Pink Floyd - Another Brick in the Wall (A)
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1979%20-%20Pink%20Floyd%20:%20Another%20Brick%20In%20The%20Wall%20(1280x720)%20-%20A.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Pink Floyd - Another Brick in the Wall (B)
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1979%20-%20Pink%20Floyd%20:%20Another%20Brick%20In%20The%20Wall%20(480x360)%20-%20B.mp4.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Prince - Purple Rain
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Prince%20:%20Purple%20Rain%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",PSY - Gangnam Style
-http://104.251.123.41/Gangham%20Style-PSY.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - A Kind Of Magic
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1986%20-%20Queen%20:%20A%20Kind%20Of%20Magic%20(480x360).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Another One Bites The Dust
-http://104.251.123.41/Another%20One%20Bites%20The%20Dust-Queen.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Bohemian Rhapsody
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1975%20-%20Queen%20:%20Bohemian%20Rhapsody%20(480x360).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Breakthru
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1989%20-%20Queen%20:%20Breakthru%20(480x360).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Crazy Little Thing Called Love
-http://104.251.123.41/Crazy%20Little%20Thing%20Called%20Love-Queen.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Don't Stop Me Now
-http://104.251.123.41/Dont%20Stop%20Me%20Now-Queen.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Fat Bottomed Girls
-http://104.251.123.41/Fat%20Bottomed%20Girls-Queen.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - I Want It All
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1989%20-%20Queen%20:%20I%20Want%20It%20All%20(480x360).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - I Want to Break Free
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Queen%20:%20I%20Want%20To%20Break%20Free%20(640x360).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Killer Queen
-http://104.251.123.41/Killer%20Queen-Queen.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Radio Gaga
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Queen%20:%20Radio%20Ga%20Ga%20(480x360).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - The Show Must Go On
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201990/1991%20-%20Queen%20:%20The%20Show%20Must%20Go%20On%20(1280x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Under Pressure
-http://104.251.123.41/Under%20Pressure-Queen%20and%20Bowie.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - We Are The Champions
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Queen%20:%20We%20Are%20The%20Champions%20(480x360).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - We Will Rock You
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201970/1977%20-%20Queen%20:%20We%20Will%20Rock%20You%20(480x360).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Queen - Who Wants to Live Forever
-http://104.251.123.41/Who%20Wants%20To%20Live%20Forever-Queen.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Ramones - I Wanna Be Sedated
-http://104.251.123.41/I%20Wanna%20Be%20Sedated-The%20Ramones.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Ray Parker Jr - Ghostbusters
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1984%20-%20Ray%20Parker%20Jr%20:%20%20Ghostbusters%20(854x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Californication
-http://104.251.123.41/Californication-Red%20Hot%20Chili%20Peppers.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Otherside
-http://104.251.123.41/Otherside-Red%20Hot%20Chili%20Peppers.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Scar Tissue
-http://104.251.123.41/Scar%20Tissue-Red%20Hot%20Chili%20Peppers.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Red Hot Chilli Peppers - Under The Bridge
-http://104.251.123.41/Under%20The%20Bridge-Red%20Hot%20Chili%20Peppers.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",REM - Everybody Hurts
-http://104.251.123.41/Everybody%20Hurts-REM.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",REM - Losing My Religion
-http://104.251.123.41/Losing%20My%20Religion-REM.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",REM - Shiny Happy People
-http://104.251.123.41/Shiny%20Happy%20People-REM.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Rolling Stones - Satisfaction
-http://104.251.123.41/I%20Cant%20Get%20No%20Satisfaction-The%20Rolling%20Stones.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Rolling Stones - Start Me Up
-http://104.251.123.41/Start%20Me%20Up-The%20Rolling%20Stones.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Run DMC - Walk This Way
-http://104.251.123.41/Walk%20This%20Way-Run%20DMC.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Rush - Tom Sawyer
-http://104.251.123.41/Tom%20Sawyer-Rush.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Sabrina - Boys
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1987%20-%20Sabrina%20:%20Boys%20(600x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Scorpions - Rock You Like a Hurricane
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1984%20-%20Scorpions%20:%20Rock%20You%20Like%20A%20Hurricane%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Scorpions - Still Loving You
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1984%20-%20Scorpions%20:%20Still%20Loving%20You%20(480x360).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Scorpions - Wind of Change
-http://www.templier.eu/VIDEO-CLIPS/1990%20-%20Scorpions%20:%20Wind%20Of%20Change%20(854x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Shaggy - Boombastic
-http://104.251.123.41/Boombastic-Shaggy.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Survivor - Eye of The Tiger
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1982%20-%20Survivor%20:%20Eye%20Of%20The%20Tiger%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Tears for Fears - Everybody Wants To Rule The World
-http://104.251.123.41/Everybody%20Wants%20To%20Rule%20The%20World-Tears%20For%20Fears.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Tears for Fears - Shout
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Tears%20For%20Fears%20:%20Shout%20(854x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",The Animals - The House of the Rising Sun
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201960/1964%20-%20The%20Animals%20:%20The%20House%20Of%20The%20Rising%20Sun%20(640x360).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",The Black Eyed Peas - I Gotta Feeling
-http://104.251.123.41/I%20Gotta%20Feeling-The%20Black%20Eyed%20Peas.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",The Black Eyed Peas - My Humps
-http://104.251.123.41/My%20Humps-Black%20Eyed%20Peas.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",The Cars - Drive
-http://104.251.123.41/Drive-The%20Cars.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",The Cranberries - Zombies
-http://104.251.123.41/Zombie-The%20Cranberries.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",The Mamas and The Papas - California Dreamin
-http://104.251.123.41/California%20Dreamin-Mamas%20&%20The%20Papas.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",The Police - Every Breath You Take
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20The%20Police%20:%20Every%20Breath%20You%20Take%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",The Verver Pipe - Bittersweet Symphony
-http://104.251.123.41/Bittersweet%20Symphony-The%20Verve%20Pipe.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",The Who - Baba O'Rilley
-http://104.251.123.41/Baba%20OReilly-The%20Who.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",The Who - Who Are You
-http://104.251.123.41/Who%20Are%20You-The%20Who.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Tina Turner - We Don't Need Another Hero
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1985%20-%20Tina%20Turner%20:%20We%20Don't%20Need%20Another%20Hero%20(960x720).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Traci Chapman - Fast Car
-http://104.251.123.41/Fast%20Car-Traci%20Chapman.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Twisted Sisters - We're Not Gonna Take It
-http://104.251.123.41/Were%20Not%20Gonna%20Take%20It-Twisted%20Sister.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Usher - Yeah!
-http://www.templier.eu/VIDEO-CLIPS/2004%20-%20Usher%20:%20Yeah!%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Van Halen - Jump
-http://www.templier.eu/VIDEO-CLIPS/HARD%20ROCK/1980%20-%20Van%20Halen%20:%20Jump%20(640x480).mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Weird Al Yankovich - Amish Paradise
-http://104.251.123.41/Amish%20Paradise-Weird%20Al%20Yankovich.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",Weird Al Yankovich - Smells Like Nirvana
-http://104.251.123.41/Smells%20Like%20Nirvana-Weird%20Al%20Yankovic.mp4
-
-#EXTINF:-1 group-title="VIDEOCLIPES",YES - Owner of a Lonely Heart
-http://www.templier.eu/VIDEO-CLIPS/DIVERS/ANNEES%201980/1983%20-%20Yes%20:%20Owner%20of%20a%20Lonely%20Heart%20(1920x1080).mp4
 
 
 ###### LISTA DESENVOLVIDA E MANTIDA POR WILSON J A JUNIOR - (47) 991565863 / wjunior1973@gmail.com ######
