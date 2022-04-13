@@ -490,9 +490,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=665
 #EXTINF:-1,Sabor e Arte
 http://168.205.87.198:8555/live/adriana/123456/172.m3u8
 
-#EXTINF:-1,SBT GO
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-
 #EXTINF:-1,SBT MG
 http://168.205.87.198:8555/live/adriana/123456/104.m3u8
 
@@ -511,7 +508,7 @@ http://45.232.196.5:8000/play/a014/index.m3u8
 #EXTINF:-1,SBT SP Interior
 http://45.183.12.18:8001/play/a002/index.m3u8
 
-#EXTINF:-1,SECULO 21
+#EXTINF:-1,Seculo 21
 http://168.205.87.198:8555/live/adriana/123456/106.m3u8
 
 #EXTINF:-1,Series [LEG]
