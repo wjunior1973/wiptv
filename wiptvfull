@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1,A&E
 http://50.7.34.155:2201/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 
@@ -24,6 +23,9 @@ http://168.205.87.198:8555/live/1499/123456/18.m3u8
 
 #EXTINF:-1,Arte1
 https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1,AWC Channel
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/chunklist_w2102275022.m3u8
 
 #EXTINF:-1,AXN
 http://187.85.237.8:8825/ipvt_005
@@ -63,6 +65,9 @@ http://200.146.229.129:8000/play/a00i/index.m3u8
 
 #EXTINF:-1,Bloomberg TV Brazil
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,BM&C News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoja0MNI4SIvXqJR3szbSfw/live
 
 #EXTINF:-1,Boa Vontade TV
 http://168.205.87.198:8555/live/adriana/123456/21.m3u8
@@ -277,7 +282,7 @@ http://200.71.72.50/HBO_FAMILY/mpegts
 #EXTINF:-1,HBO Plus
 http://200.71.72.50/HBO_PLUS/mpegts
 
-#EXTINF:-1,HBO Portugal
+#EXTINF:-1,HBO Portugal [LEG]
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137492
 
 #EXTINF:-1,HBO Signature
@@ -669,6 +674,9 @@ http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1120468120_b15441
 
 #EXTINF:-1,TV8
 http://45.232.196.5:8000/play/a036/index.m3u8
+
+#EXTINF:-1,TVI Reality - BBB Portugal
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 
 #EXTINF:-1,TVideo News
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
