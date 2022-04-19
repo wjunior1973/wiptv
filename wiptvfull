@@ -94,8 +94,6 @@ http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 http://200.146.229.129:8002/play/a029
 #EXTINF:-1,Classic Hits
 http://168.205.87.198:8555/live/adriana/123456/27.m3u8
-#EXTINF:-1,CNN Brasil
-http://170.82.200.38:8080/cnn_brasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CNT
 http://168.205.87.198:8555/live/adriana/123456/150.m3u8
 #EXTINF:-1,Combate World
@@ -218,8 +216,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a00071798
 http://168.205.87.198:8555/live/adriana/123456/161.m3u8
 #EXTINF:-1,Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
-#EXTINF:-1,Liberdade TV
-https://5cf4a2c2512a2.streamlock.net/tvliberdade/tvliberdade/chunklist_w1889706772.m3u8
 #EXTINF:-1,Life Channel Brasil
 http://168.205.87.198:8555/live/adriana/123456/192.m3u8
 #EXTINF:-1,Lifetime
@@ -312,8 +308,6 @@ http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 http://168.205.87.198:8555/live/adriana/123456/96.m3u8
 #EXTINF:-1,Record News
 https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/index.m3u8
-#EXTINF:-1,Record RN - TV Tropical
-https://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/playlist.m3u8
 #EXTINF:-1,Record SP
 http://45.232.196.5:8000/play/a00v/index.m3u8
 #EXTINF:-1,Record SP 2
@@ -490,5 +484,3 @@ https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 http://168.205.87.198:8555/live/adriana/123456/193.m3u8
 #EXTINF:-1,Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Zoomoo Kids
-http://168.205.87.198:8555/live/adriana/123456/162.m3u8
