@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,A&E
 http://200.4.96.59:8002/play/a0e9/index.m3u8
 #EXTINF:-1,Adrenalina Freezone
@@ -76,8 +75,6 @@ http://168.205.87.198:8555/live/adriana/123456/105.m3u8
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/chunklist_w1327273803.m3u8
 #EXTINF:-1,Cancao Nova
 http://168.205.87.198:8555/live/adriana/123456/25.m3u8
-#EXTINF:-1,Cartoon Network
-http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cartoonito
 http://200.146.229.129:8000/play/a00b/index.m3u8
 #EXTINF:-1,CaTVE
@@ -124,10 +121,6 @@ http://200.146.229.129:8002/play/a01w
 http://200.4.96.59:8002/play/a0ds/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://200.4.96.59:8002/play/a0eo/index.m3u8
-#EXTINF:-1,Disney Channel
-http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Disney Jr.
-http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,E!
 http://187.85.237.34:8825/ipvt_004
 #EXTINF:-1,Elemental Channel
@@ -162,14 +155,8 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137496
 http://168.205.87.198:8555/live/adriana/123456/62.m3u8
 #EXTINF:-1,Food Network
 http://200.146.229.129:8002/play/a020
-#EXTINF:-1,Fox Sports
-http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FOX Sports 2
-http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Futura
 https://canal1.proxy.tokplay.com.br:443/videos/FUTURA/format720p_FUTURA.m3u8
-#EXTINF:-1,FX
-http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Gazeta
 http://168.205.87.198:8555/live/adriana/123456/69.m3u8
 #EXTINF:-1,Globo BA
@@ -270,8 +257,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc0007
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137491
 #EXTINF:-1,Nick
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
-#EXTINF:-1,Nick Jr
-http://170.82.200.38:8080/nick_junior/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nova Era TV
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
 #EXTINF:-1,Nova TV
@@ -286,8 +271,6 @@ http://200.146.229.129:8000/play/a00f/index.m3u8
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137510
 #EXTINF:-1,OX TV
 https://alanza.iptv2022.com/OX_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Paramount
-http://170.82.200.38:8080/paramount/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Paramount+
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
 #EXTINF:-1,Pegadinhas
@@ -322,8 +305,6 @@ http://168.205.87.198:8555/live/adriana/123456/96.m3u8
 https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/index.m3u8
 #EXTINF:-1,Record SP
 http://45.232.196.5:8000/play/a00v/index.m3u8
-#EXTINF:-1,Record SP 2
-https://sports01.akamaized.net/hls/live/2037149/paulistao2022r7/master_720.m3u8
 #EXTINF:-1,Record SP Interior
 http://45.183.12.18:8001/play/a00g/index.m3u8
 #EXTINF:-1,Rede Genesis
@@ -378,8 +359,6 @@ http://168.205.87.198:8555/live/adriana/123456/173.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Spark TV
 https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Star Channel
-http://170.82.200.38:8080/fox/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Life
 http://200.4.96.59:8002/play/ufgd/index.m3u8
 #EXTINF:-1,Studio Universal
@@ -408,10 +387,6 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,TLC
 http://200.146.229.129:8002/play/a01s
-#EXTINF:-1,TNT
-http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TNT Series
-http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1,TNT Sports 2
@@ -490,8 +465,6 @@ https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com
 http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 #EXTINF:-1,VRT Channel
 http://168.205.87.198:8555/live/adriana/123456/146.m3u8
-#EXTINF:-1,Woohoo
-http://170.82.200.38:8080/woohoo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Xilam TV
 https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Yeeaah!
