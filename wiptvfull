@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://200.4.96.59:8002/play/a0e9/index.m3u8
+
 #EXTINF:-1,Adrenalina Freezone
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Agro Brasil
@@ -13,8 +12,6 @@ http://168.205.87.198:8555/live/adriana/123456/175.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:-1,All Sports
 http://168.205.87.198:8555/live/adriana/123456/148.m3u8
-#EXTINF:-1,AMC
-http://200.4.96.59:8002/play/a0dp/index.m3u8
 #EXTINF:-1,Animal Planet
 http://168.205.87.198:8555/live/1499/123456/18.m3u8
 #EXTINF:-1,Anime Acao
@@ -87,8 +84,6 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 http://168.205.87.198:8555/live/adriana/123456/177.m3u8
 #EXTINF:-1,Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
-#EXTINF:-1,Cindie Lite
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
 #EXTINF:-1,CineBrasil TV
 http://168.205.87.198:8555/live/adriana/123456/145.m3u8
 #EXTINF:-1,Cinemax
@@ -117,10 +112,6 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137489
 http://200.146.229.129:8002/play/a01t
 #EXTINF:-1,Discovery H&H
 http://200.146.229.129:8002/play/a01w
-#EXTINF:-1,Discovery Science
-http://200.4.96.59:8002/play/a0ds/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://200.4.96.59:8002/play/a0eo/index.m3u8
 #EXTINF:-1,E!
 http://187.85.237.34:8825/ipvt_004
 #EXTINF:-1,Elemental Channel
@@ -193,8 +184,6 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137492
 http://200.146.229.129:8002/play/a01p
 #EXTINF:-1,HBO Xtreme
 http://200.146.229.129:8002/play/a02b
-#EXTINF:-1,HGTV
-http://200.4.96.59:8002/play/a0dq/index.m3u8
 #EXTINF:-1,History
 http://187.85.237.32:8825/ipvt_007
 #EXTINF:-1,History 2
@@ -215,6 +204,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a00071798
 http://168.205.87.198:8555/live/adriana/123456/161.m3u8
 #EXTINF:-1,Kids TV
 http://168.205.87.198:8555/live/adriana/123456/143.m3u8
+#EXTINF:-1,Liberdade TV
+https://5cf4a2c2512a2.streamlock.net/tvliberdade/tvliberdade/chunklist_w1889706772.m3u8
 #EXTINF:-1,Life Channel Brasil
 http://168.205.87.198:8555/live/adriana/123456/192.m3u8
 #EXTINF:-1,Lifetime
@@ -327,8 +318,6 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w498278998.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,RS News
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
-#EXTINF:-1,Runtime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=665
 #EXTINF:-1,Sabor e Arte
 http://168.205.87.198:8555/live/adriana/123456/172.m3u8
 #EXTINF:-1,SBT MG
@@ -359,8 +348,6 @@ http://168.205.87.198:8555/live/adriana/123456/173.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Spark TV
 https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Star Life
-http://200.4.96.59:8002/play/ufgd/index.m3u8
 #EXTINF:-1,Studio Universal
 http://200.146.229.129:8002/play/a023
 #EXTINF:-1,Star Wars [LEG]
@@ -471,3 +458,5 @@ https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 http://168.205.87.198:8555/live/adriana/123456/193.m3u8
 #EXTINF:-1,Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Zoomoo Kids
+http://168.205.87.198:8555/live/adriana/123456/162.m3u8
