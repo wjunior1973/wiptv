@@ -29,8 +29,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed
 #EXTINF:-1 group-title="ESPORTES",All Sports
 http://168.205.87.198:8555/live/adriana/123456/148.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",AXSTV Fights
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Bellator MMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="ESPORTES",Canal 11 Portugal
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
@@ -40,6 +46,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb
 
 #EXTINF:-1 group-title="ESPORTES",ESPN Extra
 http://200.146.229.129:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN NBA
+https://Richi@d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Fight Plus
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Off
 http://200.146.229.129:8000/play/a00f/index.m3u8
