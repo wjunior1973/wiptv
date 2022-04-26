@@ -23,6 +23,9 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 ### DIVERSOS ###
 ################
 
+#EXTINF:-1 group-title="DIVERSOS",Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",AWTV
 http://168.205.87.198:8555/live/adriana/123456/181.m3u8
 
@@ -160,6 +163,9 @@ https://hls.directradios.com/otimista/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Pajeu
 https://59f2354c05961.streamlock.net:1443/tvpajeu/_definst_/tvpajeu/chunklist_w1169763292.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Santa Maria
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/chunklist_w1522574491.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV UFG
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1120468120_b1544100_sleng.m3u8
