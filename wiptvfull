@@ -200,6 +200,9 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 #EXTINF:-1 group-title="DIVERSOS",Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",Urban TV
+http://200.194.238.229:8383/live/urbantv/playlist.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",VRT Channel
 http://168.205.87.198:8555/live/adriana/123456/146.m3u8
 
@@ -650,12 +653,6 @@ http://168.205.87.198:8555/live/adriana/123456/21.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
 http://168.205.87.198:8555/live/adriana/123456/25.m3u8
 
-#EXTINF:-1 group-title="RELIGIOSOS",CNT Rio de Janeiro
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_360p614k/index.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",CNT Sao Paulo
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
-
 #EXTINF:-1 group-title="RELIGIOSOS",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
@@ -689,9 +686,6 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band PB - TV Manaira
 http://143.255.128.190:8000/play/a00i
-
-#EXTINF:-1 group-title="TV ABERTA",Band PR
-http://45.183.12.18:8001/play/a005/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band RJ
 http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
@@ -732,9 +726,6 @@ http://45.232.196.5:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo SP - EPTV Campinas
 http://200.146.229.129:8002/play/a025
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SP Interior
-http://45.183.12.18:8001/play/a00m/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Record - TV Amplitude
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
@@ -749,9 +740,6 @@ http://143.255.128.190:8000/play/a006/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record SP
 http://45.232.196.5:8000/play/a00v/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record SP Interior
-http://45.183.12.18:8001/play/a00g/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://168.205.87.198:8555/live/adriana/123456/102.m3u8
@@ -795,9 +783,6 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT SP
 http://45.232.196.5:8000/play/a014/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SP Interior
-http://45.183.12.18:8001/play/a002/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/adriana/123456/134.m3u8
 
@@ -815,9 +800,6 @@ http://168.205.87.198:8555/live/adriana/123456/138.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Senado
 http://168.205.87.198:8555/live/adriana/123456/139.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Urban TV
-http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 
 ##################
 ### VARIEDADES ###
@@ -864,9 +846,6 @@ http://200.146.229.129:8002/play/a01x
 
 #EXTINF:-1 group-title="VARIEDADES",Documentarios
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="VARIEDADES",Documentarios 2
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://187.85.237.34:8825/ipvt_004
