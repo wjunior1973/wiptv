@@ -204,6 +204,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072
 #EXTINF:-1 group-title="ESPORTES",Canal 11 Portugal
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Combate
+http://191.212.169.139:8000/play/a018
+
 #EXTINF:-1 group-title="ESPORTES",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -605,7 +608,7 @@ http://187.85.237.3:8220/ipvt_004
 http://168.205.87.198:8555/live/adriana/123456/161.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/index.m3u8
+http://45.232.196.5:8000/play/a02v/index.m3u8
 
 ##################
 ### RELIGIOSOS ###
@@ -689,6 +692,12 @@ http://143.255.128.190:8000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://livetv2021.site:8080/9897876765/6576567/81
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP 2
+http://45.232.196.5:8000/play/a025/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP - EPTV Campinas
+http://200.146.229.129:8002/play/a025
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP Interior
 http://45.183.12.18:8001/play/a00m/index.m3u8
@@ -816,6 +825,9 @@ http://200.146.229.129:8002/play/a01w
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://191.212.169.139:8000/play/a012
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
+http://200.146.229.129:8002/play/a01x
 
 #EXTINF:-1 group-title="VARIEDADES",Documentarios
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
