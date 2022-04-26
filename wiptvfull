@@ -276,6 +276,30 @@ https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 #EXTINF:-1 group-title="ESPORTES",Off
 http://200.146.229.129:8000/play/a00f/index.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
+https://live.xvideosporn.me/p2p/premier1/chunks.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 2
+https://live.xvideosporn.me/p2p/premier2/chunks.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
+https://live.xvideosporn.me/p2p/premier3/chunks.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 4
+https://live.xvideosporn.me/p2p/premier4/chunks.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 5
+https://live.xvideosporn.me/p2p/premier5/chunks.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 6
+https://live.xvideosporn.me/p2p/premier6/chunks.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 7
+https://live.xvideosporn.me/p2p/premier7/chunks.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 8
+https://live.xvideosporn.me/p2p/premier8/chunks.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",SporTV
 http://191.212.169.139:8000/play/a006
 
