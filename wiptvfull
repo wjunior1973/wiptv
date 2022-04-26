@@ -26,6 +26,9 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 group-title="DIVERSOS",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",Astral TV
+https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",AWTV
 http://168.205.87.198:8555/live/adriana/123456/181.m3u8
 
@@ -98,8 +101,14 @@ http://45.232.196.5:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="DIVERSOS",Onda Oeste
 http://168.205.87.198:8555/live/adriana/123456/169.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",Phoenix TV
+http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",Polidoro TV
 https://srv6.zcast.com.br/alxtv/alxtv/chunklist_w1785289471.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Primer TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",RBC
 http://rbc.directradios.com:1935/rbc/rbc_720p/chunklist_w1402236873.m3u8
@@ -115,6 +124,9 @@ http://168.205.87.198:8555/live/adriana/123456/99.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",Rede Minas
 http://168.205.87.198:8555/live/adriana/123456/101.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Rede Premium TV
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",RS News
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
@@ -184,6 +196,9 @@ http://45.232.196.5:8000/play/a036/index.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TVideo News
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Universidade da Pessoa
+http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",VRT Channel
 http://168.205.87.198:8555/live/adriana/123456/146.m3u8
@@ -282,6 +297,9 @@ http://187.85.237.8:8825/ipvt_005
 
 #EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cindie Lite
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://168.205.87.198:8555/live/adriana/123456/145.m3u8
@@ -579,6 +597,9 @@ https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICA",Qwest TV Mix
 https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="MUSICA",Rock TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+
 #EXTINF:-1 group-title="MUSICA",Sertanejo TV
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137525
 
@@ -613,6 +634,9 @@ http://187.85.237.3:8220/ipvt_004
 #EXTINF:-1 group-title="NOTICIAS",JP News
 http://168.205.87.198:8555/live/adriana/123456/161.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",Record News
 http://45.232.196.5:8000/play/a02v/index.m3u8
 
@@ -626,8 +650,11 @@ http://168.205.87.198:8555/live/adriana/123456/21.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
 http://168.205.87.198:8555/live/adriana/123456/25.m3u8
 
-#EXTINF:-1 group-title="RELIGIOSOS",CNT
-http://168.205.87.198:8555/live/adriana/123456/150.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS",CNT Rio de Janeiro
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_360p614k/index.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",CNT Sao Paulo
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
@@ -838,6 +865,9 @@ http://200.146.229.129:8002/play/a01x
 #EXTINF:-1 group-title="VARIEDADES",Documentarios
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="VARIEDADES",Documentarios 2
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://187.85.237.34:8825/ipvt_004
 
@@ -985,8 +1015,14 @@ https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/c
 #EXTINF:-1 group-title="VARIEDADES",Urban Turbo
 https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="VARIEDADES",XR Health Brasil
+http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Yeeaah!
 http://168.205.87.198:8555/live/adriana/123456/193.m3u8
