@@ -26,14 +26,35 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Agente 86
 https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w439925711.m3u8
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Alf O Eteimoso
+http://ccdn.ai:80/J5yx1/679TQJtyy/135550.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Arnold
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",As Visoes da Raven
+http://ccdn.ai:80/J5yx1/679TQJtyy/135558.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Cameras Escondidas Silvio Santos
+http://ccdn.ai:80/J5yx1/679TQJtyy/152014.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Cindie Lite
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Dani Se
+http://ccdn.ai:80/J5yx1/679TQJtyy/140781.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Drake e Josh
+http://ccdn.ai:80/J5yx1/679TQJtyy/137622.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Escolinha do Professor Raimundo
+http://ccdn.ai:80/J5yx1/679TQJtyy/137611.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Irmaos a Obra
+http://ccdn.ai:80/J5yx1/679TQJtyy/140782.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Jeannie e um Genio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -49,6 +70,12 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137510
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Os Tres Patetas
 https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w1141132032.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Pesadelo Na Cozinha
+http://ccdn.ai:80/J5yx1/679TQJtyy/138722.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Toma La Da Ca
+http://ccdn.ai:80/J5yx1/679TQJtyy/138938.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
