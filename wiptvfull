@@ -437,6 +437,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf43700075
 #EXTINF:-1 group-title="FILMES/SERIES",Retro TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="FILMES/SERIES",Runtime Acao
+https://stream.ads.ottera.tv/cl/d2eabfd9-a3bd-4e1c-9d23-71298d8862cf/1280x720_2300000_0_false.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Runtime Comedia
+https://stream.ads.ottera.tv/cl/a359771f-c8f4-463f-b928-303f7f331576/1280x720_2300000_0_false.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/adriana/123456/160.m3u8
 
@@ -478,6 +484,9 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w367962975.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="FILMES/SERIES",TVS Series
+https://stmv1.srvif.com/tvskids/tvskids/chunklist_w1541221778.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Universal TV
 http://190.15.32.30:80/101/tracks-v1a1/mono.m3u8
