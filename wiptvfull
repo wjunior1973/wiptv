@@ -19,55 +19,6 @@ https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist.m3u
 #EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#######################
-### CANAIS 24 HORAS ###
-#######################
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Agente 86
-https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w439925711.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Arnold
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves & Chapolin
-http://168.205.87.198:8555/live/adriana/123456/159.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Cindie Lite
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Comedy Central
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Jeannie e um Genio
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Kenan & Kel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",MasterChef
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Nashville
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Os Simpsons [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137510
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Os Tres Patetas
-https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w1141132032.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Pegadinhas
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Porta dos Fundos
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Programa 4 Por 4
-https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Younger
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 ################
 ### DIVERSOS ###
 ################
@@ -123,17 +74,8 @@ https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1061287993.m3u8
 #EXTINF:-1 group-title="DIVERSOS",InforBahia
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/tvinforbahia/chunklist_w147238720.m3u8
 
-#EXTINF:-1 group-title="DIVERSOS",ISTV
-http://168.205.87.198:8555/live/adriana/123456/182.m3u8
-
 #EXTINF:-1 group-title="DIVERSOS",Life Channel Brasil
 http://168.205.87.198:8555/live/adriana/123456/192.m3u8
-
-#EXTINF:-1 group-title="DIVERSOS",Mega TV
-http://45.232.196.5:8000/play/a00n/index.m3u8
-
-#EXTINF:-1 group-title="DIVERSOS",NGT
-http://45.232.196.5:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",Onda Oeste
 http://168.205.87.198:8555/live/adriana/123456/169.m3u8
@@ -167,9 +109,6 @@ https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",SESC TV
 http://168.205.87.198:8555/live/adriana/123456/107.m3u8
-
-#EXTINF:-1 group-title="DIVERSOS",TV ALESC
-http://190.15.32.30:80/31/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Braga Brasil
 https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
@@ -216,14 +155,8 @@ https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chu
 #EXTINF:-1 group-title="DIVERSOS",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
-#EXTINF:-1 group-title="DIVERSOS",TV8
-http://45.232.196.5:8000/play/a036/index.m3u8
-
 #EXTINF:-1 group-title="DIVERSOS",TVideo News
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
-
-#EXTINF:-1 group-title="DIVERSOS",TVT
-http://190.15.32.30:80/41/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
@@ -258,18 +191,6 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 
 #EXTINF:-1 group-title="ESPORTES",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="ESPORTES",ESPN
-http://190.15.32.30:80/22/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 2
-http://189.91.128.146:4444/udp/227.10.20.153:1234
-
-#EXTINF:-1 group-title="ESPORTES",ESPN Brasil
-http://190.15.32.30:80/104/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",ESPN Extra
-http://190.15.32.30:80/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",ESPN NBA USA
 https://Richi@d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
@@ -327,19 +248,16 @@ http://189.91.128.146:4444/udp/227.10.20.112:1234
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
-http://45.232.196.7:5000/live/AMC/720p.m3u8
+http://200.4.96.59:8002/play/a0dp/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://187.85.237.8:8825/ipvt_005
 
-#EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
-http://190.15.32.30:80/13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
+http://168.205.87.198:8555/live/adriana/123456/159.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://168.205.87.198:8555/live/adriana/123456/145.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cinecanal
-http://190.15.32.30:80/106/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://200.71.72.50/CINEMAX/mpegts
@@ -413,6 +331,12 @@ http://189.91.128.146:4444/udp/227.10.20.100:1234
 #EXTINF:-1 group-title="FILMES/SERIES",I-Sat
 http://200.24.92.20:4000/play/a043
 
+#EXTINF:-1 group-title="FILMES/SERIES",Jeannie e um Genio
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="FILMES/SERIES",Kenan & Kel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="FILMES/SERIES",Marvel [LEG]
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137493
 
@@ -428,6 +352,12 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Netflix [LEG]
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137491
 
+#EXTINF:-1 group-title="FILMES/SERIES",Os Simpsons [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137510
+
+#EXTINF:-1 group-title="FILMES/SERIES",Os Tres Patetas
+https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w1141132032.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount Network
 http://200.24.92.20:4000/play/a045
 
@@ -436,12 +366,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf43700075
 
 #EXTINF:-1 group-title="FILMES/SERIES",Retro TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="FILMES/SERIES",Runtime Acao
-https://stream.ads.ottera.tv/cl/d2eabfd9-a3bd-4e1c-9d23-71298d8862cf/1280x720_2300000_0_false.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Runtime Comedia
-https://stream.ads.ottera.tv/cl/a359771f-c8f4-463f-b928-303f7f331576/1280x720_2300000_0_false.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/adriana/123456/160.m3u8
@@ -458,17 +382,11 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137504
 #EXTINF:-1 group-title="FILMES/SERIES",TBS
 http://200.24.92.20:4000/play/a040
 
-#EXTINF:-1 group-title="FILMES/SERIES",TCM
-http://190.15.32.30:80/74/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://187.85.237.26:8825/ipvt_004
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
 http://187.85.237.34:8825/ipvt_001
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
-http://190.15.32.30:80/116/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
 http://187.85.237.25:8825/ipvt_005
@@ -487,9 +405,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b93
 
 #EXTINF:-1 group-title="FILMES/SERIES",TVS Series
 https://stmv1.srvif.com/tvskids/tvskids/chunklist_w1541221778.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
-http://190.15.32.30:80/101/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
@@ -561,9 +476,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 #EXTINF:-1 group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 
-#EXTINF:-1 group-title="INFANTIS",Tooncast
-http://190.15.32.30:80/56/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",TV Ra-Tim-Bum
 http://168.205.87.198:8555/live/adriana/123456/84.m3u8
 
@@ -579,6 +491,9 @@ http://168.205.87.198:8555/live/adriana/123456/162.m3u8
 ##############
 ### MUSICA ###
 ##############
+
+#EXTINF:-1 group-title="MUSICA",BIS
+http://200.4.96.59:8002/play/a0ex/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Canal BRA
 http://168.205.87.198:8555/live/adriana/123456/24.m3u8
@@ -622,14 +537,8 @@ https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICA",Qwest TV Mix
 https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICA",Rock TV
-http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
-
 #EXTINF:-1 group-title="MUSICA",Sertanejo TV
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137525
-
-#EXTINF:-1 group-title="MUSICA",Top TV
-http://45.232.196.5:8000/play/a018/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
@@ -693,17 +602,11 @@ http://168.205.87.198:8555/live/adriana/123456/163.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
 http://187.85.237.34:8825/ipvt_005
 
-#EXTINF:-1 group-title="RELIGIOSOS",RIT
-http://143.255.128.190:8000/play/a00i/index.m3u8
-
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
 http://168.205.87.198:8555/live/adriana/123456/144.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",TV Universal
-http://190.15.32.30:80/40/tracks-v1a1/mono.m3u8
 
 #################
 ### TV ABERTA ###
@@ -714,9 +617,6 @@ http://200.24.92.20:4000/play/a016
 
 #EXTINF:-1 group-title="TV ABERTA",Band PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Band PB - TV Manaira
-http://143.255.128.190:8000/play/a00i
 
 #EXTINF:-1 group-title="TV ABERTA",Band RJ
 http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
@@ -742,17 +642,11 @@ http://168.205.87.198:8555/live/adriana/123456/70.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo MG - TV Integracao
 http://200.24.92.20:4000/play/a018
 
-#EXTINF:-1 group-title="TV ABERTA",Globo MT - TV Centro America
-http://177.221.196.42:8000/play/a006/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Globo PB - TV Cabo Branco
 http://143.255.128.190:8000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo RJ
 http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo RS - RBS TV
-http://190.15.32.30:80/124/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://livetv2021.site:8080/9897876765/6576567/81
@@ -817,9 +711,6 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT RJ
 http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SP
-http://45.232.196.5:8000/play/a014/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/adriana/123456/134.m3u8
 
@@ -843,7 +734,7 @@ http://168.205.87.198:8555/live/adriana/123456/139.m3u8
 ##################
 
 #EXTINF:-1 group-title="VARIEDADES",A&E
-http://190.15.32.30:80/9/tracks-v1a1/mono.m3u8
+http://200.4.96.59:8002/play/a0e9/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://168.205.87.198:8555/live/1499/123456/18.m3u8
@@ -866,17 +757,11 @@ http://189.91.128.146:4444/udp/227.10.20.93:1234
 #EXTINF:-1 group-title="VARIEDADES",Discovey Science
 http://189.91.128.146:4444/udp/227.10.20.92:1234
 
-#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
-http://190.15.32.30:80/5/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Discovery TLC
 http://189.91.128.146:4444/udp/227.10.20.84:1234
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
 http://189.91.128.146:4444/udp/227.10.20.82:1234
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery World
-http://190.15.32.30:80/93/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Documentarios
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -912,7 +797,7 @@ https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 http://187.85.237.26:8825/ipvt_005
 
 #EXTINF:-1 group-title="VARIEDADES",HGTV
-http://190.15.32.30:80/3/tracks-v1a1/mono.m3u8
+http://200.4.96.59:8002/play/a0dq/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://187.85.237.32:8825/ipvt_007
@@ -935,8 +820,8 @@ http://187.85.237.32:8825/ipvt_001
 #EXTINF:-1 group-title="VARIEDADES",Loading
 http://168.205.87.198:8555/live/adriana/123456/142.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Mais Familia
-http://190.15.32.30:80/88/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VARIEDADES",MasterChef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="VARIEDADES",Minha Obsessao Favorita
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -968,6 +853,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e1
 #EXTINF:-1 group-title="VARIEDADES",Polishop
 http://168.205.87.198:8555/live/adriana/123456/153.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Porta dos Fundos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="VARIEDADES",Prime Box Brazil
 http://168.205.87.198:8555/live/adriana/123456/83.m3u8
 
@@ -997,9 +885,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e84
 
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://168.205.87.198:8555/live/1499/123456/124.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",TruTV
-http://190.15.32.30:80/76/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TV Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
