@@ -83,6 +83,9 @@ http://168.205.87.198:8555/live/adriana/123456/104.m3u8
 #EXTINF:-1 group-title="SBT",SBT MG - TV Alterosa
 http://200.24.92.20:4000/play/a019
 
+#EXTINF:-1 group-title="SBT",SBT MT - Bem TV
+http://wz3.dnip.com.br:1935/bemtv/bemtv.sdp/live.m3u8
+
 #EXTINF:-1 group-title="SBT",SBT PE - TV Jornal Recife
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
 
@@ -117,6 +120,12 @@ http://143.255.128.190:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="RECORD",Record RJ
 http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
 
+#EXTINF:-1 group-title="RECORD",Record RO - SIC TV
+http://5953e7f9ae845.streamlock.net/2502/2502/chunklist_w621016733.m3u8
+
+#EXTINF:-1 group-title="RECORD",Record SC - NDTV
+https://caikron.com.br:19360/floripa/floripa.m3u8
+
 #EXTINF:-1 group-title="RECORD",Record SP
 http://45.232.196.5:8000/play/a00v/index.m3u8
 
@@ -129,6 +138,9 @@ http://200.24.92.20:4000/play/a016
 
 #EXTINF:-1 group-title="BAND",Band PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
+
+#EXTINF:-1 group-title="BAND",Band PR
+https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8
 
 #EXTINF:-1 group-title="BAND",Band RJ
 http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
@@ -884,6 +896,9 @@ https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
 #EXTINF:-1 group-title="DIVERSOS",SESC TV
 http://168.205.87.198:8555/live/adriana/123456/107.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",TV Aracati
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",TV Braga Brasil
 https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
 
@@ -893,8 +908,14 @@ http://168.205.87.198:8555/live/adriana/123456/183.m3u8
 #EXTINF:-1 group-title="DIVERSOS",TV Caravelas
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w309876516.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",TV Chapada
+https://tvchapada.proxy.tokplay.com.br/main.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",TV Empire Magazine
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Fenix Bahia
+https://stmv1.srvstm.com/tvfenixbahia/tvfenixbahia/chunklist_w511733517.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Galega
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
@@ -904,6 +925,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklis
 
 #EXTINF:-1 group-title="DIVERSOS",TV Horizonte
 http://200.24.92.20:4000/play/a003
+
+#EXTINF:-1 group-title="DIVERSOS",TV Mackenzie
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Max 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
