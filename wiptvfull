@@ -438,6 +438,9 @@ http://200.4.96.59:8002/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://187.85.237.8:8825/ipvt_005
 
+#EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
+http://189.91.128.146:4444/udp/227.10.20.127:1234
+
 #EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
 http://168.205.87.198:8555/live/adriana/123456/159.m3u8
 
@@ -645,6 +648,18 @@ http://200.4.96.59:8002/play/a0em/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="ESPORTES",ESPN
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 2
+http://189.91.128.146:4444/udp/227.10.20.152:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 3
+http://189.91.128.146:4444/udp/227.10.20.153:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 4
+http://189.91.128.146:4444/udp/227.10.20.116:1234
 
 #EXTINF:-1 group-title="ESPORTES",ESPN NBA USA
 https://Richi@d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
