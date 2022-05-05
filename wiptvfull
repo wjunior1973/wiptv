@@ -1,178 +1,23 @@
 #EXTM3U
 
-#############
-### GLOBO ###
-#############
-
-#EXTINF:-1 group-title="GLOBO",Globo AM - Rede Amazonica Manaus
-http://200.4.96.59:8001/play/a01a/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo BA - TV Bahia
-http://200.4.96.59:8001/play/a017/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo Brasilia
-http://200.4.96.59:8001/play/a01w/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo CE - TV Verdes Mares Fortaleza
-http://200.4.96.59:8001/play/a016/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo GO - TV Anhanguera
-http://200.4.96.59:8001/play/a00i/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo MG
-http://168.205.87.198:8555/live/adriana/123456/70.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo MG - TV Integracao
-http://200.24.92.20:4000/play/a018
-
-#EXTINF:-1 group-title="GLOBO",Globo Nordeste
-http://200.4.96.59:8001/play/a018/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo PA - TV Liberal Belem
-http://200.4.96.59:8001/play/a019/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo PB - TV Cabo Branco
-http://143.255.128.190:8000/play/a002/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo PR - RPC Curitiba
-http://200.4.96.59:8001/play/a012/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo RJ
-http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo RJ [2]
-http://200.4.96.59:8001/play/a00e/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo RN - Inter TV Cabugi
-http://200.4.96.59:8001/play/a01b/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo RS - RBS TV Porto Alegre
-http://200.4.96.59:8001/play/a01u/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo SP
-http://200.4.96.59:8002/play/a0fk/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo SP [2]
-http://livetv2021.site:8080/9897876765/6576567/81
-
-#EXTINF:-1 group-title="GLOBO",Globo SP [3]
-http://45.232.196.5:8000/play/a025/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo SP - EPTV Campinas
-http://200.4.96.59:8001/play/a00b/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo SP - EPTV Ribeirao Preto
-http://200.4.96.59:8001/play/a00a/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo SP - TV Tem Bauru
-http://200.4.96.59:8001/play/a00s/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo SP - TV Tem Sorocaba
-http://200.4.96.59:8001/play/a00h/index.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo SP - TV Tribuna Santos
-http://200.4.96.59:8001/play/a01v/index.m3u8
-
-###########
-### SBT ###
-###########
-
-#EXTINF:-1 group-title="SBT",SBT AM - TV Guajara
-https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT BA - TV Tambau
-http://143.255.128.190:8000/play/a008/index.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT Brasilia
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCOZQxZYlSjxWQisskqzbtjA/live
-
-#EXTINF:-1 group-title="SBT",SBT MG
-http://168.205.87.198:8555/live/adriana/123456/104.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT MG - TV Alterosa
-http://200.24.92.20:4000/play/a019
-
-#EXTINF:-1 group-title="SBT",SBT MT - Bem TV
-http://wz3.dnip.com.br:1935/bemtv/bemtv.sdp/live.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT PE - TV Jornal Recife
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT PE - TV Jornal Caruaru
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w412493965.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT RJ
-http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
-
-##############
-### RECORD ###
-##############
-
-#EXTINF:-1 group-title="RECORD",Record MG
-http://168.205.87.198:8555/live/adriana/123456/96.m3u8
-
-#EXTINF:-1 group-title="RECORD",Record MT - TV Amplitude
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
-#EXTINF:-1 group-title="RECORD",Record MT - TV Conquista
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-
-#EXTINF:-1 group-title="RECORD",Record PB - TV Correio
-http://143.255.128.190:8000/play/a006/index.m3u8
-
-#EXTINF:-1 group-title="RECORD",Record RJ
-http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
-
-#EXTINF:-1 group-title="RECORD",Record RO - SIC TV
-http://5953e7f9ae845.streamlock.net/2502/2502/chunklist_w621016733.m3u8
-
-#EXTINF:-1 group-title="RECORD",Record SC - NDTV
-https://caikron.com.br:19360/floripa/floripa.m3u8
-
-#EXTINF:-1 group-title="RECORD",Record SP
-http://45.232.196.5:8000/play/a00v/index.m3u8
-
-############
-### BAND ###
-############
-
-#EXTINF:-1 group-title="BAND",Band Minas
-http://200.24.92.20:4000/play/a016
-
-#EXTINF:-1 group-title="BAND",Band PA
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
-
-#EXTINF:-1 group-title="BAND",Band RJ
-http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="BAND",Band SP
-http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
-
-#EXTINF:-1 group-title="BAND",Band SP - Interior
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist_w652691274.m3u8
-
-################
-### REDE TV! ###
-################
-
-#EXTINF:-1 group-title="REDE TV!",Rede TV!
-http://168.205.87.198:8555/live/adriana/123456/102.m3u8
-
-#EXTINF:-1 group-title="REDE TV!",Rede TV! [2]
-http://187.85.237.31:8825/ipvt_001
-
-#EXTINF:-1 group-title="REDE TV!",Rede TV! PB - TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 group-title="REDE TV!",Rede TV! RS - TV Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist.m3u8
-
-#EXTINF:-1 group-title="REDE TV!",Rede TV! TO
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
-
 #################
 ### TV ABERTA ###
 #################
+
+#EXTINF:-1 group-title="TV ABERTA",Band MG
+http://200.24.92.20:4000/play/a016
+
+#EXTINF:-1 group-title="TV ABERTA",Band PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band RJ
+http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band SP - Interior
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist_w652691274.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Cultura
 http://168.205.87.198:8555/live/adriana/123456/32.m3u8
@@ -182,6 +27,159 @@ http://168.205.87.198:8555/live/adriana/123456/67.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Gazeta
 http://168.205.87.198:8555/live/adriana/123456/69.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo AM - Rede Amazonica Manaus
+http://200.4.96.59:8001/play/a01a/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo BA - TV Bahia
+http://200.4.96.59:8001/play/a017/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo Brasilia
+http://200.4.96.59:8001/play/a01w/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo CE - TV Verdes Mares Fortaleza
+http://200.4.96.59:8001/play/a016/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo GO - TV Anhanguera
+http://200.4.96.59:8001/play/a00i/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo MG
+http://168.205.87.198:8555/live/adriana/123456/70.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo MG [2]
+http://189.91.128.146:4444/udp/227.10.20.109:1234
+
+#EXTINF:-1 group-title="TV ABERTA",Globo MG - TV Integracao
+http://200.24.92.20:4000/play/a018
+
+#EXTINF:-1 group-title="TV ABERTA",Globo Nordeste
+http://200.4.96.59:8001/play/a018/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo PA - TV Liberal Belem
+http://200.4.96.59:8001/play/a019/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo PB - TV Cabo Branco
+http://143.255.128.190:8000/play/a002/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo PR - RPC Curitiba
+http://200.4.96.59:8001/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ
+http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ [2]
+http://200.4.96.59:8001/play/a00e/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RN - Inter TV Cabugi
+http://200.4.96.59:8001/play/a01b/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RS - RBS TV Porto Alegre
+http://200.4.96.59:8001/play/a01u/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
+http://200.4.96.59:8002/play/a0fk/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP [2]
+http://livetv2021.site:8080/9897876765/6576567/81
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP [3]
+http://45.232.196.5:8000/play/a025/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP - EPTV Campinas
+http://200.4.96.59:8001/play/a00b/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP - EPTV Ribeirao Preto
+http://200.4.96.59:8001/play/a00a/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP - TV Tem Bauru
+http://200.4.96.59:8001/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP - TV Tem Sorocaba
+http://200.4.96.59:8001/play/a00h/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP - TV Tribuna Santos
+http://200.4.96.59:8001/play/a01v/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record AL - TV Pajucara
+http://168.195.212.33:8000/play/a006/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record MG
+http://168.205.87.198:8555/live/adriana/123456/96.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record MG - TV Leste
+http://189.91.128.146:4444/udp/227.10.20.151:1234
+
+#EXTINF:-1 group-title="TV ABERTA",Record MT - TV Amplitude
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record MT - TV Conquista
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record PB - TV Correio
+http://143.255.128.190:8000/play/a006/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record RJ
+http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record RO - SIC TV
+http://5953e7f9ae845.streamlock.net/2502/2502/chunklist_w621016733.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record SC - NDTV
+https://caikron.com.br:19360/floripa/floripa.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record SP
+http://45.232.196.5:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV!
+http://187.85.237.31:8825/ipvt_001
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! AM - TV A Critica
+http://189.91.128.146:4444/udp/227.10.20.164:1234
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! MG
+http://168.205.87.198:8555/live/adriana/123456/102.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! PB - TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! RS - TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT AL - TV Ponta Verde
+http://168.195.212.33:8000/play/a002/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT AM - TV Guajara
+https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT BA - TV Tambau
+http://143.255.128.190:8000/play/a008/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT Brasilia
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCOZQxZYlSjxWQisskqzbtjA/live
+
+#EXTINF:-1 group-title="TV ABERTA",SBT MG
+http://168.205.87.198:8555/live/adriana/123456/104.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT MG - TV Alterosa
+http://200.24.92.20:4000/play/a019
+
+#EXTINF:-1 group-title="TV ABERTA",SBT MT - Bem TV
+http://wz3.dnip.com.br:1935/bemtv/bemtv.sdp/live.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT PE - TV Jornal Recife
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT PE - TV Jornal Caruaru
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w412493965.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT RJ
+http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SC
+http://45.175.61.242:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/adriana/123456/134.m3u8
@@ -905,6 +903,9 @@ http://168.205.87.198:8555/live/adriana/123456/144.m3u8
 #EXTINF:-1 group-title="DIVERSOS",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",Alpha Channel
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist-480p.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",Astral TV
 https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 
@@ -916,6 +917,9 @@ http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",BRZ Channel
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",BSTV
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w406781354.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",Canal Saude
 http://168.205.87.198:8555/live/adriana/123456/165.m3u8
@@ -959,11 +963,23 @@ http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 #EXTINF:-1 group-title="DIVERSOS",Polidoro TV
 https://srv6.zcast.com.br/alxtv/alxtv/chunklist_w1785289471.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",PPZ TV
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w299865220.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Primer TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",RBC
 http://rbc.directradios.com:1935/rbc/rbc_720p/chunklist_w1402236873.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",RBTV SP
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",RCTV Interativa
 https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Rede Metropole
+http://168.205.87.198:8555/live/adriana/123456/99.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",Rede Minas
 http://168.205.87.198:8555/live/adriana/123456/101.m3u8
@@ -973,6 +989,9 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",RS News
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Sertao TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1802821028.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",SESC TV
 http://168.205.87.198:8555/live/adriana/123456/107.m3u8
@@ -992,6 +1011,24 @@ https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chun
 #EXTINF:-1 group-title="DIVERSOS",TV Chapada
 https://tvchapada.proxy.tokplay.com.br/main.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",TV Cidade Canal 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Cidade Oeste
+http://radios.primedata.com.br:5080/LiveApp/streams/872258137935361699746456.m3u8?token=undefined
+
+#EXTINF:-1 group-title="DIVERSOS",TV Cognopolis
+https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/chunklist_w1989881567.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV das Artes
+https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/chunklist_w406428840.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Diario do Sertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w472027995.m3u8?ValterHD
+
+#EXTINF:-1 group-title="DIVERSOS",TV Digital Birigui
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
+
 #EXTINF:-1 group-title="DIVERSOS",TV Empire Magazine
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
 
@@ -1001,23 +1038,56 @@ https://stmv1.srvstm.com/tvfenixbahia/tvfenixbahia/chunklist_w511733517.m3u8
 #EXTINF:-1 group-title="DIVERSOS",TV Galega
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",TV Gallo
+https://5c483b9d1019c.streamlock.net:443/8202/8202/playlist.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",TV Germana
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w1753259709.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Guarulhos
+http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Horizonte
 http://200.24.92.20:4000/play/a003
 
+#EXTINF:-1 group-title="DIVERSOS",TV Ibate
+https://5eaa6849d0971.streamlock.net/8034/8034/playlist.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",TV Mackenzie
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Max
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Max 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",TV Onix
+https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/playlist.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",TV Opiniao Play
 https://livefocamundo.com:8081/opiniaoplay/index.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",TV Otimista
+https://hls.directradios.com/otimista/livestream/playlist.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",TV Pajeu
 https://59f2354c05961.streamlock.net:1443/tvpajeu/_definst_/tvpajeu/chunklist_w1169763292.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Pantanal
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Parana
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV RBC
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Rio Preto
+http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Sol Comunidade
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV UFG
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1120468120_b1544100_sleng.m3u8
@@ -1025,7 +1095,13 @@ http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1120468120_b15441
 #EXTINF:-1 group-title="DIVERSOS",TV UFPB
 http://143.255.128.190:8000/play/a00e/index.m3u8
 
-#EXTINF:-1 group-title="DIVERSOS",Tv Via Morena
+#EXTINF:-1 group-title="DIVERSOS",TV Vale das Artes
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w2069670835.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Verdes Campos SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Via Morena
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist_w1857524020.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Zoom
@@ -1039,6 +1115,15 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 
 #EXTINF:-1 group-title="DIVERSOS",Urban TV
 http://200.194.238.229:8383/live/urbantv/playlist.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",UTV
+https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Vila TV
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1795654218.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Virtual TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w75240921.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",VRT Channel
 http://168.205.87.198:8555/live/adriana/123456/146.m3u8
@@ -1061,3 +1146,115 @@ https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist.m3u
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+##############
+### RITMOS ###
+##############
+
+#EXTINF:-1 group-title="RITMOS",Anos 60
+https://radios.rtbf.be/wr-c21-60-128.mp3
+
+#EXTINF:-1 group-title="RITMOS",Anos 70
+http://uplink.duplexfx.com:8066/
+
+#EXTINF:-1 group-title="RITMOS",Anos 80 [1]
+http://hestia2.cdnstream.com:80/1069_64
+
+#EXTINF:-1 group-title="RITMOS",Anos 80 [2]
+http://mp3channels.webradio.de:80/80er-kulthits
+
+#EXTINF:-1 group-title="RITMOS",Anos 90 [1]
+http://mp3channels.webradio.de:80/90er-hits
+
+#EXTINF:-1 group-title="RITMOS",Anos 90 [2]
+http://uplink.duplexfx.com:8012/
+
+#EXTINF:-1 group-title="RITMOS",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+
+#EXTINF:-1 group-title="RITMOS",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+
+#EXTINF:-1 group-title="RITMOS",Eletronica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Festa
+http://6d9a.webradio.upx.net.br:9070/stream?
+
+#EXTINF:-1 group-title="RITMOS",Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Forro
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream?
+
+#EXTINF:-1 group-title="RITMOS",Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+
+#EXTINF:-1 group-title="RITMOS",MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Musica Classica
+http://6d9a.webradio.upx.net.br:9970/stream
+
+#EXTINF:-1 group-title="RITMOS",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+
+#EXTINF:-1 group-title="RITMOS",Pagode [1]
+http://6d9a.webradio.upx.net.br:9061/stream
+
+#EXTINF:-1 group-title="RITMOS",Pagode [2]
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Rock Classico
+http://hestia2.cdnstream.com:80/1074_128
+
+#EXTINF:-1 group-title="RITMOS",Romanticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Sertanejo Romantico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+
+#EXTINF:-1 group-title="RITMOS",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
