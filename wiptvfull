@@ -4,8 +4,14 @@
 ### GLOBO ###
 #############
 
+#EXTINF:-1 group-title="GLOBO",Globo AM - Rede Amazonica Manaus
+http://200.4.96.59:8001/play/a01a/index.m3u8
+
 #EXTINF:-1 group-title="GLOBO",Globo BA - TV Bahia
 http://200.4.96.59:8001/play/a017/index.m3u8
+
+#EXTINF:-1 group-title="GLOBO",Globo Brasilia
+http://200.4.96.59:8001/play/a01w/index.m3u8
 
 #EXTINF:-1 group-title="GLOBO",Globo CE - TV Verdes Mares Fortaleza
 http://200.4.96.59:8001/play/a016/index.m3u8
@@ -44,9 +50,12 @@ http://200.4.96.59:8001/play/a01b/index.m3u8
 http://200.4.96.59:8001/play/a01u/index.m3u8
 
 #EXTINF:-1 group-title="GLOBO",Globo SP
-http://livetv2021.site:8080/9897876765/6576567/81
+http://200.4.96.59:8002/play/a0fk/index.m3u8
 
 #EXTINF:-1 group-title="GLOBO",Globo SP [2]
+http://livetv2021.site:8080/9897876765/6576567/81
+
+#EXTINF:-1 group-title="GLOBO",Globo SP [3]
 http://45.232.196.5:8000/play/a025/index.m3u8
 
 #EXTINF:-1 group-title="GLOBO",Globo SP - EPTV Campinas
@@ -92,12 +101,6 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng
 #EXTINF:-1 group-title="SBT",SBT PE - TV Jornal Caruaru
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w412493965.m3u8
 
-#EXTINF:-1 group-title="SBT",SBT PI - TV Cidade Verde
-http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-
-#EXTINF:-1 group-title="SBT",SBT PR - Rede Massa
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
-
 #EXTINF:-1 group-title="SBT",SBT RJ
 http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
 
@@ -138,9 +141,6 @@ http://200.24.92.20:4000/play/a016
 
 #EXTINF:-1 group-title="BAND",Band PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
-
-#EXTINF:-1 group-title="BAND",Band PR
-https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8
 
 #EXTINF:-1 group-title="BAND",Band RJ
 http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
@@ -510,6 +510,9 @@ http://189.91.128.146:4444/udp/227.10.20.95:1234
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Family
 http://189.91.128.146:4444/udp/227.10.20.97:1234
 
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
+http://200.4.96.59:8002/play/a0f0/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
 http://189.91.128.146:4444/udp/227.10.20.96:1234
 
@@ -582,11 +585,17 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137504
 #EXTINF:-1 group-title="FILMES/SERIES",TBS
 http://200.24.92.20:4000/play/a040
 
+#EXTINF:-1 group-title="FILMES/SERIES",TCM
+http://200.4.96.59:8003/play/a040/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://187.85.237.26:8825/ipvt_004
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
 http://187.85.237.34:8825/ipvt_001
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
+http://200.4.96.59:8003/play/a04m/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
 http://187.85.237.25:8825/ipvt_005
@@ -599,9 +608,6 @@ http://187.85.237.3:8220/ipvt_005
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Series
 http://45.232.196.7:5000/live/TNTSERIES/720p.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TV Nova Play
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w367962975.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -661,6 +667,9 @@ http://189.91.128.146:4444/udp/227.10.20.153:1234?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="ESPORTES",ESPN 4
 http://189.91.128.146:4444/udp/227.10.20.116:1234
 
+#EXTINF:-1 group-title="ESPORTES",ESPN Extra
+http://200.4.96.59:8002/play/a0d99/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",ESPN NBA USA
 https://Richi@d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
 
@@ -690,6 +699,9 @@ http://189.91.128.146:4444/udp/227.10.20.107:1234
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 6
 http://189.91.128.146:4444/udp/227.10.20.123:1234
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 7
+http://200.4.96.59:8002/play/a0ee/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -779,6 +791,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 #EXTINF:-1 group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 
+#EXTINF:-1 group-title="INFANTIS",Tooncast
+http://200.4.96.59:8003/play/a04g/index.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",TV Ra-Tim-Bum
 http://168.205.87.198:8555/live/adriana/123456/84.m3u8
 
@@ -819,6 +834,9 @@ https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="MUSICA",Loop 90s
 https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
 
+#EXTINF:-1 group-title="MUSICA",MTV Live
+http://200.4.96.59:8003/play/a046/index.m3u8
+
 #EXTINF:-1 group-title="MUSICA",MTV Love Music
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e92e4694c027be6ecece1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=60&terminate=false&userId=
 
@@ -839,6 +857,9 @@ https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICA",Sertanejo TV
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137525
+
+#EXTINF:-1 group-title="MUSICA",Trace Brazuca
+http://200.4.96.59:8003/play/a04b/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
@@ -923,9 +944,6 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DIVERSOS",Elemental Channel
 https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w902531234.m3u8
 
-#EXTINF:-1 group-title="DIVERSOS",Imperial TV
-https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1061287993.m3u8
-
 #EXTINF:-1 group-title="DIVERSOS",InforBahia
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/tvinforbahia/chunklist_w147238720.m3u8
 
@@ -941,17 +959,11 @@ http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 #EXTINF:-1 group-title="DIVERSOS",Polidoro TV
 https://srv6.zcast.com.br/alxtv/alxtv/chunklist_w1785289471.m3u8
 
-#EXTINF:-1 group-title="DIVERSOS",Primer TV
-http://200.194.238.229:8383/live/primer/playlist.m3u8
-
 #EXTINF:-1 group-title="DIVERSOS",RBC
 http://rbc.directradios.com:1935/rbc/rbc_720p/chunklist_w1402236873.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",RCTV Interativa
 https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist-480p.m3u8
-
-#EXTINF:-1 group-title="DIVERSOS",Rede Familia
-http://168.205.87.198:8555/live/adriana/123456/151.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",Rede Minas
 http://168.205.87.198:8555/live/adriana/123456/101.m3u8
