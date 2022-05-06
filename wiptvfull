@@ -181,7 +181,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-Web.sdp/chunklis
 #EXTINF:-1 group-title="TV ABERTA",SBT RJ
 http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SC
+#EXTINF:-1 group-title="TV ABERTA",SBT RS
 http://45.175.61.242:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
@@ -347,9 +347,6 @@ http://187.85.237.8:8825/ipvt_004
 
 #EXTINF:-1 group-title="VARIEDADES",Multicultura
 http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="VARIEDADES",Mundo TV
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w452323085.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",National Geographic
 http://200.4.96.59:8002/play/a0f2/index.m3u8
@@ -957,6 +954,9 @@ http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DIVERSOS",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",Aish TV Brasil
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DIVERSOS",Allegro Web TV
 https://livefocamundo.com:8081/allegroWebtv/tracks-v1a1/mono.m3u8
 
@@ -971,6 +971,9 @@ https://stmv1.voxtvhd.com.br/aplustv/aplustv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="DIVERSOS",Araruna TV
 https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="DIVERSOS",Assim eh Portugal
+https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DIVERSOS",Astral TV
 https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
@@ -999,8 +1002,14 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w406781354.m3u8
 #EXTINF:-1 group-title="DIVERSOS",Cabo Frio TV
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",Canal 24 Horas
+https://59f1cbe63db89.streamlock.net:1443/canal24horastv/_definst_/canal24horastv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DIVERSOS",Canal 25
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Canal 38 News
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DIVERSOS",Canal do Carro
 http://200.146.229.129:8000/play/a015/index.m3u8
@@ -1020,8 +1029,14 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 #EXTINF:-1 group-title="DIVERSOS",Central TV
 http://168.205.87.198:8555/live/adriana/123456/177.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",Channel 1
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DIVERSOS",Chroma TV
 https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Colina TV
+https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DIVERSOS",Conecta+ TV
 http://189.14.239.62:1935/Webtv/livestream1/playlist.m3u8
@@ -1035,11 +1050,17 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DIVERSOS",Elemental Channel
 https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w902531234.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",EuTV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DIVERSOS",Fonte TV
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1040242967.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",InforBahia
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/tvinforbahia/chunklist_w147238720.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DIVERSOS",LASSTV
 https://streaming03.zas.media:1936/lasstv/lasstv/chunklist_w1409507967.m3u8
@@ -1058,6 +1079,9 @@ http://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",MultiRio
 http://187.111.97.45:1935/Webtv/Webtv/live.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DIVERSOS",Murilo TV
 https://video01.kshost.com.br:4443/murilo9207/murilo9207/chunklist_w121900036.m3u8
@@ -1137,6 +1161,9 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1802821028.m3u8
 #EXTINF:-1 group-title="DIVERSOS",SESC TV
 http://168.205.87.198:8555/live/adriana/123456/107.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",Sol Brasil
+https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DIVERSOS",Sou TV
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
 
@@ -1152,6 +1179,9 @@ https://novo.bitstreaming.info:1936/8132/8132/playlist.m3u8
 #EXTINF:-1 group-title="DIVERSOS",Tri TV
 https://5c483b9d1019c.streamlock.net/tritv/tritv/chunklist_w2067737757.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",TV 3
+https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DIVERSOS",TV A Plateia
 https://stmv1.samcast.com.br/kamal9663/kamal9663/playlist.m3u8
 
@@ -1160,6 +1190,9 @@ https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Alianca Catarinense
 https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Alvorada Sertaneja
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DIVERSOS",TV America
 https://cdn.jmvstream.com/w/AVJ-9818/playlist/playlist.m3u8
@@ -1386,6 +1419,9 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
 #EXTINF:-1 group-title="DIVERSOS",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1369810498.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",TV Planalto
+https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DIVERSOS",TV NTV
 https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
 
@@ -1446,6 +1482,9 @@ https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chun
 #EXTINF:-1 group-title="DIVERSOS",TV RBC
 http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",TV Rio Madeira
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DIVERSOS",TV Rio Preto
 http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
 
@@ -1493,6 +1532,9 @@ https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Via Morena
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist_w1857524020.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Vianney
+https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DIVERSOS",TV Vitoria
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist_w267612778.m3u8
@@ -1596,6 +1638,9 @@ http://168.205.87.198:8555/live/adriana/123456/175.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
 https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",Nova Tv Agrotour
+https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
