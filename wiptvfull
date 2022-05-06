@@ -212,6 +212,9 @@ http://cdn.connectbr.com.br/BandNews/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Bloomberg TV Brazil
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",BM&C News
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/BMCNEWStv/live&quality=720p
+
 #EXTINF:-1 group-title="NOTICIAS",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
@@ -459,6 +462,12 @@ http://168.205.87.198:8555/live/adriana/123456/190.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Classique TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w2015601503.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Classique TV Series 1
+https://stmv1.srvif.com/classeries/classeries/chunklist_w265149162.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Classique TV Series 2
+https://stmv2.srvsh.com.br/classeries2/classeries2/chunklist_w1255233538.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",CLC Filmes
 http://168.205.87.198:8555/live/adriana/123456/198.m3u8
@@ -948,6 +957,9 @@ https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 #EXTINF:-1 group-title="DIVERSOS",AWTV
 http://168.205.87.198:8555/live/adriana/123456/181.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",Brasil TV
+https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",BRSuper TV
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
@@ -965,6 +977,9 @@ https://5a57bda70564a.streamlock.net/smart/smart.sdp/chunklist_w1327273803.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",CaTVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",CBTV Now
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",Central TV
 http://168.205.87.198:8555/live/adriana/123456/177.m3u8
@@ -1029,6 +1044,9 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 group-title="DIVERSOS",RCTV Interativa
 https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist-480p.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",Rede America TV
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv
+
 #EXTINF:-1 group-title="DIVERSOS",Rede Metropole
 http://168.205.87.198:8555/live/adriana/123456/99.m3u8
 
@@ -1037,6 +1055,9 @@ http://168.205.87.198:8555/live/adriana/123456/101.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",Rede Premium TV
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",Rede Sul America TV
+https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/chunklist_w139361916.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",RS News
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
@@ -1067,6 +1088,9 @@ https://cdn.jmvstream.com/w/AVJ-10760/playlist/master.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Braga Brasil
 https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Brasileira
+https://play.hosannatelecom.com.br/media/n/BZi1nZuZy2GXmdaYotG1/a/BZi1nZuZy2GXmdaYotG1/720p/chunks.m3u8?ch=BZi1nZuZy2GXmdaYotG1&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NTA5MTM0NjEsInN1YiI6ImRlZmF1bHQjMTYzOTY4MDAzNSIsImV4cCI6MTY1MzA3MzQ2MX0.65rcXaedOICKlfNQSQpxeJTEqbq33Y7KerQO05f678Q
 
 #EXTINF:-1 group-title="DIVERSOS",TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
@@ -1110,6 +1134,9 @@ http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/
 #EXTINF:-1 group-title="DIVERSOS",TV Diversidade
 https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1388974422.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",Tv em Foco
+https://5ad482a77183d.streamlock.net/tvemfocodosvales2013yahoo.com/tvemfocodosvales2013yahoo.com/chunklist_w658969343.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",TV Empire Magazine
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
 
@@ -1125,6 +1152,9 @@ https://5c483b9d1019c.streamlock.net:443/8202/8202/playlist.m3u8
 #EXTINF:-1 group-title="DIVERSOS",TV Germana
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w1753259709.m3u8
 
+#EXTINF:-1 group-title="DIVERSOS",TV Grande Norte
+https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1124761307.m3u8
+
 #EXTINF:-1 group-title="DIVERSOS",TV Guarulhos
 http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
 
@@ -1139,6 +1169,9 @@ https://livefocamundo.com:8081/tvjsid/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="DIVERSOS",TV Japi
 https://srv2.zcast.com.br/tvjapi/tvjapi/playlist-480p.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="DIVERSOS",TV Lagos
+https://video01.kshost.com.br:4443/marcos1646/marcos1646/chunklist_w1756809424.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Mackenzie
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
@@ -1181,6 +1214,9 @@ http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Rio Preto
 http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
+
+#EXTINF:-1 group-title="DIVERSOS",TV Sim
+https://5cf4a2c2512a2.streamlock.net/8236/8236/chunklist_w629898250.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",TV Sol Comunidade
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
