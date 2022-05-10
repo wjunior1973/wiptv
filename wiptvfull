@@ -250,19 +250,19 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedi
 http://189.91.128.146:4444/udp/227.10.20.80:1234
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
-http://187.13.85.16:4000/play/a08j
+http://200.4.96.59:8002/play/a0en/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://189.91.128.146:4444/udp/227.10.20.93:1234
 
 #EXTINF:-1 group-title="VARIEDADES",Discovey Science
-http://189.91.128.146:4444/udp/227.10.20.92:1234
+http://200.4.96.59:8002/play/a0ds/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery TLC
 http://189.91.128.146:4444/udp/227.10.20.84:1234
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
-http://189.91.128.146:4444/udp/227.10.20.82:1234
+http://200.4.96.59:8002/play/a0eo/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Documentarios
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -275,9 +275,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da00074211
 
 #EXTINF:-1 group-title="VARIEDADES",Fail Army
 https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Fandom TV
-http://168.205.87.198:8555/live/adriana/123456/197.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Fashion TV
 http://168.205.87.198:8555/live/adriana/123456/61.m3u8
@@ -477,6 +474,9 @@ https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/chunklist_w137
 
 #EXTINF:-1 group-title="FILMES/SERIES",Eurochannel
 http://200.4.96.59:8002/play/a0dt/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Fandom TV
+http://168.205.87.198:8555/live/adriana/123456/197.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Fiction Movies [LEG]
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137515
@@ -759,6 +759,9 @@ http://200.24.92.20:4000/play/a032
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://200.24.92.20:4000/play/a034
 
+#EXTINF:-1 group-title="INFANTIS",Disney Channel
+http://200.4.96.59:8002/play/a0ep/index.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Disney Junior
 http://200.24.92.20:4000/play/a027
 
@@ -890,6 +893,9 @@ http://168.205.87.198:8555/live/adriana/123456/25.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="RELIGIOSOS",Rede CNT
+http://143.255.128.190:8000/play/a00k/index.m3u8
+
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Genesis
 http://168.205.87.198:8555/live/adriana/123456/98.m3u8
 
@@ -905,11 +911,17 @@ http://168.205.87.198:8555/live/adriana/123456/163.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
 http://187.85.237.34:8825/ipvt_005
 
+#EXTINF:-1 group-title="RELIGIOSOS",RIT
+http://168.205.87.198:8555/live/adriana/123456/168.m3u8
+
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
 http://168.205.87.198:8555/live/adriana/123456/144.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Universal
+http://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 
 ################
 ### DIVERSOS ###
