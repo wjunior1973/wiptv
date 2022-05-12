@@ -8,10 +8,10 @@
 http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band [2]
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
+http://168.205.87.198:8555/live/adriana/123456/19.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band [3]
-http://168.205.87.198:8555/live/adriana/123456/19.m3u8
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Cultura
 http://168.205.87.198:8555/live/adriana/123456/32.m3u8
@@ -178,13 +178,13 @@ http://168.205.87.198:8555/live/adriana/123456/173.m3u8
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TCM 10
-http://168.205.87.198:8555/live/1499/123456/187.m3u8
+http://168.205.87.198:8555/live/adriana/123456/187.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",The Pet Collective
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
-http://168.205.87.198:8555/live/1499/123456/124.m3u8
+http://168.205.87.198:8555/live/adriana/123456/124.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1778094322.m3u8
