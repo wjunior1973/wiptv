@@ -11,7 +11,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band [3]
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist_w652691274.m3u8
+http://168.205.87.198:8555/live/adriana/123456/19.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Cultura
 http://168.205.87.198:8555/live/adriana/123456/32.m3u8
@@ -86,9 +86,6 @@ http://45.232.196.5:8000/play/a02v/index.m3u8
 ##################
 ### VARIEDADES ###
 ##################
-
-#EXTINF:-1 group-title="VARIEDADES",Animal Planet
-http://168.205.87.198:8555/live/1499/123456/18.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Arte1
 https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v2a1/mono.m3u8
@@ -620,9 +617,6 @@ https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",Life Channel Brasil
 http://168.205.87.198:8555/live/adriana/123456/192.m3u8
-
-#EXTINF:-1 group-title="DIVERSOS",Manaus Mix Web TV
-https://stmv1.srvif.com/manaus/manaus/chunklist_w1517363954.m3u8
 
 #EXTINF:-1 group-title="DIVERSOS",Master Show TV
 http://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8
