@@ -20,17 +20,32 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band
 http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Band [2]
+http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo
 http://livetv2021.site:8080/9897876765/6576567/81
+
+#EXTINF:-1 group-title="TV ABERTA",Globo [2]
+http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record
 http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Record [2]
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://187.85.237.31:8825/ipvt_001
 
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! [2]
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist_720_av-p.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",SBT
 http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT [2]
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
 
 ################
 ### NOTICIAS ###
@@ -225,29 +240,11 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 #EXTINF:-1 group-title="ESPORTES",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES",AXSTV Fights
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Canal 11 Portugal
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Combat Go
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
-
-#EXTINF:-1 group-title="ESPORTES",Fight Plus
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Fighting Spirit
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",The Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
