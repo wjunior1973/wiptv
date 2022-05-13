@@ -259,6 +259,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d100
 #EXTINF:-1 group-title="FILMES/SERIES",Kenan & Kel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="FILMES/SERIES",Mr. Bean
+http://187.13.85.16:4000/play/a09q
+
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -276,6 +279,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
 #EXTINF:-1 group-title="FILMES/SERIES",RunTime Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 group-title="FILMES/SERIES",Sai de Baixo
+http://187.13.85.16:4000/play/a0f5
 
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/adriana/123456/160.m3u8
@@ -402,11 +408,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fb
 #EXTINF:-1 group-title="INFANTIS",O Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="INFANTIS",Pantera Cor de Rosa
+http://187.13.85.16:4000/play/a0f2
+
+#EXTINF:-1 group-title="INFANTIS",Pernalonga
+http://187.13.85.16:4000/play/a0fo
+
+#EXTINF:-1 group-title="INFANTIS",Picapau
+http://187.13.85.16:4000/play/a0ez
+
 #EXTINF:-1 group-title="INFANTIS",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w498278998.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Tokusato TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="INFANTIS",Tom & Jerry
+http://187.13.85.16:4000/play/a0f0
 
 #EXTINF:-1 group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
