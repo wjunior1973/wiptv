@@ -7,6 +7,9 @@
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro+
 http://evpp.mm.uol.com.br:1935/geob_band/agromais/chunklist.m3u8
 
+#EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
+http://168.205.87.198:8555/live/1234/123456/167.m3u8
+
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
 https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist.m3u8
 
@@ -23,29 +26,59 @@ http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band [2]
 http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Band [3]
+http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo
 http://livetv2021.site:8080/9897876765/6576567/81
 
 #EXTINF:-1 group-title="TV ABERTA",Globo [2]
 http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo [3]
+http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Record
 http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record [2]
+http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record [3]
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://187.85.237.31:8825/ipvt_001
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! [2]
+http://168.205.87.198:8555/live/1234/123456/102.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! [3]
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist_720_av-p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT
-http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
+http://45.232.196.7:5000/live/SBTSPHD/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT [2]
+http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT [3]
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Brasil
+http://168.205.87.198:8555/live/1234/123456/134.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Brasil 2
+http://168.205.87.198:8555/live/1234/123456/135.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Camara
+http://168.205.87.198:8555/live/1234/123456/136.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Justica
+http://168.205.87.198:8555/live/1234/123456/138.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Senado
+http://168.205.87.198:8555/live/1234/123456/139.m3u8
 
 ################
 ### NOTICIAS ###
@@ -103,11 +136,20 @@ http://187.85.237.34:8825/ipvt_004
 #EXTINF:-1 group-title="VARIEDADES",Fail Army
 https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Fashion TV
+http://168.205.87.198:8555/live/1234/123456/61.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Fish TV
+http://168.205.87.198:8555/live/1234/123456/62.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1373095168.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Fuel TV
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Gazeta
+http://168.205.87.198:8555/live/1234/123456/69.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",History
 http://187.85.237.32:8825/ipvt_007
@@ -139,11 +181,29 @@ http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 group-title="VARIEDADES",OX TV
 https://alanza.iptv2022.com/OX_TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Polishop
+http://168.205.87.198:8555/live/1234/123456/153.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",RBTV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Rede Familia
+http://168.205.87.198:8555/live/1234/123456/151.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Sabor e Arte
+http://168.205.87.198:8555/live/1234/123456/172.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Shoptime
+http://168.205.87.198:8555/live/1234/123456/164.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Smithsonian Channel
+http://168.205.87.198:8555/live/1234/123456/173.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",TCM 10
+http://168.205.87.198:8555/live/1234/123456/187.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://origin-02.nxplay.com.br/TRAVEL_HD/video.m3u8?ROGERIOTORRES
@@ -152,7 +212,7 @@ http://origin-02.nxplay.com.br/TRAVEL_HD/video.m3u8?ROGERIOTORRES
 https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TV Escola
-http://187.85.237.8:8825/ipvt_002
+http://168.205.87.198:8555/live/1234/123456/137.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TV Opiniao Play
 https://livefocamundo.com:8081/opiniaoplay/index.m3u8
@@ -175,12 +235,24 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",XR Health Brasil
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Yeeaah!
+http://168.205.87.198:8555/live/1234/123456/193.m3u8
+
 #####################
 ### FILMES/SERIES ###
 #####################
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://187.85.237.8:8825/ipvt_005
+
+#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
+http://168.205.87.198:8555/live/1234/123456/159.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
+http://168.205.87.198:8555/live/1234/123456/145.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Classique TV
+http://168.205.87.198:8555/live/1234/123456/190.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w2089498850.m3u8
@@ -197,6 +269,9 @@ https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/chunklist_w137
 #EXTINF:-1 group-title="FILMES/SERIES",Film&Arts
 http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",ISTV
+http://168.205.87.198:8555/live/1234/123456/182.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -208,6 +283,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
 #EXTINF:-1 group-title="FILMES/SERIES",RunTime Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
+http://168.205.87.198:8555/live/1234/123456/160.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Spark TV
 https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
@@ -261,12 +339,18 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Woohoo
+http://168.205.87.198:8555/live/1234/123456/141.m3u8
+
 ################
 ### INFANTIS ###
 ################
 
 #EXTINF:-1 group-title="INFANTIS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Kids
+http://168.205.87.198:8555/live/1234/123456/143.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nick
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
@@ -277,11 +361,17 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w498278998.m3u8
 #EXTINF:-1 group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 
+#EXTINF:-1 group-title="INFANTIS",TV RaTimBum
+http://168.205.87.198:8555/live/1234/123456/84.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w79601195.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Xilam TV
 https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
+http://168.205.87.198:8555/live/1234/123456/162.m3u8
 
 ##############
 ### MUSICA ###
@@ -290,8 +380,17 @@ https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",America Latino
 http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="MUSICA",BRA
+http://168.205.87.198:8555/live/1234/123456/24.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Classic Hits
+http://168.205.87.198:8555/live/1234/123456/27.m3u8
+
 #EXTINF:-1 group-title="MUSICA",Clubbing TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Cult
+http://168.205.87.198:8555/live/1234/123456/30.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Hitts
 http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
@@ -326,6 +425,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 group-title="MUSICA",Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
 
+#EXTINF:-1 group-title="MUSICA",SCH
+http://168.205.87.198:8555/live/1234/123456/105.m3u8
+
 #EXTINF:-1 group-title="MUSICA",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 
@@ -339,8 +441,14 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 ### RELIGIOSOS ###
 ##################
 
+#EXTINF:-1 group-title="RELIGIOSOS",Boa Vontade TV
+http://168.205.87.198:8555/live/1234/123456/21.m3u8
+
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",CNT
+http://168.205.87.198:8555/live/1234/123456/150.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Cristo Vive
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w308963911.m3u8
@@ -351,6 +459,9 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/chunklist_w847094439_b1628000_slpor.m3u8
 
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Genesis
+http://168.205.87.198:8555/live/1234/123456/98.ts
+
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Gospel Brasil
 https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/playlist.m3u8
 
@@ -359,6 +470,9 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
 http://187.85.237.34:8825/ipvt_005
+
+#EXTINF:-1 group-title="RELIGIOSOS",RIT
+http://168.205.87.198:8555/live/1234/123456/168.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
