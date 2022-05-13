@@ -4,17 +4,11 @@
 ### AGRONEGOCIOS ###
 ####################
 
-#EXTINF:-1 group-title="AGRONEGOCIOS",Agro Brasil
-https://server.flixtv.com.br:443/agrobrasiltv/agrobrasiltv/chunklist_w1899906093.m3u8
-
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro+
 http://evpp.mm.uol.com.br:1935/geob_band/agromais/chunklist.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
 https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Nova Tv Agrotour
-https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/playlist.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
@@ -79,9 +73,6 @@ https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES",BRSuper TV
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Canal Saude
-http://168.205.87.198:8555/live/adriana/123456/165.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Comedia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 
@@ -90,9 +81,6 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.
 
 #EXTINF:-1 group-title="VARIEDADES",Demand Africa
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Documentarios
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://187.85.237.34:8825/ipvt_004
@@ -115,11 +103,11 @@ http://cdn.connectbr.com.br:80/h2/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Hollywire
 https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Life Channel Brasil
-http://168.205.87.198:8555/live/adriana/123456/192.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://187.85.237.32:8825/ipvt_001
+
+#EXTINF:-1 group-title="VARIEDADES",Loading
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",MTV Brasil
 http://187.85.237.8:8825/ipvt_004
@@ -130,17 +118,20 @@ http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/tracks-v1a1/mono.m3u8?sd=10&reba
 #EXTINF:-1 group-title="VARIEDADES",Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",NHK Japan
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",OX TV
 https://alanza.iptv2022.com/OX_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",RBTV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",SESC TV
-http://168.205.87.198:8555/live/adriana/123456/107.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
+http://origin-02.nxplay.com.br/TRAVEL_HD/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES",TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
@@ -176,9 +167,6 @@ http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://187.85.237.8:8825/ipvt_005
 
-#EXTINF:-1 group-title="FILMES/SERIES",CLC Filmes
-http://168.205.87.198:8555/live/adriana/123456/198.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w2089498850.m3u8
 
@@ -191,7 +179,7 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Eu A Patroa e as Criancas
 https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/chunklist_w1371719505.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Film & Arts
+#EXTINF:-1 group-title="FILMES/SERIES",Film&Arts
 http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
@@ -234,8 +222,8 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 ### ESPORTES ###
 ################
 
-#EXTINF:-1 group-title="ESPORTES",All Elite Wrestling
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:-1 group-title="ESPORTES",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES",AXSTV Fights
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
@@ -276,9 +264,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",Turbo
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 ################
 ### INFANTIS ###
 ################
@@ -305,14 +290,14 @@ https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 ### MUSICA ###
 ##############
 
-#EXTINF:-1 group-title="MUSICA",Canal America Latino
-https://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Canal Mega
-http://origin-02.nxplay.com.br/MEGA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MUSICA",America Latino
+http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Clubbing TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Hitts
+http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Loop 80's
 https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
@@ -320,8 +305,14 @@ https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="MUSICA",Loop 90's
 https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
 
+#EXTINF:-1 group-title="MUSICA",Mega
+http://origin-02.nxplay.com.br/MEGA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="MUSICA",Music Box Brazil
 http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Qwest Classical
 https://qwest-classic-rakuten-samsung.amagi.tv/playlist.m3u8
@@ -331,6 +322,12 @@ https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Qwest TV Mix
 https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Rock TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
 
 #EXTINF:-1 group-title="MUSICA",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
@@ -345,6 +342,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 ### RELIGIOSOS ###
 ##################
 
+#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+
 #EXTINF:-1 group-title="RELIGIOSOS",Cristo Vive
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w308963911.m3u8
 
@@ -356,6 +356,9 @@ http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/chunklist_w84709443
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Gospel Brasil
 https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
 http://187.85.237.34:8825/ipvt_005
