@@ -5,7 +5,7 @@
 ####################
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro+
-http://evpp.mm.uol.com.br:1935/geob_band/agromais/chunklist.m3u8
+https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
 http://168.205.87.198:8555/live/1234/123456/167.m3u8
@@ -21,21 +21,15 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #################
 
 #EXTINF:-1 group-title="TV ABERTA",Band
-http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
+http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band [2]
-http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Band [3]
-http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
+http://168.205.87.198:8555/live/adriana/123456/19.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo
 http://livetv2021.site:8080/9897876765/6576567/81
 
 #EXTINF:-1 group-title="TV ABERTA",Globo [2]
-http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo [3]
 http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record
@@ -44,26 +38,17 @@ http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record [2]
 http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record [3]
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://187.85.237.31:8825/ipvt_001
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! [2]
 http://168.205.87.198:8555/live/1234/123456/102.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! [3]
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist_720_av-p.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",SBT
 http://45.232.196.7:5000/live/SBTSPHD/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT [2]
 http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT [3]
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/1234/123456/134.m3u8
