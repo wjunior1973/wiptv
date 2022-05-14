@@ -24,7 +24,7 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band [2]
-http://168.205.87.198:8555/live/adriana/123456/19.m3u8
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo
 http://livetv2021.site:8080/9897876765/6576567/81
@@ -219,9 +219,6 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",XR Health Brasil
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Yeeaah!
-http://168.205.87.198:8555/live/1234/123456/193.m3u8
 
 #####################
 ### FILMES/SERIES ###
