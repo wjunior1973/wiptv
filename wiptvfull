@@ -10,9 +10,6 @@ https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
 http://168.205.87.198:8555/live/1234/123456/167.m3u8
 
-#EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
-https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist.m3u8
-
 #EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
@@ -27,10 +24,10 @@ http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo
-http://livetv2021.site:8080/9897876765/6576567/81
+http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo [2]
-http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
+http://livetv2021.site:8080/9897876765/6576567/81
 
 #EXTINF:-1 group-title="TV ABERTA",Record
 http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
@@ -75,12 +72,6 @@ http://cdn.connectbr.com.br/BandNews/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Bloomberg Brasil
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",CBN RJ
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",CBN SP
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",Euronews Portugal
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -90,18 +81,12 @@ http://187.85.237.3:8220/ipvt_004
 #EXTINF:-1 group-title="NOTICIAS",JP News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",Record News
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/index.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",SIC Noticias Portugal
-http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
-
 ##################
 ### VARIEDADES ###
 ##################
 
 #EXTINF:-1 group-title="VARIEDADES",Arte1
-https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v2a1/mono.m3u8
+https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",BRSuper TV
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
@@ -159,9 +144,6 @@ http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/tracks-v1a1/mono.m3u8?sd=10&reba
 
 #EXTINF:-1 group-title="VARIEDADES",Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",NHK Japan
-http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",OX TV
 https://alanza.iptv2022.com/OX_TV/tracks-v1a1/mono.m3u8
@@ -227,20 +209,32 @@ http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://187.85.237.8:8825/ipvt_005
 
+#EXTINF:-1 group-title="FILMES/SERIES",Canal 29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
 http://168.205.87.198:8555/live/1234/123456/159.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://168.205.87.198:8555/live/1234/123456/145.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Classicos do Cinema
+https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Classique TV
 http://168.205.87.198:8555/live/1234/123456/190.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Classique TV 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w227761684.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Classique TV Western
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",CLC Filmes
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w2089498850.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Dark Matter TV
-https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
@@ -251,8 +245,17 @@ https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/chunklist_w137
 #EXTINF:-1 group-title="FILMES/SERIES",Film&Arts
 http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Fronteira Movies
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1487374814.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",GLN TV
+https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",ISTV
-http://168.205.87.198:8555/live/1234/123456/182.m3u8
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",J.Sid
+https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -272,20 +275,8 @@ http://168.205.87.198:8555/live/1234/123456/160.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Spark TV
 https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
-http://187.85.237.3:8220/ipvt_002
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
-http://187.85.237.26:8825/ipvt_004
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
-http://187.85.237.34:8825/ipvt_001
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
-http://187.85.237.25:8825/ipvt_005
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
-http://187.85.237.34:8825/ipvt_002
+#EXTINF:-1 group-title="FILMES/SERIES",TVJN
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
@@ -298,7 +289,7 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 ################
 
 #EXTINF:-1 group-title="ESPORTES",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
+http://168.205.87.198:8555/live/adriana/123456/148.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
@@ -403,9 +394,6 @@ https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Rock TV
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
 
 #EXTINF:-1 group-title="MUSICA",SCH
 http://168.205.87.198:8555/live/1234/123456/105.m3u8
