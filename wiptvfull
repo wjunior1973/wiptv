@@ -633,6 +633,15 @@ http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MUSICA",BIS
 http://200.4.96.59:8002/play/a0ex/index.m3u8
 
+#EXTINF:-1 group-title="MUSICA",BRA
+http://168.205.87.198:8555/live/4666/123456/24.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Classic Hits
+http://168.205.87.198:8555/live/4666/123456/27.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Cult
+http://168.205.87.198:8555/live/4666/123456/30.m3u8
+
 #EXTINF:-1 group-title="MUSICA",Clubbing TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -647,6 +656,12 @@ https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="MUSICA",Mega
 http://origin-02.nxplay.com.br/MEGA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICA",MTV 90's
+http://85.14.32.15:8801/udp/224.100.1.98:56000
+
+#EXTINF:-1 group-title="MUSICA",MTV Hits
+http://85.14.32.15:8801/udp/224.100.1.97:56000
 
 #EXTINF:-1 group-title="MUSICA",MTV Live
 http://200.4.96.59:8003/play/a046/index.m3u8
@@ -668,6 +683,9 @@ https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",SCH
+http://168.205.87.198:8555/live/4666/123456/105.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Sertanejo TV
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137525
