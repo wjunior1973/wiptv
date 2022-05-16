@@ -26,32 +26,17 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band
 http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band [2]
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Globo
 http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo [2]
-http://livetv2021.site:8080/9897876765/6576567/81
-
 #EXTINF:-1 group-title="TV ABERTA",Record
-http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record [2]
 http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
-http://200.24.92.20:4000/play/a001
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! [2]
-http://189.91.128.146:4444/udp/227.10.20.164:1234
+http://168.205.87.198:8555/live/4666/123456/102.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT
 http://45.232.196.7:5000/live/SBTSPHD/720p.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT [2]
-http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://200.4.96.59:8002/play/a0dm/index.m3u8
