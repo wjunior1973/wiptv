@@ -4,8 +4,14 @@
 ### AGRONEGOCIOS ###
 ####################
 
+#EXTINF:-1 group-title="AGRONEGOCIOS",Agro Canal
+http://168.205.87.198:8555/live/4666/123456/10.m3u8
+
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro+
 https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
+http://168.205.87.198:8555/live/4666/123456/167.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
 http://200.24.92.20:4000/play/a023
@@ -54,7 +60,16 @@ http://200.4.96.59:8002/play/a0dm/index.m3u8
 http://200.24.92.20:4000/play/a015
 
 #EXTINF:-1 group-title="TV ABERTA",TV Camara
-http://143.255.128.190:8000/play/a00r/index.m3u8
+http://168.205.87.198:8555/live/4666/123456/136.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Escola
+http://168.205.87.198:8555/live/4666/123456/137.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Justica
+http://168.205.87.198:8555/live/4666/123456/138.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Senado
+http://168.205.87.198:8555/live/4666/123456/139.m3u8
 
 ################
 ### NOTICIAS ###
@@ -74,6 +89,9 @@ http://187.85.237.3:8220/ipvt_004
 
 #EXTINF:-1 group-title="NOTICIAS",JP News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",Record News
+http://168.205.87.198:8555/live/4666/123456/97.m3u8
 
 ##################
 ### VARIEDADES ###
@@ -241,9 +259,15 @@ http://200.4.96.59:8002/play/a0ek/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",XR Health Brasil
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Yeeaah
+http://168.205.87.198:8555/live/4666/123456/193.m3u8
+
 ##################
 ### CANAIS 24H ###
 ##################
+
+#EXTINF:-1 group-title="CANAIS 24H",Chaves & Chapolin
+http://168.205.87.198:8555/live/4666/123456/159.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24H",Dois Homens e Meio
 http://187.13.85.16:4000/play/a0a4
@@ -297,6 +321,9 @@ http://187.85.237.8:8825/ipvt_005
 #EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
 http://187.13.85.16:4000/play/a09r
 
+#EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
+http://168.205.87.198:8555/live/4666/123456/145.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Cinecanal
 http://200.4.96.59:8002/play/a0g7/index.m3u8
 
@@ -320,6 +347,9 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137489
 
 #EXTINF:-1 group-title="FILMES/SERIES",Eurochannel
 http://200.4.96.59:8002/play/a0dt/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Fandom TV
+http://168.205.87.198:8555/live/4666/123456/197.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Fiction Movies [LEG]
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137515
@@ -402,6 +432,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 group-title="FILMES/SERIES",RunTime Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
+#EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
+http://168.205.87.198:8555/live/4666/123456/160.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 http://187.13.85.16:4000/play/a0e7
 
@@ -462,6 +495,9 @@ http://200.24.92.20:4000/play/a046
 ################
 ### ESPORTES ###
 ################
+
+#EXTINF:-1 group-title="ESPORTES",All Sports
+http://168.205.87.198:8555/live/4666/123456/148.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
@@ -542,7 +578,7 @@ http://200.24.92.20:4000/play/a031
 #EXTINF:-1 group-title="INFANTIS",Cartoonito
 http://200.4.96.59:8002/play/a0dw/index.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",DISCOVERY KIDS
+#EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://200.24.92.20:4000/play/a034
 
 #EXTINF:-1 group-title="INFANTIS",Disney Junior
@@ -553,6 +589,9 @@ http://200.4.96.59:8002/play/a0ew/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Gloobinho
 http://200.4.96.59:8002/play/a0fd/index.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Kids TV
+http://168.205.87.198:8555/live/4666/123456/143.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Masha  e o Urso
 http://187.13.85.16:4000/play/a0f1
