@@ -61,7 +61,7 @@ http://168.205.87.198:8555/live/4666/123456/139.m3u8
 ################
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
-http://cdn.connectbr.com.br/BandNews/index.m3u8
+http://168.205.87.198:8555/live/4666/123456/174.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Bloomberg Brasil
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
@@ -264,9 +264,6 @@ http://187.13.85.16:4000/play/a0f7
 http://187.13.85.16:4000/play/a0f3
 
 #EXTINF:-1 group-title="CANAIS 24H",Eu A Patroa e as Criancas
-https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/chunklist_w1371719505.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24H",Eu A Patroa e as Criancas [2]
 http://187.13.85.16:4000/play/a09p
 
 #EXTINF:-1 group-title="CANAIS 24H",Friends
@@ -485,7 +482,7 @@ http://200.24.92.20:4000/play/a046
 http://168.205.87.198:8555/live/4666/123456/148.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
-http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
+http://168.205.87.198:8555/live/4666/123456/176.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Canal 11 Portugal
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
@@ -696,8 +693,17 @@ http://200.4.96.59:8003/play/a04b/index.m3u8
 #EXTINF:-1 group-title="MUSICA",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 
+#EXTINF:-1 group-title="MUSICA",VEVO 2K's
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MUSICA",VEVO 70's
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1 group-title="MUSICA",VEVO 80's
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",VEVO 90's
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="MUSICA",VEVO Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
