@@ -7,10 +7,19 @@
 #EXTINF:-1 group-title="TV ABERTA",Band
 http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo
+#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC Blumenau
+http://cdn.teambr.live:80/4659753/6536874/75312
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC Florianopolis
+http://cdn.teambr.live:80/4659753/6536874/531
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record
+#EXTINF:-1 group-title="TV ABERTA",Record SC - NDTV
+http://cdn.teambr.live:80/4659753/6536874/43742
+
+#EXTINF:-1 group-title="TV ABERTA",Record SP
 http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
@@ -159,6 +168,12 @@ http://191.19.212.46:4013/play/a02x/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",MasterChef
+http://cdn.teambr.live:80/4659753/6536874/85891
+
+#EXTINF:-1 group-title="VARIEDADES",MasterChef Brasil
+http://cdn.teambr.live:80/4659753/6536874/79146
+
 #EXTINF:-1 group-title="VARIEDADES",Modo Viagem
 http://200.4.96.59:8002/play/a0ev/index.m3u8
 
@@ -259,8 +274,14 @@ http://187.13.85.16:4000/play/a09p
 #EXTINF:-1 group-title="CANAIS 24H",Friends
 http://187.13.85.16:4000/play/a0f8
 
+#EXTINF:-1 group-title="CANAIS 24H",Mazzaropi
+http://cdn.teambr.live:80/4659753/6536874/36705
+
 #EXTINF:-1 group-title="CANAIS 24H",Mr. Bean
 http://187.13.85.16:4000/play/a09q
+
+#EXTINF:-1 group-title="CANAIS 24H",Os Simpsons
+http://cdn.teambr.live:80/4659753/6536874/20130
 
 #EXTINF:-1 group-title="CANAIS 24H",Os Simpsons [LEG]
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137510
@@ -268,8 +289,32 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137510
 #EXTINF:-1 group-title="CANAIS 24H",Os Tres Patetas
 https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w1141132032.m3u8
 
+#EXTINF:-1 group-title="CANAIS 24H",Pegadinhas Silvio Santos
+http://cdn.teambr.live:80/4659753/6536874/43388
+
+#EXTINF:-1 group-title="CANAIS 24H",Pesadelo na Cozinha
+http://cdn.teambr.live:80/4659753/6536874/77720
+
 #EXTINF:-1 group-title="CANAIS 24H",Sai de Baixo
 http://187.13.85.16:4000/play/a0f5
+
+#EXTINF:-1 group-title="CANAIS 24H",SKY Play 1
+http://cdn.teambr.live:80/4659753/6536874/43601
+
+#EXTINF:-1 group-title="CANAIS 24H",SKY Play 2
+http://cdn.teambr.live:80/4659753/6536874/43602
+
+#EXTINF:-1 group-title="CANAIS 24H",SKY Play 3
+http://cdn.teambr.live:80/4659753/6536874/43603
+
+#EXTINF:-1 group-title="CANAIS 24H",SKY Play 4
+http://cdn.teambr.live:80/4659753/6536874/43604
+
+#EXTINF:-1 group-title="CANAIS 24H",SKY Play 5
+http://cdn.teambr.live:80/4659753/6536874/43605
+
+#EXTINF:-1 group-title="CANAIS 24H",Sobrenatural
+http://cdn.teambr.live:80/4659753/6536874/20435
 
 #EXTINF:-1 group-title="CANAIS 24H",The Big Bang Theory
 http://187.13.85.16:4000/play/a0f6
@@ -279,6 +324,70 @@ http://187.13.85.16:4000/play/a09n
 
 #EXTINF:-1 group-title="CANAIS 24H",Um Maluco no Pedaco
 http://187.13.85.16:4000/play/a09o
+
+#EXTINF:-1 group-title="CANAIS 24H",Vai que Cola
+http://cdn.teambr.live:80/4659753/6536874/47748
+
+##################
+### CINEMA 24H ###
+##################
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine Comedia
+http://cdn.teambr.live:80/4659753/6536874/39463
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine Desenhos
+http://cdn.teambr.live:80/4659753/6536874/168
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine Familia
+http://cdn.teambr.live:80/4659753/6536874/39469
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine Lancamentos
+http://cdn.teambr.live:80/4659753/6536874/39470
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine Marvel
+http://cdn.teambr.live:80/4659753/6536874/39465
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine Oscar
+http://cdn.teambr.live:80/4659753/6536874/39467
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine Pipoca 1
+http://cdn.teambr.live:80/4659753/6536874/39455
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine Pipoca 2
+http://cdn.teambr.live:80/4659753/6536874/39456
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine Romance
+http://cdn.teambr.live:80/4659753/6536874/39468
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine SKY 1
+http://cdn.teambr.live:80/4659753/6536874/40793
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine SKY 2
+http://cdn.teambr.live:80/4659753/6536874/40794
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine SKY 3
+http://cdn.teambr.live:80/4659753/6536874/40795
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine SKY 4
+http://cdn.teambr.live:80/4659753/6536874/40796
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine SKY 5
+http://cdn.teambr.live:80/4659753/6536874/40797
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine SKY 6
+http://cdn.teambr.live:80/4659753/6536874/38585
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine SKY 7
+http://cdn.teambr.live:80/4659753/6536874/38586
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine SKY 8
+http://cdn.teambr.live:80/4659753/6536874/38587
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine SKY 9
+http://cdn.teambr.live:80/4659753/6536874/38588
+
+#EXTINF:-1 group-title="CINEMA 24H",Cine SKY 10
+http://cdn.teambr.live:80/4659753/6536874/38589
 
 #####################
 ### FILMES/SERIES ###
@@ -544,11 +653,17 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
 #EXTINF:-1 group-title="INFANTIS",Baby TV
 http://187.13.85.16:4000/play/a08t
 
+#EXTINF:-1 group-title="INFANTIS",Bob Esponja
+http://cdn.teambr.live:80/4659753/6536874/22583
+
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 http://200.24.92.20:4000/play/a031
 
 #EXTINF:-1 group-title="INFANTIS",Cartoonito
 http://200.4.96.59:8002/play/a0dw/index.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Corrida Maluca
+http://cdn.teambr.live:80/4659753/6536874/20436
 
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://200.24.92.20:4000/play/a034
@@ -571,6 +686,9 @@ http://168.205.87.198:8555/live/4666/123456/143.m3u8
 #EXTINF:-1 group-title="INFANTIS",Masha e o Urso
 http://187.13.85.16:4000/play/a0f1
 
+#EXTINF:-1 group-title="INFANTIS",Manda Chuva
+http://cdn.teambr.live:80/4659753/6536874/38085
+
 #EXTINF:-1 group-title="INFANTIS",Mickey e Dolnald
 http://187.13.85.16:4000/play/a0ey
 
@@ -583,6 +701,9 @@ http://200.24.92.20:4000/play/a029
 #EXTINF:-1 group-title="INFANTIS",Pantera Cor de Rosa
 http://187.13.85.16:4000/play/a0f2
 
+#EXTINF:-1 group-title="INFANTIS",Pepe Legal
+http://cdn.teambr.live:80/4659753/6536874/38042
+
 #EXTINF:-1 group-title="INFANTIS",Pernalonga
 http://187.13.85.16:4000/play/a0fo
 
@@ -591,6 +712,12 @@ http://187.13.85.16:4000/play/a0ez
 
 #EXTINF:-1 group-title="INFANTIS",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w498278998.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Thundercats
+http://cdn.teambr.live:80/4659753/6536874/38074
+
+#EXTINF:-1 group-title="INFANTIS",Timao e Pumba
+http://cdn.teambr.live:80/4659753/6536874/21099
 
 #EXTINF:-1 group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
@@ -603,6 +730,9 @@ http://200.4.96.59:8003/play/a04g/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",TV RaTimBum
 http://200.4.96.59:8002/play/a0ey/index.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Ultraman
+http://cdn.teambr.live:80/4659753/6536874/38076
 
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w79601195.m3u8
@@ -646,6 +776,9 @@ https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="MUSICA",Mega
 http://origin-02.nxplay.com.br/MEGA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSICA",MTV 00's
+http://cdn.teambr.live:80/4659753/6536874/161
 
 #EXTINF:-1 group-title="MUSICA",MTV 90's
 http://85.14.32.15:8801/udp/224.100.1.98:56000
@@ -754,6 +887,9 @@ http://168.205.87.198:8555/live/4666/123456/10.m3u8
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro+
 https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="AGRONEGOCIOS",AgroBrasil TV
+http://cdn.teambr.live:80/4659753/6536874/84556
+
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
 http://168.205.87.198:8555/live/4666/123456/167.m3u8
 
@@ -762,3 +898,337 @@ http://200.24.92.20:4000/play/a023
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+###################
+### CANAIS GOLD ###
+###################
+
+#EXTINF:-1 group-title="CANAIS GOLD",A&E
+http://cdn.teambr.live:80/4659753/6536874/42
+
+#EXTINF:-1 group-title="CANAIS GOLD",AMC
+http://cdn.teambr.live:80/4659753/6536874/43
+
+#EXTINF:-1 group-title="CANAIS GOLD",Animal Planet
+http://cdn.teambr.live:80/4659753/6536874/44
+
+#EXTINF:-1 group-title="CANAIS GOLD",Arte 1
+http://cdn.teambr.live:80/4659753/6536874/45
+
+#EXTINF:-1 group-title="CANAIS GOLD",AXN
+http://cdn.teambr.live:80/4659753/6536874/46
+
+#EXTINF:-1 group-title="CANAIS GOLD",Baby
+http://cdn.teambr.live:80/4659753/6536874/47
+
+#EXTINF:-1 group-title="CANAIS GOLD",Band
+http://cdn.teambr.live:80/4659753/6536874/50
+
+#EXTINF:-1 group-title="CANAIS GOLD",Band News
+http://cdn.teambr.live:80/4659753/6536874/48
+
+#EXTINF:-1 group-title="CANAIS GOLD",Band Sports
+http://cdn.teambr.live:80/4659753/6536874/51
+
+#EXTINF:-1 group-title="CANAIS GOLD",BIS
+http://cdn.teambr.live:80/4659753/6536874/52
+
+#EXTINF:-1 group-title="CANAIS GOLD",Canal Brasil
+http://cdn.teambr.live:80/4659753/6536874/43619
+
+#EXTINF:-1 group-title="CANAIS GOLD",Cancao Nova
+http://cdn.teambr.live:80/4659753/6536874/55
+
+#EXTINF:-1 group-title="CANAIS GOLD",Cartoon Network
+http://cdn.teambr.live:80/4659753/6536874/56
+
+#EXTINF:-1 group-title="CANAIS GOLD",Cartoonito
+http://cdn.teambr.live:80/4659753/6536874/53
+
+#EXTINF:-1 group-title="CANAIS GOLD",CineCanal
+http://cdn.teambr.live:80/4659753/6536874/83
+
+#EXTINF:-1 group-title="CANAIS GOLD",Cinemax
+http://cdn.teambr.live:80/4659753/6536874/57
+
+#EXTINF:-1 group-title="CANAIS GOLD",CNN Brasil
+http://cdn.teambr.live:80/4659753/6536874/58
+
+#EXTINF:-1 group-title="CANAIS GOLD",Combate
+http://cdn.teambr.live:80/4659753/6536874/59
+
+#EXTINF:-1 group-title="CANAIS GOLD",Comedy Central
+http://cdn.teambr.live:80/4659753/6536874/60
+
+#EXTINF:-1 group-title="CANAIS GOLD",Cultura
+http://cdn.teambr.live:80/4659753/6536874/61
+
+#EXTINF:-1 group-title="CANAIS GOLD",Curta!
+http://cdn.teambr.live:80/4659753/6536874/54
+
+#EXTINF:-1 group-title="CANAIS GOLD",Discovery Channel
+http://cdn.teambr.live:80/4659753/6536874/64
+
+#EXTINF:-1 group-title="CANAIS GOLD",Discovery H&H
+http://cdn.teambr.live:80/4659753/6536874/65
+
+#EXTINF:-1 group-title="CANAIS GOLD",Discovery Kids
+http://cdn.teambr.live:80/4659753/6536874/66
+
+#EXTINF:-1 group-title="CANAIS GOLD",Discovery Science
+http://cdn.teambr.live:80/4659753/6536874/67
+
+#EXTINF:-1 group-title="CANAIS GOLD",Discovery Theater
+http://cdn.teambr.live:80/4659753/6536874/68
+
+#EXTINF:-1 group-title="CANAIS GOLD",Discovery Turbo
+http://cdn.teambr.live:80/4659753/6536874/69
+
+#EXTINF:-1 group-title="CANAIS GOLD",Discovery World
+http://cdn.teambr.live:80/4659753/6536874/70
+
+#EXTINF:-1 group-title="CANAIS GOLD",Disney Channel 
+http://cdn.teambr.live:80/4659753/6536874/71
+
+#EXTINF:-1 group-title="CANAIS GOLD",E!
+http://cdn.teambr.live:80/4659753/6536874/74
+
+#EXTINF:-1 group-title="CANAIS GOLD",ESPN
+http://cdn.teambr.live:80/4659753/6536874/77
+
+#EXTINF:-1 group-title="CANAIS GOLD",ESPN 2
+http://cdn.teambr.live:80/4659753/6536874/79
+
+#EXTINF:-1 group-title="CANAIS GOLD",ESPN 3
+http://cdn.teambr.live:80/4659753/6536874/76
+
+#EXTINF:-1 group-title="CANAIS GOLD",ESPN 4
+http://cdn.teambr.live:80/4659753/6536874/87
+
+#EXTINF:-1 group-title="CANAIS GOLD",ESPN Extra
+http://cdn.teambr.live:80/4659753/6536874/43651
+
+#EXTINF:-1 group-title="CANAIS GOLD",Film&Arts
+http://cdn.teambr.live:80/4659753/6536874/80
+
+#EXTINF:-1 group-title="CANAIS GOLD",Fish TV
+http://cdn.teambr.live:80/4659753/6536874/81
+
+#EXTINF:-1 group-title="CANAIS GOLD",Food Network
+http://cdn.teambr.live:80/4659753/6536874/38615
+
+#EXTINF:-1 group-title="CANAIS GOLD",Futura
+http://cdn.teambr.live:80/4659753/6536874/40485
+
+#EXTINF:-1 group-title="CANAIS GOLD",FX
+http://cdn.teambr.live:80/4659753/6536874/88
+
+#EXTINF:-1 group-title="CANAIS GOLD",Globo News
+http://cdn.teambr.live:80/4659753/6536874/90
+
+#EXTINF:-1 group-title="CANAIS GOLD",Globo RJ
+http://cdn.teambr.live:80/4659753/6536874/43371
+
+#EXTINF:-1 group-title="CANAIS GOLD",Globo SP
+http://cdn.teambr.live:80/4659753/6536874/89
+
+#EXTINF:-1 group-title="CANAIS GOLD",GNT
+http://cdn.teambr.live:80/4659753/6536874/92
+
+#EXTINF:-1 group-title="CANAIS GOLD",HBO
+http://cdn.teambr.live:80/4659753/6536874/96
+
+#EXTINF:-1 group-title="CANAIS GOLD",HBO 2
+http://cdn.teambr.live:80/4659753/6536874/94
+
+#EXTINF:-1 group-title="CANAIS GOLD",HBO Family
+http://cdn.teambr.live:80/4659753/6536874/95
+
+#EXTINF:-1 group-title="CANAIS GOLD",HBO Mundi
+http://cdn.teambr.live:80/4659753/6536874/97
+
+#EXTINF:-1 group-title="CANAIS GOLD",HBO Plus
+http://cdn.teambr.live:80/4659753/6536874/98
+
+#EXTINF:-1 group-title="CANAIS GOLD",HBO Pop
+http://cdn.teambr.live:80/4659753/6536874/99
+
+#EXTINF:-1 group-title="CANAIS GOLD",HBO Signature
+http://cdn.teambr.live:80/4659753/6536874/100
+
+#EXTINF:-1 group-title="CANAIS GOLD",HBO Xtreme
+http://cdn.teambr.live:80/4659753/6536874/101
+
+#EXTINF:-1 group-title="CANAIS GOLD",HGTV
+http://cdn.teambr.live:80/4659753/6536874/102
+
+#EXTINF:-1 group-title="CANAIS GOLD",H2
+http://cdn.teambr.live:80/4659753/6536874/40703
+
+#EXTINF:-1 group-title="CANAIS GOLD",History Channel
+http://cdn.teambr.live:80/4659753/6536874/103
+
+#EXTINF:-1 group-title="CANAIS GOLD",ID Investigacao Discovery
+http://cdn.teambr.live:80/4659753/6536874/104
+
+#EXTINF:-1 group-title="CANAIS GOLD",Lifetime
+http://cdn.teambr.live:80/4659753/6536874/105
+
+#EXTINF:-1 group-title="CANAIS GOLD",Love Nature
+http://cdn.teambr.live:80/4659753/6536874/106
+
+#EXTINF:-1 group-title="CANAIS GOLD",Megapix
+http://cdn.teambr.live:80/4659753/6536874/108
+
+#EXTINF:-1 group-title="CANAIS GOLD",MTV
+http://cdn.teambr.live:80/4659753/6536874/109
+
+#EXTINF:-1 group-title="CANAIS GOLD",MTV 00s
+http://cdn.teambr.live:80/4659753/6536874/161
+
+#EXTINF:-1 group-title="CANAIS GOLD",Multishow
+http://cdn.teambr.live:80/4659753/6536874/110
+
+#EXTINF:-1 group-title="CANAIS GOLD",National Geographic
+http://cdn.teambr.live:80/4659753/6536874/111
+
+#EXTINF:-1 group-title="CANAIS GOLD",Nick
+http://cdn.teambr.live:80/4659753/6536874/116
+
+#EXTINF:-1 group-title="CANAIS GOLD",Nick Junior
+http://cdn.teambr.live:80/4659753/6536874/115
+
+#EXTINF:-1 group-title="CANAIS GOLD",Off
+http://cdn.teambr.live:80/4659753/6536874/117
+
+#EXTINF:-1 group-title="CANAIS GOLD",Paramount
+http://cdn.teambr.live:80/4659753/6536874/118
+
+#EXTINF:-1 group-title="CANAIS GOLD",Premiere Clubes
+http://cdn.teambr.live:80/4659753/6536874/125
+
+#EXTINF:-1 group-title="CANAIS GOLD",Premiere 2
+http://cdn.teambr.live:80/4659753/6536874/120
+
+#EXTINF:-1 group-title="CANAIS GOLD",Premiere 3
+http://cdn.teambr.live:80/4659753/6536874/121
+
+#EXTINF:-1 group-title="CANAIS GOLD",Premiere 4
+http://cdn.teambr.live:80/4659753/6536874/122
+
+#EXTINF:-1 group-title="CANAIS GOLD",Premiere 5
+http://cdn.teambr.live:80/4659753/6536874/123
+
+#EXTINF:-1 group-title="CANAIS GOLD",Premiere 6
+http://cdn.teambr.live:80/4659753/6536874/124
+
+#EXTINF:-1 group-title="CANAIS GOLD",Premiere 7
+http://cdn.teambr.live:80/4659753/6536874/40736
+
+#EXTINF:-1 group-title="CANAIS GOLD",Premiere 8
+http://cdn.teambr.live:80/4659753/6536874/40737
+
+#EXTINF:-1 group-title="CANAIS GOLD",Ra Tim Bum
+http://cdn.teambr.live:80/4659753/6536874/126
+
+#EXTINF:-1 group-title="CANAIS GOLD",Record News
+http://cdn.teambr.live:80/4659753/6536874/127
+
+#EXTINF:-1 group-title="CANAIS GOLD",Record SP
+http://cdn.teambr.live:80/4659753/6536874/128
+
+#EXTINF:-1 group-title="CANAIS GOLD",Rede TV!
+http://cdn.teambr.live:80/4659753/6536874/131
+
+#EXTINF:-1 group-title="CANAIS GOLD",SBT SP
+http://cdn.teambr.live:80/4659753/6536874/134
+
+#EXTINF:-1 group-title="CANAIS GOLD",Smithsonian Channel
+http://cdn.teambr.live:80/4659753/6536874/79271
+
+#EXTINF:-1 group-title="CANAIS GOLD",Sony
+http://cdn.teambr.live:80/4659753/6536874/138
+
+#EXTINF:-1 group-title="CANAIS GOLD",Space
+http://cdn.teambr.live:80/4659753/6536874/139
+
+#EXTINF:-1 group-title="CANAIS GOLD",SporTV 1
+http://cdn.teambr.live:80/4659753/6536874/40789
+
+#EXTINF:-1 group-title="CANAIS GOLD",Sportv 2
+http://cdn.teambr.live:80/4659753/6536874/44392
+
+#EXTINF:-1 group-title="CANAIS GOLD",SporTV 3
+http://cdn.teambr.live:80/4659753/6536874/44393
+
+#EXTINF:-1 group-title="CANAIS GOLD",Star Channel
+http://cdn.teambr.live:80/4659753/6536874/44807
+
+#EXTINF:-1 group-title="CANAIS GOLD",Studio Universal
+http://cdn.teambr.live:80/4659753/6536874/38526
+
+#EXTINF:-1 group-title="CANAIS GOLD",SyFy
+http://cdn.teambr.live:80/4659753/6536874/144
+
+#EXTINF:-1 group-title="CANAIS GOLD",TBS
+http://cdn.teambr.live:80/4659753/6536874/145
+
+#EXTINF:-1 group-title="CANAIS GOLD",TCM
+http://cdn.teambr.live:80/4659753/6536874/146
+
+#EXTINF:-1 group-title="CANAIS GOLD",Telecine Action
+http://cdn.teambr.live:80/4659753/6536874/147
+
+#EXTINF:-1 group-title="CANAIS GOLD",Telecine Cult
+http://cdn.teambr.live:80/4659753/6536874/148
+
+#EXTINF:-1 group-title="CANAIS GOLD",Telecine Fun
+http://cdn.teambr.live:80/4659753/6536874/149
+
+#EXTINF:-1 group-title="CANAIS GOLD",Telecine Pipoca
+http://cdn.teambr.live:80/4659753/6536874/150
+
+#EXTINF:-1 group-title="CANAIS GOLD",Telecine Premium
+http://cdn.teambr.live:80/4659753/6536874/151
+
+#EXTINF:-1 group-title="CANAIS GOLD",Telecine Touch
+http://cdn.teambr.live:80/4659753/6536874/152
+
+#EXTINF:-1 group-title="CANAIS GOLD",TLC
+http://cdn.teambr.live:80/4659753/6536874/153
+
+#EXTINF:-1 group-title="CANAIS GOLD",TNT
+http://cdn.teambr.live:80/4659753/6536874/154
+
+#EXTINF:-1 group-title="CANAIS GOLD",TNT Series
+http://cdn.teambr.live:80/4659753/6536874/38439
+
+#EXTINF:-1 group-title="CANAIS GOLD",Tooncast
+http://cdn.teambr.live:80/4659753/6536874/38537
+
+#EXTINF:-1 group-title="CANAIS GOLD",Travel Box Brazil
+http://cdn.teambr.live:80/4659753/6536874/40916
+
+#EXTINF:-1 group-title="CANAIS GOLD",TruTV
+http://cdn.teambr.live:80/4659753/6536874/43784
+
+#EXTINF:-1 group-title="CANAIS GOLD",TV Aparecida
+http://cdn.teambr.live:80/4659753/6536874/157
+
+#EXTINF:-1 group-title="CANAIS GOLD",TV Brasil
+http://cdn.teambr.live:80/4659753/6536874/5814
+
+#EXTINF:-1 group-title="CANAIS GOLD",Universal TV
+http://cdn.teambr.live:80/4659753/6536874/159
+
+#EXTINF:-1 group-title="CANAIS GOLD",Viva
+http://cdn.teambr.live:80/4659753/6536874/162
+
+#EXTINF:-1 group-title="CANAIS GOLD",Warner Channel
+http://cdn.teambr.live:80/4659753/6536874/163
+
+#EXTINF:-1 group-title="CANAIS GOLD",Woohoo
+http://cdn.teambr.live:80/4659753/6536874/164
+
+#EXTINF:-1 group-title="CANAIS GOLD",Zoomoo
+http://cdn.teambr.live:80/4659753/6536874/39473
