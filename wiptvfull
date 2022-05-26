@@ -144,6 +144,9 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1373095168
 #EXTINF:-1 group-title="VARIEDADES",Gazeta
 http://200.4.96.59:8002/play/a0e4/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Globo Portugal
+http://massud.homelinux.com:80/dK4tmn5TIpausrip/AaboI2ljOH0klqqn/57894
+
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://187.13.85.16:4000/play/a0gr
 
@@ -624,6 +627,15 @@ http://200.4.96.59:8002/play/a0ed/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 7
 http://200.4.96.59:8002/play/a0ee/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",SKY Sport F1
+http://massud.homelinux.com:80/dK4tmn5TIpausrip/AaboI2ljOH0klqqn/50851
+
+#EXTINF:-1 group-title="ESPORTES",SKY Sport NBA
+http://massud.homelinux.com:80/dK4tmn5TIpausrip/AaboI2ljOH0klqqn/50853
+
+#EXTINF:-1 group-title="ESPORTES",SKY Sport Tennis
+http://massud.homelinux.com:80/dK4tmn5TIpausrip/AaboI2ljOH0klqqn/50852
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
