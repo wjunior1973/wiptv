@@ -65,9 +65,6 @@ http://187.85.237.3:8220/ipvt_004
 #EXTINF:-1 group-title="NOTICIAS",JP News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",Record News
-http://168.205.87.198:8555/live/4666/123456/97.m3u8
-
 ##################
 ### VARIEDADES ###
 ##################
@@ -78,9 +75,6 @@ http://cdn.teambr.live:80/4659753/6536874/42
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://cdn.teambr.live:80/4659753/6536874/44
 
-#EXTINF:-1 group-title="VARIEDADES",Arte1
-https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",BRSuper TV
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
@@ -89,9 +83,6 @@ http://cdn.teambr.live:80/4659753/6536874/43619
 
 #EXTINF:-1 group-title="VARIEDADES",Comedia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Comedy Central
-http://187.13.85.16:4000/play/a0gt
 
 #EXTINF:-1 group-title="VARIEDADES",Cultura
 http://cdn.teambr.live:80/4659753/6536874/61
@@ -141,9 +132,6 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1373095168
 #EXTINF:-1 group-title="VARIEDADES",Gazeta
 http://cdn.teambr.live:80/4659753/6536874/86346
 
-#EXTINF:-1 group-title="VARIEDADES",GNT
-http://187.13.85.16:4000/play/a0gr
-
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 http://cdn.teambr.live:80/4659753/6536874/38485
 
@@ -159,9 +147,6 @@ https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://187.85.237.32:8825/ipvt_001
 
-#EXTINF:-1 group-title="VARIEDADES",Like
-http://191.19.212.46:4013/play/a02x/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
@@ -176,9 +161,6 @@ http://cdn.teambr.live:80/4659753/6536874/38488
 
 #EXTINF:-1 group-title="VARIEDADES",MTV Brasil
 http://187.85.237.8:8825/ipvt_004
-
-#EXTINF:-1 group-title="VARIEDADES",Multicultura
-http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="VARIEDADES",Multishow
 http://191.212.169.139:8000/play/a02x
@@ -203,9 +185,6 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TLC
 http://191.212.169.139:8000/play/a03e
-
-#EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
-http://origin-02.nxplay.com.br/TRAVEL_HD/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES",TruTV
 http://191.212.169.139:8000/play/a02w
@@ -241,26 +220,8 @@ http://168.205.87.198:8555/live/4666/123456/193.m3u8
 #EXTINF:-1 group-title="CANAIS 24H",Chaves & Chapolin
 http://168.205.87.198:8555/live/4666/123456/159.m3u8
 
-#EXTINF:-1 group-title="CANAIS 24H",Dois Homens e Meio
-http://187.13.85.16:4000/play/a0a4
-
-#EXTINF:-1 group-title="CANAIS 24H",Dr. House
-http://187.13.85.16:4000/play/a0f7
-
-#EXTINF:-1 group-title="CANAIS 24H",Escolinha do Prof. Raimundo
-http://187.13.85.16:4000/play/a0f3
-
-#EXTINF:-1 group-title="CANAIS 24H",Eu A Patroa e as Criancas
-http://187.13.85.16:4000/play/a09p
-
-#EXTINF:-1 group-title="CANAIS 24H",Friends
-http://187.13.85.16:4000/play/a0f8
-
 #EXTINF:-1 group-title="CANAIS 24H",Mazzaropi
 http://cdn.teambr.live:80/4659753/6536874/36705
-
-#EXTINF:-1 group-title="CANAIS 24H",Mr. Bean
-http://187.13.85.16:4000/play/a09q
 
 #EXTINF:-1 group-title="CANAIS 24H",Os Simpsons
 http://cdn.teambr.live:80/4659753/6536874/20130
@@ -277,20 +238,8 @@ http://cdn.teambr.live:80/4659753/6536874/43388
 #EXTINF:-1 group-title="CANAIS 24H",Pesadelo na Cozinha
 http://cdn.teambr.live:80/4659753/6536874/77720
 
-#EXTINF:-1 group-title="CANAIS 24H",Sai de Baixo
-http://187.13.85.16:4000/play/a0f5
-
 #EXTINF:-1 group-title="CANAIS 24H",Sobrenatural
 http://cdn.teambr.live:80/4659753/6536874/20435
-
-#EXTINF:-1 group-title="CANAIS 24H",The Big Bang Theory
-http://187.13.85.16:4000/play/a0f6
-
-#EXTINF:-1 group-title="CANAIS 24H",Todo Mundo Odeia o Chris
-http://187.13.85.16:4000/play/a09n
-
-#EXTINF:-1 group-title="CANAIS 24H",Um Maluco no Pedaco
-http://187.13.85.16:4000/play/a09o
 
 #EXTINF:-1 group-title="CANAIS 24H",Vai que Cola
 http://cdn.teambr.live:80/4659753/6536874/47748
@@ -366,9 +315,6 @@ http://cdn.teambr.live:80/4659753/6536874/43
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://187.85.237.8:8825/ipvt_005
 
-#EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
-http://187.13.85.16:4000/play/a09r
-
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://168.205.87.198:8555/live/4666/123456/145.m3u8
 
@@ -398,9 +344,6 @@ http://168.205.87.198:8555/live/4666/123456/197.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Fiction Movies [LEG]
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137515
-
-#EXTINF:-1 group-title="FILMES/SERIES",Film&Arts
-http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Filmes Acao [LEG]
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137494
@@ -480,9 +423,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/4666/123456/160.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Space
-http://187.13.85.16:4000/play/a0e7
-
 #EXTINF:-1 group-title="FILMES/SERIES",Spark TV
 https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
 
@@ -491,12 +431,6 @@ http://cdn.teambr.live:80/4659753/6536874/40695
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Wars [LEG]
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137504
-
-#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
-http://187.13.85.16:4000/play/a07a
-
-#EXTINF:-1 group-title="FILMES/SERIES",Syfy
-http://187.13.85.16:4000/play/a09s
 
 #EXTINF:-1 group-title="FILMES/SERIES",TBS
 http://200.24.92.20:4000/play/a040
@@ -629,9 +563,6 @@ http://cdn.teambr.live:80/4659753/6536874/164
 #EXTINF:-1 group-title="INFANTIS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Baby TV
-http://187.13.85.16:4000/play/a08t
-
 #EXTINF:-1 group-title="INFANTIS",Bob Esponja
 http://cdn.teambr.live:80/4659753/6536874/22583
 
@@ -647,9 +578,6 @@ http://cdn.teambr.live:80/4659753/6536874/20436
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://200.24.92.20:4000/play/a034
 
-#EXTINF:-1 group-title="INFANTIS",Disney Channel
-http://191.19.212.46:4011/play/a04e/index.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://cdn.teambr.live:80/4659753/6536874/542
 
@@ -659,14 +587,8 @@ http://cdn.teambr.live:80/4659753/6536874/543
 #EXTINF:-1 group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/4666/123456/143.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Masha e o Urso
-http://187.13.85.16:4000/play/a0f1
-
 #EXTINF:-1 group-title="INFANTIS",Manda Chuva
 http://cdn.teambr.live:80/4659753/6536874/38085
-
-#EXTINF:-1 group-title="INFANTIS",Mickey e Dolnald
-http://187.13.85.16:4000/play/a0ey
 
 #EXTINF:-1 group-title="INFANTIS",Nick
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
@@ -674,17 +596,8 @@ http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="INFANTIS",Nick Jr.
 http://200.24.92.20:4000/play/a029
 
-#EXTINF:-1 group-title="INFANTIS",Pantera Cor de Rosa
-http://187.13.85.16:4000/play/a0f2
-
 #EXTINF:-1 group-title="INFANTIS",Pepe Legal
 http://cdn.teambr.live:80/4659753/6536874/38042
-
-#EXTINF:-1 group-title="INFANTIS",Pernalonga
-http://187.13.85.16:4000/play/a0fo
-
-#EXTINF:-1 group-title="INFANTIS",Pica Pau
-http://187.13.85.16:4000/play/a0ez
 
 #EXTINF:-1 group-title="INFANTIS",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w498278998.m3u8
@@ -697,9 +610,6 @@ http://cdn.teambr.live:80/4659753/6536874/21099
 
 #EXTINF:-1 group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
-
-#EXTINF:-1 group-title="INFANTIS",Tom e Jerry
-http://187.13.85.16:4000/play/a0f0
 
 #EXTINF:-1 group-title="INFANTIS",Tooncast
 http://cdn.teambr.live:80/4659753/6536874/38537
@@ -723,9 +633,6 @@ http://cdn.teambr.live:80/4659753/6536874/39473
 ### MUSICA ###
 ##############
 
-#EXTINF:-1 group-title="MUSICA",America Latino
-http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="MUSICA",BIS
 http://cdn.teambr.live:80/4659753/6536874/38602
 
@@ -741,17 +648,11 @@ http://168.205.87.198:8555/live/4666/123456/30.m3u8
 #EXTINF:-1 group-title="MUSICA",Clubbing TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICA",Hitts
-http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="MUSICA",Loop 80's
 https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Loop 90's
 https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Mega
-http://origin-02.nxplay.com.br/MEGA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA",MTV 00's
 http://cdn.teambr.live:80/4659753/6536874/161
@@ -764,9 +665,6 @@ http://85.14.32.15:8801/udp/224.100.1.97:56000
 
 #EXTINF:-1 group-title="MUSICA",MTV Live
 http://cdn.teambr.live:80/4659753/6536874/77303
-
-#EXTINF:-1 group-title="MUSICA",Music Box Brazil
-http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
@@ -856,9 +754,6 @@ http://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro Canal
 http://168.205.87.198:8555/live/4666/123456/10.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Agro+
-https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",AgroBrasil TV
 http://cdn.teambr.live:80/4659753/6536874/84556
