@@ -10,8 +10,14 @@ http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC Blumenau
 http://cdn.teambr.live:80/4659753/6536874/75312
 
+#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC Criciuma
+http://ccdn.ai:80/J5yx1/679TQJtyy/135426.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC Florianopolis
 http://cdn.teambr.live:80/4659753/6536874/531
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SC - NSC Joinville
+http://cdn.teambr.live:80/4659753/6536874/86227
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
@@ -31,11 +37,11 @@ http://45.232.196.7:5000/live/SBTSPHD/720p.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://cdn.teambr.live:80/4659753/6536874/43788
 
-#EXTINF:-1 group-title="TV ABERTA",TV Brasil 2
-http://200.24.92.20:4000/play/a015
-
 #EXTINF:-1 group-title="TV ABERTA",TV Camara
 http://168.205.87.198:8555/live/4666/123456/136.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Diario
+http://ccdn.ai:80/J5yx1/679TQJtyy/72593.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Escola
 http://168.205.87.198:8555/live/4666/123456/137.m3u8
@@ -65,6 +71,9 @@ http://187.85.237.3:8220/ipvt_004
 #EXTINF:-1 group-title="NOTICIAS",JP News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",Record News
+http://cdn.teambr.live:80/4659753/6536874/40671
+
 ##################
 ### VARIEDADES ###
 ##################
@@ -75,6 +84,9 @@ http://cdn.teambr.live:80/4659753/6536874/42
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://cdn.teambr.live:80/4659753/6536874/44
 
+#EXTINF:-1 group-title="VARIEDADES",Arte 1
+http://ccdn.ai:80/J5yx1/679TQJtyy/71779.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",BRSuper TV
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
@@ -83,6 +95,9 @@ http://cdn.teambr.live:80/4659753/6536874/43619
 
 #EXTINF:-1 group-title="VARIEDADES",Comedia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Comedy Central
+http://ccdn.ai:80/J5yx1/679TQJtyy/71849.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Cultura
 http://cdn.teambr.live:80/4659753/6536874/61
@@ -117,6 +132,12 @@ http://187.85.237.34:8825/ipvt_004
 #EXTINF:-1 group-title="VARIEDADES",Fail Army
 https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Fashion TV
+http://ccdn.ai:80/J5yx1/679TQJtyy/71926.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Film&Arts
+http://ccdn.ai:80/J5yx1/679TQJtyy/104915.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Fish TV
 http://cdn.teambr.live:80/4659753/6536874/81
 
@@ -131,6 +152,9 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1373095168
 
 #EXTINF:-1 group-title="VARIEDADES",Gazeta
 http://cdn.teambr.live:80/4659753/6536874/86346
+
+#EXTINF:-1 group-title="VARIEDADES",GNT
+http://ccdn.ai:80/J5yx1/679TQJtyy/72104.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 http://cdn.teambr.live:80/4659753/6536874/38485
@@ -150,12 +174,6 @@ http://187.85.237.32:8825/ipvt_001
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",MasterChef
-http://cdn.teambr.live:80/4659753/6536874/85891
-
-#EXTINF:-1 group-title="VARIEDADES",MasterChef Brasil
-http://cdn.teambr.live:80/4659753/6536874/79146
-
 #EXTINF:-1 group-title="VARIEDADES",Modo Viagem
 http://cdn.teambr.live:80/4659753/6536874/38488
 
@@ -163,7 +181,7 @@ http://cdn.teambr.live:80/4659753/6536874/38488
 http://187.85.237.8:8825/ipvt_004
 
 #EXTINF:-1 group-title="VARIEDADES",Multishow
-http://191.212.169.139:8000/play/a02x
+http://ccdn.ai:80/J5yx1/679TQJtyy/72182.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist.m3u8
@@ -174,8 +192,17 @@ http://cdn.teambr.live:80/4659753/6536874/38495
 #EXTINF:-1 group-title="VARIEDADES",OX TV
 https://alanza.iptv2022.com/OX_TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Prime Box Brazil
+http://ccdn.ai:80/J5yx1/679TQJtyy/72269.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",RBTV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Sabor & Arte
+http://ccdn.ai:80/J5yx1/679TQJtyy/112016.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Shoptime
+http://ccdn.ai:80/J5yx1/679TQJtyy/72311.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Smithsonian Channel
 http://cdn.teambr.live:80/4659753/6536874/79271
@@ -185,6 +212,9 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TLC
 http://191.212.169.139:8000/play/a03e
+
+#EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
+http://ccdn.ai:80/J5yx1/679TQJtyy/72392.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TruTV
 http://191.212.169.139:8000/play/a02w
@@ -217,20 +247,71 @@ http://168.205.87.198:8555/live/4666/123456/193.m3u8
 ### CANAIS 24H ###
 ##################
 
+#EXTINF:-1 group-title="CANAIS 24H",A Grande Familia
+http://cdn.teambr.live:80/4659753/6536874/43413
+
+#EXTINF:-1 group-title="CANAIS 24H",As Visoes da Raven
+http://ccdn.ai:80/J5yx1/679TQJtyy/135558.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Bake Off Brasil Celebridades
+http://ccdn.ai:80/J5yx1/679TQJtyy/138017.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24H",Chaves & Chapolin
 http://168.205.87.198:8555/live/4666/123456/159.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Dani-Se
+http://ccdn.ai:80/J5yx1/679TQJtyy/140781.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Dois Homens e Meio
+http://cdn.teambr.live:80/4659753/6536874/43372
+
+#EXTINF:-1 group-title="CANAIS 24H",Drake e Josh
+http://ccdn.ai:80/J5yx1/679TQJtyy/137622.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Escolinha do Professor Raimundo
+http://ccdn.ai:80/J5yx1/679TQJtyy/137611.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Eu A Patroa e As Criancas
+http://cdn.teambr.live:80/4659753/6536874/14503
+
+#EXTINF:-1 group-title="CANAIS 24H",Fami­lia Dinossauro
+http://cdn.teambr.live:80/4659753/6536874/37992
+
+#EXTINF:-1 group-title="CANAIS 24H",Irmao do Jorel
+http://ccdn.ai:80/J5yx1/679TQJtyy/135567.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Irmaos a Obra
+http://ccdn.ai:80/J5yx1/679TQJtyy/140782.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Kenan & Kel
+http://cdn.teambr.live:80/4659753/6536874/25902
+
+#EXTINF:-1 group-title="CANAIS 24H",Lady Night
+http://cdn.teambr.live:80/4659753/6536874/77562
+
+#EXTINF:-1 group-title="CANAIS 24H",MasterChef
+http://cdn.teambr.live:80/4659753/6536874/85891
+
+#EXTINF:-1 group-title="CANAIS 24H",MasterChef Brasil
+http://cdn.teambr.live:80/4659753/6536874/79146
+
+#EXTINF:-1 group-title="CANAIS 24H",Master Trash/Panicos Chef
+http://ccdn.ai:80/J5yx1/679TQJtyy/138790.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24H",Mazzaropi
 http://cdn.teambr.live:80/4659753/6536874/36705
 
+#EXTINF:-1 group-title="CANAIS 24H",Mr. Bean
+http://cdn.teambr.live:80/4659753/6536874/21664
+
 #EXTINF:-1 group-title="CANAIS 24H",Os Simpsons
 http://cdn.teambr.live:80/4659753/6536874/20130
 
-#EXTINF:-1 group-title="CANAIS 24H",Os Simpsons [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137510
-
 #EXTINF:-1 group-title="CANAIS 24H",Os Tres Patetas
 https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w1141132032.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Panico na TV
+http://cdn.teambr.live:80/4659753/6536874/43384
 
 #EXTINF:-1 group-title="CANAIS 24H",Pegadinhas Silvio Santos
 http://cdn.teambr.live:80/4659753/6536874/43388
@@ -238,8 +319,44 @@ http://cdn.teambr.live:80/4659753/6536874/43388
 #EXTINF:-1 group-title="CANAIS 24H",Pesadelo na Cozinha
 http://cdn.teambr.live:80/4659753/6536874/77720
 
+#EXTINF:-1 group-title="CANAIS 24H",Sai de Baixo [Temp. 1]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140747.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Sai de Baixo [Temp. 2]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140748.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Sai de Baixo [Temp. 3]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140749.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Sai de Baixo [Temp. 4]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140750.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Sai de Baixo [Temp. 5]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140751.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Sai de Baixo [Temp. 6]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140752.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Sai de Baixo [Temp. 7]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140753.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Sai de Baixo [Temp. 8]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140754.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Smallville: As Aventuras do Superboy
+http://cdn.teambr.live:80/4659753/6536874/43376
+
 #EXTINF:-1 group-title="CANAIS 24H",Sobrenatural
 http://cdn.teambr.live:80/4659753/6536874/20435
+
+#EXTINF:-1 group-title="CANAIS 24H",Todo Mundo Odeia o Chris
+http://cdn.teambr.live:80/4659753/6536874/15811
+
+#EXTINF:-1 group-title="CANAIS 24H",Toma La da Ca
+http://ccdn.ai:80/J5yx1/679TQJtyy/138938.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",Um Maluco no Pedaco
+http://cdn.teambr.live:80/4659753/6536874/18823
 
 #EXTINF:-1 group-title="CANAIS 24H",Vai que Cola
 http://cdn.teambr.live:80/4659753/6536874/47748
@@ -302,8 +419,8 @@ http://cdn.teambr.live:80/4659753/6536874/38587
 #EXTINF:-1 group-title="CINEMA 24H",Cine SKY 9
 http://cdn.teambr.live:80/4659753/6536874/38588
 
-#EXTINF:-1 group-title="CINEMA 24H",Cine SKY 10
-http://cdn.teambr.live:80/4659753/6536874/38589
+#EXTINF:-1 group-title="CINEMA 24H",Velozes e Furiosos
+http://ccdn.ai:80/J5yx1/679TQJtyy/137618.m3u8
 
 #####################
 ### FILMES/SERIES ###
@@ -314,6 +431,9 @@ http://cdn.teambr.live:80/4659753/6536874/43
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://187.85.237.8:8825/ipvt_005
+
+#EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
+http://ccdn.ai:80/J5yx1/679TQJtyy/71826.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://168.205.87.198:8555/live/4666/123456/145.m3u8
@@ -336,29 +456,11 @@ http://cdn.teambr.live:80/4659753/6536874/54
 #EXTINF:-1 group-title="FILMES/SERIES",DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",DC TV [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137489
+#EXTINF:-1 group-title="FILMES/SERIES",Eurochannel
+http://ccdn.ai:80/J5yx1/679TQJtyy/104911.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Fandom TV
 http://168.205.87.198:8555/live/4666/123456/197.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Fiction Movies [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137515
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Acao [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137494
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Classicos [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137495
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Comedia [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137497
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Terror [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137502
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Western [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137496
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://cdn.teambr.live:80/4659753/6536874/88
@@ -384,23 +486,11 @@ http://cdn.teambr.live:80/4659753/6536874/38480
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
 http://cdn.teambr.live:80/4659753/6536874/38482
 
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Portugal [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137492
-
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
 http://cdn.teambr.live:80/4659753/6536874/38483
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://cdn.teambr.live:80/4659753/6536874/38484
-
-#EXTINF:-1 group-title="FILMES/SERIES",I.Sat
-http://200.24.92.20:4000/play/a043
-
-#EXTINF:-1 group-title="FILMES/SERIES",Marvel [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137493
-
-#EXTINF:-1 group-title="FILMES/SERIES",Marvel II [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137490
 
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://cdn.teambr.live:80/4659753/6536874/559
@@ -408,11 +498,8 @@ http://cdn.teambr.live:80/4659753/6536874/559
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Netflix [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137491
-
-#EXTINF:-1 group-title="FILMES/SERIES",Paramount
-http://200.24.92.20:4000/play/a045
+#EXTINF:-1 group-title="FILMES/SERIES",Paramount Channel
+http://ccdn.ai:80/J5yx1/679TQJtyy/72219.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",RunTime Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
@@ -423,17 +510,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/4666/123456/160.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Spark TV
-https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES",Space
+http://ccdn.ai:80/J5yx1/679TQJtyy/72319.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://cdn.teambr.live:80/4659753/6536874/40695
 
-#EXTINF:-1 group-title="FILMES/SERIES",Star Wars [LEG]
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137504
+#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
+http://ccdn.ai:80/J5yx1/679TQJtyy/72336.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",SyFy
+http://ccdn.ai:80/J5yx1/679TQJtyy/72340.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TBS
-http://200.24.92.20:4000/play/a040
+http://ccdn.ai:80/J5yx1/679TQJtyy/72344.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
 http://cdn.teambr.live:80/4659753/6536874/146
@@ -472,7 +562,7 @@ https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.c
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w949993906.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
-http://200.24.92.20:4000/play/a046
+http://ccdn.ai:80/J5yx1/679TQJtyy/72433.m3u8
 
 ################
 ### ESPORTES ###
@@ -504,6 +594,9 @@ http://cdn.teambr.live:80/4659753/6536874/87
 
 #EXTINF:-1 group-title="ESPORTES",ESPN Extra
 http://cdn.teambr.live:80/4659753/6536874/514
+
+#EXTINF:-1 group-title="ESPORTES",Off
+http://ccdn.ai:80/J5yx1/679TQJtyy/72211.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://cdn.teambr.live:80/4659753/6536874/38506
@@ -560,6 +653,12 @@ http://cdn.teambr.live:80/4659753/6536874/164
 ### INFANTIS ###
 ################
 
+#EXTINF:-1 group-title="INFANTIS",A Pantera Cor de Rosa
+http://ccdn.ai:80/J5yx1/679TQJtyy/135537.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Alf O Eteimoso
+http://ccdn.ai:80/J5yx1/679TQJtyy/135550.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
 
@@ -567,7 +666,7 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
 http://cdn.teambr.live:80/4659753/6536874/22583
 
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
-http://200.24.92.20:4000/play/a031
+http://ccdn.ai:80/J5yx1/679TQJtyy/71831.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Cartoonito
 http://cdn.teambr.live:80/4659753/6536874/475
@@ -575,8 +674,8 @@ http://cdn.teambr.live:80/4659753/6536874/475
 #EXTINF:-1 group-title="INFANTIS",Corrida Maluca
 http://cdn.teambr.live:80/4659753/6536874/20436
 
-#EXTINF:-1 group-title="INFANTIS",Discovery Kids
-http://200.24.92.20:4000/play/a034
+#EXTINF:-1 group-title="INFANTIS",Disney Junior
+http://ccdn.ai:80/J5yx1/679TQJtyy/71893.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://cdn.teambr.live:80/4659753/6536874/542
@@ -593,8 +692,8 @@ http://cdn.teambr.live:80/4659753/6536874/38085
 #EXTINF:-1 group-title="INFANTIS",Nick
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Nick Jr.
-http://200.24.92.20:4000/play/a029
+#EXTINF:-1 group-title="INFANTIS",Nick Jr
+http://ccdn.ai:80/J5yx1/679TQJtyy/72203.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Pepe Legal
 http://cdn.teambr.live:80/4659753/6536874/38042
@@ -684,8 +783,17 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 group-title="MUSICA",SCH
 http://168.205.87.198:8555/live/4666/123456/105.m3u8
 
-#EXTINF:-1 group-title="MUSICA",Sertanejo TV
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137525
+#EXTINF:-1 group-title="MUSICA",Top 100 MPB
+http://ccdn.ai:80/J5yx1/679TQJtyy/140542.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Top 100 Sertanejo
+http://ccdn.ai:80/J5yx1/679TQJtyy/140495.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Top 100 Spotify
+http://ccdn.ai:80/J5yx1/679TQJtyy/140496.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Trace Brazuca
+http://ccdn.ai:80/J5yx1/679TQJtyy/72388.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
@@ -711,9 +819,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",CNT
-http://200.24.92.20:4000/play/a022
 
 #EXTINF:-1 group-title="RELIGIOSOS",Cristo Vive
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w308963911.m3u8
@@ -752,6 +857,9 @@ http://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 ### AGRONEGOCIOS ###
 ####################
 
+#EXTINF:-1 group-title="AGRONEGOCIOS",Agro+
+http://ccdn.ai:80/J5yx1/679TQJtyy/71766.m3u8
+
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro Canal
 http://168.205.87.198:8555/live/4666/123456/10.m3u8
 
@@ -760,9 +868,6 @@ http://cdn.teambr.live:80/4659753/6536874/84556
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
 http://168.205.87.198:8555/live/4666/123456/167.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
-http://200.24.92.20:4000/play/a023
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
