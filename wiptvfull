@@ -220,8 +220,17 @@ http://168.205.87.198:8555/live/4666/123456/193.m3u8
 ### FILMES/SERIES ###
 #####################
 
+#EXTINF:-1 group-title="FILMES/SERIES",Adrenalina Freezone
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="FILMES/SERIES",Agente 86
+https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w439925711.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://200.220.133.82:8000/play/AMC
+
+#EXTINF:-1 group-title="FILMES/SERIES",Arnold
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://187.85.237.8:8825/ipvt_005
@@ -255,6 +264,12 @@ http://200.220.133.82:8000/play/FX
 
 #EXTINF:-1 group-title="FILMES/SERIES",GLN TV
 https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Jeannie e um Genio
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="FILMES/SERIES",Kenan & Kel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -335,6 +350,9 @@ http://168.205.87.198:8555/live/4666/123456/176.m3u8
 #EXTINF:-1 group-title="ESPORTES",Canal 11 Portugal
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Combat Go
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
+
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://200.220.133.82:8000/play/ESPN_BRASIL
 
@@ -371,6 +389,9 @@ http://168.205.87.198:8555/live/4666/123456/141.m3u8
 ################
 ### INFANTIS ###
 ################
+
+#EXTINF:-1 group-title="INFANTIS",A Turma da Monica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="INFANTIS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
