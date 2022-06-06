@@ -1,4 +1,4 @@
-#EXTM3U
+ #EXTM3U
 
 #################
 ### TV ABERTA ###
@@ -7,7 +7,13 @@
 #EXTINF:-1 group-title="TV ABERTA",Band
 http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo
+#EXTINF:-1 group-title="TV ABERTA",Globo Blumenau
+http://limetv.me:80/live/4719wil/452540/95460.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo Florianopolis
+http://limetv.me:80/live/4719wil/452540/90031.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record
@@ -16,7 +22,10 @@ http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://187.85.237.31:8825/ipvt_001
 
-#EXTINF:-1 group-title="TV ABERTA",SBT
+#EXTINF:-1 group-title="TV ABERTA",SBT SC
+http://limetv.me:80/live/4719wil/452540/90293.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
 http://45.232.196.7:5000/live/SBTSPHD/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
@@ -41,14 +50,8 @@ http://168.205.87.198:8555/live/4666/123456/139.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://168.205.87.198:8555/live/4666/123456/174.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",Bloomberg Brasil
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Euronews Portugal
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",GloboNews
-http://187.85.237.3:8220/ipvt_004
+http://limetv.me:80/live/4719wil/452540/90039.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",JP News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
@@ -61,7 +64,7 @@ http://168.205.87.198:8555/live/4666/123456/97.m3u8
 ##################
 
 #EXTINF:-1 group-title="VARIEDADES",A&E
-http://189.91.128.146:4444/udp/227.10.20.129:1234
+http://limetv.me:80/live/4719wil/452540/89792.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://191.212.169.139:8000/play/a03c
@@ -71,6 +74,9 @@ http://191.212.169.139:8000/play/a032
 
 #EXTINF:-1 group-title="VARIEDADES",BRSuper TV
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Chef TV
+http://limetv.me:80/live/4719wil/452540/95502.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Comedia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
@@ -94,10 +100,16 @@ http://45.232.196.7:5000/live/DISCHH/720p.m3u8
 http://191.212.169.139:8000/play/a035
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Science
-http://189.91.128.146:4444/udp/227.10.20.92:1234
+http://limetv.me:80/live/4719wil/452540/89925.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://45.232.196.7:5000/live/DISCTHEA/720p.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
 http://191.212.169.139:8000/play/a034
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery World
+http://limetv.me:80/live/4719wil/452540/89937.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://187.85.237.34:8825/ipvt_004
@@ -129,6 +141,9 @@ http://168.205.87.198:8555/live/4666/123456/69.m3u8
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://191.212.169.139:8000/play/a02r
 
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+http://limetv.me:80/live/4719wil/452540/90127.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",History
 http://187.85.237.32:8825/ipvt_007
 
@@ -144,11 +159,14 @@ http://187.85.237.32:8825/ipvt_001
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Modo Viagem
+http://limetv.me:80/live/4719wil/452540/95456.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",MTV Brasil
 http://187.85.237.8:8825/ipvt_004
 
 #EXTINF:-1 group-title="VARIEDADES",Multishow
-http://191.212.169.139:8000/play/a02x
+http://limetv.me:80/live/4719wil/452540/90173.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist.m3u8
@@ -158,6 +176,9 @@ http://191.212.169.139:8000/play/a03b
 
 #EXTINF:-1 group-title="VARIEDADES",OX TV
 https://alanza.iptv2022.com/OX_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Polishop
+http://limetv.me:80/live/4719wil/452540/91368.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",RBTV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
@@ -204,11 +225,78 @@ http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Viva
+http://limetv.me:80/live/4719wil/452540/90440.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",XR Health Brasil
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Yeeaah
 http://168.205.87.198:8555/live/4666/123456/193.m3u8
+
+#######################
+### CANAIS 24 HORAS ###
+#######################
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Agente 86
+https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w439925711.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Arnold
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",As Visoes da Raven
+http://limetv.me:80/live/4719wil/452540/90495.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Cameras Escondidas
+http://limetv.me:80/live/4719wil/452540/90545.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves & Chapolin
+http://168.205.87.198:8555/live/4666/123456/159.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Eu A Patroa e as Criancas 1
+http://limetv.me:80/live/4719wil/452540/90689.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Eu A Patroa e as Criancas 2
+http://limetv.me:80/live/4719wil/452540/90690.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Familia Dinossauro
+http://limetv.me:80/live/4719wil/452540/90697.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Jeannie e um Genio
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Kenan & Kel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Master Trash/Panico's Chef
+http://limetv.me:80/live/4719wil/452540/90867.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Na Correria
+http://limetv.me:80/live/4719wil/452540/90905.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Os Trapalhoes
+http://limetv.me:80/live/4719wil/452540/90995.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Os Tres Patetas
+https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w1141132032.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Pegadinhas Joao Kleber
+http://limetv.me:80/live/4719wil/452540/91017.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Porta dos Fundos
+http://limetv.me:80/live/4719wil/452540/91050.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Power Couple
+http://limetv.me:80/live/4719wil/452540/96100.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Sai de Baixo
+http://limetv.me:80/live/4719wil/452540/91078.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Um Maluco no Pedaco
+http://limetv.me:80/live/4719wil/452540/91198.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Zorra Total 2015
+http://limetv.me:80/live/4719wil/452540/91311.m3u8
 
 #####################
 ### FILMES/SERIES ###
@@ -217,11 +305,8 @@ http://168.205.87.198:8555/live/4666/123456/193.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Adrenalina Freezone
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="FILMES/SERIES",Agente 86
-https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w439925711.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Arnold
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="FILMES/SERIES",AMC
+http://45.232.196.7:5000/live/AMC/720p.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://187.85.237.8:8825/ipvt_005
@@ -229,14 +314,41 @@ http://187.85.237.8:8825/ipvt_005
 #EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
 http://191.212.169.139:8000/play/a02o
 
-#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
-http://168.205.87.198:8555/live/4666/123456/159.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 1
+http://limetv.me:80/live/4719wil/452540/91384.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 2
+http://limetv.me:80/live/4719wil/452540/91383.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 3
+http://limetv.me:80/live/4719wil/452540/91382.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 4
+http://limetv.me:80/live/4719wil/452540/91381.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 5
+http://limetv.me:80/live/4719wil/452540/91380.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 6
+http://limetv.me:80/live/4719wil/452540/91379.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 7
+http://limetv.me:80/live/4719wil/452540/91378.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 8
+http://limetv.me:80/live/4719wil/452540/91377.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 9
+http://limetv.me:80/live/4719wil/452540/91376.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://168.205.87.198:8555/live/4666/123456/145.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cinecanal
+http://limetv.me:80/live/4719wil/452540/95433.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://189.91.128.146:4444/udp/227.10.20.159:1234
+http://45.232.196.7:5000/live/CINEMAX/720p.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Classique TV
 https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w227761684.m3u8
@@ -244,50 +356,65 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w227761684.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",CLC Filmes
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Curta!
+http://limetv.me:80/live/4719wil/452540/89904.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Eurochannel
+http://limetv.me:80/live/4719wil/452540/91362.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Fandom TV
 http://168.205.87.198:8555/live/4666/123456/197.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Filmes Marvel 1
+http://limetv.me:80/live/4719wil/452540/90840.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Filmes Marvel 2
+http://limetv.me:80/live/4719wil/452540/90841.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",FX
-http://189.91.128.146:4444/udp/227.10.20.138:1234
+http://45.232.196.7:5000/live/FX/720p.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",GLN TV
 https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
-http://189.91.128.146:4444/udp/227.10.20.154:1234
+http://limetv.me:80/live/4719wil/452540/90100.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO 2
-http://189.91.128.146:4444/udp/227.10.20.155:1234
+http://limetv.me:80/live/4719wil/452540/90092.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Family
-http://189.91.128.146:4444/udp/227.10.20.157:1234
+http://limetv.me:80/live/4719wil/452540/90096.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Max
+http://limetv.me:80/live/4719wil/452540/90103.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
+http://limetv.me:80/live/4719wil/452540/90110.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
-http://189.91.128.146:4444/udp/227.10.20.156:1234
+http://limetv.me:80/live/4719wil/452540/95501.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
+http://limetv.me:80/live/4719wil/452540/90114.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
-http://189.91.128.146:4444/udp/227.10.20.158:1234
+http://limetv.me:80/live/4719wil/452540/90119.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
-http://189.91.128.146:4444/udp/227.10.20.100:1234
+http://limetv.me:80/live/4719wil/452540/90123.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Jeannie e um Genio
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="FILMES/SERIES",Kenan & Kel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="FILMES/SERIES",Megapix
+http://limetv.me:80/live/4719wil/452540/90157.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Os Tres Patetas
-https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w1141132032.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount Channel
-http://189.91.128.146:4444/udp/227.10.20.140:1234
+http://limetv.me:80/live/4719wil/452540/90203.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Prime Box Brazil
 http://168.205.87.198:8555/live/4666/123456/83.m3u8
@@ -301,23 +428,29 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/4666/123456/160.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Space
+http://limetv.me:80/live/4719wil/452540/90316.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://191.212.169.139:8000/play/a02p
+
+#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
+http://limetv.me:80/live/4719wil/452540/90348.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",SyFy
 http://191.212.169.139:8000/play/a02n
 
+#EXTINF:-1 group-title="FILMES/SERIES",TBS
+http://limetv.me:80/live/4719wil/452540/90356.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
-http://189.91.128.146:4444/udp/227.10.20.124:1234
+http://limetv.me:80/live/4719wil/452540/95473.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://187.85.237.26:8825/ipvt_004
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
 http://187.85.237.34:8825/ipvt_001
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
-http://189.91.128.146:4444/udp/227.10.20.137:1234
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
 http://187.85.237.25:8825/ipvt_005
@@ -327,6 +460,9 @@ http://187.85.237.34:8825/ipvt_002
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
 http://187.85.237.3:8220/ipvt_005
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT
+http://limetv.me:80/live/4719wil/452540/90392.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Series
 http://191.212.169.139:8000/play/a02m
@@ -356,38 +492,71 @@ http://168.205.87.198:8555/live/4666/123456/176.m3u8
 #EXTINF:-1 group-title="ESPORTES",Canal 11 Portugal
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",Combat Go
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
+#EXTINF:-1 group-title="ESPORTES",Combate
+http://limetv.me:80/live/4719wil/452540/89877.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",ESPN
-http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 1
+http://limetv.me:80/live/4719wil/452540/95504.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 2
+http://limetv.me:80/live/4719wil/452540/95505.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 3
+http://limetv.me:80/live/4719wil/452540/95506.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 4
+http://limetv.me:80/live/4719wil/452540/95507.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 5
+http://limetv.me:80/live/4719wil/452540/95508.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 
+http://limetv.me:80/live/4719wil/452540/89962.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",ESPN 2
-http://189.91.128.146:4444/udp/227.10.20.152:1234
+http://limetv.me:80/live/4719wil/452540/89970.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",ESPN 3
-http://189.91.128.146:4444/udp/227.10.20.153:1234
+http://limetv.me:80/live/4719wil/452540/89974.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",ESPN 4
-http://189.91.128.146:4444/udp/227.10.20.116:1234
+http://limetv.me:80/live/4719wil/452540/95437.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN Extra
+http://limetv.me:80/live/4719wil/452540/89966.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",NBA TV
+http://limetv.me:80/live/4719wil/452540/95537.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
-http://189.91.128.146:4444/udp/227.10.20.102:1234
+http://limetv.me:80/live/4719wil/452540/90236.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 2
-http://189.91.128.146:4444/udp/227.10.20.104:1234
+http://limetv.me:80/live/4719wil/452540/90212.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 3
-http://189.91.128.146:4444/udp/227.10.20.105:1234
+http://limetv.me:80/live/4719wil/452540/90216.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 4
-http://189.91.128.146:4444/udp/227.10.20.106:1234
+http://limetv.me:80/live/4719wil/452540/90220.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 5
-http://189.91.128.146:4444/udp/227.10.20.107:1234
+http://limetv.me:80/live/4719wil/452540/90224.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 6
-http://189.91.128.146:4444/udp/227.10.20.123:1234
+http://limetv.me:80/live/4719wil/452540/90228.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 7
+http://limetv.me:80/live/4719wil/452540/90232.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://limetv.me:80/live/4719wil/452540/90328.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 2
+http://limetv.me:80/live/4719wil/452540/90320.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 3
+http://limetv.me:80/live/4719wil/452540/90324.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -411,11 +580,44 @@ http://168.205.87.198:8555/live/4666/123456/141.m3u8
 ### INFANTIS ###
 ################
 
+#EXTINF:-1 group-title="INFANTIS",A Pantera Cor de Rosa
+http://limetv.me:80/live/4719wil/452540/91004.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",A Turma da Monica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="INFANTIS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",As Aventuras de Tintin
+http://limetv.me:80/live/4719wil/452540/90485.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Cartoon Network
+http://limetv.me:80/live/4719wil/452540/89865.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Cartoonito
+http://limetv.me:80/live/4719wil/452540/89836.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Discovery Kids
+http://45.232.196.7:5000/live/DISCKIDS/720p.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Disney Channel
+http://limetv.me:80/live/4719wil/452540/89941.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Flintstones
+http://limetv.me:80/live/4719wil/452540/90949.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Garfield e seus Amigos
+http://limetv.me:80/live/4719wil/452540/90730.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Gloob
+http://limetv.me:80/live/4719wil/452540/90076.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Gloobinho
+http://limetv.me:80/live/4719wil/452540/90080.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Jetsons
+http://limetv.me:80/live/4719wil/452540/90958.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/4666/123456/143.m3u8
@@ -423,11 +625,26 @@ http://168.205.87.198:8555/live/4666/123456/143.m3u8
 #EXTINF:-1 group-title="INFANTIS",Nick
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Nick Jr
+http://limetv.me:80/live/4719wil/452540/90194.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Picapau
+http://limetv.me:80/live/4719wil/452540/91025.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w498278998.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Snoopy
+http://limetv.me:80/live/4719wil/452540/90472.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Tom & Jerry
+http://limetv.me:80/live/4719wil/452540/91181.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:-1 group-title="INFANTIS",Tooncast
+http://limetv.me:80/live/4719wil/452540/95503.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",TV RaTimBum
 http://168.205.87.198:8555/live/4666/123456/84.m3u8
@@ -466,11 +683,20 @@ https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="MUSICA",Loop 90's
 https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
 
+#EXTINF:-1 group-title="MUSICA",MTV 00's
+http://limetv.me:80/live/4719wil/452540/90161.m3u8
+
 #EXTINF:-1 group-title="MUSICA",MTV 90's
 http://85.14.32.15:8801/udp/224.100.1.98:56000
 
 #EXTINF:-1 group-title="MUSICA",MTV Hits
 http://85.14.32.15:8801/udp/224.100.1.97:56000
+
+#EXTINF:-1 group-title="MUSICA",MTV Live
+http://limetv.me:80/live/4719wil/452540/90168.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Music Box Brazil
+http://limetv.me:80/live/4719wil/452540/90176.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
@@ -489,6 +715,15 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 
 #EXTINF:-1 group-title="MUSICA",SCH
 http://168.205.87.198:8555/live/4666/123456/105.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Top Pop
+http://limetv.me:80/live/4719wil/452540/90900.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Top Sertanejo
+http://limetv.me:80/live/4719wil/452540/90903.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Trace Brazuca
+http://limetv.me:80/live/4719wil/452540/91365.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
@@ -532,9 +767,6 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
 http://187.85.237.34:8825/ipvt_005
-
-#EXTINF:-1 group-title="RELIGIOSOS",RIT
-http://143.255.128.190:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
