@@ -13,10 +13,16 @@ http://limetv.me:80/live/4719wil/452540/95460.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo Florianopolis
 http://limetv.me:80/live/4719wil/452540/90031.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo Joinville
+http://cdn.teambr.live:80/4659753/6536874/86227
+
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record
+#EXTINF:-1 group-title="TV ABERTA",Record SC
+http://cdn.teambr.live:80/4659753/6536874/43742
+
+#EXTINF:-1 group-title="TV ABERTA",Record SP
 http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
@@ -235,8 +241,14 @@ http://168.205.87.198:8555/live/4666/123456/193.m3u8
 ### CANAIS 24 HORAS ###
 #######################
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",A Grande Familia
+http://cdn.teambr.live:80/4659753/6536874/43413
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Agente 86
 https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w439925711.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Alf O Eteimoso
+http://ccdn.ai:80/J5yx1/679TQJtyy/135550.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Arnold
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -244,11 +256,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b739
 #EXTINF:-1 group-title="CANAIS 24 HORAS",As Visoes da Raven
 http://limetv.me:80/live/4719wil/452540/90495.m3u8
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Bake Off Brasil Celebridades
+http://ccdn.ai:80/J5yx1/679TQJtyy/138017.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Cameras Escondidas
 http://limetv.me:80/live/4719wil/452540/90545.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves & Chapolin
 http://168.205.87.198:8555/live/4666/123456/159.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Dois Homens e Meio
+http://cdn.teambr.live:80/4659753/6536874/43372
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Drake e Josh
+http://ccdn.ai:80/J5yx1/679TQJtyy/137622.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Escolinha do Professor Raimundo
+http://ccdn.ai:80/J5yx1/679TQJtyy/137611.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Eu A Patroa e as Criancas 1
 http://limetv.me:80/live/4719wil/452540/90689.m3u8
@@ -256,8 +280,14 @@ http://limetv.me:80/live/4719wil/452540/90689.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Eu A Patroa e as Criancas 2
 http://limetv.me:80/live/4719wil/452540/90690.m3u8
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Eu A Patroa e As Criancas 3
+http://cdn.teambr.live:80/4659753/6536874/14503
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Familia Dinossauro
 http://limetv.me:80/live/4719wil/452540/90697.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Irmaos a Obra
+http://ccdn.ai:80/J5yx1/679TQJtyy/140782.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Jeannie e um Genio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -268,8 +298,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e2
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Master Trash/Panico's Chef
 http://limetv.me:80/live/4719wil/452540/90867.m3u8
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Mr. Bean
+http://cdn.teambr.live:80/4659753/6536874/21664
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Na Correria
 http://limetv.me:80/live/4719wil/452540/90905.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Os Simpsons
+http://cdn.teambr.live:80/4659753/6536874/20130
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Os Trapalhoes
 http://limetv.me:80/live/4719wil/452540/90995.m3u8
@@ -277,8 +313,17 @@ http://limetv.me:80/live/4719wil/452540/90995.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Os Tres Patetas
 https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w1141132032.m3u8
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Panico na TV
+http://cdn.teambr.live:80/4659753/6536874/43384
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Pegadinhas Joao Kleber
 http://limetv.me:80/live/4719wil/452540/91017.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Pegadinhas Silvio Santos
+http://cdn.teambr.live:80/4659753/6536874/43388
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Pesadelo na Cozinha
+http://cdn.teambr.live:80/4659753/6536874/77720
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Porta dos Fundos
 http://limetv.me:80/live/4719wil/452540/91050.m3u8
@@ -289,8 +334,41 @@ http://limetv.me:80/live/4719wil/452540/96100.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Sai de Baixo
 http://limetv.me:80/live/4719wil/452540/91078.m3u8
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Sai de Baixo [Temp. 1]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140747.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Sai de Baixo [Temp. 2]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140748.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Sai de Baixo [Temp. 3]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140749.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Sai de Baixo [Temp. 4]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140750.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Sai de Baixo [Temp. 5]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140751.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Sai de Baixo [Temp. 6]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140752.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Sai de Baixo [Temp. 7]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140753.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Sai de Baixo [Temp. 8]
+http://ccdn.ai:80/J5yx1/679TQJtyy/140754.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Todo Mundo Odeia o Chris
+http://cdn.teambr.live:80/4659753/6536874/15811
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Toma La da Ca
+http://ccdn.ai:80/J5yx1/679TQJtyy/138938.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Um Maluco no Pedaco
 http://limetv.me:80/live/4719wil/452540/91198.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Vai que Cola
+http://cdn.teambr.live:80/4659753/6536874/47748
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Zorra Total 2015
 http://limetv.me:80/live/4719wil/452540/91311.m3u8
@@ -310,6 +388,33 @@ http://187.85.237.8:8825/ipvt_005
 
 #EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
 http://191.212.169.139:8000/play/a02o
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Comedia
+http://cdn.teambr.live:80/4659753/6536874/39463
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Desenhos
+http://cdn.teambr.live:80/4659753/6536874/168
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Familia
+http://cdn.teambr.live:80/4659753/6536874/39469
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Lancamentos
+http://cdn.teambr.live:80/4659753/6536874/39470
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Marvel
+http://cdn.teambr.live:80/4659753/6536874/39465
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Oscar
+http://cdn.teambr.live:80/4659753/6536874/39467
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Pipoca 1
+http://cdn.teambr.live:80/4659753/6536874/39455
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Pipoca 2
+http://cdn.teambr.live:80/4659753/6536874/39456
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Romance
+http://cdn.teambr.live:80/4659753/6536874/39468
 
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://168.205.87.198:8555/live/4666/123456/145.m3u8
@@ -691,6 +796,9 @@ http://limetv.me:80/live/4719wil/452540/90900.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Top Sertanejo
 http://limetv.me:80/live/4719wil/452540/90903.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Top Spotify
+http://ccdn.ai:80/J5yx1/679TQJtyy/140496.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Trace Brazuca
 http://limetv.me:80/live/4719wil/452540/91365.m3u8
