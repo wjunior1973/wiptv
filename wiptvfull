@@ -102,9 +102,6 @@ http://191.212.169.139:8000/play/a035
 #EXTINF:-1 group-title="VARIEDADES",Discovery Science
 http://limetv.me:80/live/4719wil/452540/89925.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
-http://45.232.196.7:5000/live/DISCTHEA/720p.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
 http://191.212.169.139:8000/play/a034
 
@@ -313,33 +310,6 @@ http://187.85.237.8:8825/ipvt_005
 
 #EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
 http://191.212.169.139:8000/play/a02o
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 1
-http://limetv.me:80/live/4719wil/452540/91384.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 2
-http://limetv.me:80/live/4719wil/452540/91383.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 3
-http://limetv.me:80/live/4719wil/452540/91382.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 4
-http://limetv.me:80/live/4719wil/452540/91381.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 5
-http://limetv.me:80/live/4719wil/452540/91380.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 6
-http://limetv.me:80/live/4719wil/452540/91379.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 7
-http://limetv.me:80/live/4719wil/452540/91378.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 8
-http://limetv.me:80/live/4719wil/452540/91377.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sky 9
-http://limetv.me:80/live/4719wil/452540/91376.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://168.205.87.198:8555/live/4666/123456/145.m3u8
