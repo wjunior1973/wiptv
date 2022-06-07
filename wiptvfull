@@ -1,4 +1,4 @@
- #EXTM3U
+#EXTM3U
 
 #################
 ### TV ABERTA ###
@@ -39,6 +39,9 @@ http://191.212.169.139:8000/play/a03i
 
 #EXTINF:-1 group-title="TV ABERTA",TV Camara
 http://168.205.87.198:8555/live/4666/123456/136.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",TV Diario
+http://ccdn.ai:80/J5yx1/679TQJtyy/92670.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Escola
 http://168.205.87.198:8555/live/4666/123456/137.m3u8
@@ -108,6 +111,9 @@ http://191.212.169.139:8000/play/a035
 #EXTINF:-1 group-title="VARIEDADES",Discovery Science
 http://limetv.me:80/live/4719wil/452540/89925.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://limetv.me:80/live/4719wil/452540/89928.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
 http://191.212.169.139:8000/play/a034
 
@@ -158,6 +164,9 @@ https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://187.85.237.32:8825/ipvt_001
+
+#EXTINF:-1 group-title="VARIEDADES",Like
+http://cdn.teambr.live:80/4659753/6536874/77308
 
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
@@ -241,6 +250,9 @@ http://168.205.87.198:8555/live/4666/123456/193.m3u8
 ### CANAIS 24 HORAS ###
 #######################
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",4 Amigos
+http://ccdn.ai:80/J5yx1/679TQJtyy/138721.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",A Grande Familia
 http://cdn.teambr.live:80/4659753/6536874/43413
 
@@ -253,6 +265,9 @@ http://ccdn.ai:80/J5yx1/679TQJtyy/135550.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Arnold
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",As Aventuras de Christine
+http://ccdn.ai:80/J5yx1/679TQJtyy/138749.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",As Visoes da Raven
 http://limetv.me:80/live/4719wil/452540/90495.m3u8
 
@@ -264,6 +279,9 @@ http://limetv.me:80/live/4719wil/452540/90545.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves & Chapolin
 http://168.205.87.198:8555/live/4666/123456/159.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Criadores de Diversao
+http://ccdn.ai:80/J5yx1/679TQJtyy/151618.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Dois Homens e Meio
 http://cdn.teambr.live:80/4659753/6536874/43372
@@ -292,8 +310,29 @@ http://ccdn.ai:80/J5yx1/679TQJtyy/140782.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Jeannie e um Genio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Jovens Construtores
+http://ccdn.ai:80/J5yx1/679TQJtyy/138947.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Kenan & Kel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Lady Night [Temp. 1]
+http://ccdn.ai:80/J5yx1/679TQJtyy/149520.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Lady Night [Temp. 2]
+http://ccdn.ai:80/J5yx1/679TQJtyy/149521.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Lady Night [Temp. 3]
+http://ccdn.ai:80/J5yx1/679TQJtyy/149522.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Lady Night [Temp. 4]
+http://ccdn.ai:80/J5yx1/679TQJtyy/149523.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Lady Night [Temp. 5]
+http://ccdn.ai:80/J5yx1/679TQJtyy/149524.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Lady Night [Temp. 6]
+http://ccdn.ai:80/J5yx1/679TQJtyy/149525.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Master Trash/Panico's Chef
 http://limetv.me:80/live/4719wil/452540/90867.m3u8
@@ -358,14 +397,20 @@ http://ccdn.ai:80/J5yx1/679TQJtyy/140753.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Sai de Baixo [Temp. 8]
 http://ccdn.ai:80/J5yx1/679TQJtyy/140754.m3u8
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Sobrenatural
+http://cdn.teambr.live:80/4659753/6536874/20435
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Todo Mundo Odeia o Chris
 http://cdn.teambr.live:80/4659753/6536874/15811
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Toma La da Ca
 http://ccdn.ai:80/J5yx1/679TQJtyy/138938.m3u8
 
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Um Maluco no Pedaco
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Um Maluco no Pedaco 1
 http://limetv.me:80/live/4719wil/452540/91198.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Um Maluco no Pedaco 2
+http://cdn.teambr.live:80/4659753/6536874/18823
 
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Vai que Cola
 http://cdn.teambr.live:80/4659753/6536874/47748
@@ -413,8 +458,20 @@ http://cdn.teambr.live:80/4659753/6536874/39455
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Pipoca 2
 http://cdn.teambr.live:80/4659753/6536874/39456
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Pipoca 3
+http://cdn.teambr.live:80/4659753/6536874/39457
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Pipoca 4
+http://cdn.teambr.live:80/4659753/6536874/39458
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Pipoca 5
+http://cdn.teambr.live:80/4659753/6536874/39459
+
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Romance
 http://cdn.teambr.live:80/4659753/6536874/39468
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Western
+http://cdn.teambr.live:80/4659753/6536874/82734
 
 #EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
 http://168.205.87.198:8555/live/4666/123456/145.m3u8
@@ -554,6 +611,67 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 http://191.212.169.139:8000/play/a02j
 
+#####################
+### CINE 24 HORAS ###
+#####################
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 01
+http://cdn.teambr.live:80/4659753/6536874/40793
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 02
+http://cdn.teambr.live:80/4659753/6536874/40794
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 03
+http://cdn.teambr.live:80/4659753/6536874/40795
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 04
+http://cdn.teambr.live:80/4659753/6536874/40796
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 05
+http://cdn.teambr.live:80/4659753/6536874/40797
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 06
+http://cdn.teambr.live:80/4659753/6536874/38585
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 07
+http://cdn.teambr.live:80/4659753/6536874/38586
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 08
+http://cdn.teambr.live:80/4659753/6536874/38587
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 09
+http://cdn.teambr.live:80/4659753/6536874/38588
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 10
+http://ccdn.ai:80/J5yx1/679TQJtyy/72994.m3u8
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 11
+http://ccdn.ai:80/J5yx1/679TQJtyy/73003.m3u8
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 12
+http://ccdn.ai:80/J5yx1/679TQJtyy/72995.m3u8
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 13
+http://ccdn.ai:80/J5yx1/679TQJtyy/72996.m3u8
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 14
+http://ccdn.ai:80/J5yx1/679TQJtyy/72997.m3u8
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 15
+http://ccdn.ai:80/J5yx1/679TQJtyy/72998.m3u8
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 16
+http://ccdn.ai:80/J5yx1/679TQJtyy/72999.m3u8
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 17
+http://ccdn.ai:80/J5yx1/679TQJtyy/73000.m3u8
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 18
+http://ccdn.ai:80/J5yx1/679TQJtyy/73001.m3u8
+
+#EXTINF:-1 group-title="CINE 24 HORAS",Cine Gold 19
+http://ccdn.ai:80/J5yx1/679TQJtyy/73002.m3u8
+
 ################
 ### ESPORTES ###
 ################
@@ -651,21 +769,58 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",Woohoo
 http://168.205.87.198:8555/live/4666/123456/141.m3u8
 
+#########################
+### DESENHOS 24 HORAS ###
+#########################
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",A Pantera Cor de Rosa
+http://limetv.me:80/live/4719wil/452540/91004.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Alien TV
+http://ccdn.ai:80/J5yx1/679TQJtyy/140775.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Andy Panda
+http://ccdn.ai:80/J5yx1/679TQJtyy/47481.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",As Aventuras de Tintin
+http://limetv.me:80/live/4719wil/452540/90485.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Flintstones
+http://limetv.me:80/live/4719wil/452540/90949.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Garfield e seus Amigos
+http://limetv.me:80/live/4719wil/452540/90730.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",He-Man
+http://limetv.me:80/live/4719wil/452540/90743.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Jetsons
+http://limetv.me:80/live/4719wil/452540/90958.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Pernalonga
+http://cdn.teambr.live:80/4659753/6536874/24590
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Picapau
+http://limetv.me:80/live/4719wil/452540/91025.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Popeye
+http://cdn.teambr.live:80/4659753/6536874/38052
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Snoopy
+http://limetv.me:80/live/4719wil/452540/90472.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Super Amigos
+http://ccdn.ai:80/J5yx1/679TQJtyy/149605.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Thundercats
+http://ccdn.ai:80/J5yx1/679TQJtyy/135468.m3u8
+
+#EXTINF:-1 group-title="DESENHOS 24 HORAS",Tom & Jerry
+http://limetv.me:80/live/4719wil/452540/91181.m3u8
+
 ################
 ### INFANTIS ###
 ################
-
-#EXTINF:-1 group-title="INFANTIS",A Pantera Cor de Rosa
-http://limetv.me:80/live/4719wil/452540/91004.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",A Turma da Monica
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="INFANTIS",Anime TV
-https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",As Aventuras de Tintin
-http://limetv.me:80/live/4719wil/452540/90485.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 http://limetv.me:80/live/4719wil/452540/89865.m3u8
@@ -679,20 +834,11 @@ http://45.232.196.7:5000/live/DISCKIDS/720p.m3u8
 #EXTINF:-1 group-title="INFANTIS",Disney Channel
 http://limetv.me:80/live/4719wil/452540/89941.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Flintstones
-http://limetv.me:80/live/4719wil/452540/90949.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Garfield e seus Amigos
-http://limetv.me:80/live/4719wil/452540/90730.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://limetv.me:80/live/4719wil/452540/90076.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Gloobinho
 http://limetv.me:80/live/4719wil/452540/90080.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Jetsons
-http://limetv.me:80/live/4719wil/452540/90958.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Kids TV
 http://168.205.87.198:8555/live/4666/123456/143.m3u8
@@ -703,17 +849,8 @@ http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="INFANTIS",Nick Jr
 http://limetv.me:80/live/4719wil/452540/90194.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Picapau
-http://limetv.me:80/live/4719wil/452540/91025.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w498278998.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Snoopy
-http://limetv.me:80/live/4719wil/452540/90472.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Tom & Jerry
-http://limetv.me:80/live/4719wil/452540/91181.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
@@ -790,6 +927,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 
 #EXTINF:-1 group-title="MUSICA",SCH
 http://168.205.87.198:8555/live/4666/123456/105.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Top MPB
+http://ccdn.ai:80/J5yx1/679TQJtyy/140542.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Top Pop
 http://limetv.me:80/live/4719wil/452540/90900.m3u8
