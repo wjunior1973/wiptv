@@ -25,9 +25,6 @@ http://superblazertop.com.br.global.prod.fastly.net/live/band/play2.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Gazeta
 http://168.205.87.198:8555/live/1212/123456/69.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo Bahia
-https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Globo Minas
 http://168.205.87.198:8555/live/1212/123456/70.m3u8
 
@@ -129,9 +126,6 @@ http://168.205.87.198:8555/live/1212/123456/139.m3u8
 https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
-http://cdn.connectbr.com.br/AE/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",A&E [2]
 http://superblazertop.com.br.global.prod.fastly.net/live/ae/play2.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
@@ -399,9 +393,6 @@ http://168.205.87.198:8555/live/1212/123456/165.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Canal Start
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Canal Uol
-https://ythlsgo.onrender.com/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",CaTVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
 
@@ -456,20 +447,8 @@ http://168.205.87.198:8555/live/1212/123456/67.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",GNM
-https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",History Channel
-http://cdn2.connectbr.com.br:80/History/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",History Channel 2
-http://cdn.connectbr.com.br:80/h2/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Lifetime
-http://187.95.95.18/Lifetime/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
@@ -579,9 +558,6 @@ http://199.127.60.83:16884/
 #EXTINF:-1 group-title="VARIEDADES",Viva e Eduque
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Vivax TV
-https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Woohoo
 http://168.205.87.198:8555/live/1212/123456/141.m3u8
 
@@ -652,9 +628,6 @@ http://168.205.87.198:8555/live/1212/123456/148.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://187.95.95.18/Band-Sports/video.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Combate
-http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",DAZN Combat
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist.m3u8
@@ -803,6 +776,9 @@ http://168.205.87.198:8555/live/1212/123456/84.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Urban TV Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Vivax TV
+https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
 http://168.205.87.198:8555/live/1212/123456/162.m3u8
