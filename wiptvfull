@@ -126,6 +126,12 @@ http://168.205.87.198:8555/live/1212/123456/139.m3u8
 https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
+http://199.127.60.83:16002/
+
+#EXTINF:-1 group-title="FILMES/SERIES",A&E [2]
+http://187.95.95.243/AE/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",A&E [3]
 http://superblazertop.com.br.global.prod.fastly.net/live/ae/play2.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
@@ -206,6 +212,9 @@ https://i.mjh.nz/PlutoTV/64877764dc7a760008a12799-alt.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",MacGyver
 https://i.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Megapix
+http://200.138.252.201:8000/play/a02d
+
 #EXTINF:-1 group-title="FILMES/SERIES",MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
@@ -223,6 +232,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 group-title="FILMES/SERIES",Os Tres Patetas
 https://i.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Paramount
+http://cdn2.connectbr.com.br/paramount/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
 http://168.205.87.198:8555/live/1212/123456/238.m3u8
@@ -341,11 +353,17 @@ https://i.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",TVJN
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w309686598.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
+http://200.138.252.201:8000/play/a02v
+
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Series
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Warner
+http://200.138.252.201:8000/play/a02o
 
 
 ###### VARIEDADES ######
@@ -374,6 +392,9 @@ https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",BR Super TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Canal Brasil
+http://200.138.252.201:8000/play/a02t
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/index.m3u8
@@ -450,6 +471,12 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",History
+http://cdn2.connectbr.com.br/History/video.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",H2
+http://187.95.95.247/h2/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
@@ -497,6 +524,9 @@ https://dl27mmj7tlts0.cloudfront.net/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Rede MN
 https://acesso.ecast.site:3456/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Sabor & Arte
+http://200.138.252.201:8000/play/a03n
 
 #EXTINF:-1 group-title="VARIEDADES",SESC TV
 http://168.205.87.198:8555/live/1212/123456/107.m3u8
@@ -628,6 +658,9 @@ http://168.205.87.198:8555/live/1212/123456/148.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://187.95.95.18/Band-Sports/video.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Combate
+http://209.222.97.92:16493
 
 #EXTINF:-1 group-title="ESPORTES",DAZN Combat
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist.m3u8
