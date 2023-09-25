@@ -13,14 +13,8 @@ http://168.205.87.198:8555/live/1212/123456/19.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band MS
 http://170.80.32.62:8000/play/a01b/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band PA
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Band SC TVBV
 http://177.38.211.15:8000/play/a00t/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Band SP
-http://superblazertop.com.br.global.prod.fastly.net/live/band/play2.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Gazeta
 http://168.205.87.198:8555/live/1212/123456/69.m3u8
@@ -43,9 +37,6 @@ https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo SP [2]
 http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1648457650-1648414450
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SP [3]
-http://superblazertop.com.br.global.prod.fastly.net/live/globo/play2.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Record Minas
 http://168.205.87.198:8555/live/1212/123456/96.m3u8
 
@@ -60,9 +51,6 @@ http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record SC NDTV
 http://177.38.211.15:8000/play/a00q/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record SP
-http://superblazertop.com.br.global.prod.fastly.net/live/record/play2.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! Minas
 http://168.205.87.198:8555/live/1212/123456/102.m3u8
@@ -131,12 +119,6 @@ http://199.127.60.83:16002/
 #EXTINF:-1 group-title="FILMES/SERIES",A&E [2]
 http://187.95.95.243/AE/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",A&E [3]
-http://superblazertop.com.br.global.prod.fastly.net/live/ae/play2.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",AMC
-http://199.127.60.83:16004/
-
 #EXTINF:-1 group-title="FILMES/SERIES",Arnold
 https://i.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8
 
@@ -166,9 +148,6 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1349363790.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinecanal
 http://187.95.95.18/cinecanal/video.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cinepix
-https://stmv1.srvif.com/cinepix/cinepix/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Classique TV
 http://168.205.87.198:8555/live/1212/123456/190.m3u8
@@ -668,18 +647,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist
 #EXTINF:-1 group-title="ESPORTES",DAZN Womens Sport
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgbr/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",ESPN
-http://superblazertop.com.br.global.prod.fastly.net/live/espn/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 2
-http://superblazertop.com.br.global.prod.fastly.net/live/espn2/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 3
-http://superblazertop.com.br.global.prod.fastly.net/live/espn3/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 4
-http://superblazertop.com.br.global.prod.fastly.net/live/espn4/play2.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Fla TV
 https://ythlsgo.onrender.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
 
@@ -688,36 +655,6 @@ https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Pop Bola
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
-http://superblazertop.com.br.global.prod.fastly.net/live/premiereclubes/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 2
-http://superblazertop.com.br.global.prod.fastly.net/live/premiere2/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 3
-http://superblazertop.com.br.global.prod.fastly.net/live/premiere3/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 4
-http://superblazertop.com.br.global.prod.fastly.net/live/premiere4/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 5
-http://superblazertop.com.br.global.prod.fastly.net/live/premiere5/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 6
-http://superblazertop.com.br.global.prod.fastly.net/live/premiere6/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 7
-http://superblazertop.com.br.global.prod.fastly.net/live/premiere7/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",SporTV
-http://superblazertop.com.br.global.prod.fastly.net/live/sportv/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 2
-http://superblazertop.com.br.global.prod.fastly.net/live/sportv2/play2.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 3
-http://superblazertop.com.br.global.prod.fastly.net/live/sportv3/play2.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -773,9 +710,6 @@ https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney Channel
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Gloob
-http://superblazertop.com.br.global.prod.fastly.net/live/gloob/play2.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Kids
 http://168.205.87.198:8555/live/1212/123456/143.m3u8
