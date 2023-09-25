@@ -49,6 +49,9 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record MT [2]
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Record RN
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Record SC NDTV
 http://177.38.211.15:8000/play/a00q/index.m3u8
 
@@ -59,7 +62,10 @@ http://168.205.87.198:8555/live/1212/123456/102.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! SP
-https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
+https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u80
+
+#EXTINF:-1 group-title="TV ABERTA",SBT BA
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT Brasilia
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
