@@ -815,6 +815,9 @@ http://168.205.87.198:8555/live/1212/123456/237.m3u8
 #EXTINF:-1 group-title="MUSICAS",KPop TV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
 
+#EXTINF:-1 group-title="MUSICAS",MTV Biggest Pop
+https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8
+
 #EXTINF:-1 group-title="MUSICAS",MTV Live
 http://187.95.95.18/MTV-Live/video.m3u8
 
