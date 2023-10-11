@@ -58,6 +58,9 @@ https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u
 #EXTINF:-1 group-title="TV ABERTA",Record SC NDTV
 http://177.38.211.15:8000/play/a00q/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Rede TV!
+http://177.38.211.15:8000/play/a012/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! Minas
 http://168.205.87.198:8555/live/1212/123456/102.m3u8
 
@@ -120,13 +123,19 @@ http://168.205.87.198:8555/live/1212/123456/139.m3u8
 https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
-http://199.127.60.83:16002/
+http://cdn.connectbr.com.br/AE/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E [2]
+http://199.127.60.83:16002/
+
+#EXTINF:-1 group-title="FILMES/SERIES",A&E [3]
 http://187.95.95.243/AE/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AMC Brasil
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",AMC Brasil [2]
+http://199.127.60.83:16004/
 
 #EXTINF:-1 group-title="FILMES/SERIES",Arnold 24H
 https://i.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8
@@ -486,13 +495,16 @@ http://187.95.95.247/h2/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Lifetime [2]
+http://187.95.95.18/Lifetime/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES",Masterchef Brasil
+#EXTINF:-1 group-title="VARIEDADES",Masterchef Brasil 24H
 https://i.mjh.nz/PlutoTV/6077045b6031bd00078de127-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES",Motorvision
