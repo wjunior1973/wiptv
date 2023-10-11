@@ -13,11 +13,17 @@ http://168.205.87.198:8555/live/1212/123456/19.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band SC TVBV
 http://177.38.211.15:8000/play/a00t/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Band SP
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Gazeta
 http://168.205.87.198:8555/live/1212/123456/69.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo Minas
 http://168.205.87.198:8555/live/1212/123456/70.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV
+http://45.58.126.146:14049
 
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC TV Blumenau
 http://131.100.52.122:8000/play/a003/index.m3u8
@@ -25,11 +31,17 @@ http://131.100.52.122:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC TV Floripa
 http://177.38.211.15:8000/play/a00r/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo RBS TV
+http://45.58.126.146:14053
+
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP [2]
 http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1648457650-1648414450
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP TV Tem
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record Minas
 http://168.205.87.198:8555/live/1212/123456/96.m3u8
@@ -48,6 +60,9 @@ http://177.38.211.15:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! Minas
 http://168.205.87.198:8555/live/1212/123456/102.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! PR
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
@@ -79,7 +94,7 @@ http://177.38.211.15:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT SCC [2]
 http://131.100.52.122:8000/play/a007/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SP
+#EXTINF:-1 group-title="TV ABERTA",SBT SP TV Sorocaba
 https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
@@ -101,7 +116,7 @@ http://168.205.87.198:8555/live/1212/123456/139.m3u8
 ###### FILMES/SERIES ######
 
 
-#EXTINF:-1 group-title="FILMES/SERIES",A Feiticeira
+#EXTINF:-1 group-title="FILMES/SERIES",A Feiticeira 24H
 https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
@@ -110,19 +125,25 @@ http://199.127.60.83:16002/
 #EXTINF:-1 group-title="FILMES/SERIES",A&E [2]
 http://187.95.95.243/AE/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Arnold
+#EXTINF:-1 group-title="FILMES/SERIES",AMC Brasil
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Arnold 24H
 https://i.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",As Panteras
+#EXTINF:-1 group-title="FILMES/SERIES",As Panteras 24H
 https://i.mjh.nz/PlutoTV/648776bf536e0c0008b49aef-alt.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Barrados no Baile
+#EXTINF:-1 group-title="FILMES/SERIES",AXN
+http://45.58.126.146:14299
+
+#EXTINF:-1 group-title="FILMES/SERIES",Barrados no Baile 24H
 https://i.mjh.nz/PlutoTV/63eb9cfbc111bc0008feda3b-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
+#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin 24H
 http://168.205.87.198:8555/live/1212/123456/159.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Brasil TV
@@ -137,13 +158,16 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1349363790.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cinecanal
 http://187.95.95.18/cinecanal/video.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
+http://45.58.126.146:14305/
+
 #EXTINF:-1 group-title="FILMES/SERIES",Classique TV
 http://168.205.87.198:8555/live/1212/123456/190.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Comedia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",CSI Miami
+#EXTINF:-1 group-title="FILMES/SERIES",CSI Miami 24H
 https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Curta!
@@ -173,11 +197,14 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="FILMES/SERIES",ISTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3455
 
-#EXTINF:-1 group-title="FILMES/SERIES",Louco por Voce
+#EXTINF:-1 group-title="FILMES/SERIES",Louco por Voce 24H
 https://i.mjh.nz/PlutoTV/64877764dc7a760008a12799-alt.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",MacGyver
+#EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
 https://i.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Megapix
+http://45.58.126.146:14317/1.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
@@ -185,7 +212,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",NCIS
+#EXTINF:-1 group-title="FILMES/SERIES",NCIS 24H
 https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Novelando
@@ -194,11 +221,14 @@ http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 group-title="FILMES/SERIES",Os Tres Patetas
+#EXTINF:-1 group-title="FILMES/SERIES",Os Tres Patetas 24H
 https://i.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount
 http://cdn2.connectbr.com.br/paramount/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Paramount [2]
+http://45.58.126.146:14320
 
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
 http://168.205.87.198:8555/live/1212/123456/238.m3u8
@@ -239,6 +269,9 @@ http://199.127.60.83:16063/
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Movies
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Novelas
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Sony One Emocoes
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
@@ -251,8 +284,14 @@ https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://187.95.95.18/Star/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Starsky & Hutch
+#EXTINF:-1 group-title="FILMES/SERIES",Star Channel [2]
+http://45.58.126.146:14329
+
+#EXTINF:-1 group-title="FILMES/SERIES",Starsky & Hutch 24H
 https://i.mjh.nz/PlutoTV/6489c4a066e48500083ccf97-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
+http://45.58.126.146:14332
 
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
 http://187.95.95.18/TCM/index.m3u8
@@ -262,6 +301,12 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1170287628.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://199.127.60.83:16056/
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT
+http://45.58.126.146:14341
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT Novelas
+http://45.58.126.146:14338
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Series
 http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
@@ -311,6 +356,15 @@ https://i.mjh.nz/PlutoTV/6474ab1da51cb80008bfb5f4-alt.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",TV Series Sci-Fi
 https://i.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
+http://45.58.126.146:14348
+
+#EXTINF:-1 group-title="FILMES/SERIES",USA
+http://45.58.126.146:14335/1.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Warner TV
+http://45.58.126.146:14351/1.ts
+
 
 ###### VARIEDADES ######
 
@@ -319,6 +373,9 @@ https://i.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Animal Planet [2]
 http://199.127.60.83:16192/
 
 #EXTINF:-1 group-title="VARIEDADES",Arte 1
@@ -348,6 +405,9 @@ https://ythlsgo.onrender.com/video/12tgKVOESYM.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Canal Gov
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Canal K
+https://cdn-1.nxplay.com.br/cheftv1/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Canal Libras
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
@@ -362,6 +422,9 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Clouding
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Comedy Central
+http://45.58.126.146:14308
 
 #EXTINF:-1 group-title="VARIEDADES",Cultura PA
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?ROGERIOTORRES
@@ -420,6 +483,9 @@ http://cdn2.connectbr.com.br/History/video.m3u8
 #EXTINF:-1 group-title="VARIEDADES",H2
 http://187.95.95.247/h2/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Lifetime
+https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
@@ -434,6 +500,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/
 
 #EXTINF:-1 group-title="VARIEDADES",MTV
 http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",NatGeo
+http://45.58.126.146:14287/1.ts
 
 #EXTINF:-1 group-title="VARIEDADES",NHK World TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -462,7 +531,7 @@ https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Rakuten Familia
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Receitas Fast
+#EXTINF:-1 group-title="VARIEDADES",Receita Fast
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Rede MN
@@ -488,6 +557,9 @@ https://streamingtv.ddoti.com.br/hls/stream.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",TLC
+https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Travel Box
 http://187.95.95.18/Travel-HD/index.m3u8
@@ -536,9 +608,12 @@ http://cdn.connectbr.com.br/Life/index.m3u8
 http://cdn.connectbr.com.br/24_news/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
-http://187.95.95.18/Band-News/index.m3u8
+http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Band News [2]
+http://187.95.95.18/Band-News/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",Band News [3]
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Bloomberg TV Brasil
@@ -558,6 +633,9 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Globo News
 http://209.222.97.92:16436
+
+#EXTINF:-1 group-title="NOTICIAS",Globo News [2]
+http://191.37.250.169:8801/live/GloboNewsHD/720p.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 http://168.205.87.198:8555/live/1212/123456/161.m3u8
@@ -608,6 +686,9 @@ https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
 #EXTINF:-1 group-title="ESPORTES",Pop Bola
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://209.222.97.92:16525/
+
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
@@ -648,14 +729,17 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="INFANTIS",Cartoonito Brazil
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Caverna do Dragao
+#EXTINF:-1 group-title="INFANTIS",Caverna do Dragao 24H
 https://ythlsgo.onrender.com/video/k--MD867Tm0.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Clubinho Fun
 http://187.95.95.18/Clubinho/video.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Cocorico
+#EXTINF:-1 group-title="INFANTIS",Cocorico 24H
 https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Discovery Kids
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney Channel
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
@@ -663,7 +747,7 @@ http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INFANTIS",Kids
 http://168.205.87.198:8555/live/1212/123456/143.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Moranguinho
+#EXTINF:-1 group-title="INFANTIS",Moranguinho 24H
 https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nick Jr.
@@ -681,7 +765,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:-1 group-title="INFANTIS",Tooncast
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Turma da Monica
+#EXTINF:-1 group-title="INFANTIS",Turma da Monica 24H
 https://i.mjh.nz/PlutoTV/5f997e44949bc70007a6941e-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIS",TV R
