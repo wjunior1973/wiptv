@@ -550,6 +550,9 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil [2]
 http://187.95.95.18/CNN-HD/playlist.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",CNN Portugal
+https://bit.ly/41Pufgt?/playlist.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",Euronews Portugal
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
