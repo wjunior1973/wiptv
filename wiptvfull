@@ -20,9 +20,6 @@ https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 http://168.205.87.198:8555/live/1212/123456/69.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo
-http://15.235.55.115:14107
-
-#EXTINF:-1 group-title="TV ABERTA",Globo [2]
 http://199.127.60.83:16020
 
 #EXTINF:-1 group-title="TV ABERTA",Globo Minas
@@ -313,9 +310,6 @@ http://45.58.126.146:14332
 
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
 http://187.95.95.18/TCM/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Tela Viva TV
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1170287628.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://199.127.60.83:16056/
@@ -911,9 +905,6 @@ https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 ###### AGRONEGOCIOS ######
 
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Agro Brasil
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Agro Canal
 http://168.205.87.198:8555/live/1212/123456/10.m3u8
