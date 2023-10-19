@@ -61,6 +61,9 @@ https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u
 #EXTINF:-1 group-title="TV ABERTA",Record SC NDTV
 http://177.38.211.15:8000/play/a00q/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Record SC NDTV Floripa
+https://caikron.com.br:19360/floripa/floripa.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://177.38.211.15:8000/play/a012/index.m3u8
 
@@ -147,6 +150,9 @@ https://i.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8
 https://i.mjh.nz/PlutoTV/648776bf536e0c0008b49aef-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",AXN [2]
 http://45.58.126.146:14299
 
 #EXTINF:-1 group-title="FILMES/SERIES",Barrados no Baile 24H
@@ -428,6 +434,9 @@ http://168.205.87.198:8555/live/1212/123456/165.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Start
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Canal UOL
+https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",CaTVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
