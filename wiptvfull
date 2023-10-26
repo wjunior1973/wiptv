@@ -284,9 +284,6 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Space
-https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://187.95.95.18/Star/index.m3u8
 
@@ -697,9 +694,6 @@ http://185.150.190.225:16472
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 5
 http://185.150.190.225:16476
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 6
-http://185.150.190.225:16482
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
