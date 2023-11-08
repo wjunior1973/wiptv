@@ -28,6 +28,9 @@ http://168.205.87.198:8555/live/1212/123456/70.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC TV
 http://177.38.211.15:8000/play/a00r/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV [2]
+http://191.37.250.169:8801/live/NSC/720p.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
@@ -178,6 +181,9 @@ https://i.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Filmrise Series
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",FX
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
