@@ -408,6 +408,9 @@ https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
+#EXTINF:-1  group-title="VARIEDADES",ESFlix TV
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",FailArmy
 https://i.mjh.nz/PlutoTV/5f5141c1605ddf000748eb1b-alt.m3u8
 
