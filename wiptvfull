@@ -22,6 +22,9 @@ http://168.205.87.198:8555/live/1212/123456/69.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo
 http://199.127.60.83:16020
 
+#EXTINF:-1 group-title="TV ABERTA",Globo Bahia
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo Minas
 http://168.205.87.198:8555/live/1212/123456/70.m3u8
 
@@ -84,6 +87,9 @@ https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w8414
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SCC
 http://177.38.211.15:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
+https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/2402654f-e16b-4f35-ab84-87088eeb2397/4.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SP TV Sorocaba
 https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/index.m3u8
@@ -272,6 +278,9 @@ http://187.95.95.18/TCM/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://199.127.60.83:16056/
 
+#EXTINF:-1 group-title="FILMES/SERIES",TNT
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",TV Cine Classicos
 https://i.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
 
@@ -320,6 +329,9 @@ https://i.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 
 ###### VARIEDADES ######
 
+
+#EXTINF:-1 group-title="VARIEDADES",A Praca e Nossa
+https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
@@ -423,6 +435,9 @@ http://168.205.87.198:8555/live/1212/123456/67.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",H2
+http://187.95.95.247/h2/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
@@ -443,6 +458,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/
 
 #EXTINF:-1 group-title="VARIEDADES",MTV
 http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",MTV [2]
+http://187.95.95.243/mtv/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",NHK World TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -586,6 +604,9 @@ http://177.38.211.15:8000/play/a010/index.m3u8
 
 ###### ESPORTES ######
 
+
+#EXTINF:-1 group-title="ESPORTES",AEW Wrestling
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",All Sports
 http://168.205.87.198:8555/live/1212/123456/148.m3u8
