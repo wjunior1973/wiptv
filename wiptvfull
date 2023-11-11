@@ -67,9 +67,6 @@ http://168.205.87.198:8555/live/1212/123456/102.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV! RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",SBT BA
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
@@ -114,13 +111,7 @@ http://168.205.87.198:8555/live/1212/123456/139.m3u8
 https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
-http://cdn.connectbr.com.br/AE/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",A&E [2]
 http://199.127.60.83:16002/
-
-#EXTINF:-1 group-title="FILMES/SERIES",A&E [3]
-http://187.95.95.243/AE/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AMC Brasil
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
@@ -384,10 +375,7 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Clouding
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Cultura PA
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="VARIEDADES",Cultura RJ
+#EXTINF:-1 group-title="VARIEDADES",Cultura
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES",Deutsche Welle
@@ -437,9 +425,6 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",History
-http://cdn2.connectbr.com.br/History/video.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
@@ -568,14 +553,8 @@ http://187.95.95.18/Band-News/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Band News [3]
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",Bloomberg TV Brasil
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",CNN Portugal
-https://bit.ly/41Pufgt?/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Euronews Portugal
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
