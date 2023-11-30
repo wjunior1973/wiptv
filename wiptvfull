@@ -28,6 +28,9 @@ https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOB
 #EXTINF:-1 group-title="TV ABERTA",Globo Minas
 http://168.205.87.198:8555/live/1212/123456/70.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo Minas [2]
+http://185.150.190.225:16263/
+
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC TV
 http://177.38.211.15:8000/play/a00r/index.m3u8
 
@@ -40,8 +43,17 @@ https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo SP [2]
 http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1648457650-1648414450
 
+#EXTINF:-1 group-title="TV ABERTA",Globo SP [3]
+http://199.127.60.83:16020
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP [4]
+http://hls1.sua.tv:80/live/globosphd/s.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo SP TV Tem
 http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo TV Verdes Mares
+http://45.235.0.78/TVVERDESMARES-HD/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record Minas
 http://168.205.87.198:8555/live/1212/123456/96.m3u8
@@ -140,6 +152,9 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1349363790.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cinecanal
 http://187.95.95.18/cinecanal/video.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
+http://45.235.0.78/CINEMAX-HD/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Classique TV
 http://168.205.87.198:8555/live/1212/123456/190.m3u8
 
@@ -167,11 +182,32 @@ https://i.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Filmrise Series
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",FX
+http://199.127.60.83:16043/
+
 #EXTINF:-1 group-title="FILMES/SERIES",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://51.83.238.223:16045/
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO [2]
+http://45.235.0.78/HBO-HD/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
+http://45.235.0.78/HBO2-HD/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
+http://45.235.0.78/HBOFAMILY-HD/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
+http://45.235.0.78/HBOPLUS-HD/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
+http://45.235.0.78/MAXUP-HD/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
+http://45.235.0.78/MAXPRIME-HD/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",ISTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3455
@@ -181,6 +217,9 @@ https://i.mjh.nz/PlutoTV/64877764dc7a760008a12799-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
 https://i.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Megapix
+http://64.31.40.14:14048/
 
 #EXTINF:-1 group-title="FILMES/SERIES",MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
@@ -251,6 +290,9 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Space
+http://45.235.0.78/SPACE-HD/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://187.95.95.18/Star/index.m3u8
 
@@ -262,6 +304,21 @@ http://187.95.95.18/TCM/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://199.127.60.83:16056/
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
+http://45.235.0.78/TCCULT-HD/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
+http://45.235.0.78/TCFUN-HD/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
+http://191.37.250.169:8801/live/TelecinePipocaHD/720p.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
+http://191.37.250.169:8801/live/TelecinePremiumHD/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
+http://45.235.0.78/TELECINETOUCH-HD/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
@@ -310,6 +367,12 @@ https://i.mjh.nz/PlutoTV/6474ab1da51cb80008bfb5f4-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TV Series Sci-Fi
 https://i.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
+http://208.115.225.174:14128/
+
+#EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
+http://208.115.225.174:14132/
 
 
 ###### VARIEDADES ######
@@ -402,6 +465,9 @@ https://acesso.ecast.site:3186/live/esflixlive.m3u8
 #EXTINF:-1 group-title="VARIEDADES",FailArmy
 https://i.mjh.nz/PlutoTV/5f5141c1605ddf000748eb1b-alt.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",FashionTV
+http://185.150.190.225:14961
+
 #EXTINF:-1 group-title="VARIEDADES",Fish TV
 http://168.205.87.198:8555/live/1212/123456/62.m3u8
 
@@ -440,6 +506,12 @@ http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",MTV [2]
 http://187.95.95.243/mtv/mono.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Multishow
+http://45.235.0.78/MULTISHOW-HD/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",NatGeo
+http://45.235.0.78/NATGEO-HD/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",NHK World TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -489,6 +561,9 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",TLC
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Travel Box
+http://45.235.0.78/TRAVELBOX-HD/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",TV Diversidade
 https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1388974422.m3u8
 
@@ -512,6 +587,12 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Viva
+http://191.37.250.169:8801/live/VivaHD/720p.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Viva [2]
+http://64.31.40.14:14884/
 
 #EXTINF:-1 group-title="VARIEDADES",Viva e Eduque
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
@@ -575,6 +656,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",All Sports
 http://168.205.87.198:8555/live/1212/123456/148.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Band Sports
+http://45.235.0.78/BANDSPORTS-HD/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://209.222.97.92:16493
 
@@ -584,11 +668,47 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist
 #EXTINF:-1 group-title="ESPORTES",DAZN Womens Sport
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgbr/playlist.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",ESPN
+http://51.83.238.223:16515/
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 2
+http://45.235.0.78/ESPN-HD/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 3
+http://45.235.0.78/ESPN2-HD/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 4
+http://45.235.0.78/FOXSPORTS-HD/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN Extra
+http://45.235.0.78/ESPNEXTRA-HD/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Globo Esporte
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Pop Bola
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere
+https://8mwx.short.gy/PFC24HORAS
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 2
+https://8mwx.short.gy/PREMIERE2
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
+https://8mwx.short.gy/PREMIERE3
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 4
+https://8mwx.short.gy/PREMIERE4
+
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://142.54.163.202:80/premium78/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 2
+http://142.54.163.202:80/premium79/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 3
+http://45.235.0.78/SPORTV3-HD/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
