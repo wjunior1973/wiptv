@@ -52,14 +52,8 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record MT [2]
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record RN
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Record SC NDTV
 http://177.38.211.15:8000/play/a00q/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record SC NDTV Floripa
-https://caikron.com.br:19360/floripa/floripa.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://177.38.211.15:8000/play/a012/index.m3u8
@@ -79,9 +73,6 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT Minas
 http://168.205.87.198:8555/live/1212/123456/104.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT Minas [2]
-http://177.85.235.20:8000/play/a011/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",SBT PI
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w841480968.m3u8
 
@@ -90,9 +81,6 @@ http://177.38.211.15:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SP
 https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/2402654f-e16b-4f35-ab84-87088eeb2397/4.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT SP TV Sorocaba
-https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/1212/123456/134.m3u8
@@ -178,9 +166,6 @@ https://i.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Filmrise Series
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",FX
-http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
@@ -342,9 +327,6 @@ https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet [2]
 http://199.127.60.83:16192/
 
-#EXTINF:-1 group-title="VARIEDADES",Arte 1
-http://187.95.95.247/ArteHD/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Astral TV
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
 
@@ -420,9 +402,6 @@ https://acesso.ecast.site:3186/live/esflixlive.m3u8
 #EXTINF:-1 group-title="VARIEDADES",FailArmy
 https://i.mjh.nz/PlutoTV/5f5141c1605ddf000748eb1b-alt.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Fashion TV
-http://187.95.95.18/Fashion/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Fish TV
 http://168.205.87.198:8555/live/1212/123456/62.m3u8
 
@@ -474,9 +453,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.
 #EXTINF:-1 group-title="VARIEDADES",Polidoro TV
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w809538453.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Prime Box
-http://187.95.95.18/Prime/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Programa 4 Por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
@@ -488,9 +464,6 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Receita Fast
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Rede MN
-https://acesso.ecast.site:3456/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",SESC TV
 http://168.205.87.198:8555/live/1212/123456/107.m3u8
@@ -515,9 +488,6 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TLC
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Travel Box
-http://187.95.95.18/Travel-HD/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TV Diversidade
 https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1388974422.m3u8
@@ -563,12 +533,6 @@ http://cdn.connectbr.com.br/Life/index.m3u8
 http://cdn.connectbr.com.br/24_news/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
-http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Band News [2]
-http://187.95.95.18/Band-News/index.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Band News [3]
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
@@ -610,9 +574,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",All Sports
 http://168.205.87.198:8555/live/1212/123456/148.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Band Sports
-http://187.95.95.18/Band-Sports/video.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://209.222.97.92:16493
@@ -763,12 +724,6 @@ http://168.205.87.198:8555/live/1212/123456/237.m3u8
 
 #EXTINF:-1 group-title="MUSICAS",MTV Biggest Pop
 https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8
-
-#EXTINF:-1 group-title="MUSICAS",Music Box
-http://187.95.95.18/Music-HD/index.m3u8
-
-#EXTINF:-1 group-title="MUSICAS",Music Top
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w399671418_b2028000_sleng.m3u8
 
 #EXTINF:-1 group-title="MUSICAS",Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
