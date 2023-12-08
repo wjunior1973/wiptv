@@ -180,9 +180,6 @@ http://208.115.225.174:14132/
 ###### VARIEDADES ######
 
 
-#EXTINF:-1 group-title="VARIEDADES",A Praca e Nossa
-https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
@@ -240,9 +237,6 @@ https://i.mjh.nz/PlutoTV/6077045b6031bd00078de127-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES",MTV
 http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Multishow
-http://45.235.0.78/MULTISHOW-HD/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",NatGeo
 http://45.235.0.78/NATGEO-HD/index.m3u8
 
@@ -266,9 +260,6 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Viva
-http://191.37.250.169:8801/live/VivaHD/720p.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Woohoo
 http://168.205.87.198:8555/live/1212/123456/141.m3u8
@@ -398,9 +389,6 @@ https://i.mjh.nz/PlutoTV/5f997e44949bc70007a6941e-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIS",TV Ra Tim Bum
 http://168.205.87.198:8555/live/1212/123456/84.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Vivax TV
-https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
 http://168.205.87.198:8555/live/1212/123456/162.m3u8
