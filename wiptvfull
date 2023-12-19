@@ -65,35 +65,14 @@ https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Livre
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1349363790.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://45.235.0.78/CINEMAX-HD/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://199.127.60.83:16043/
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://51.83.238.223:16045/
 
-#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
-http://45.235.0.78/HBO2-HD/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
-http://45.235.0.78/HBOFAMILY-HD/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
-http://45.235.0.78/HBOPLUS-HD/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
-http://45.235.0.78/MAXUP-HD/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
-http://45.235.0.78/MAXPRIME-HD/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",ISTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3455
-
-#EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
-https://i.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://64.31.40.14:14048/
@@ -109,9 +88,6 @@ http://168.205.87.198:8555/live/1212/123456/238.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
 http://168.205.87.198:8555/live/1212/123456/239.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Runtime
-https://i.mjh.nz/PlutoTV/62c5d32e2c48f9000715b6e9-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",RunTime Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
@@ -137,9 +113,6 @@ http://199.127.60.83:16063/
 #EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Space
-http://45.235.0.78/SPACE-HD/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://187.95.95.18/Star/index.m3u8
 
@@ -148,21 +121,6 @@ http://187.95.95.18/TCM/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://199.127.60.83:16056/
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
-http://45.235.0.78/TCCULT-HD/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
-http://45.235.0.78/TCFUN-HD/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
-http://191.37.250.169:8801/live/TelecinePipocaHD/720p.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
-http://191.37.250.169:8801/live/TelecinePremiumHD/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
-http://45.235.0.78/TELECINETOUCH-HD/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
@@ -210,9 +168,6 @@ https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",FailArmy
-https://i.mjh.nz/PlutoTV/5f5141c1605ddf000748eb1b-alt.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Food Network
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
@@ -231,29 +186,17 @@ https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Masterchef Brasil 24H
-https://i.mjh.nz/PlutoTV/6077045b6031bd00078de127-alt.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="VARIEDADES",MTV
 http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",NatGeo
-http://45.235.0.78/NATGEO-HD/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Receita Fast
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Smithsonian Channel
-https://i.mjh.nz/PlutoTV/6298bd10d88ef000073f16b7-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TLC
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Travel Box
-http://45.235.0.78/TRAVELBOX-HD/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TVE
 http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
@@ -293,26 +236,8 @@ http://177.38.211.15:8000/play/a010/index.m3u8
 ###### ESPORTES ######
 
 
-#EXTINF:-1 group-title="ESPORTES",Band Sports
-http://45.235.0.78/BANDSPORTS-HD/index.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://209.222.97.92:16493
-
-#EXTINF:-1 group-title="ESPORTES",ESPN
-http://51.83.238.223:16515/
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 2
-http://45.235.0.78/ESPN-HD/index.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 3
-http://45.235.0.78/ESPN2-HD/index.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",ESPN 4
-http://45.235.0.78/FOXSPORTS-HD/index.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",ESPN Extra
-http://45.235.0.78/ESPNEXTRA-HD/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere
 https://8mwx.short.gy/PFC24HORAS
@@ -331,9 +256,6 @@ http://142.54.163.202:80/premium78/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
 
 #EXTINF:-1 group-title="ESPORTES",SporTV 2
 http://142.54.163.202:80/premium79/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 3
-http://45.235.0.78/SPORTV3-HD/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -363,9 +285,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIS",Clubinho Fun
 http://187.95.95.18/Clubinho/video.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Cocorico 24H
-https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
@@ -383,9 +302,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 
 #EXTINF:-1 group-title="INFANTIS",Tooncast
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Turma da Monica 24H
-https://i.mjh.nz/PlutoTV/5f997e44949bc70007a6941e-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIS",TV Ra Tim Bum
 http://168.205.87.198:8555/live/1212/123456/84.m3u8
@@ -437,23 +353,8 @@ http://168.205.87.198:8555/live/1212/123456/236.m3u8
 #EXTINF:-1 group-title="MUSICAS",E-Music Rock
 http://168.205.87.198:8555/live/1212/123456/237.m3u8
 
-#EXTINF:-1 group-title="MUSICAS",MTV Biggest Pop
-https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8
-
 #EXTINF:-1 group-title="MUSICAS",Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSICAS",Vevo 2K
-https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS",Vevo 70s
-https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS",Vevo 80s
-https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS",Vevo 90s
-https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS",XITE 80 Flashback
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
