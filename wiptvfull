@@ -65,6 +65,12 @@ https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Livre
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1349363790.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cinepix
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1295959840.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Europa Play
+https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://199.127.60.83:16043/
 
@@ -82,6 +88,9 @@ http://208.115.225.174:14160/
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://208.115.225.174:14165/
+
+#EXTINF:-1 group-title="FILMES/SERIES",HTO Filmes
+https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",ISTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3455
@@ -153,6 +162,9 @@ http://208.115.225.174:14132/
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Cinebrasil
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Clouding
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
 
@@ -186,6 +198,9 @@ https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Futura
 http://168.205.87.198:8555/live/1212/123456/67.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Gogoplay
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
@@ -195,17 +210,26 @@ https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",History 2
 http://187.95.95.247/h2/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Home Full TV
+https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Masterchef 24 Horas
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",MTV
 http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",New Brasil
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Prime Box Brasil
+http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Receita Fast
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
@@ -241,6 +265,9 @@ https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",CNN Portugal
+https://bit.ly/41Pufgt?/playlist.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",Euronews Portugal
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
@@ -266,6 +293,9 @@ http://209.222.97.92:16493
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://51.83.238.223:16515/
 
+#EXTINF:-1 group-title="ESPORTES",Globo Esporte
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Premiere
 https://8mwx.short.gy/PFC24HORAS
 
@@ -283,6 +313,9 @@ http://142.54.163.202:80/premium78/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
 
 #EXTINF:-1 group-title="ESPORTES",SporTV 2
 http://142.54.163.202:80/premium79/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 3
+https://8mwx.short.gy/SPORTV3
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
