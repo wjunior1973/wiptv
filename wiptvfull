@@ -192,6 +192,9 @@ https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",E-Music Classics
+http://168.205.87.198:8555/live/1212/123456/231.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Food Network
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
@@ -240,6 +243,9 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",TLC
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Trace Brazuca
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",TVE
 http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
 
@@ -251,6 +257,43 @@ http://64.31.40.14:14884/
 
 #EXTINF:-1 group-title="VARIEDADES",Woohoo
 http://168.205.87.198:8555/live/1212/123456/141.m3u8
+
+
+###### INFANTIS ######
+
+
+#EXTINF:-1 group-title="INFANTIS",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Cartoonito Brazil
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Clubinho Fun
+http://187.95.95.18/Clubinho/video.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Discovery Kids
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Kids
+http://168.205.87.198:8555/live/1212/123456/143.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Nick Jr.
+http://187.95.95.247/Nickjr/video.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Nickelodeon
+http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="INFANTIS",Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:-1 group-title="INFANTIS",Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",TV Ra Tim Bum
+http://168.205.87.198:8555/live/1212/123456/84.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
+http://168.205.87.198:8555/live/1212/123456/162.m3u8
 
 
 ###### NOTICIAS ######
@@ -333,43 +376,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
-###### INFANTIS ######
-
-
-#EXTINF:-1 group-title="INFANTIS",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Cartoonito Brazil
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Clubinho Fun
-http://187.95.95.18/Clubinho/video.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Discovery Kids
-https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Kids
-http://168.205.87.198:8555/live/1212/123456/143.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Nick Jr.
-http://187.95.95.247/Nickjr/video.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Nickelodeon
-http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  group-title="INFANTIS",Toon Goggles
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
-
-#EXTINF:-1 group-title="INFANTIS",Tooncast
-https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",TV Ra Tim Bum
-http://168.205.87.198:8555/live/1212/123456/84.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
-http://168.205.87.198:8555/live/1212/123456/162.m3u8
-
-
 ###### RELIGIOSOS ######
 
 
@@ -398,39 +404,7 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 
-###### MUSICAS ######
 
 
-#EXTINF:-1 group-title="MUSICAS",E-Music Classics
-http://168.205.87.198:8555/live/1212/123456/231.m3u8
-
-#EXTINF:-1 group-title="MUSICAS",E-Music Party
-http://168.205.87.198:8555/live/1212/123456/235.m3u8
-
-#EXTINF:-1 group-title="MUSICAS",E-Music Pop
-http://168.205.87.198:8555/live/1212/123456/236.m3u8
-
-#EXTINF:-1 group-title="MUSICAS",E-Music Rock
-http://168.205.87.198:8555/live/1212/123456/237.m3u8
-
-#EXTINF:-1 group-title="MUSICAS",Trace Brazuca
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSICAS",XITE 80 Flashback
-https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="MUSICAS",XITE 90 Throwback
-https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
-###### AGRONEGOCIOS ######
-
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Agro Canal
-http://168.205.87.198:8555/live/1212/123456/10.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
-http://168.205.87.198:8555/live/1212/123456/167.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
