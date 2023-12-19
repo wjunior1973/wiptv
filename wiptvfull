@@ -71,6 +71,18 @@ http://199.127.60.83:16043/
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://51.83.238.223:16045/
 
+#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
+http://208.115.225.174:14140/
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
+http://208.115.225.174:14144/
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
+http://208.115.225.174:14160/
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
+http://208.115.225.174:14165/
+
 #EXTINF:-1 group-title="FILMES/SERIES",ISTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3455
 
@@ -113,8 +125,8 @@ http://199.127.60.83:16063/
 #EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
-http://187.95.95.18/Star/index.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES",Space
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TCM
 http://187.95.95.18/TCM/index.m3u8
@@ -174,11 +186,14 @@ https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Futura
 http://168.205.87.198:8555/live/1212/123456/67.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",H2
-http://187.95.95.247/h2/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",History
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",History 2
+http://187.95.95.247/h2/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
@@ -188,6 +203,9 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",MTV
 http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",New Brasil
+https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Receita Fast
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
@@ -203,6 +221,9 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",ViVA
+http://64.31.40.14:14884/
 
 #EXTINF:-1 group-title="VARIEDADES",Woohoo
 http://168.205.87.198:8555/live/1212/123456/141.m3u8
@@ -236,8 +257,14 @@ http://177.38.211.15:8000/play/a010/index.m3u8
 ###### ESPORTES ######
 
 
+#EXTINF:-1 group-title="ESPORTES",Band Sports
+http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://209.222.97.92:16493
+
+#EXTINF:-1 group-title="ESPORTES",ESPN
+http://51.83.238.223:16515/
 
 #EXTINF:-1 group-title="ESPORTES",Premiere
 https://8mwx.short.gy/PFC24HORAS
