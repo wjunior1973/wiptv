@@ -10,6 +10,9 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band Minas
 http://168.205.87.198:8555/live/antony/1234/19.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Band Minas [2]
+http://201.159.164.38:8000/play/a005/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Band Para
 https://streaming.gruporba.com.br/rba.m3u8
 
@@ -30,6 +33,9 @@ http://168.205.87.198:8555/live/1431/123456/70.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo Minas [2]
 https://c0i2.short.gy/INTEGRACAOUBERABA?playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo Minas [3]
+http://201.159.164.38:8000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo MT
 https://c0i2.short.gy/CENTROAMERICAMT?playlist.m3u8
