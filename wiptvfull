@@ -128,18 +128,6 @@ http://199.127.60.83:16043/
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://51.83.238.223:16045/
 
-#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
-http://208.115.225.174:14140/
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
-http://208.115.225.174:14144/
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
-http://208.115.225.174:14160/
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
-http://208.115.225.174:14165/
-
 #EXTINF:-1 group-title="FILMES/SERIES",HTO Filmes
 https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 
