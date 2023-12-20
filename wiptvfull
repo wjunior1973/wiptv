@@ -20,7 +20,7 @@ https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 http://168.205.87.198:8555/live/1212/123456/69.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo [1]
-https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
+https://8mwx.short.gy/GLOBORJ
 
 #EXTINF:-1 group-title="TV ABERTA",Globo [2]
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
@@ -36,6 +36,18 @@ http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo [6]
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo [7]
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
+
+#EXTINF:-1 group-title="TV ABERTA",Globo [8]
+https://c0i2.short.gy/VERDESMARESCEARA?playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo [9]
+https://c0i2.short.gy/CENTROAMERICAMT?playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo [10]
+https://c0i2.short.gy/INTEGRACAOUBERABA?playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record [1]
 http://51.83.238.223:16141/
