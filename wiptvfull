@@ -125,7 +125,7 @@ http://199.127.60.83:16002/
 #EXTINF:-1 group-title="FILMES/SERIES",AMC Brasil
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",AXN [1]
+#EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://51.83.238.223:16941/
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN [2]
@@ -291,7 +291,7 @@ https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Masterchef 24 Horas
+#EXTINF:-1 group-title="VARIEDADES",Masterchef 24H
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",MTV
