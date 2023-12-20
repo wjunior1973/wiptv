@@ -7,23 +7,44 @@
 #EXTINF:-1 group-title="TV ABERTA",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band SC TVBV
-http://177.38.211.15:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Band SP
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 
 #EXTINF:-1 group-title="TV ABERTA",Gazeta
 http://168.205.87.198:8555/live/1212/123456/69.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV
-http://177.38.211.15:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo Bahia
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
 
-#EXTINF:-1 group-title="TV ABERTA",Record SC NDTV
-http://177.38.211.15:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo ES
+http://200.194.238.229:8383/live/globosupernet/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Rede TV!
-http://177.38.211.15:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo Minas
+http://185.150.190.225:16263/
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SCC
-http://177.38.211.15:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP [2]
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record SP
+http://51.83.238.223:16141/
+
+#EXTINF:-1 group-title="TV ABERTA",Record SP [2]
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! Parana
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! RS
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8?ManoTV
+
+#EXTINF:-1 group-title="TV ABERTA",SBT Parana
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT Piaui
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/1212/123456/134.m3u8
