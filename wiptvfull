@@ -49,8 +49,14 @@ https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record
 http://51.83.238.223:16141/
 
+#EXTINF:-1 group-title="TV ABERTA",Record Minas
+http://168.205.87.198:8555/live/1431/123456/96.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Record SP
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! Minas
+http://168.205.87.198:8555/live/1431/123456/102.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! Paraiba
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8?ManoTV
@@ -58,8 +64,20 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8?Mano
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! Parana
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist720p.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT Bahia
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT Minas
+http://168.205.87.198:8555/live/1431/123456/104.m3u8 
+
 #EXTINF:-1 group-title="TV ABERTA",SBT Parana
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT Parana [2]
+https://cdn-cdn-tibagi.ciclano.io:1443/cdn-tibagi/cdn-tibagi/chunklist_w1679318353.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT Piaui
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -72,6 +90,9 @@ https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SP [3]
 http://209.222.97.92:16173
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SP [4]
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/1212/123456/134.m3u8
