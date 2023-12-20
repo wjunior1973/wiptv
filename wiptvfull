@@ -164,6 +164,9 @@ https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://199.127.60.83:16043/
 
+#EXTINF:-1 group-title="FILMES/SERIES",H+
+https://cdn-2.nxplay.com.br/PLAYOUT_02_HMAIS/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://51.83.238.223:16045/
 
@@ -172,6 +175,12 @@ https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",ISTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3455
+
+#EXTINF:-1 group-title="FILMES/SERIES",Jeanny 24H
+https://i.mjh.nz/PlutoTV/16079c058aa05ac0007d10054-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
+https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://64.31.40.14:14048/
@@ -187,6 +196,12 @@ http://168.205.87.198:8555/live/1212/123456/238.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
 http://168.205.87.198:8555/live/1212/123456/239.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Rookie Blue 24H
+https://i.mjh.nz/PlutoTV/164ff2d8c6625510008c5a512-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Plantao Noturno 24H
+https://i.mjh.nz/PlutoTV/1624f4e6bd5888f000754c53a-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",RunTime Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
@@ -346,6 +361,12 @@ http://168.205.87.198:8555/live/1212/123456/141.m3u8
 ###### INFANTIS ######
 
 
+#EXTINF:-1 group-title="INFANTIS",Baby Shark TV
+https://i.mjh.nz/PlutoTV/163da6bcd60bc8f0008a5d364-alt.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Bob Esponja 24H
+https://i.mjh.nz/PlutoTV/162545c0b002f4b0007688b61-alt.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 
@@ -376,6 +397,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:-1 group-title="INFANTIS",Tooncast
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Turma da Monica 24H
+https://i.mjh.nz/PlutoTV/15f997e44949bc70007a6941e-alt.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",TV Ra Tim Bum
 http://168.205.87.198:8555/live/1212/123456/84.m3u8
 
@@ -391,6 +415,9 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",CBS News
+https://i.mjh.nz/PlutoTV/162310f66d5888f0007534342-alt.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
