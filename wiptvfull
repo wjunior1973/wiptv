@@ -65,7 +65,7 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT [1]
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+http://209.222.97.92:16173
 
 #EXTINF:-1 group-title="TV ABERTA",SBT [2]
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -75,6 +75,9 @@ https://cdn-1.nxplay.com.br/SBT_HD_SIMBA/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT [4]
 https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT [5]
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/1212/123456/134.m3u8
@@ -101,7 +104,10 @@ http://199.127.60.83:16002/
 #EXTINF:-1 group-title="FILMES/SERIES",AMC Brasil
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",AXN
+#EXTINF:-1 group-title="FILMES/SERIES",AXN [1]
+http://51.83.238.223:16941/
+
+#EXTINF:-1 group-title="FILMES/SERIES",AXN [2]
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
@@ -180,7 +186,10 @@ https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 http://187.95.95.18/TCM/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
-http://199.127.60.83:16056/
+http://51.83.238.223:16703/
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
+http://51.83.238.223:16763/
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
@@ -313,6 +322,9 @@ http://187.95.95.18/Clubinho/video.m3u8
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Disney Junior
+http://51.83.238.223:16274/
+
 #EXTINF:-1 group-title="INFANTIS",Kids
 http://168.205.87.198:8555/live/1212/123456/143.m3u8
 
@@ -389,6 +401,9 @@ https://8mwx.short.gy/PREMIERE3
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 4
 https://8mwx.short.gy/PREMIERE4
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 5
+http://185.150.190.225:16476
 
 #EXTINF:-1 group-title="ESPORTES",SporTV
 http://142.54.163.202:80/premium78/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
