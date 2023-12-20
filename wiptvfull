@@ -43,6 +43,9 @@ https://c0i2.short.gy/CENTROAMERICAMT?playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo Rio
 https://8mwx.short.gy/GLOBORJ
 
+#EXTINF:-1 group-title="TV ABERTA",Globo SC
+http://131.100.52.122:8000/play/a003/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
 
@@ -57,6 +60,9 @@ http://51.83.238.223:16141/
 
 #EXTINF:-1 group-title="TV ABERTA",Record Minas
 http://168.205.87.198:8555/live/1431/123456/96.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record SC
+http://131.100.52.122:8000/play/a005/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record SP
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
@@ -87,6 +93,9 @@ https://cdn-cdn-tibagi.ciclano.io:1443/cdn-tibagi/cdn-tibagi/chunklist_w16793183
 
 #EXTINF:-1 group-title="TV ABERTA",SBT Piaui
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SC
+http://131.100.52.122:8000/play/a007/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SP
 https://cdn-1.nxplay.com.br/SBT_HD_SIMBA/index.m3u8
@@ -120,6 +129,9 @@ http://168.205.87.198:8555/live/1212/123456/139.m3u8
 
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
+http://187.95.95.243/AE/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",A&E [2]
 http://199.127.60.83:16002/
 
 #EXTINF:-1 group-title="FILMES/SERIES",AMC Brasil
@@ -230,6 +242,9 @@ http://208.115.225.174:14132/
 
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Arte 1
+http://187.95.95.247/ArteHD/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Cinebrasil
 https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
