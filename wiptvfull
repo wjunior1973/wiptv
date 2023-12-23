@@ -41,14 +41,8 @@ http://168.205.87.198:8555/live/1212/123456/159.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://199.127.60.83:16043/
 
-#EXTINF:-1 group-title="FILMES/SERIES",H+
-https://cdn-2.nxplay.com.br/PLAYOUT_02_HMAIS/index.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://51.83.238.223:16045/
-
-#EXTINF:-1 group-title="FILMES/SERIES",HTO Filmes
-https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
 https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8
