@@ -1,208 +1,123 @@
 #EXTM3U
 
-
-###### TV ABERTA ######
-
-
-#EXTINF:-1 group-title="TV ABERTA",Band
-https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
-
-#EXTINF:-1 group-title="TV ABERTA",Gazeta
-http://168.205.87.198:8555/live/1212/123456/69.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Globo
-http://131.100.52.122:8000/play/a003/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Record
-http://131.100.52.122:8000/play/a005/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV!
-https://i.mjh.nz/PlutoTV/16048fc47a44e540007745d2b-alt.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT
-http://131.100.52.122:8000/play/a007/index.m3u8
-
-
-###### FILMES/SERIES ######
-
-
-#EXTINF:-1 group-title="FILMES/SERIES",A&E
+#EXTINF:-1,A&E
 http://199.127.60.83:16002/
-
-#EXTINF:-1 group-title="FILMES/SERIES",AXN
+#EXTINF:-1,AXN
 http://51.83.238.223:16941/
-
-#EXTINF:-1 group-title="FILMES/SERIES",Chaves 24H
-http://168.205.87.198:8555/live/1212/123456/159.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",FX
-http://199.127.60.83:16043/
-
-#EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
-https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",NCIS 24H
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
-http://168.205.87.198:8555/live/1212/123456/238.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
-http://168.205.87.198:8555/live/1212/123456/239.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",RunTime Acao
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-
-#EXTINF:-1 group-title="FILMES/SERIES",RunTime Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-
-#EXTINF:-1 group-title="FILMES/SERIES",RunTime Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-
-#EXTINF:-1 group-title="FILMES/SERIES",Runtime Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-
-#EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
-http://168.205.87.198:8555/live/1212/123456/160.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
-http://199.127.60.83:16063/
-
-#EXTINF:-1 group-title="FILMES/SERIES",Sony One
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TCM
-http://187.95.95.18/TCM/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
-http://51.83.238.223:16763/
-
-#EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
-http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Urban Series
-http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
-http://208.115.225.174:14132/
-
-
-###### VARIEDADES ######
-
-
-#EXTINF:-1 group-title="VARIEDADES",H2
-http://187.95.95.247/h2/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Home Full TV
-https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Masterchef 24H
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",ViVA
-http://64.31.40.14:14884/
-
-#EXTINF:-1 group-title="VARIEDADES",Woohoo
-http://168.205.87.198:8555/live/1212/123456/141.m3u8
-
-
-###### INFANTIS ######
-
-
-#EXTINF:-1 group-title="INFANTIS",Baby Shark TV
+#EXTINF:-1,Baby Shark TV
 https://i.mjh.nz/PlutoTV/163da6bcd60bc8f0008a5d364-alt.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Cartoonito
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Disney Junior
-http://51.83.238.223:16274/
-
-#EXTINF:-1 group-title="INFANTIS",Kids
-http://168.205.87.198:8555/live/1212/123456/143.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Nick Jr.
-http://187.95.95.247/Nickjr/video.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Turma da Monica 24H
-https://i.mjh.nz/PlutoTV/15f997e44949bc70007a6941e-alt.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",TV Ra Tim Bum
-http://168.205.87.198:8555/live/1212/123456/84.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Zoomoo Kids
-http://168.205.87.198:8555/live/1212/123456/162.m3u8
-
-
-###### NOTICIAS ######
-
-
-#EXTINF:-1 group-title="NOTICIAS",CNN Brasil
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Globo News
-http://209.222.97.92:16436
-
-#EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
-http://168.205.87.198:8555/live/1212/123456/161.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Record News
-http://168.205.87.198:8555/live/1212/123456/97.m3u8
-
-
-###### ESPORTES ######
-
-#EXTINF:-1 group-title="ESPORTES",Combate
-http://209.222.97.92:16493
-
-#EXTINF:-1 group-title="ESPORTES",ESPN
-http://51.83.238.223:16515/
-
-#EXTINF:-1 group-title="ESPORTES",Globo Esporte
-https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-
-###### RELIGIOSOS ######
-
-
-#EXTINF:-1 group-title="RELIGIOSOS",Boa Vontade TV
+#EXTINF:-1,Band
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
+#EXTINF:-1,Boa Vontade TV
 http://168.205.87.198:8555/live/1212/123456/21.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
+#EXTINF:-1,Cancao Nova
 http://168.205.87.198:8555/live/1212/123456/25.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Novo Tempo
+#EXTINF:-1,Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1,Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1,Chaves 24H
+http://168.205.87.198:8555/live/1212/123456/159.m3u8
+#EXTINF:-1,CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1,Combate
+http://209.222.97.92:16493
+#EXTINF:-1,Disney Junior
+http://51.83.238.223:16274/
+#EXTINF:-1,ESPN
+http://51.83.238.223:16515/
+#EXTINF:-1,FX
+http://199.127.60.83:16043/
+#EXTINF:-1,Gazeta
+http://168.205.87.198:8555/live/1212/123456/69.m3u8
+#EXTINF:-1,Globo
+http://131.100.52.122:8000/play/a003/index.m3u8
+#EXTINF:-1,Globo Esporte
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
+#EXTINF:-1,Globo News
+http://209.222.97.92:16436
+#EXTINF:-1,H2
+http://187.95.95.247/h2/index.m3u8
+#EXTINF:-1,Home Full TV
+https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
+#EXTINF:-1,Jovem Pan News
+http://168.205.87.198:8555/live/1212/123456/161.m3u8
+#EXTINF:-1,Kids
+http://168.205.87.198:8555/live/1212/123456/143.m3u8
+#EXTINF:-1,MacGyver 24H
+https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8
+#EXTINF:-1,Masterchef 24H
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
+#EXTINF:-1,NCIS 24H
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1,Nick Jr.
+http://187.95.95.247/Nickjr/video.m3u8
+#EXTINF:-1,Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Pai Eterno
+#EXTINF:-1,Pai Eterno
 http://168.205.87.198:8555/live/1212/123456/144.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
+#EXTINF:-1,Playpoca Filmes
+http://168.205.87.198:8555/live/1212/123456/238.m3u8
+#EXTINF:-1,Playpoca Series
+http://168.205.87.198:8555/live/1212/123456/239.m3u8
+#EXTINF:-1,Record
+http://131.100.52.122:8000/play/a005/index.m3u8
+#EXTINF:-1,Record News
+http://168.205.87.198:8555/live/1212/123456/97.m3u8
+#EXTINF:-1,Rede Seculo 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
+#EXTINF:-1,Rede TV!
+https://i.mjh.nz/PlutoTV/16048fc47a44e540007745d2b-alt.m3u8
+#EXTINF:-1,Rede Vida
 http://168.205.87.198:8555/live/1212/123456/103.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
+#EXTINF:-1,RunTime Acao
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1,RunTime Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1,RunTime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1,Runtime Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:-1,SBT
+http://131.100.52.122:8000/play/a007/index.m3u8
+#EXTINF:-1,Series Classicas
+http://168.205.87.198:8555/live/1212/123456/160.m3u8
+#EXTINF:-1,Sony Channel
+http://199.127.60.83:16063/
+#EXTINF:-1,Sony One
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+#EXTINF:-1,TCM
+http://187.95.95.18/TCM/index.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://51.83.238.223:16763/
+#EXTINF:-1,TNT Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1,TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1,TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1,TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1,TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1,Turma da Monica 24H
+https://i.mjh.nz/PlutoTV/15f997e44949bc70007a6941e-alt.m3u8
+#EXTINF:-1,TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:-1,TV Ra Tim Bum
+http://168.205.87.198:8555/live/1212/123456/84.m3u8
+#EXTINF:-1,Urban Movies
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:-1,Urban Series
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:-1,ViVA
+http://64.31.40.14:14884/
+#EXTINF:-1,Warner Channel
+http://208.115.225.174:14132/
+#EXTINF:-1,Woohoo
+http://168.205.87.198:8555/live/1212/123456/141.m3u8
+#EXTINF:-1,Zoomoo Kids
+http://168.205.87.198:8555/live/1212/123456/162.m3u8
 
 
 
