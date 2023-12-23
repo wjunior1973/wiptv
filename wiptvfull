@@ -7,7 +7,10 @@
 #EXTINF:-1 group-title="TV ABERTA",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band
+#EXTINF:-1 group-title="TV ABERTA",Band Minas
+http://201.159.164.38:8000/play/a005/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band SP
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 
 #EXTINF:-1 group-title="TV ABERTA",Gazeta
@@ -17,7 +20,10 @@ http://168.205.87.198:8555/live/1212/123456/69.m3u8
 http://131.100.52.122:8000/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+http://199.127.60.83:16020
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP [2]
+http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1648457650-1648414450
 
 #EXTINF:-1 group-title="TV ABERTA",Record SC
 http://131.100.52.122:8000/play/a005/index.m3u8
@@ -38,9 +44,6 @@ http://131.100.52.122:8000/play/a007/index.m3u8
 https://cdn-1.nxplay.com.br/SBT_HD_SIMBA/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SP [2]
-https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT SP [3]
 http://209.222.97.92:16173
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
