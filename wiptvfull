@@ -44,6 +44,12 @@ http://199.127.60.83:16043/
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://51.83.238.223:16045/
 
+#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
+http://208.115.225.174:14140/
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
+http://208.115.225.174:14160/
+
 #EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
 https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8
 
@@ -62,11 +68,26 @@ http://168.205.87.198:8555/live/1212/123456/238.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
 http://168.205.87.198:8555/live/1212/123456/239.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",RunTime Acao
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 group-title="FILMES/SERIES",RunTime Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 group-title="FILMES/SERIES",RunTime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 group-title="FILMES/SERIES",Runtime Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/1212/123456/160.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
 http://199.127.60.83:16063/
+
+#EXTINF:-1 group-title="FILMES/SERIES",Sony One
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
@@ -82,6 +103,12 @@ http://51.83.238.223:16763/
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Urban Series
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 http://208.115.225.174:14132/
