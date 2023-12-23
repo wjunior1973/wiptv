@@ -185,9 +185,6 @@ https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",TV Classicos
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1557526838.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
-http://208.115.225.174:14128/
-
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 http://208.115.225.174:14132/
 
@@ -239,9 +236,6 @@ https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Futura
 http://168.205.87.198:8555/live/1212/123456/67.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Gogoplay
-https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
@@ -375,7 +369,7 @@ http://209.222.97.92:16436
 http://168.205.87.198:8555/live/1212/123456/161.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
-http://177.38.211.15:8000/play/a010/index.m3u8
+http://168.205.87.198:8555/live/1212/123456/97.m3u8
 
 
 ###### ESPORTES ######
@@ -392,30 +386,6 @@ http://51.83.238.223:16515/
 
 #EXTINF:-1 group-title="ESPORTES",Globo Esporte
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere
-https://8mwx.short.gy/PFC24HORAS
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 2
-https://8mwx.short.gy/PREMIERE2
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 3
-https://8mwx.short.gy/PREMIERE3
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 4
-https://8mwx.short.gy/PREMIERE4
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 5
-http://185.150.190.225:16476
-
-#EXTINF:-1 group-title="ESPORTES",SporTV
-http://142.54.163.202:80/premium78/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 2
-http://142.54.163.202:80/premium79/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 3
-https://8mwx.short.gy/SPORTV3
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
