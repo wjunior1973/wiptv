@@ -27,9 +27,6 @@ http://131.100.52.122:8000/play/a007/index.m3u8
 
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
-http://187.95.95.243/AE/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",A&E [2]
 http://199.127.60.83:16002/
 
 #EXTINF:-1 group-title="FILMES/SERIES",AMC Brasil
@@ -38,10 +35,7 @@ https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://51.83.238.223:16941/
 
-#EXTINF:-1 group-title="FILMES/SERIES",AXN [2]
-https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin 24H
+#EXTINF:-1 group-title="FILMES/SERIES",Chaves 24H
 http://168.205.87.198:8555/live/1212/123456/159.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
@@ -55,9 +49,6 @@ http://51.83.238.223:16045/
 
 #EXTINF:-1 group-title="FILMES/SERIES",HTO Filmes
 https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Jeanny 24H
-https://i.mjh.nz/PlutoTV/16079c058aa05ac0007d10054-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
 https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8
@@ -76,12 +67,6 @@ http://168.205.87.198:8555/live/1212/123456/238.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
 http://168.205.87.198:8555/live/1212/123456/239.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Rookie Blue 24H
-https://i.mjh.nz/PlutoTV/164ff2d8c6625510008c5a512-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Plantao Noturno 24H
-https://i.mjh.nz/PlutoTV/1624f4e6bd5888f000754c53a-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://168.205.87.198:8555/live/1212/123456/160.m3u8
@@ -114,15 +99,6 @@ http://208.115.225.174:14132/
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Arte 1
-http://187.95.95.247/ArteHD/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Cinebrasil
-https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Cultura
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="VARIEDADES",Discovery
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
@@ -146,9 +122,6 @@ https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Food Network
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Futura
-http://168.205.87.198:8555/live/1212/123456/67.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
