@@ -35,6 +35,9 @@ https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 http://51.83.238.223:16141/
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
+https://i.mjh.nz/PlutoTV/16048fc47a44e540007745d2b-alt.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Rede TV! PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SC
