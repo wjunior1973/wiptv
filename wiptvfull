@@ -54,6 +54,8 @@ https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream04/strea
 http://51.83.238.223:16274/
 #EXTINF:-1,ESPN
 http://51.83.238.223:16515/
+#EXTINF:-1,ESPN 2
+http://186.237.99.10:80/ESPN2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fish TV
 http://168.205.87.198:8555/live/1212/123456/62.m3u8
 #EXTINF:-1,Futura
@@ -62,8 +64,12 @@ http://168.205.87.198:8555/live/1212/123456/67.m3u8
 http://199.127.60.83:16043/
 #EXTINF:-1,Gazeta
 http://168.205.87.198:8555/live/1212/123456/69.m3u8
+#EXTINF:-1,Globo RJ
+https://8mwx.short.gy/GLOBORJ/index.m3u8
 #EXTINF:-1,Globo SC
 http://131.100.52.122:8000/play/a003/index.m3u8
+#EXTINF:-1,Globo SP
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Globo Esporte
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
 #EXTINF:-1,Globo News
@@ -74,8 +80,12 @@ http://187.95.95.247/h2/index.m3u8
 http://51.83.238.223:16045/
 #EXTINF:-1,HBO 2
 http://208.115.225.174:14140/
+#EXTINF:-1,HBO Family
+http://208.115.225.174:14144/
 #EXTINF:-1,HBO Signature
 http://208.115.225.174:14160/
+#EXTINF:-1,HBO Xtreme
+http://208.115.225.174:14165/
 #EXTINF:-1,Home Full TV
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 #EXTINF:-1,Jovem Pan News
@@ -100,8 +110,12 @@ http://168.205.87.198:8555/live/1212/123456/144.m3u8
 http://168.205.87.198:8555/live/1212/123456/238.m3u8
 #EXTINF:-1,Playpoca Series
 http://168.205.87.198:8555/live/1212/123456/239.m3u8
+#EXTINF:-1,Premiere Clubes
+http://208.115.225.174:14460/
 #EXTINF:-1,Receita Fast
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
+#EXTINF:-1,Record Bahia
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
 #EXTINF:-1,Record SC
 http://131.100.52.122:8000/play/a005/index.m3u8
 #EXTINF:-1,Record SP
