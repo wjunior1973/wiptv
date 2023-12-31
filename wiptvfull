@@ -104,6 +104,8 @@ http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1,Pai Eterno
 http://168.205.87.198:8555/live/1212/123456/144.m3u8
+#EXTINF:-1,Pipocine
+https://serv4.videovox.pw/video55103/video55103/playlist.m3u8
 #EXTINF:-1,Playpoca Filmes
 http://168.205.87.198:8555/live/1212/123456/238.m3u8
 #EXTINF:-1,Playpoca Series
