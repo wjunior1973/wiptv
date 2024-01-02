@@ -56,6 +56,10 @@ http://51.83.238.223:16274/
 http://51.83.238.223:16515/
 #EXTINF:-1,ESPN 2
 http://186.237.99.10:80/ESPN2_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN 3
+http://186.237.99.10:80/ESPN3_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN 4
+http://186.237.99.10:80/ESPN4_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fish TV
 http://168.205.87.198:8555/live/1212/123456/62.m3u8
 #EXTINF:-1,Futura
@@ -182,6 +186,8 @@ http://168.205.87.198:8555/live/1212/123456/138.m3u8
 http://168.205.87.198:8555/live/1212/123456/84.m3u8
 #EXTINF:-1,TV Zyn
 https://fast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/4f7ba576-f3c4-458e-8f5d-d927a7b77ce4/4.m3u8
+#EXTINF:-1,Universal TV
+http://51.83.238.223:16883/
 #EXTINF:-1,Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 #EXTINF:-1,Urban Movies
