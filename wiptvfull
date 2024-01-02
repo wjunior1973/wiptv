@@ -160,8 +160,12 @@ http://187.95.95.18/TCM/index.m3u8
 http://51.83.238.223:16703/telecineaction
 #EXTINF:-1,Telecine Pipoca
 http://51.83.238.223:16763/
+#EXTINF:-1,Telecine Premium
+http://51.83.238.223:16783
 #EXTINF:-1,Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1,TNT Series
+http://51.83.238.223:16131
 #EXTINF:-1,TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1,TNT Sports 2
