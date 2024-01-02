@@ -9,7 +9,7 @@ http://168.205.87.198:8555/live/1212/123456/148.m3u8
 #EXTINF:-1,Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1,AMC
-http://199.127.60.83:16004/
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1,Animal Planet
 http://199.127.60.83:16192/
 #EXTINF:-1,AXN
