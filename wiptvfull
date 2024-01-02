@@ -9,7 +9,7 @@ http://168.205.87.198:8555/live/1212/123456/148.m3u8
 #EXTINF:-1,Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1,AMC
-https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+http://64.31.40.14:14004
 #EXTINF:-1,Animal Planet
 http://199.127.60.83:16192/
 #EXTINF:-1,AXN
@@ -40,6 +40,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 http://168.205.87.198:8555/live/1212/123456/159.m3u8
 #EXTINF:-1,Cine Livre
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1349363790.m3u8
+#EXTINF:-1,Cinemax
+http://64.31.40.14:14031
 #EXTINF:-1,CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1,Combate
@@ -65,7 +67,7 @@ http://168.205.87.198:8555/live/1212/123456/62.m3u8
 #EXTINF:-1,Futura
 http://168.205.87.198:8555/live/1212/123456/67.m3u8
 #EXTINF:-1,FX
-http://199.127.60.83:16043/
+http://64.31.40.14:14043
 #EXTINF:-1,Gazeta
 http://168.205.87.198:8555/live/1212/123456/69.m3u8
 #EXTINF:-1,Globo SC
@@ -100,6 +102,10 @@ http://187.95.95.18/Lifetime/index.m3u8
 https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8
 #EXTINF:-1,Masterchef 24H
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
+#EXTINF:-1,Megapix
+http://64.31.40.14:14048
+#EXTINF:-1,Multishow
+http://64.31.40.14:14712
 #EXTINF:-1,NCIS 24H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1,Novelando
@@ -108,6 +114,8 @@ http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1,Pai Eterno
 http://168.205.87.198:8555/live/1212/123456/144.m3u8
+#EXTINF:-1,Paramount
+http://64.31.40.14:14058
 #EXTINF:-1,Pipocine
 https://serv4.videovox.pw/video55103/video55103/playlist.m3u8
 #EXTINF:-1,Playpoca Filmes
@@ -149,7 +157,7 @@ http://209.222.97.92:16173
 #EXTINF:-1,Series Classicas
 http://168.205.87.198:8555/live/1212/123456/160.m3u8
 #EXTINF:-1,Sony Channel
-http://199.127.60.83:16063/
+http://64.31.40.14:14063
 #EXTINF:-1,Sony One
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 #EXTINF:-1,Tastemade Brasil
