@@ -34,6 +34,9 @@ http://168.205.87.198:8555/live/1212/123456/134.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Camara
 http://168.205.87.198:8555/live/1212/123456/136.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",TV Gazeta
+http://168.205.87.198:8555/live/1212/123456/69.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",TV Justica
 http://168.205.87.198:8555/live/1212/123456/138.m3u8
 
@@ -268,6 +271,9 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Viva
 http://64.31.40.14:14884/
 
+#EXTINF:-1 group-title="VARIEDADES",XITE 80 Flashback
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 
 ###### NOTICIAS ######
 
@@ -306,6 +312,9 @@ http://209.222.97.92:16493
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://51.83.238.223:16515/
 
+#EXTINF:-1 group-title="ESPORTES",Globo Esporte
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://208.115.225.174:14460
 
@@ -340,6 +349,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIS",Cartoonito
 http://199.127.60.83:14682
 
+#EXTINF:-1 group-title="INFANTIS",Clubinho Fun
+http://187.95.95.18/Clubinho/video.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
@@ -370,6 +382,21 @@ http://168.205.87.198:8555/live/1212/123456/162.m3u8
 
 ###### RELIGIOSOS ######
 
+
+#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
+http://168.205.87.198:8555/live/1212/123456/25.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Pai Eterno
+http://168.205.87.198:8555/live/1212/123456/144.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
+http://168.205.87.198:8555/live/1212/123456/106.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
+http://168.205.87.198:8555/live/1212/123456/103.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
