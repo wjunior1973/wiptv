@@ -3,6 +3,7 @@
 
 ###### TV ABERTA ######
 
+
 #EXTINF:-1 group-title="TV ABERTA",Band
 http://51.83.238.223:16800
 
@@ -200,7 +201,7 @@ https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Discovery Theater
 https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARIOS",Discovery Turbo
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
 http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
