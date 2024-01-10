@@ -48,7 +48,7 @@ http://168.205.87.198:8555/live/1212/123456/138.m3u8
 
 
 #EXTINF:-1 group-title="FILMES & SERIES",A&E
-http://199.127.60.83:16002/
+http://64.31.40.14:14002
 
 #EXTINF:-1 group-title="FILMES & SERIES",AMC
 http://64.31.40.14:14004
