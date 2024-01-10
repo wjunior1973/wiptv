@@ -146,6 +146,10 @@ http://51.83.238.223:16703/
 #EXTINF:-1 group-title="FILMES & SERIES",Telecine Pipoca
 http://51.83.238.223:16763/
 
+#EXTINF:-1 group-title="FILMES & SERIES",Telecine Premium
+http://51.83.238.223:16783
+
+
 #EXTINF:-1 group-title="FILMES & SERIES",TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
