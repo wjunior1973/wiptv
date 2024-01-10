@@ -349,6 +349,9 @@ https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:-1 group-title="INFANTIS",Disney Junior
 http://51.83.238.223:16274/
 
+#EXTINF:-1 group-title="INFANTIS",Gloob
+http://185.150.190.225:14674
+
 #EXTINF:-1 group-title="INFANTIS",Hello Anime
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 
