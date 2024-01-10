@@ -181,6 +181,9 @@ http://199.127.60.83:16192
 #EXTINF:-1 group-title="VARIEDADES",Arte 1
 http://187.95.95.247/ArteHD/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",BIS
+http://199.127.60.83:14716
+
 #EXTINF:-1 group-title="VARIEDADES",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
