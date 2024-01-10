@@ -293,7 +293,7 @@ http://187.95.95.18/Band-News/index.m3u8
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Globo News
-http://209.222.97.92:16436
+http://51.83.238.223:16825
 
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 http://168.205.87.198:8555/live/1212/123456/161.m3u8
