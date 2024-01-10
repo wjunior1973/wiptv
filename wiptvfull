@@ -77,9 +77,6 @@ http://187.95.95.18/cinecanal/video.m3u8
 #EXTINF:-1 group-title="FILMES & SERIES",Cinemax
 http://64.31.40.14:14031
 
-#EXTINF:-1 group-title="FILMES & SERIES",Cinepix
-https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1295959840.m3u8
-
 #EXTINF:-1 group-title="FILMES & SERIES",Comedia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 
@@ -91,9 +88,6 @@ http://64.31.40.14:14043
 
 #EXTINF:-1 group-title="FILMES & SERIES",HBO
 http://51.83.238.223:16045/
-
-#EXTINF:-1 group-title="FILMES & SERIES",Hello Anime
-https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",HTO Filmes
 https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
@@ -347,6 +341,9 @@ https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Disney Junior
 http://51.83.238.223:16274/
+
+#EXTINF:-1 group-title="INFANTIS",Hello Anime
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Kids
 http://168.205.87.198:8555/live/1212/123456/143.m3u8
