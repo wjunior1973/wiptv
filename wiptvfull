@@ -4,11 +4,11 @@
 ###### TV ABERTA ######
 
 
-#EXTINF:-1 group-title="TV ABERTA",Band
-http://51.83.238.223:16800
-
 #EXTINF:-1 group-title="TV ABERTA",Band SC
 http://177.38.211.15:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band SP
+http://51.83.238.223:16800
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SC
 http://131.100.52.122:8000/play/a003/index.m3u8
