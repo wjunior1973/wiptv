@@ -358,9 +358,6 @@ https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:-1 group-title="INFANTIS",Kids
 http://168.205.87.198:8555/live/1212/123456/143.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Nick Jr.
-http://187.95.95.247/Nickjr/video.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Nickelodeon
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 
