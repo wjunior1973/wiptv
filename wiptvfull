@@ -51,7 +51,7 @@ http://168.205.87.198:8555/live/1212/123456/138.m3u8
 http://64.31.40.14:14002
 
 #EXTINF:-1 group-title="FILMES & SERIES",AMC
-http://64.31.40.14:14004
+http://199.127.60.83:16004
 
 #EXTINF:-1 group-title="FILMES & SERIES",AXN
 http://51.83.238.223:16941/
