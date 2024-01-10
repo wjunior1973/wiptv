@@ -244,6 +244,9 @@ https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",MasterChef 24H
+https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",MTV
 http://cdn2.connectbr.com.br/mtv/index.m3u8
 
