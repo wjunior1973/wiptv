@@ -8,7 +8,7 @@
 http://177.38.211.15:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Band SP
-http://51.83.238.223:16800
+http://208.115.225.174:14428
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SC
 http://131.100.52.122:8000/play/a003/index.m3u8
@@ -70,9 +70,6 @@ https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Cine Livre
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1349363790.m3u8
-
-#EXTINF:-1 group-title="FILMES & SERIES",Cinecanal
-http://187.95.95.18/cinecanal/video.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Cinemax
 http://64.31.40.14:14031
@@ -166,10 +163,6 @@ http://51.83.238.223:16703/
 
 #EXTINF:-1 group-title="FILMES & SERIES",Telecine Pipoca
 http://51.83.238.223:16763/
-
-#EXTINF:-1 group-title="FILMES & SERIES",Telecine Premium
-http://51.83.238.223:16783
-
 
 #EXTINF:-1 group-title="FILMES & SERIES",TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
