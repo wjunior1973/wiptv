@@ -198,6 +198,9 @@ http://187.95.95.247/ArteHD/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",BIS
 http://199.127.60.83:14716
 
+#EXTINF:-1 group-title="VARIEDADES",Comedy Central
+http://94.130.165.243:14026
+
 #EXTINF:-1 group-title="VARIEDADES",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
@@ -267,7 +270,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://187.95.95.18/Travel-HD/index.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARIOS",Urban TV Docs
+#EXTINF:-1 group-title="VARIEDADES",TruTV
+http://187.95.95.18/tru/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Urban TV Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
