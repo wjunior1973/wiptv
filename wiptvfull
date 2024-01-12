@@ -119,6 +119,9 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="FILMES & SERIES",Sony One Emocoes
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="FILMES & SERIES",Space TV
+https://stmv1.srvif.com/2022/2022/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES & SERIES",Spark TV
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 
