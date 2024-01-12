@@ -162,6 +162,9 @@ http://168.205.87.198:8555/live/1212/123456/143.m3u8
 #EXTINF:-1 group-title="INFANTIS",TV Ra tim bum
 http://168.205.87.198:8555/live/1212/123456/84.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Universo Kids
+https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Urban TV Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
