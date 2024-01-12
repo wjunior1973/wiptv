@@ -20,7 +20,7 @@ http://131.100.52.122:8000/play/a003/index.m3u8
 http://131.100.52.122:8000/play/a005/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
-https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+http://168.205.87.198:8555/live/1212/123456/102.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SC
 http://131.100.52.122:8000/play/a007/index.m3u8
@@ -55,6 +55,9 @@ https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Cine Livre
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1349363790.m3u8
+
+#EXTINF:-1 group-title="FILMES & SERIES",Cinepix
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1576065509.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Comedia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
@@ -125,6 +128,9 @@ https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/chunklist_w179365615
 
 #EXTINF:-1 group-title="VARIEDADES",Astral TV
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",AWTV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Cameras Escondidas
 http://ddsw.xyz:80/8590438094/9912004092/968600
