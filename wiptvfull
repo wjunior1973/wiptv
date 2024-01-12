@@ -31,6 +31,9 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/1212/123456/134.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",TV Diario
+https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8?ManoTV
+
 #EXTINF:-1 group-title="TV ABERTA",TV Camara
 http://168.205.87.198:8555/live/1212/123456/136.m3u8
 
@@ -158,6 +161,9 @@ http://ddsw.xyz:80/8590438094/9912004092/968616
 
 #EXTINF:-1 group-title="VARIEDADES",PIX TV
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Revry Brasil
+http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
