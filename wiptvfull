@@ -62,6 +62,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedi
 #EXTINF:-1 group-title="FILMES & SERIES",DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
+#EXTINF:-1 group-title="FILMES & SERIES",Grjngo Brasil
+http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES & SERIES",Movie Sphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
@@ -162,6 +165,9 @@ http://ddsw.xyz:80/8590438094/9912004092/968616
 #EXTINF:-1 group-title="VARIEDADES",PIX TV
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Receitas Fast
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-owguzxrso3vrq/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Revry Brasil
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ManoTV
 
@@ -192,6 +198,9 @@ https://livestream.zazerconer.workers.dev/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",EuroNews [PT]
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 http://168.205.87.198:8555/live/1212/123456/161.m3u8
@@ -239,6 +248,9 @@ http://ddsw.xyz:80/8590438094/9912004092/968514
 
 #EXTINF:-1 group-title="INFANTIS",Tom & Jerry 24H
 http://ddsw.xyz:80/8590438094/9912004092/968556
+
+#EXTINF:-1 group-title="INFANTIS",Turma da Monica 24H
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="INFANTIS",TV Ra tim bum
 http://168.205.87.198:8555/live/1212/123456/84.m3u8
