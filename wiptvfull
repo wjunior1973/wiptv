@@ -4,17 +4,8 @@
 ###### TV ABERTA ######
 
 
-#EXTINF:-1 group-title="TV ABERTA",Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Band SC
 http://177.38.211.15:8000/play/a00t/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Canal GOV
-https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w915936088_b3086000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SC
 http://131.100.52.122:8000/play/a003/index.m3u8
@@ -27,9 +18,6 @@ http://168.205.87.198:8555/live/1212/123456/102.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SC
 http://131.100.52.122:8000/play/a007/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/1212/123456/134.m3u8
@@ -56,26 +44,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b98
 #EXTINF:-1 group-title="FILMES & SERIES",Chaves 24H
 http://168.205.87.198:8555/live/1212/123456/159.m3u8
 
-#EXTINF:-1 group-title="FILMES & SERIES",Cine Hits
-https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
-
 #EXTINF:-1 group-title="FILMES & SERIES",Cine Livre
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1349363790.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Cinepix
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1576065509.m3u8
 
-#EXTINF:-1 group-title="FILMES & SERIES",Comedia Brasil
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES & SERIES",DarkFlix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
 #EXTINF:-1 group-title="FILMES & SERIES",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="FILMES & SERIES",GLN Filmes
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1267687947.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Grjngo Brasil
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
@@ -219,9 +195,6 @@ https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 ###### NOTICIAS ######
 
-
-#EXTINF:-1 group-title="NOTICIAS",BM&C News
-https://livestream.zazerconer.workers.dev/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
