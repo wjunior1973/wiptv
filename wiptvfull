@@ -13,9 +13,6 @@ http://177.38.211.15:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Canal GOV
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",CATVE
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Globo SC
 http://131.100.52.122:8000/play/a003/index.m3u8
 
@@ -128,6 +125,9 @@ http://ddsw.xyz:80/8590438094/9912004092/968600
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",CATVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Saude
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
@@ -242,6 +242,9 @@ https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Urban TV Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Vivax TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Zoomoo
 http://168.205.87.198:8555/live/1212/123456/162.m3u8
