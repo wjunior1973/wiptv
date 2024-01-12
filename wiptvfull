@@ -28,6 +28,9 @@ http://168.205.87.198:8555/live/1212/123456/102.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT SC
 http://131.100.52.122:8000/play/a007/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 http://168.205.87.198:8555/live/1212/123456/134.m3u8
 
@@ -56,8 +59,17 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1349363790.m3u8
 #EXTINF:-1 group-title="FILMES & SERIES",Comedia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 
+#EXTINF:-1 group-title="FILMES & SERIES",DarkFlix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES & SERIES",Movie Sphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES & SERIES",NCIS 24H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 group-title="FILMES & SERIES",Novelando
+https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Playpoca Filmes
 http://168.205.87.198:8555/live/1212/123456/238.m3u8
@@ -82,6 +94,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 #EXTINF:-1 group-title="FILMES & SERIES",Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9e34020f7facd12dc96746cb4640b7c4&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1681832343&id=6805&ip=138.185.238.166&override_expiration=1500&sign=Lc2kWB%2BNi3BrzKkTdTK7YIbS%2BP3t0IxgeD8JXr3xwL0%3D
+
+#EXTINF:-1 group-title="FILMES & SERIES",Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES & SERIES",Sony One Emocoes
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES & SERIES",Spark TV
+https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
@@ -129,6 +150,15 @@ https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 #EXTINF:-1 group-title="VARIEDADES",MasterChef 24H
 https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",New Brasil
+https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Panico na Band
+http://ddsw.xyz:80/8590438094/9912004092/968616
+
+#EXTINF:-1 group-title="VARIEDADES",PIX TV
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -173,6 +203,9 @@ http://168.205.87.198:8555/live/1212/123456/148.m3u8
 #EXTINF:-1 group-title="ESPORTES",Globo Esporte
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Pop Bola
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
@@ -194,6 +227,12 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Kids
 http://168.205.87.198:8555/live/1212/123456/143.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Pica Pau 24H
+http://ddsw.xyz:80/8590438094/9912004092/968514
+
+#EXTINF:-1 group-title="INFANTIS",Tom & Jerry 24H
+http://ddsw.xyz:80/8590438094/9912004092/968556
 
 #EXTINF:-1 group-title="INFANTIS",TV Ra tim bum
 http://168.205.87.198:8555/live/1212/123456/84.m3u8
