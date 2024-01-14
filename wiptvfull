@@ -1,27 +1,32 @@
 #EXTM3U
 
-
 ###### TV ABERTA ######
 
-
-#EXTINF:-1 group-title="TV ABERTA",Band SC
+#EXTINF:-1 group-title="TV ABERTA",Band TVBV SC
 http://177.38.211.15:8000/play/a00t/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SC
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV
 http://177.38.211.15:8000/play/a00r/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record SC
+#EXTINF:-1 group-title="TV ABERTA",Record NDTV SC
 http://177.38.211.15:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://168.205.87.198:8555/live/1212/123456/102.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SC
+#EXTINF:-1 group-title="TV ABERTA",SBT SCC
 http://177.38.211.15:8000/play/a00s/index.m3u8
-
 
 ###### FILMES & SERIES ######
 
+#EXTINF:-1 group-title="FILMES & SERIES",A&E
+http://187.95.95.243/AE/index.m3u8
+
+#EXTINF:-1 group-title="FILMES & SERIES",AMC
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 group-title="FILMES & SERIES",AXN
+http://51.83.238.223:16941
 
 #EXTINF:-1 group-title="FILMES & SERIES",Chaves & Chapolin
 http://168.205.87.198:8555/live/1212/123456/159.m3u8
@@ -29,8 +34,14 @@ http://168.205.87.198:8555/live/1212/123456/159.m3u8
 #EXTINF:-1 group-title="FILMES & SERIES",Cinepix
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1576065509.m3u8
 
+#EXTINF:-1 group-title="FILMES & SERIES",HTO Filmes
+https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="FILMES & SERIES",NCIS 24H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 group-title="FILMES & SERIES",Paramount
+http://187.95.95.247/paramount/index.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Playpoca Filmes
 http://168.205.87.198:8555/live/1212/123456/238.m3u8
@@ -53,8 +64,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 group-title="FILMES & SERIES",Runtime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
+#EXTINF:-1 group-title="FILMES & SERIES",Sony Channel
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
 #EXTINF:-1 group-title="FILMES & SERIES",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES & SERIES",Space
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+
+#EXTINF:-1 group-title="FILMES & SERIES",TCM
+http://187.95.95.18/TCM/index.m3u8
+
+#EXTINF:-1 group-title="FILMES & SERIES",TNT
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
@@ -62,21 +85,13 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:-1 group-title="FILMES & SERIES",Urban Series
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
-
 ###### VARIEDADES ######
 
+#EXTINF:-1 group-title="VARIEDADES",Animal Planet
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",AWTV
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Cameras Escondidas
-http://ddsw.xyz:80/8590438094/9912004092/968600
-
-#EXTINF:-1 group-title="VARIEDADES",Canal Educacao
-https://canaleducacao-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Canal Saude
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Arte 1
+http://187.95.95.247/ArteHD/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal UOL
 https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
@@ -84,14 +99,59 @@ https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery Channel
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Home & Health
+https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery ID
+https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery World
+https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",E-Music Classics
 http://168.205.87.198:8555/live/1212/123456/231.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Food Network
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Futura
+http://168.205.87.198:8555/live/1212/123456/67.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",H2
+http://cdn.connectbr.com.br/h2/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",History
+http://cdn2.connectbr.com.br/History/video.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",HomeFull TV
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Lifetime
+https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",MasterChef 24H
 https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",MTV
+http://cdn2.connectbr.com.br/mtv/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Music Box Brazil
+http://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Receitas Fast
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-owguzxrso3vrq/index.m3u8
@@ -111,9 +171,13 @@ http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
-
 ###### NOTICIAS ######
 
+#EXTINF:-1 group-title="NOTICIAS",24H News
+http://cdn.connectbr.com.br/24_news/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",Band News
+http://187.95.95.18/Band-News/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
@@ -124,15 +188,28 @@ http://168.205.87.198:8555/live/1212/123456/161.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Record News
 http://177.38.211.15:8000/play/a00q/index.m3u8
 
-
 ###### ESPORTES ######
-
 
 #EXTINF:-1 group-title="ESPORTES",All Sports
 http://168.205.87.198:8555/live/1212/123456/148.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Band Sports
+http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Combate
+http://209.222.97.92:16493
+
 #EXTINF:-1 group-title="ESPORTES",Globo Esporte
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
+http://208.115.225.174:14460
+
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://142.54.163.202/premium78/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 2
+http://142.54.163.202:80/premium79/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -149,15 +226,28 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-
 ###### INFANTIS ######
 
+#EXTINF:-1 group-title="INFANTIS",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Clubinho Fun
+http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Discovery Kids
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Kids
 http://168.205.87.198:8555/live/1212/123456/143.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1447934037.m3u8
+#EXTINF:-1 group-title="INFANTIS",Nick Jr.
+http://187.95.95.18/Nickjr/index.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Nickelodeon
+http://cdn2.connectbr.com.br/Nickelodeon/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Turma da Monica 24H
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -174,9 +264,7 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIS",Zoomoo
 http://168.205.87.198:8555/live/1212/123456/162.m3u8
 
-
 ###### RELIGIOSOS ######
-
 
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
 http://168.205.87.198:8555/live/1212/123456/25.m3u8
