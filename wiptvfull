@@ -189,6 +189,9 @@ http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Vivax TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",XITE 80 Flashback
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -257,9 +260,6 @@ https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Urban TV Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Vivax TV
-https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Zoomoo
 http://168.205.87.198:8555/live/1212/123456/162.m3u8
