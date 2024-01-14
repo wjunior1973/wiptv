@@ -23,7 +23,7 @@ http://177.38.211.15:8000/play/a00s/index.m3u8
 http://187.95.95.243/AE/index.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",AMC
-https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+http://64.31.40.14:14004
 
 #EXTINF:-1 group-title="FILMES & SERIES",AXN
 http://51.83.238.223:16941
@@ -65,13 +65,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 #EXTINF:-1 group-title="FILMES & SERIES",Sony Channel
-https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+http://64.31.40.14:14063
 
 #EXTINF:-1 group-title="FILMES & SERIES",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES & SERIES",Space
-https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",TCM
 http://187.95.95.18/TCM/index.m3u8
@@ -100,7 +97,7 @@ https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
-https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+http://51.83.238.223:16957
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Home & Health
 https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
@@ -108,23 +105,17 @@ https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",Discovery Science
-https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Discovery Theater
 https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
-https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",E-Music Classics
 http://168.205.87.198:8555/live/1212/123456/231.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Food Network
-https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Futura
 http://168.205.87.198:8555/live/1212/123456/67.m3u8
@@ -142,7 +133,7 @@ http://cdn2.connectbr.com.br/History/video.m3u8
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
-https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+http://187.95.95.18/Lifetime/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",MasterChef 24H
 https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
@@ -151,7 +142,7 @@ https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
 http://cdn2.connectbr.com.br/mtv/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Music Box Brazil
-http://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
+http://187.95.95.18/Music-HD/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Receitas Fast
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-owguzxrso3vrq/index.m3u8
@@ -232,7 +223,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
-https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Kids
 http://168.205.87.198:8555/live/1212/123456/143.m3u8
@@ -277,6 +268,3 @@ http://168.205.87.198:8555/live/1212/123456/103.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",TV Evangelizar
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
