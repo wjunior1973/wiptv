@@ -205,12 +205,6 @@ https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://208.115.225.174:14460
 
-#EXTINF:-1 group-title="ESPORTES",SporTV
-http://142.54.163.202/premium78/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 2
-http://142.54.163.202:80/premium79/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
