@@ -23,10 +23,10 @@ http://177.38.211.15:8000/play/a00s/index.m3u8
 http://187.95.95.243/AE/index.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",AMC
-http://64.31.40.14:14004
+http://94.130.165.243:14921
 
 #EXTINF:-1 group-title="FILMES & SERIES",AXN
-http://51.83.238.223:16941
+http://64.31.40.14:14027
 
 #EXTINF:-1 group-title="FILMES & SERIES",Chaves & Chapolin
 http://168.205.87.198:8555/live/1212/123456/159.m3u8
@@ -97,7 +97,7 @@ https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
-http://51.83.238.223:16957
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Home & Health
 https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
