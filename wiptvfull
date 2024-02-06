@@ -19,6 +19,9 @@ http://177.38.211.15:8000/play/a00s/index.m3u8
 
 ###### FILMES & SERIES ######
 
+#EXTINF:-1 group-title="FILMES & SERIES",2 Homens e Meio 24H
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
+
 #EXTINF:-1 group-title="FILMES & SERIES",A&E
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
@@ -28,11 +31,23 @@ https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIES",AXN
 http://64.31.40.14:14027
 
-#EXTINF:-1 group-title="FILMES & SERIES",Chaves & Chapolin
+#EXTINF:-1 group-title="FILMES & SERIES",Chaves 24H
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 group-title="FILMES & SERIES",Chaves & Chapolin 24H
 http://168.205.87.198:8555/live/1212/123456/159.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Cinepix
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1576065509.m3u8
+
+#EXTINF:-1 group-title="FILMES & SERIES",Hallo Classic
+https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 group-title="FILMES & SERIES",Hallo Movies
+https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 group-title="FILMES & SERIES",Hallo Series
+https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1 group-title="FILMES & SERIES",HTO Filmes
 https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
@@ -81,11 +96,20 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 ###### VARIEDADES ######
 
+#EXTINF:-1 group-title="VARIEDADES",America's Got Talent
+https://da48ygj8xribp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nqz4iiv4surws-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-nqz4iiv4surws/master.m3u8?ManoTV
+
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Arte 1
 http://187.95.95.247/ArteHD/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",BBB Cam 1
+https://cr7v.short.gy/manotv/BBBc1/Index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",BBB Cam 2
+https://cr7v.short.gy/manotv/BBBc2/Index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal UOL
 https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
@@ -203,6 +227,9 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 ###### INFANTIS ######
+
+#EXTINF:-1 group-title="INFANTIS",Cartoon Network
+http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Clubinho Fun
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
