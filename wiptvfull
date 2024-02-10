@@ -2,20 +2,20 @@
 
 ###### TV ABERTA ######
 
-#EXTINF:-1 group-title="TV ABERTA",Band TVBV SC
-http://177.38.211.15:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Band
+http://168.205.87.198:8555/live/1212/123456/19.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC TV
 http://131.100.52.122:8000/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record NDTV SC
-http://177.38.211.15:8000/play/a00q/index.m3u8
+http://131.100.52.122:8000/play/a005/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://168.205.87.198:8555/live/1212/123456/102.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SCC
-http://177.38.211.15:8000/play/a00s/index.m3u8
+http://131.100.52.122:8000/play/a007/index.m3u8
 
 ###### FILMES & SERIES ######
 
