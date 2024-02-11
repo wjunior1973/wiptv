@@ -1,6 +1,6 @@
 #EXTM3U
 
-###### TV ABERTA ######
+
 
 #EXTINF:-1 group-title="TV ABERTA",Band
 http://168.205.87.198:8555/live/1212/123456/19.m3u8
@@ -17,7 +17,7 @@ http://168.205.87.198:8555/live/1212/123456/102.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-###### FILMES & SERIES ######
+
 
 #EXTINF:-1 group-title="FILMES & SERIES",2 Homens e Meio 24H
 http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
@@ -94,7 +94,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:-1 group-title="FILMES & SERIES",Urban Series
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
-###### VARIEDADES ######
+
 
 #EXTINF:-1 group-title="VARIEDADES",America's Got Talent
 https://da48ygj8xribp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nqz4iiv4surws-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-nqz4iiv4surws/master.m3u8?ManoTV
@@ -174,7 +174,7 @@ http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
-###### NOTICIAS ######
+
 
 #EXTINF:-1 group-title="NOTICIAS",24H News
 http://cdn.connectbr.com.br/24_news/index.m3u8
@@ -191,7 +191,7 @@ http://168.205.87.198:8555/live/1212/123456/161.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Record News
 http://177.38.211.15:8000/play/a00q/index.m3u8
 
-###### ESPORTES ######
+
 
 #EXTINF:-1 group-title="ESPORTES",All Sports
 http://168.205.87.198:8555/live/1212/123456/148.m3u8
@@ -220,7 +220,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-###### INFANTIS ######
+
 
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
@@ -255,7 +255,7 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIS",Zoomoo
 http://168.205.87.198:8555/live/1212/123456/162.m3u8
 
-###### RELIGIOSOS ######
+
 
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
 http://168.205.87.198:8555/live/1212/123456/25.m3u8
