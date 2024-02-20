@@ -109,6 +109,9 @@ http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",Avanca Brasil
+https://livestream.zazerconer.workers.dev/channel/UCuiLR4p6wQ3xLEm15pEn1Xw.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://187.95.95.18/Band-News/index.m3u8
 
@@ -123,6 +126,9 @@ http://168.205.87.198:8555/live/1212/123456/161.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
 http://177.38.211.15:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",Resumo da Opera
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",All Sports
 http://168.205.87.198:8555/live/1212/123456/148.m3u8
