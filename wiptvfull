@@ -35,10 +35,10 @@ https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 group-title="FILMES & SERIES",Os Simpsons 24H
-http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3
+http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
 
 #EXTINF:-1 group-title="FILMES & SERIES",Os Trapalhoes 24H
-http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8?token=a4A2wbotS3
+http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Playpoca Filmes
 http://168.205.87.198:8555/live/1212/123456/238.m3u8
@@ -62,10 +62,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 #EXTINF:-1 group-title="FILMES & SERIES",Todo Mundo Odeia o Cris 24H
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Um Maluco no Pedaco 24H
-http://24hrs.homelinux.com:80/24H-cavaleiros/video.m3u8?token=a4A2wbotS3
+http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
 
 #EXTINF:-1 group-title="FILMES & SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
