@@ -2,6 +2,9 @@
 
 ### TV ABERTA ###
 
+#EXTINF:-1 group-title="TV ABERTA",Band
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC TV
 http://131.100.52.122:8000/play/a003/index.m3u8
 
