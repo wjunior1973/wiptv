@@ -88,6 +88,9 @@ http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 group-title="FILMES/SERIES",Os Trapalhoes 24H
 http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Paramount Network
+http://pfsv.io:80/45125970/43446296/296.ts
+
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
 http://168.205.87.198:8555/live/1212/123456/238.m3u8
 
@@ -171,35 +174,107 @@ http://pfsv.io:80/45125970/43446296/297.ts
 
 ### VARIEDADES ###
 
+#EXTINF:-1 group-title="VARIEDADES",Animal Planet
+http://pfsv.io:80/45125970/43446296/164.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Arte 1
 http://187.95.95.247/ArteHD/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal UOL
 https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Comedy Central
+http://pfsv.io:80/45125970/43446296/97.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Channel
+http://pfsv.io:80/45125970/43446296/166.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery H&H
+http://pfsv.io:80/45125970/43446296/168.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+http://pfsv.io:80/45125970/43446296/169.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://pfsv.io:80/45125970/43446296/170.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
+http://pfsv.io:80/45125970/43446296/171.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery World
+http://pfsv.io:80/45125970/43446296/172.ts
+
+#EXTINF:-1 group-title="VARIEDADES",E!
+http://pfsv.io:80/45125970/43446296/99.ts
 
 #EXTINF:-1 group-title="VARIEDADES",E-Music Classics
 http://168.205.87.198:8555/live/1212/123456/231.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Food Network
+http://pfsv.io:80/45125970/43446296/101.ts
+
+#EXTINF:-1 group-title="VARIEDADES",GNT
+http://pfsv.io:80/45125970/43446296/102.ts
+
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+http://pfsv.io:80/45125970/43446296/167.ts
+
+#EXTINF:-1 group-title="VARIEDADES",History Channel
+http://pfsv.io:80/45125970/43446296/174.ts
+
+#EXTINF:-1 group-title="VARIEDADES",History Channel 2
+http://pfsv.io:80/45125970/43446296/173.ts
+
 #EXTINF:-1 group-title="VARIEDADES",HomeFull TV
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Lifetime
+http://pfsv.io:80/45125970/43446296/280.ts
+
+#EXTINF:-1 group-title="VARIEDADES",LIKE
+http://pfsv.io:80/45125970/43446296/125219.ts
 
 #EXTINF:-1 group-title="VARIEDADES",MasterChef 24H
 https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Modo Viagem
+http://pfsv.io:80/45125970/43446296/103.ts
+
+#EXTINF:-1 group-title="VARIEDADES",MTV
+http://pfsv.io:80/45125970/43446296/1.ts
+
+#EXTINF:-1 group-title="VARIEDADES",MTV Live
+http://pfsv.io:80/45125970/43446296/2.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Multishow
+http://pfsv.io:80/45125970/43446296/3.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Music Box Brazil
 http://187.95.95.18/Music-HD/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",National Geographic
+http://pfsv.io:80/45125970/43446296/176.ts
 
 #EXTINF:-1 group-title="VARIEDADES",Receitas Fast
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-owguzxrso3vrq/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Sabor e Arte
+http://pfsv.io:80/45125970/43446296/127312.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",TLC
+http://pfsv.io:80/45125970/43446296/286.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Travel Box Brasil
+http://pfsv.io:80/45125970/43446296/50882.ts
 
 #EXTINF:-1 group-title="VARIEDADES",TV Zyn
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
@@ -210,10 +285,10 @@ http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
-### NOTICIAS ###
+#EXTINF:-1 group-title="VARIEDADES",Viva
+http://pfsv.io:80/45125970/43446296/105.ts
 
-#EXTINF:-1 group-title="NOTICIAS",Avanca Brasil
-https://livestream.zazerconer.workers.dev/channel/UCuiLR4p6wQ3xLEm15pEn1Xw.m3u8
+### NOTICIAS ###
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://187.95.95.18/Band-News/index.m3u8
@@ -229,9 +304,6 @@ http://168.205.87.198:8555/live/1212/123456/161.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
 http://177.38.211.15:8000/play/a00q/index.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Resumo da Opera
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
 ### ESPORTES ###
 
