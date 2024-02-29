@@ -231,6 +231,9 @@ http://pfsv.io:80/45125970/43446296/173.ts
 #EXTINF:-1 group-title="VARIEDADES",HomeFull TV
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Investigacao Discovery
+http://pfsv.io:80/45125970/43446296/175.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://pfsv.io:80/45125970/43446296/280.ts
 
@@ -313,8 +316,53 @@ http://168.205.87.198:8555/live/1212/123456/148.m3u8
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://209.222.97.92:16493
 
+#EXTINF:-1 group-title="ESPORTES",ESPN
+http://pfsv.io:80/45125970/43446296/250.ts
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 2
+http://pfsv.io:80/45125970/43446296/251.ts
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 3
+http://pfsv.io:80/45125970/43446296/254.ts
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 4
+http://pfsv.io:80/45125970/43446296/255.ts
+
+#EXTINF:-1 group-title="ESPORTES",ESPN Extra
+http://pfsv.io:80/45125970/43446296/248.ts
+
 #EXTINF:-1 group-title="ESPORTES",Globo Esporte
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
+http://pfsv.io:80/45125970/43446296/524.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 2
+http://pfsv.io:80/45125970/43446296/525.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
+http://pfsv.io:80/45125970/43446296/526.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 4
+http://pfsv.io:80/45125970/43446296/527.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 5
+http://pfsv.io:80/45125970/43446296/528.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 6
+http://pfsv.io:80/45125970/43446296/529.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 7
+http://pfsv.io:80/45125970/43446296/530.ts
+
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://pfsv.io:80/45125970/43446296/555.ts
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 2
+http://pfsv.io:80/45125970/43446296/553.ts
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 3
+http://pfsv.io:80/45125970/43446296/554.ts
 
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
