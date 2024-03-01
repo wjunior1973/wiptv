@@ -172,6 +172,65 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 http://pfsv.io:80/45125970/43446296/297.ts
 
+### CANAIS 24H ###
+
+#EXTINF:-1 group-title="CANAIS 24H",Alf O Eteimoso
+http://pfsv.io:80/45125970/43446296/164657.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Alienigenas do Passado
+http://pfsv.io:80/45125970/43446296/164659.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",As Novas Aventuras de Christine
+http://pfsv.io:80/45125970/43446296/164670.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",As Visoes da Raven
+http://pfsv.io:80/45125970/43446296/164680.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Bake Off Brasil Celebridades
+http://pfsv.io:80/45125970/43446296/164684.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Cameras Escondidas Silvio Santos
+http://pfsv.io:80/45125970/43446296/164737.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Como Funciona O Universo
+http://pfsv.io:80/45125970/43446296/164781.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Cosmos Mundos Possiveis
+http://pfsv.io:80/45125970/43446296/164783.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Drake e Josh
+http://pfsv.io:80/45125970/43446296/164815.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Escolinha do Professor Raimundo
+http://pfsv.io:80/45125970/43446296/164832.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Irmaos a Obra
+http://pfsv.io:80/45125970/43446296/164888.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Jeannie
+http://pfsv.io:80/45125970/43446296/164889.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Jovens Construtores
+http://pfsv.io:80/45125970/43446296/164908.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Kenan e Kel
+http://pfsv.io:80/45125970/43446296/164911.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",O Fantastico Jaspion
+http://pfsv.io:80/45125970/43446296/164962.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Pesadelo Na Cozinha
+http://pfsv.io:80/45125970/43446296/165055.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Programa Cameras Escondidas
+http://pfsv.io:80/45125970/43446296/165081.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Toma La Da Ca
+http://pfsv.io:80/45125970/43446296/165229.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",UFC 24H
+http://pfsv.io:80/45125970/43446296/164769.ts
+
 ### VARIEDADES ###
 
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
