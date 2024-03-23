@@ -467,6 +467,12 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIS",Zoomoo
 http://168.205.87.198:8555/live/1212/123456/162.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Zarok TV (Kurmanji)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Zarok TV (Sorani)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+
 ### RELIGIOSOS ###
 
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
