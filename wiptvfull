@@ -25,9 +25,6 @@ http://pfsv.io:80/45125970/43446296/46.ts
 
 ### FILMES/SERIES ###
 
-#EXTINF:-1 group-title="FILMES/SERIES",2 Homens e Meio 24H
-http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://pfsv.io:80/45125970/43446296/293.ts
 
@@ -36,12 +33,6 @@ http://pfsv.io:80/45125970/43446296/294.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://pfsv.io:80/45125970/43446296/295.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",Chaves 24H
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin 24H
-http://168.205.87.198:8555/live/1212/123456/159.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://pfsv.io:80/45125970/43446296/279.ts
@@ -52,55 +43,16 @@ https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo Movies
 https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
-#EXTINF:-1 group-title="FILMES/SERIES",HBO
-http://pfsv.io:80/45125970/43446296/471.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
-http://pfsv.io:80/45125970/43446296/470.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
-http://pfsv.io:80/45125970/43446296/464.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
-http://pfsv.io:80/45125970/43446296/467.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
-http://pfsv.io:80/45125970/43446296/465.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
-http://pfsv.io:80/45125970/43446296/469.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
-http://pfsv.io:80/45125970/43446296/466.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
-http://pfsv.io:80/45125970/43446296/468.ts
-
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://pfsv.io:80/45125970/43446296/281.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",NCIS 24H
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 group-title="FILMES/SERIES",Os Simpsons 24H
-http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 group-title="FILMES/SERIES",Os Trapalhoes 24H
-http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount Network
 http://pfsv.io:80/45125970/43446296/296.ts
 
-#EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
-http://168.205.87.198:8555/live/1212/123456/238.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
-http://168.205.87.198:8555/live/1212/123456/239.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",RunTime Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
-#EXTINF:-1 group-title="FILMES/SERIES",RunTime CinEspanto
+#EXTINF:-1 group-title="FILMES/SERIES",RunTime Cine Espanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 
 #EXTINF:-1 group-title="FILMES/SERIES",RunTime Comedia
@@ -154,12 +106,6 @@ http://pfsv.io:80/45125970/43446296/287.ts
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Series
 http://pfsv.io:80/45125970/43446296/288.ts
 
-#EXTINF:-1 group-title="FILMES/SERIES",Todo Mundo Odeia o Cris 24H
-http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Um Maluco no Pedaco 24H
-http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Universal Channel
 http://pfsv.io:80/45125970/43446296/290.ts
 
@@ -173,6 +119,9 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 http://pfsv.io:80/45125970/43446296/297.ts
 
 ### CANAIS 24H ###
+
+#EXTINF:-1 group-title="CANAIS 24H",2 Homens e Meio 24H
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24H",Alf O Eteimoso
 http://pfsv.io:80/45125970/43446296/164657.ts
@@ -191,6 +140,12 @@ http://pfsv.io:80/45125970/43446296/164684.ts
 
 #EXTINF:-1 group-title="CANAIS 24H",Cameras Escondidas Silvio Santos
 http://pfsv.io:80/45125970/43446296/164737.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Chaves 24H
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 group-title="CANAIS 24H",Chaves & Chapolin 24H
+http://168.205.87.198:8555/live/1212/123456/159.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24H",Como Funciona O Universo
 http://pfsv.io:80/45125970/43446296/164781.ts
@@ -216,14 +171,26 @@ http://pfsv.io:80/45125970/43446296/164908.ts
 #EXTINF:-1 group-title="CANAIS 24H",Kenan e Kel
 http://pfsv.io:80/45125970/43446296/164911.ts
 
+#EXTINF:-1 group-title="CANAIS 24H",NCIS 24H
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 group-title="CANAIS 24H",O Fantastico Jaspion
 http://pfsv.io:80/45125970/43446296/164962.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Os Simpsons 24H
+http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 group-title="CANAIS 24H",Os Trapalhoes 24H
+http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24H",Pesadelo Na Cozinha
 http://pfsv.io:80/45125970/43446296/165055.ts
 
 #EXTINF:-1 group-title="CANAIS 24H",Programa Cameras Escondidas
 http://pfsv.io:80/45125970/43446296/165081.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Todo Mundo Odeia o Cris 24H
+http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24H",Toma La Da Ca
 http://pfsv.io:80/45125970/43446296/165229.ts
