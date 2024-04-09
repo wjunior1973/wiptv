@@ -407,26 +407,11 @@ http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Kids
-http://168.205.87.198:8555/live/1212/123456/143.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Nick Jr.
-http://187.95.95.18/Nickjr/index.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Turma da Monica 24H
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="INFANTIS",TV Ra tim bum
-http://168.205.87.198:8555/live/1212/123456/84.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Universo Kids
 https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Urban TV Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Zoomoo
-http://168.205.87.198:8555/live/1212/123456/162.m3u8
 
 ### RELIGIOSOS ###
 
