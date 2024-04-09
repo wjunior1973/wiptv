@@ -138,7 +138,7 @@ http://pfsv.io:80/45125970/43446296/164680.ts
 #EXTINF:-1 group-title="CANAIS 24H",Bake Off Brasil Celebridades
 http://pfsv.io:80/45125970/43446296/164684.ts
 
-#EXTINF:-1 group-title="CANAIS 24H",Cameras Escondidas Silvio Santos
+#EXTINF:-1 group-title="CANAIS 24H",Cameras Escondidas
 http://pfsv.io:80/45125970/43446296/164737.ts
 
 #EXTINF:-1 group-title="CANAIS 24H",Chaves 24H
@@ -150,7 +150,7 @@ http://168.205.87.198:8555/live/1212/123456/159.m3u8
 #EXTINF:-1 group-title="CANAIS 24H",Como Funciona O Universo
 http://pfsv.io:80/45125970/43446296/164781.ts
 
-#EXTINF:-1 group-title="CANAIS 24H",Cosmos Mundos Possiveis
+#EXTINF:-1 group-title="CANAIS 24H",Cosmos: Mundos Possiveis
 http://pfsv.io:80/45125970/43446296/164783.ts
 
 #EXTINF:-1 group-title="CANAIS 24H",Drake e Josh
@@ -320,7 +320,7 @@ http://pfsv.io:80/45125970/43446296/105.ts
 ### NOTICIAS ###
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
-http://187.95.95.18/Band-News/index.m3u8
+http://pfsv.io:80/45125970/43446296/510.ts
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
@@ -329,10 +329,10 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 http://209.222.97.92:16436/
 
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
-http://168.205.87.198:8555/live/1212/123456/161.m3u8
+http://pfsv.io:80/45125970/43446296/98166.ts
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
-http://177.38.211.15:8000/play/a00q/index.m3u8
+http://pfsv.io:80/45125970/43446296/511.ts
 
 ### ESPORTES ###
 
