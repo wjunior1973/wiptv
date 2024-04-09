@@ -144,9 +144,6 @@ http://pfsv.io:80/45125970/43446296/164737.ts
 #EXTINF:-1 group-title="CANAIS 24H",Chaves 24H
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 group-title="CANAIS 24H",Chaves & Chapolin 24H
-http://168.205.87.198:8555/live/1212/123456/159.m3u8
-
 #EXTINF:-1 group-title="CANAIS 24H",Como Funciona O Universo
 http://pfsv.io:80/45125970/43446296/164781.ts
 
