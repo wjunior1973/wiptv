@@ -37,11 +37,35 @@ http://pfsv.io:80/45125970/43446296/294.ts
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://pfsv.io:80/45125970/43446296/295.ts
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Classicos
+https://r.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Comedia
+https://r.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Crime
+https://r.mjh.nz/PlutoTV/6479ff764f5ba5000878dfe2-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Inspiracao
+https://r.mjh.nz/PlutoTV/5fa991b1f09e020007e78626-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Sucessos
+https://r.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Cinecanal
 http://pfsv.io:80/45125970/43446296/132946.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://pfsv.io:80/45125970/43446296/275.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Ficcao Cientifica
+https://r.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Filmelier
+https://r.mjh.nz/PlutoTV/633dcebd80386500074a2461-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Filmes Acao
+https://r.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://pfsv.io:80/45125970/43446296/279.ts
