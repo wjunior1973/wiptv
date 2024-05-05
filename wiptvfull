@@ -165,11 +165,20 @@ http://pfsv.io:80/45125970/43446296/164832.ts
 #EXTINF:-1 group-title="CANAIS 24H",Irmaos a Obra
 http://pfsv.io:80/45125970/43446296/164888.ts
 
+#EXTINF:-1 group-title="CANAIS 24H",MacGyver
+https://r.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
+
+#EXTINF:-1 group-title="CANAIS 24H",NCIS
+https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
+
 #EXTINF:-1 group-title="CANAIS 24H",Os Trapalhoes
 http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24H",Pesadelo Na Cozinha
 http://pfsv.io:80/45125970/43446296/165055.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Rookie Blue
+https://r.mjh.nz/PlutoTV/64ff2d8c6625510008c5a512-alt.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24H",Toma La Da Ca
 http://pfsv.io:80/45125970/43446296/165229.ts
