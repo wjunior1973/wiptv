@@ -8,6 +8,9 @@ http://pfsv.io:80/45125970/43446296/113585.ts
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
 http://pfsv.io:80/45125970/43446296/376.ts
 
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Criciuma
+http://pfsv.io:80/45125970/43446296/43842.ts
+
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC Floripa
 http://pfsv.io:80/45125970/43446296/364.ts
 
@@ -91,6 +94,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 group-title="FILMES/SERIES",Runtime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
+http://pfsv.io:80/45125970/43446296/274.ts
+
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 http://pfsv.io:80/45125970/43446296/282.ts
 
@@ -99,15 +105,6 @@ http://pfsv.io:80/45125970/43446296/292.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
 http://pfsv.io:80/45125970/43446296/283.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",SYFY
-http://pfsv.io:80/45125970/43446296/284.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",TBS
-http://pfsv.io:80/45125970/43446296/285.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",TCM
-http://pfsv.io:80/45125970/43446296/59978.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://pfsv.io:80/45125970/43446296/562.ts
@@ -134,7 +131,7 @@ http://pfsv.io:80/45125970/43446296/287.ts
 http://pfsv.io:80/45125970/43446296/288.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",Universal Channel
-http://pfsv.io:80/45125970/43446296/290.ts
+http://pfsv.io:80/45125970/43446296/317.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
@@ -142,43 +139,19 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Series
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",USA
+http://pfsv.io:80/45125970/43446296/284.ts
+
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 http://pfsv.io:80/45125970/43446296/297.ts
 
 ### CANAIS 24H ###
 
-#EXTINF:-1 group-title="CANAIS 24H",2 Homens e Meio 24H
-http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24H",Alf O Eteimoso
-http://pfsv.io:80/45125970/43446296/164657.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",Alienigenas do Passado
-http://pfsv.io:80/45125970/43446296/164659.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",As Novas Aventuras de Christine
-http://pfsv.io:80/45125970/43446296/164670.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",As Visoes da Raven
-http://pfsv.io:80/45125970/43446296/164680.ts
-
 #EXTINF:-1 group-title="CANAIS 24H",Bake Off Brasil Celebridades
 http://pfsv.io:80/45125970/43446296/164684.ts
 
-#EXTINF:-1 group-title="CANAIS 24H",Cameras Escondidas
-http://pfsv.io:80/45125970/43446296/164737.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",Chaves 24H
+#EXTINF:-1 group-title="CANAIS 24H",Chaves
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 group-title="CANAIS 24H",Como Funciona O Universo
-http://pfsv.io:80/45125970/43446296/164781.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",Cosmos: Mundos Possiveis
-http://pfsv.io:80/45125970/43446296/164783.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",Drake e Josh
-http://pfsv.io:80/45125970/43446296/164815.ts
 
 #EXTINF:-1 group-title="CANAIS 24H",Escolinha do Professor Raimundo
 http://pfsv.io:80/45125970/43446296/164832.ts
@@ -186,61 +159,28 @@ http://pfsv.io:80/45125970/43446296/164832.ts
 #EXTINF:-1 group-title="CANAIS 24H",Irmaos a Obra
 http://pfsv.io:80/45125970/43446296/164888.ts
 
-#EXTINF:-1 group-title="CANAIS 24H",Jeannie
-http://pfsv.io:80/45125970/43446296/164889.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",Jovens Construtores
-http://pfsv.io:80/45125970/43446296/164908.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",Kenan e Kel
-http://pfsv.io:80/45125970/43446296/164911.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",O Fantastico Jaspion
-http://pfsv.io:80/45125970/43446296/164962.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",Os Simpsons 24H
-http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 group-title="CANAIS 24H",Os Trapalhoes 24H
+#EXTINF:-1 group-title="CANAIS 24H",Os Trapalhoes
 http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24H",Pesadelo Na Cozinha
 http://pfsv.io:80/45125970/43446296/165055.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",Programa Cameras Escondidas
-http://pfsv.io:80/45125970/43446296/165081.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",Todo Mundo Odeia o Cris 24H
-http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24H",Toma La Da Ca
-http://pfsv.io:80/45125970/43446296/165229.ts
-
-#EXTINF:-1 group-title="CANAIS 24H",UFC 24H
-http://pfsv.io:80/45125970/43446296/164769.ts
 
 ### VARIEDADES ###
 
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://pfsv.io:80/45125970/43446296/164.ts
 
-#EXTINF:-1 group-title="VARIEDADES",Arte 1
-http://187.95.95.247/ArteHD/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Canal UOL
-https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Comedy Central
 http://pfsv.io:80/45125970/43446296/97.ts
-
-#EXTINF:-1 group-title="VARIEDADES",Curta!
-https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
 http://pfsv.io:80/45125970/43446296/166.ts
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
 http://pfsv.io:80/45125970/43446296/168.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery ID
+http://pfsv.io:80/45125970/43446296/175.ts
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Science
 http://pfsv.io:80/45125970/43446296/169.ts
@@ -257,9 +197,6 @@ http://pfsv.io:80/45125970/43446296/172.ts
 #EXTINF:-1 group-title="VARIEDADES",E!
 http://pfsv.io:80/45125970/43446296/99.ts
 
-#EXTINF:-1 group-title="VARIEDADES",E-Music Classics
-http://168.205.87.198:8555/live/1212/123456/231.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Food Network
 http://pfsv.io:80/45125970/43446296/101.ts
 
@@ -275,20 +212,11 @@ http://pfsv.io:80/45125970/43446296/174.ts
 #EXTINF:-1 group-title="VARIEDADES",History Channel 2
 http://pfsv.io:80/45125970/43446296/173.ts
 
-#EXTINF:-1 group-title="VARIEDADES",HomeFull TV
-https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Investigacao Discovery
-http://pfsv.io:80/45125970/43446296/175.ts
-
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://pfsv.io:80/45125970/43446296/280.ts
 
 #EXTINF:-1 group-title="VARIEDADES",LIKE
 http://pfsv.io:80/45125970/43446296/125219.ts
-
-#EXTINF:-1 group-title="VARIEDADES",MasterChef 24H
-https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Modo Viagem
 http://pfsv.io:80/45125970/43446296/103.ts
@@ -302,38 +230,17 @@ http://pfsv.io:80/45125970/43446296/2.ts
 #EXTINF:-1 group-title="VARIEDADES",Multishow
 http://pfsv.io:80/45125970/43446296/3.ts
 
-#EXTINF:-1 group-title="VARIEDADES",Music Box Brazil
-http://187.95.95.18/Music-HD/index.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",National Geographic
 http://pfsv.io:80/45125970/43446296/176.ts
-
-#EXTINF:-1 group-title="VARIEDADES",Receitas Fast
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-owguzxrso3vrq/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Sabor e Arte
 http://pfsv.io:80/45125970/43446296/127312.ts
 
-#EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",TLC
 http://pfsv.io:80/45125970/43446296/286.ts
 
-#EXTINF:-1 group-title="VARIEDADES",Trace Brazuca
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brasil
 http://pfsv.io:80/45125970/43446296/50882.ts
-
-#EXTINF:-1 group-title="VARIEDADES",TV Zyn
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Urban TV Docs
-http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
-http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Viva
 http://pfsv.io:80/45125970/43446296/105.ts
@@ -356,6 +263,9 @@ http://pfsv.io:80/45125970/43446296/98166.ts
 http://pfsv.io:80/45125970/43446296/511.ts
 
 ### ESPORTES ###
+
+#EXTINF:-1 group-title="ESPORTES",Band Sports
+http://pfsv.io:80/45125970/43446296/247.ts
 
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://209.222.97.92:16493
@@ -405,28 +315,19 @@ http://pfsv.io:80/45125970/43446296/553.ts
 #EXTINF:-1 group-title="ESPORTES",SporTV 3
 http://pfsv.io:80/45125970/43446296/554.ts
 
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
 ### INFANTIS ###
+
+#EXTINF:-1 group-title="INFANTIS",A Pantera Cor de Rosa
+http://pfsv.io:80/45125970/43446296/164642.ts
 
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Tom e Jerry
+http://pfsv.io:80/45125970/43446296/165228.ts
 
 #EXTINF:-1 group-title="INFANTIS",Universo Kids
 https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
