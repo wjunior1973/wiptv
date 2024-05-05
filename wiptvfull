@@ -34,6 +34,9 @@ http://pfsv.io:80/45125970/43446296/294.ts
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://pfsv.io:80/45125970/43446296/295.ts
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
+http://pfsv.io:80/45125970/43446296/275.ts
+
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://pfsv.io:80/45125970/43446296/279.ts
 
@@ -42,6 +45,30 @@ https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo Movies
 https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO
+http://pfsv.io:80/45125970/43446296/471.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
+http://pfsv.io:80/45125970/43446296/470.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
+http://pfsv.io:80/45125970/43446296/464.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
+http://pfsv.io:80/45125970/43446296/467.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
+http://pfsv.io:80/45125970/43446296/465.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
+http://pfsv.io:80/45125970/43446296/469.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
+http://pfsv.io:80/45125970/43446296/466.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
+http://pfsv.io:80/45125970/43446296/468.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://pfsv.io:80/45125970/43446296/281.ts
