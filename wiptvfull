@@ -37,6 +37,9 @@ http://pfsv.io:80/45125970/43446296/294.ts
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://pfsv.io:80/45125970/43446296/295.ts
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cinecanal
+http://pfsv.io:80/45125970/43446296/132946.ts
+
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://pfsv.io:80/45125970/43446296/275.ts
 
@@ -127,6 +130,9 @@ http://pfsv.io:80/45125970/43446296/566.ts
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 http://pfsv.io:80/45125970/43446296/287.ts
 
+#EXTINF:-1 group-title="FILMES/SERIES",TNT Novelas
+http://pfsv.io:80/45125970/43446296/148422.ts
+
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Series
 http://pfsv.io:80/45125970/43446296/288.ts
 
@@ -164,6 +170,9 @@ http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24H",Pesadelo Na Cozinha
 http://pfsv.io:80/45125970/43446296/165055.ts
+
+#EXTINF:-1 group-title="CANAIS 24H",Toma La Da Ca
+http://pfsv.io:80/45125970/43446296/165229.ts
 
 ### VARIEDADES ###
 
@@ -323,8 +332,32 @@ http://pfsv.io:80/45125970/43446296/164642.ts
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Cartoonito
+http://pfsv.io:80/45125970/43446296/125.ts
+
+#EXTINF:-1 group-title="INFANTIS",Caverna do Dragao
+http://pfsv.io:80/45125970/43446296/164743.ts
+
+#EXTINF:-1 group-title="INFANTIS",Cocorico
+http://pfsv.io:80/45125970/43446296/164773.ts
+
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Doug
+http://pfsv.io:80/45125970/43446296/164798.ts
+
+#EXTINF:-1 group-title="INFANTIS",He Man
+http://pfsv.io:80/45125970/43446296/164857.ts
+
+#EXTINF:-1 group-title="INFANTIS",Manda Chuva
+http://pfsv.io:80/45125970/43446296/164645.ts
+
+#EXTINF:-1 group-title="INFANTIS",Pica Pau
+http://pfsv.io:80/45125970/43446296/165058.ts
+
+#EXTINF:-1 group-title="INFANTIS",ThunderCats
+http://pfsv.io:80/45125970/43446296/165213.ts
 
 #EXTINF:-1 group-title="INFANTIS",Tom e Jerry
 http://pfsv.io:80/45125970/43446296/165228.ts
@@ -334,6 +367,9 @@ https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Urban TV Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",ZooMoo
+http://pfsv.io:80/45125970/43446296/108988.ts
 
 ### RELIGIOSOS ###
 
