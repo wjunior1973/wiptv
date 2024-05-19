@@ -31,7 +31,7 @@ https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
 
 #EXTINF:-1,Band
-
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-720p.m3u8
 
 #EXTINF:-1,Band Sports
 http://185.150.190.225:16484
@@ -330,6 +330,12 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1,Universo Kids
 https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 
+#EXTINF:-1,Urban Docs
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+
+#EXTINF:-1,Urban Kids
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+
 #EXTINF:-1,Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
@@ -339,11 +345,11 @@ http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 #EXTINF:-1,Urban Series
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
-#EXTINF:-1,Urban TV Docs
-http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+#EXTINF:-1,Urban Travel
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 
-#EXTINF:-1,Urban TV Kids
-http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:-1,Urban Turbo
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
 #EXTINF:-1,Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
