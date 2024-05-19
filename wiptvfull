@@ -6,20 +6,11 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:-1,A&E
 http://199.127.60.83:16002
 
-#EXTINF:-1,A&E
-https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
-
-#EXTINF:-1,A&E
-http://cdn.connectbr.com.br/AE/index.m3u8
-
 #EXTINF:-1,ABC
 https://stmv2.srvsh.com.br/abcbrasil634/abcbrasil634/playlist.m3u8
 
 #EXTINF:-1,Agro Brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
-#EXTINF:-1,AgroMais
-https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,All Sports
 http://tv.mapfibra.com.br:8555/live/1427/123456/148.m3u8
@@ -28,55 +19,25 @@ http://tv.mapfibra.com.br:8555/live/1427/123456/148.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1,AMC
-https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-
-#EXTINF:-1,AMC
 http://199.127.60.83:16004
 
 #EXTINF:-1,Animal Planet
 http://199.127.60.83:16192/
 
-#EXTINF:-1,Animal Planet
-https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
-
-#EXTINF:-1,Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1,Arte 1
-https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
-
 #EXTINF:-1,AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1,AXN
-https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
-
-#EXTINF:-1,Baby Shark TV
-https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
-
 #EXTINF:-1,Band News
-https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+
 
 #EXTINF:-1,Band
-https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+
 
 #EXTINF:-1,Band Sports
 http://185.150.190.225:16484
 
-#EXTINF:-1,Band Sports
-http://209.222.97.92:16484
-
-#EXTINF:-1,Bem Melhor TV
-https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-
-#EXTINF:-1,Blast Channel TV
-https://video01.logicahost.com.br/blast/blast/playlist.m3u8
-
 #EXTINF:-1,Blits TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
-
-#EXTINF:-1,Bora Filmes
-http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BoxBrasil Play
 http://tv.mapfibra.com.br:8555/live/1427/123456/258.m3u8
@@ -96,15 +57,6 @@ https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1,Canal UOL
 https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 
-#EXTINF:-1,Canal UOL
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
-
-#EXTINF:-1,Cartoon Network
-https://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
-
-#EXTINF:-1,CaTVE
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
-
 #EXTINF:-1,Chaves & Chapolin
 http://tv.mapfibra.com.br:8555/live/1427/123456/159.m3u8
 
@@ -120,38 +72,17 @@ https://r.mjh.nz/PlutoTV/6479ff764f5ba5000878dfe2-alt.m3u8
 #EXTINF:-1,Cine Hits
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 
-#EXTINF:-1,Cine Inspiracao
-https://r.mjh.nz/PlutoTV/5fa991b1f09e020007e78626-alt.m3u8
-
-#EXTINF:-1,Cine Pix
-https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist.m3u8
-
 #EXTINF:-1,Cine Sucessos
 https://r.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
 
-#EXTINF:-1,Cinepix
-https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1576065509.m3u8
-
-#EXTINF:-1,Clouding
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
-
-#EXTINF:-1,Clubinho Fun
-http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1,CNN Brasil
-https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
 
 #EXTINF:-1,Cocorico
 https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8
 
 #EXTINF:-1,Combate
 http://209.222.97.92:16493
-
-#EXTINF:-1,Combate
-http://185.150.190.225:16493
 
 #EXTINF:-1,Comedia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
@@ -162,41 +93,14 @@ https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
 #EXTINF:-1,Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
-#EXTINF:-1,DarkFlix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
 #EXTINF:-1,DiaTV
 https://livestream.zazerconer.workers.dev/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
-
-#EXTINF:-1,Discovery
-https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
-
-#EXTINF:-1,Discovery Home & Health
-https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
-
-#EXTINF:-1,Discovery ID
-https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
 #EXTINF:-1,Discovery Kids
 http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Discovery Kids
-https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
-
-#EXTINF:-1,Discovery Science
-https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
-
-#EXTINF:-1,Discovery Theater
-https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
-
 #EXTINF:-1,Discovery Turbo
 http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Discovery Turbo
-https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
-
-#EXTINF:-1,Discovery World
-https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
 #EXTINF:-1,E-Music Classics
 http://tv.mapfibra.com.br:8555/live/1427/123456/231.m3u8
@@ -204,35 +108,14 @@ http://tv.mapfibra.com.br:8555/live/1427/123456/231.m3u8
 #EXTINF:-1,Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
-#EXTINF:-1,ESPN
-https://cr7v.short.gy/manoiptvfree/ESPN/Index.m3u8
-
-#EXTINF:-1,ESPN 2
-https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
-
-#EXTINF:-1,ESPN 3
-https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
-
-#EXTINF:-1,ESPN 4
-https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
-
-#EXTINF:-1,ESPN 5
-http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/118751
-
 #EXTINF:-1,FailArmy
 https://i.mjh.nz/PlutoTV/5f5141c1605ddf000748eb1b-alt.m3u8
 
-#EXTINF:-1,FashionTV
+#EXTINF:-1,Fashion TV
 http://185.150.190.225:14961
 
 #EXTINF:-1,Ficcao Cientifica
 https://r.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
-
-#EXTINF:-1,FIFA Plus
-https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
-
-#EXTINF:-1,Film & Arts
-https://cdn-1.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
 #EXTINF:-1,Filmelier
 https://r.mjh.nz/PlutoTV/633dcebd80386500074a2461-alt.m3u8
@@ -240,17 +123,8 @@ https://r.mjh.nz/PlutoTV/633dcebd80386500074a2461-alt.m3u8
 #EXTINF:-1,Filmes Acao
 https://r.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
 
-#EXTINF:-1,Filmes Nacionais
-https://i.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8
-
 #EXTINF:-1,Filmrise Series
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
-
-#EXTINF:-1,Fish TV
-http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Food Network
-https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
 #EXTINF:-1,Futura
 http://tv.mapfibra.com.br:8555/live/1427/123456/67.m3u8
@@ -268,12 +142,6 @@ http://131.100.52.122:8000/play/a003/index.m3u8
 http://199.127.60.83:16020
 
 #EXTINF:-1,Globo
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-
-#EXTINF:-1,Globo
-http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Globo
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
 #EXTINF:-1,Globo
@@ -285,35 +153,14 @@ http://185.150.190.225:16263/
 #EXTINF:-1,Globo News
 http://209.222.97.92:16436
 
-#EXTINF:-1,Grjngo TV
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
-
-#EXTINF:-1,Hallo Anime
-https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
-
 #EXTINF:-1,Hallo Classic
 https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1,Hallo Movies
 https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
-#EXTINF:-1,Hallo Series
-https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
-#EXTINF:-1,Hallo TV
-http://cdn.connectbr.com.br:80/Hello/mono.m3u8
-
 #EXTINF:-1,HGTV
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
-
-#EXTINF:-1,History
-https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
-
-#EXTINF:-1,History
-http://cdn2.connectbr.com.br/History/video.m3u8
-
-#EXTINF:-1,History
-http://cdn2.connectbr.com.br:80/History/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,HomeFull TV
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
@@ -321,23 +168,8 @@ https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 #EXTINF:-1,Jovem Pan News
 https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
 
-#EXTINF:-1,Jovem Pan News
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-
-#EXTINF:-1,Jovem Pan News
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8
-
 #EXTINF:-1,Kids
 http://tv.mapfibra.com.br:8555/live/1427/123456/143.m3u8
-
-#EXTINF:-1,Lifetime
-https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
-
-#EXTINF:-1,Lifetime
-http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Loading TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1,MacGyver
 https://r.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
@@ -351,29 +183,11 @@ http://199.127.60.83:16048
 #EXTINF:-1,Moranguinho
 https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
 
-#EXTINF:-1,MovieSphere
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-
-#EXTINF:-1,MTV
-http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
-
-#EXTINF:-1,MTV
-http://cdn2.connectbr.com.br/mtv/index.m3u8
-
 #EXTINF:-1,Multishow
 http://64.31.40.14:14712
 
-#EXTINF:-1,Music Box Brazil
-http://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,My Time Brazil
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
 #EXTINF:-1,National Geographic
 http://89.187.179.12:14221
-
-#EXTINF:-1,National Geographic Wild
-http://89.187.179.12:14222
 
 #EXTINF:-1,NCIS
 https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
@@ -381,17 +195,11 @@ https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
 #EXTINF:-1,New Brazil
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
-#EXTINF:-1,Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-
 #EXTINF:-1,Playpoca Filmes
 http://168.205.87.198:8555/live/1427/123456/238.m3u8
 
 #EXTINF:-1,Playpoca Series
 http://168.205.87.198:8555/live/1427/123456/239.m3u8
-
-#EXTINF:-1,Polishop
-https://livestream.zazerconer.workers.dev/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
 
 #EXTINF:-1,Premiere Clubes
 https://cr7v.short.gy/manoiptvfree/PremiereClube/Index.m3u8
@@ -411,26 +219,14 @@ http://185.150.190.225:16476/
 #EXTINF:-1,Premiere 6
 http://185.150.190.225:16482/
 
-#EXTINF:-1,Prime Box Brazil
-http://cdn2.connectbr.com.br/Prime/index.m3u8
-
 #EXTINF:-1,Programa 4 Por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
 #EXTINF:-1,Ra Tim Bum
 http://168.205.87.198:8555/live/1427/123456/84.m3u8
 
-#EXTINF:-1,Record SC NDTV Floripa
-https://caikron.com.br:19360/floripa/floripa.m3u8
-
 #EXTINF:-1,Record
 http://209.222.97.92:16910
-
-#EXTINF:-1,Record
-https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Record
-https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 
 #EXTINF:-1,Record News
 http://cdn2.connectbr.com.br:80/Record-News-HD/tracks-v1a1/mono.m3u8
@@ -449,9 +245,6 @@ http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 
 #EXTINF:-1,Rookie Blue
 https://r.mjh.nz/PlutoTV/64ff2d8c6625510008c5a512-alt.m3u8
-
-#EXTINF:-1,Runtime
-https://i.mjh.nz/PlutoTV/62c5d32e2c48f9000715b6e9-alt.m3u8
 
 #EXTINF:-1,RunTime Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
@@ -477,35 +270,17 @@ http://209.222.97.92:16173
 #EXTINF:-1,SBT
 http://199.127.60.83:16170
 
-#EXTINF:-1,SBT
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w155260896.m3u8
-
-#EXTINF:-1,SBT
-https://cdn-1.nxplay.com.br/SBT_HD_SIMBA/index.m3u8
-
 #EXTINF:-1,Series Classicas
 http://tv.mapfibra.com.br:8555/live/1427/123456/160.m3u8
 
 #EXTINF:-1,Sony Channel
 http://199.127.60.83:16063
 
-#EXTINF:-1,Sony Channel
-https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
-
-#EXTINF:-1,Sony Movies
-https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
-
 #EXTINF:-1,Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-
-#EXTINF:-1,Soul TV
-https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-
-#EXTINF:-1,Space
-https://cdn-2.nxplay.com.br/SPACE_TK/index.m3u8
 
 #EXTINF:-1,SportTV
 http://209.222.97.92:16525
@@ -519,15 +294,6 @@ http://199.127.60.83:16056
 #EXTINF:-1,Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1,TLC
-https://cdn-3.nxplay.com.br/TLC_BR_NX/index.m3u8
-
-#EXTINF:-1,Toon Goggles
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
-
-#EXTINF:-1,Tooncast
-https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
-
 #EXTINF:-1,Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 
@@ -537,9 +303,6 @@ https://alanza.iptv2022.com/TV_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV 247
 https://livestream.zazerconer.workers.dev/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
 
-#EXTINF:-1,TV A Critica
-http://uniplay.link/live/670252437/8989520/244119.m3u8?AFDTV
-
 #EXTINF:-1,TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
@@ -548,12 +311,6 @@ http://tv.mapfibra.com.br:8555/live/1427/123456/136.m3u8
 
 #EXTINF:-1,TV Justica
 http://tv.mapfibra.com.br:8555/live/1427/123456/138.m3u8
-
-#EXTINF:-1,TV Nostalgia
-https://stmv3.webtvninjas.com.br/lucas5554/lucas5554/playlist.m3u8
-
-#EXTINF:-1,TV Senado
-https://cdn-2.nxplay.com.br/TV_SENADO/index.m3u8
 
 #EXTINF:-1,TV Series
 https://i.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8
@@ -597,23 +354,11 @@ http://199.127.60.83:16884/
 #EXTINF:-1,Vivax TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 
-#EXTINF:-1,Web TV Campeao de Tudo
-https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/playlist.m3u8
-
-#EXTINF:-1,Wise Play TV
-https://acesso.ecast.site:3142/hybrid/play.m3u8
-
 #EXTINF:-1,XITE 80 Flashback
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1,XITE 90 Throwback
 https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1,XITE Rock On
-https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1,Yes Life
 http://cdn.connectbr.com.br/Life/index.m3u8
-
-#EXTINF:-1,Zoomoo Kids
-https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
