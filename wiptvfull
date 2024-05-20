@@ -13,6 +13,9 @@ http://tv.mapfibra.com.br:8555/live/1427/123456/67.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC TV
 http://131.100.52.122:8000/play/a003/index.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
+http://209.222.97.92:16271
+
 #EXTINF:-1 group-title="TV ABERTA",Record
 http://209.222.97.92:16910
 
@@ -21,6 +24,9 @@ http://64.31.40.14:14865
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SCC
 http://131.100.52.122:8000/play/a007/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
+http://209.222.97.92:16176
 
 #EXTINF:-1 group-title="TV ABERTA",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
