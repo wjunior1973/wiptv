@@ -47,6 +47,9 @@ https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",CNN Portugal
+https://bit.ly/41Pufgt?/playlist.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",Globo News
 http://209.222.97.92:16436
 
@@ -85,9 +88,6 @@ http://209.222.97.92:16525
 #EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
 http://tv.mapfibra.com.br:8555/live/1427/123456/159.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
-http://tv.mapfibra.com.br:8555/live/1427/123456/159.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Classicos
 https://r.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
 
@@ -99,6 +99,9 @@ https://r.mjh.nz/PlutoTV/6479ff764f5ba5000878dfe2-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Sucessos
 https://r.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Clube Web TV
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="FILMES/SERIES",Comedia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
@@ -184,6 +187,9 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 ###### VARIEDADES ######
 
+
+#EXTINF:-1 group-title="VARIEDADES",BRSuper TV
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
 
 #EXTINF:-1 group-title="VARIEDADES",Canal da Praca
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
