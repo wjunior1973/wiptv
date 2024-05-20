@@ -64,7 +64,7 @@ https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 http://tv.mapfibra.com.br:8555/live/1427/123456/148.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
-http://185.150.190.225:16484
+http://209.222.97.92:16484
 
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://209.222.97.92:16493
