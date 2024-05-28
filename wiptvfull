@@ -7,6 +7,9 @@
 #EXTINF:-1 group-title="TV ABERTA",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-720p.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Futura
 http://tv.mapfibra.com.br:8555/live/1427/123456/67.m3u8
 
@@ -14,44 +17,38 @@ http://tv.mapfibra.com.br:8555/live/1427/123456/67.m3u8
 http://131.100.52.122:8000/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
-http://209.222.97.92:16271
+http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record
-http://209.222.97.92:16910
+http://168.205.87.198:8555/live/1427/123456/96.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
-http://64.31.40.14:14865
+http://168.205.87.198:8555/live/1427/123456/102.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SCC
 http://131.100.52.122:8000/play/a007/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SP
-http://209.222.97.92:16176
+https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/231ef4d2-11a0-4f96-8ab3-1182140e0f2b/4.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",TV Cultura
-https://r.mjh.nz/PlutoTV/62e010e6cd663f0007e57dc8-alt.m3u8
 
 
 ###### NOTICIAS ######
 
 
-#EXTINF:-1 group-title="NOTICIAS",Canal GOV
-https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",24Hs News
+http://cdn.connectbr.com.br/24_news/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",Band News
+http://cdn2.connectbr.com.br:80/Band-News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Canal UOL
 https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",CNN Portugal
-https://bit.ly/41Pufgt?/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Globo News
-http://209.222.97.92:16436
 
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
@@ -60,26 +57,10 @@ https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-ad
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
-http://cdn2.connectbr.com.br:80/Record-News-HD/tracks-v1a1/mono.m3u8
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Resumo da Opera
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
-
-
-###### ESPORTES ######
-
-
-#EXTINF:-1 group-title="ESPORTES",All Sports
-http://tv.mapfibra.com.br:8555/live/1427/123456/148.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Band Sports
-http://209.222.97.92:16484
-
-#EXTINF:-1 group-title="ESPORTES",Combate
-http://209.222.97.92:16493
-
-#EXTINF:-1 group-title="ESPORTES",SporTV
-http://209.222.97.92:16525
 
 
 ###### FILMES/SERIES ######
@@ -163,9 +144,6 @@ http://tv.mapfibra.com.br:8555/live/1427/123456/160.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Series Sci-Fi
 https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Sony One Classics
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
@@ -188,9 +166,6 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 ###### VARIEDADES ######
 
 
-#EXTINF:-1 group-title="VARIEDADES",BRSuper TV
-http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
-
 #EXTINF:-1 group-title="VARIEDADES",Canal da Praca
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
@@ -206,9 +181,6 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
 http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",E-Music Classics
-http://tv.mapfibra.com.br:8555/live/1427/123456/231.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",FailArmy
 https://i.mjh.nz/PlutoTV/5f5141c1605ddf000748eb1b-alt.m3u8
 
@@ -217,12 +189,6 @@ https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",MasterChef 24H
 https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Multishow
-http://64.31.40.14:14712
-
-#EXTINF:-1 group-title="VARIEDADES",Now 80S
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Programa 4 Por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
@@ -245,17 +211,8 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Urban Turbo
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",VClassic TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w271212718.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",XITE 80 Flashback
-https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="VARIEDADES",XITE 90 Throwback
-https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
 ###### INFANTIS ######
@@ -281,3 +238,6 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Vivax TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",ZooMoo
+http://168.205.87.198:8555/live/1427/123456/162.m3u8
