@@ -34,6 +34,9 @@ https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106
 #EXTINF:-1 group-title="TV ABERTA",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",TV Galega Blumenau
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+
 
 ###### NOTICIAS ######
 
@@ -43,6 +46,9 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://cdn2.connectbr.com.br:80/Band-News/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",Canal GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Canal UOL
 https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
@@ -61,6 +67,9 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Resumo da Opera
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 ###### FILMES/SERIES ######
@@ -213,6 +222,13 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+
+###### ESPORTES ######
+
+
+#EXTINF:-1 group-title="VARIEDADES",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 
 ###### INFANTIS ######
