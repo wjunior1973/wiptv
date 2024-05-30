@@ -74,6 +74,9 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Resumo da Opera
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",TV 247
+https://livestream.zazerconer.workers.dev/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
@@ -168,6 +171,9 @@ https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",TV NBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",TV Series
 https://i.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8
 
@@ -193,6 +199,9 @@ https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6c
 #EXTINF:-1 group-title="VARIEDADES",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/chunks.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Canal Saude
+http://168.205.87.198:8555/live/1438/123456/165.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Canal Start
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 
@@ -216,6 +225,9 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Programa 4 Por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
@@ -257,6 +269,9 @@ http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 #EXTINF:-1 group-title="ESPORTES",PFL MMA
 https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
 
 ###### INFANTIS ######
 
@@ -269,6 +284,9 @@ https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Fox Kids
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIS",Moranguinho
 https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
