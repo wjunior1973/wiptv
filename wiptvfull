@@ -11,7 +11,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-720p.m3u8
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Futura
-http://tv.mapfibra.com.br:8555/live/1492/123456/67.m3u8
+http://tv.mapfibra.com.br:8555/live/1438/123456/67.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC TV
 http://131.100.52.122:8000/play/a003/index.m3u8
@@ -20,13 +20,13 @@ http://131.100.52.122:8000/play/a003/index.m3u8
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record
-http://168.205.87.198:8555/live/1427/123456/96.m3u8
+http://168.205.87.198:8555/live/1438/123456/96.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede Brasil
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
-http://168.205.87.198:8555/live/1492/123456/102.m3u8
+http://168.205.87.198:8555/live/1438/123456/102.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SCC
 http://131.100.52.122:8000/play/a007/index.m3u8
@@ -82,7 +82,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 #EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
-http://tv.mapfibra.com.br:8555/live/1492/123456/159.m3u8
+http://tv.mapfibra.com.br:8555/live/1438/123456/159.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Classicos
 https://r.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
@@ -133,10 +133,10 @@ https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
 
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
-http://168.205.87.198:8555/live/1492/123456/238.m3u8
+http://168.205.87.198:8555/live/1438/123456/238.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
-http://168.205.87.198:8555/live/1492/123456/239.m3u8
+http://168.205.87.198:8555/live/1438/123456/239.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Rookie Blue
 https://r.mjh.nz/PlutoTV/64ff2d8c6625510008c5a512-alt.m3u8
@@ -157,7 +157,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
-http://tv.mapfibra.com.br:8555/live/1492/123456/160.m3u8
+http://tv.mapfibra.com.br:8555/live/1438/123456/160.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Series Sci-Fi
 https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
@@ -194,7 +194,7 @@ https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6c
 https://canaleducacao-stream.ebc.com.br/chunks.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Saude
-http://168.205.87.198:8555/live/1492/123456/165.ts
+http://168.205.87.198:8555/live/1438/123456/165.ts
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Start
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
@@ -286,10 +286,10 @@ https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Ra Tim Bum
-http://168.205.87.198:8555/live/1492/123456/84.m3u8
+http://168.205.87.198:8555/live/1438/123456/84.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",ZooMoo
-http://168.205.87.198:8555/live/1492/123456/162.m3u8
+http://168.205.87.198:8555/live/1438/123456/162.m3u8
