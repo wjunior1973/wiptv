@@ -333,28 +333,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
-###### RELIGIOSOS ######
-
-
-#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
-https://livestream.zazerconer.workers.dev/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
-https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",TV Imaculada
-https://caikron.com.br:19360/tvmi/tvmi.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
-
 ###### ESPORTES ######
 
 
@@ -415,6 +393,28 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",ZooMoo
 http://168.205.87.198:8555/live/1438/123456/162.m3u8
+
+
+###### RELIGIOSOS ######
+
+
+#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
+https://livestream.zazerconer.workers.dev/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Imaculada
+https://caikron.com.br:19360/tvmi/tvmi.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
 
 ###### AGRONEGOCIOS ######
