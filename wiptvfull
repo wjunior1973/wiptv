@@ -96,6 +96,9 @@ http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin 24H
 http://tv.mapfibra.com.br:8555/live/1438/123456/159.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cine Brasil TV
+http://tv.mapfibra.com.br:8555/live/1438/123456/243.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Classicos
 https://r.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
 
@@ -332,6 +335,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIS",Anime
 https://r.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",BoxKids TV
+http://tv.mapfibra.com.br:8555/live/1438/123456/259.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 https://cdn2.connectbr.com.br/Cartoon-Network/tracks-v1a1/index.m3u8
 
@@ -346,6 +352,9 @@ http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="INFANTIS",Kids
+http://tv.mapfibra.com.br:8555/live/1438/123456/143.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Moranguinho
 https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
@@ -365,6 +374,9 @@ http://168.205.87.198:8555/live/1438/123456/162.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
+http://tv.mapfibra.com.br:8555/live/1438/123456/167.m3u8 
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
