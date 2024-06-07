@@ -93,6 +93,9 @@ https://livestream.zazerconer.workers.dev/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
 ###### FILMES/SERIES ######
 
 
+#EXTINF:-1 group-title="FILMES/SERIES",A&E
+http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 
@@ -120,6 +123,9 @@ https://r.mjh.nz/PlutoTV/6479ff764f5ba5000878dfe2-alt.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Sucessos
 https://r.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",CineMonde
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
 
@@ -128,6 +134,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedi
 
 #EXTINF:-1 group-title="FILMES/SERIES",CSI Miami 24H
 https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",DarkFlix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Emotion TV
 https://stmv1.srvif.com/emotion/emotion/playlist.m3u8
