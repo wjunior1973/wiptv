@@ -35,19 +35,16 @@ http://131.100.52.122:8000/play/a007/index.m3u8
 https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/231ef4d2-11a0-4f96-8ab3-1182140e0f2b/4.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV A Critica
-https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV ALESC
 https://livestream.zazerconer.workers.dev/channel/UCeBR3fhWb-Jyt8i7Hy6_mjA.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:-1 group-title="TV ABERTA",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",TV Galega Blumenau
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",TV Gazeta
-https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
 
 
 ###### NOTICIAS ######
@@ -82,6 +79,12 @@ https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",TV Justica
+https://livestream.zazerconer.workers.dev/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",TV Senado
+https://livestream.zazerconer.workers.dev/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
 
 
 ###### FILMES/SERIES ######
@@ -282,6 +285,28 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
 
 
+###### RELIGIOSOS ######
+
+
+#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
+https://livestream.zazerconer.workers.dev/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Imaculada
+https://caikron.com.br:19360/tvmi/tvmi.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+
 ###### ESPORTES ######
 
 
@@ -290,6 +315,9 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",FIFA+
+https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",PFL MMA
 https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
@@ -306,6 +334,9 @@ https://r.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 https://cdn2.connectbr.com.br/Cartoon-Network/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Clubinho Fun
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Cocorico
 https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8
@@ -327,3 +358,19 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",ZooMoo
 http://168.205.87.198:8555/live/1438/123456/162.m3u8
+
+
+###### AGRONEGOCIOS ######
+
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",Nova TV Agrotour
+http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+
+#EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
