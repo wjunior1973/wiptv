@@ -183,6 +183,9 @@ http://tv.mapfibra.com.br:8555/live/1438/123456/160.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Series Sci-Fi
 https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Sony One
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
@@ -246,6 +249,9 @@ https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Smithsonian Channel
+https://i.mjh.nz/PlutoTV/6298bd10d88ef000073f16b7-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
