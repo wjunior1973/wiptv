@@ -123,6 +123,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedi
 #EXTINF:-1 group-title="FILMES/SERIES",CSI Miami 24H
 https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Emotion TV
+https://stmv1.srvif.com/emotion/emotion/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
