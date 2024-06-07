@@ -404,6 +404,9 @@ http://tv.mapfibra.com.br:8555/live/1438/123456/143.m3u8
 #EXTINF:-1 group-title="INFANTIS",Moranguinho
 https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Nickelodeon
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
+
 #EXTINF:-1 group-title="INFANTIS",Ra Tim Bum
 http://168.205.87.198:8555/live/1438/123456/84.m3u8
 
