@@ -96,7 +96,13 @@ https://livestream.zazerconer.workers.dev/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin 24H
+#EXTINF:-1 group-title="FILMES/SERIES",Chapolin Colorado 24H
+http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Chaves 24H
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Chespirito 24H
 http://tv.mapfibra.com.br:8555/live/1438/123456/159.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Brasil TV
@@ -129,6 +135,9 @@ https://stmv1.srvif.com/emotion/emotion/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Eu A Patroa e as Criancas 24H
+http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Ficcao Cientifica
 https://r.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
 
@@ -140,6 +149,9 @@ https://r.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
+
+#EXTINF:-1 group-title="FILMES/SERIES",Grjngo
+http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo Classic
 https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
@@ -158,6 +170,9 @@ https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",MyTime Movies
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
+
+#EXTINF:-1 group-title="FILMES/SERIES",Os Simpsons 24H
+http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
 http://168.205.87.198:8555/live/1438/123456/238.m3u8
@@ -194,6 +209,9 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Spark TV
+https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
@@ -280,6 +298,9 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Viva
 https://watch.vcdn.in/viva/index.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Wise Play TV
+https://acesso.ecast.site:3142/hybrid/play.m3u8
+
 
 ###### MUSICAS #######
 
@@ -298,6 +319,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 
 #EXTINF:-1 group-title="MUSICAS",VClassic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
+
+#EXTINF:-1 group-title="MUSICAS",Xite 80s Flashback
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
 ###### RELIGIOSOS ######
