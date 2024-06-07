@@ -37,6 +37,9 @@ https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106
 #EXTINF:-1 group-title="TV ABERTA",TV A Critica
 https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",TV ALESC
+https://livestream.zazerconer.workers.dev/channel/UCeBR3fhWb-Jyt8i7Hy6_mjA.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
@@ -84,7 +87,10 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 ###### FILMES/SERIES ######
 
 
-#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin
+#EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
+http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Chaves & Chapolin 24H
 http://tv.mapfibra.com.br:8555/live/1438/123456/159.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Classicos
@@ -105,8 +111,11 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="FILMES/SERIES",Comedia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",CSI Miami
+#EXTINF:-1 group-title="FILMES/SERIES",CSI Miami 24H
 https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Entretendo
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Ficcao Cientifica
 https://r.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
@@ -126,10 +135,13 @@ https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo Movies
 https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
-#EXTINF:-1 group-title="FILMES/SERIES",MacGyver
+#EXTINF:-1 group-title="FILMES/SERIES",Hallo Series
+https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
 https://r.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",NCIS
+#EXTINF:-1 group-title="FILMES/SERIES",NCIS 24H
 https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",MyTime Movies
@@ -141,7 +153,7 @@ http://168.205.87.198:8555/live/1438/123456/238.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
 http://168.205.87.198:8555/live/1438/123456/239.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Rookie Blue
+#EXTINF:-1 group-title="FILMES/SERIES",Rookie Blue 24H
 https://r.mjh.nz/PlutoTV/64ff2d8c6625510008c5a512-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",RunTime Acao
@@ -217,6 +229,9 @@ https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 #EXTINF:-1 group-title="VARIEDADES",MasterChef 24H
 https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Multishow
+https://mycdn.delivery/multishow/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 
@@ -228,12 +243,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.
 
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Top TV
-https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
-
-#EXTINF:-1 group-title="VARIEDADES",Trace Brazuca
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",TV Zyn
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
@@ -247,11 +256,30 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Urban Turbo
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",VClassic TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Viva
+https://watch.vcdn.in/viva/index.m3u8
+
+
+###### MUSICAS #######
+
+
+#EXTINF:-1 group-title="MUSICAS",Hallo Music 
+https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
+
+#EXTINF:-1 group-title="MUSICAS",Hitts! 
+https://cdn-3.nxplay.com.br/HITTS_TK/index.m3u8
+
+#EXTINF:-1 group-title="MUSICAS",Top TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
+
+#EXTINF:-1 group-title="MUSICAS",Trace Brazuca
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICAS",VClassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
 
 
 ###### ESPORTES ######
@@ -275,6 +303,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Anime
 https://r.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Cartoon Network
+https://cdn2.connectbr.com.br/Cartoon-Network/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Cocorico
 https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8
