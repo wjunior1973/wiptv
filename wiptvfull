@@ -83,12 +83,6 @@ https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 #EXTINF:-1 group-title="NOTICIAS",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",TV Justica
-https://livestream.zazerconer.workers.dev/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",TV Senado
-https://livestream.zazerconer.workers.dev/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
-
 
 ###### FILMES/SERIES ######
 
