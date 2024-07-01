@@ -17,6 +17,12 @@ http://pfsv.io:80/45125970/43446296/364.ts
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC Joinville
 http://pfsv.io:80/45125970/43446296/378.ts
 
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ
+http://pfsv.io:80/45125970/43446296/352.ts
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
+http://pfsv.io:80/45125970/43446296/168251.ts
+
 #EXTINF:-1 group-title="TV ABERTA",Record
 http://pfsv.io:80/45125970/43446296/45.ts
 
@@ -409,6 +415,9 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Combate
+http://pfsv.io:80/45125970/43446296/249.ts
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://pfsv.io:80/45125970/43446296/250.ts
