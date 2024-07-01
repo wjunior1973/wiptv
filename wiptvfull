@@ -23,7 +23,7 @@ http://pfsv.io:80/45125970/43446296/45.ts
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://pfsv.io:80/45125970/43446296/48.ts
 
-#EXTINF:-1 group-title="TV ABERTA",SBT
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
 https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/231ef4d2-11a0-4f96-8ab3-1182140e0f2b/4.m3u8
 
 ###### NOTICIAS ######
@@ -215,10 +215,37 @@ http://pfsv.io:80/45125970/43446296/297.ts
 
 ###### 24 HORAS ######
 
+#EXTINF:-1 group-title="24 HORAS",Alf O Eteimoso
+http://pfsv.io:80/45125970/43446296/164657.ts
 
+#EXTINF:-1 group-title="24 HORAS",Bake Off Brasil Celebridades
+http://pfsv.io:80/45125970/43446296/164684.ts
+
+#EXTINF:-1 group-title="24 HORAS",Drake e Josh
+http://pfsv.io:80/45125970/43446296/164815.ts
+
+#EXTINF:-1 group-title="24 HORAS",Escolinha do Professor Raimundo
+http://pfsv.io:80/45125970/43446296/164832.ts
+
+#EXTINF:-1 group-title="24 HORAS",Irmaos a Obra
+http://pfsv.io:80/45125970/43446296/164888.ts
+
+#EXTINF:-1 group-title="24 HORAS",Jeannie
+http://pfsv.io:80/45125970/43446296/164889.ts
+
+#EXTINF:-1 group-title="24 HORAS",Mr. Bean
+http://pfsv.io:80/45125970/43446296/197462.ts
+
+#EXTINF:-1 group-title="24 HORAS",Pesadelo Na Cozinha
+http://pfsv.io:80/45125970/43446296/165055.ts
+
+#EXTINF:-1 group-title="24 HORAS",Toma La Da Ca
+http://pfsv.io:80/45125970/43446296/165229.ts
+
+#EXTINF:-1 group-title="24 HORAS",UFC 24H
+http://pfsv.io:80/45125970/43446296/164769.ts
 
 ###### VARIEDADES ######
-
 
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://pfsv.io:80/45125970/43446296/164.ts
@@ -439,6 +466,9 @@ http://tv.mapfibra.com.br:8555/live/1438/123456/259.m3u8
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
 https://cdn2.connectbr.com.br/Cartoon-Network/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Cartoonito
+http://pfsv.io:80/45125970/43446296/125.ts
+
 #EXTINF:-1 group-title="INFANTIS",Clubinho Fun
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 
@@ -448,14 +478,29 @@ http://170.82.200.35/Discovery_kids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INFANTIS",Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="INFANTIS",Gloob
+http://pfsv.io:80/45125970/43446296/136.ts
+
+#EXTINF:-1 group-title="INFANTIS",Gloobinho
+http://pfsv.io:80/45125970/43446296/128.ts
+
 #EXTINF:-1 group-title="INFANTIS",Kids
 http://tv.mapfibra.com.br:8555/live/1438/123456/143.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Nick Jr
+http://pfsv.io:80/45125970/43446296/130.ts
+
 #EXTINF:-1 group-title="INFANTIS",Nickelodeon
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
+http://pfsv.io:80/45125970/43446296/131.ts
 
 #EXTINF:-1 group-title="INFANTIS",Ra Tim Bum
 http://168.205.87.198:8555/live/1438/123456/84.m3u8
+
+#EXTINF:-1 group-title="INFANTIS",Tooncast
+http://pfsv.io:80/45125970/43446296/48756.ts
+
+#EXTINF:-1 group-title="INFANTIS",TV Ra-Tim-Bum
+http://pfsv.io:80/45125970/43446296/132.ts
 
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
@@ -482,17 +527,3 @@ https://caikron.com.br:19360/tvmi/tvmi.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
-###### AGRONEGOCIOS ######
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",AgroBrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Canal do Boi
-http://tv.mapfibra.com.br:8555/live/1438/123456/167.m3u8 
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Nova TV Agrotour
-http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
