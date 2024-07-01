@@ -72,20 +72,8 @@ http://tv.mapfibra.com.br:8555/live/1438/123456/159.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Brasil TV
 http://tv.mapfibra.com.br:8555/live/1438/123456/243.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Classicos
-https://r.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Comedia
-https://r.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Crime
-https://r.mjh.nz/PlutoTV/6479ff764f5ba5000878dfe2-alt.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
-
-#EXTINF:-1 group-title="FILMES/SERIES",CSI Miami 24H
-https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Emotion TV
 https://stmv1.srvif.com/emotion/emotion/playlist.m3u8
@@ -104,12 +92,6 @@ https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo Series
 https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
-https://r.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",NCIS 24H
-https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
 http://168.205.87.198:8555/live/1438/123456/238.m3u8
@@ -178,17 +160,11 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
 http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",FailArmy
-https://i.mjh.nz/PlutoTV/5f5141c1605ddf000748eb1b-alt.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",HomeFull TV
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",MasterChef 24H
 https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Multishow
-https://mycdn.delivery/multishow/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
@@ -198,9 +174,6 @@ https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Smithsonian Channel
-https://i.mjh.nz/PlutoTV/6298bd10d88ef000073f16b7-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
@@ -219,9 +192,6 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Viva
-https://watch.vcdn.in/viva/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Wise Play TV
 https://acesso.ecast.site:3142/hybrid/play.m3u8
@@ -258,21 +228,12 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",FIFA+
-https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",PFL MMA
-https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 
 ###### INFANTIS ######
 
-
-#EXTINF:-1 group-title="INFANTIS",Anime
-https://r.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",BoxKids TV
 http://tv.mapfibra.com.br:8555/live/1438/123456/259.m3u8
@@ -283,9 +244,6 @@ https://cdn2.connectbr.com.br/Cartoon-Network/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="INFANTIS",Clubinho Fun
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",Cocorico
-https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
 
@@ -294,9 +252,6 @@ https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIS",Kids
 http://tv.mapfibra.com.br:8555/live/1438/123456/143.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Moranguinho
-https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Nickelodeon
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
@@ -347,6 +302,3 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",Nova TV Agrotour
 http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
-
-#EXTINF:-1 group-title="AGRONEGOCIOS",Terra Viva
-https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
