@@ -5,46 +5,28 @@
 
 
 #EXTINF:-1 group-title="TV ABERTA",Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-720p.m3u8
+http://pfsv.io:80/45125970/43446296/113585.ts
 
 #EXTINF:-1 group-title="TV ABERTA",Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Futura
-http://tv.mapfibra.com.br:8555/live/1438/123456/67.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
+http://pfsv.io:80/45125970/43446296/376.ts
 
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV
-http://131.100.52.122:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Floripa
+http://pfsv.io:80/45125970/43446296/364.ts
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SP
-http://hls1.sua.tv:80/live/globosphd/s.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Joinville
+http://pfsv.io:80/45125970/43446296/378.ts
 
 #EXTINF:-1 group-title="TV ABERTA",Record
-http://168.205.87.198:8555/live/1438/123456/96.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Rede Brasil
-https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+http://pfsv.io:80/45125970/43446296/45.ts
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
-http://168.205.87.198:8555/live/1438/123456/102.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT SCC
-http://131.100.52.122:8000/play/a007/index.m3u8
+http://pfsv.io:80/45125970/43446296/48.ts
 
 #EXTINF:-1 group-title="TV ABERTA",SBT SP
 https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/231ef4d2-11a0-4f96-8ab3-1182140e0f2b/4.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",TV A Critica
-https://livestream.zazerconer.workers.dev/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",TV ALESC
-https://livestream.zazerconer.workers.dev/channel/UCeBR3fhWb-Jyt8i7Hy6_mjA.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",TV Brasil
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",TV Galega Blumenau
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
 
 ###### NOTICIAS ######
@@ -56,17 +38,11 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://cdn2.connectbr.com.br:80/Band-News/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",Canal GOV
-https://canalgov-stream.ebc.com.br/index.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",Canal UOL
 https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",CNN Portugal
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
@@ -80,9 +56,6 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Resumo da Opera
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",TV Camara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
 
 ###### FILMES/SERIES ######
 
@@ -92,12 +65,6 @@ http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Chapolin Colorado 24H
-http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Chaves 24H
-http://24hrs.homelinux.com:8080/24H-chaves-a-serie/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Chespirito 24H
 http://tv.mapfibra.com.br:8555/live/1438/123456/159.m3u8
@@ -114,20 +81,11 @@ https://r.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Crime
 https://r.mjh.nz/PlutoTV/6479ff764f5ba5000878dfe2-alt.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Sucessos
-https://r.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",CineMonde
-https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="FILMES/SERIES",CSI Miami 24H
 https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",DarkFlix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Emotion TV
 https://stmv1.srvif.com/emotion/emotion/playlist.m3u8
@@ -135,23 +93,8 @@ https://stmv1.srvif.com/emotion/emotion/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Eu A Patroa e as Criancas 24H
-http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Ficcao Cientifica
-https://r.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmelier
-https://r.mjh.nz/PlutoTV/633dcebd80386500074a2461-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Acao
-https://r.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
-
-#EXTINF:-1 group-title="FILMES/SERIES",Grjngo
-http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo Classic
 https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
@@ -167,15 +110,6 @@ https://r.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",NCIS 24H
 https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",MyTime Movies
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
-
-#EXTINF:-1 group-title="FILMES/SERIES",Os Simpsons 24H
-http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Paramount
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
 http://168.205.87.198:8555/live/1438/123456/238.m3u8
@@ -204,12 +138,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://tv.mapfibra.com.br:8555/live/1438/123456/160.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Series Sci-Fi
-https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
@@ -218,18 +146,6 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Spark TV
-https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TV NBN
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TV Series
-https://i.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TV Series Acao
-https://i.mjh.nz/PlutoTV/6474ab1da51cb80008bfb5f4-alt.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
