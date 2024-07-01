@@ -23,7 +23,7 @@ http://pfsv.io:80/45125970/43446296/45.ts
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://pfsv.io:80/45125970/43446296/48.ts
 
-#EXTINF:-1 group-title="TV ABERTA",SBT SP
+#EXTINF:-1 group-title="TV ABERTA",SBT
 https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/231ef4d2-11a0-4f96-8ab3-1182140e0f2b/4.m3u8
 
 ###### NOTICIAS ######
