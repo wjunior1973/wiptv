@@ -52,14 +52,16 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Resumo da Opera
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 
-###### 24 HORAS ######
-
-
-
 ###### FILMES/SERIES ######
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
-http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
+http://pfsv.io:80/45125970/43446296/293.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",AMC
+http://pfsv.io:80/45125970/43446296/294.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",AXN
+http://pfsv.io:80/45125970/43446296/295.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
@@ -70,6 +72,9 @@ http://tv.mapfibra.com.br:8555/live/1438/123456/159.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Brasil TV
 http://tv.mapfibra.com.br:8555/live/1438/123456/243.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
+http://pfsv.io:80/45125970/43446296/275.ts
+
 #EXTINF:-1 group-title="FILMES/SERIES",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
 
@@ -78,6 +83,9 @@ https://stmv1.srvif.com/emotion/emotion/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",FX
+http://pfsv.io:80/45125970/43446296/279.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
@@ -90,6 +98,36 @@ https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo Series
 https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO
+http://pfsv.io:80/45125970/43446296/471.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
+http://pfsv.io:80/45125970/43446296/470.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
+http://pfsv.io:80/45125970/43446296/464.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
+http://pfsv.io:80/45125970/43446296/467.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
+http://pfsv.io:80/45125970/43446296/465.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
+http://pfsv.io:80/45125970/43446296/469.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
+http://pfsv.io:80/45125970/43446296/466.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
+http://pfsv.io:80/45125970/43446296/468.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Megapix
+http://pfsv.io:80/45125970/43446296/281.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Paramount
+http://pfsv.io:80/45125970/43446296/296.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
 http://168.205.87.198:8555/live/1438/123456/238.m3u8
@@ -115,14 +153,50 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 #EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
 http://tv.mapfibra.com.br:8555/live/1438/123456/160.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
+http://pfsv.io:80/45125970/43446296/274.ts
+
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Sony One
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Space
+http://pfsv.io:80/45125970/43446296/282.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
+http://pfsv.io:80/45125970/43446296/292.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
+http://pfsv.io:80/45125970/43446296/283.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine ACTION
+http://pfsv.io:80/45125970/43446296/562.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine CULT
+http://pfsv.io:80/45125970/43446296/567.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine FUN
+http://pfsv.io:80/45125970/43446296/563.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine PIPOCA
+http://pfsv.io:80/45125970/43446296/564.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine PREMIUM
+http://pfsv.io:80/45125970/43446296/565.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine TOUCH
+http://pfsv.io:80/45125970/43446296/566.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT
+http://pfsv.io:80/45125970/43446296/287.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT Series
+http://pfsv.io:80/45125970/43446296/288.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Universal Channel
+http://pfsv.io:80/45125970/43446296/290.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
@@ -133,7 +207,21 @@ http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Series
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",USA
+http://pfsv.io:80/45125970/43446296/284.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
+http://pfsv.io:80/45125970/43446296/297.ts
+
+###### 24 HORAS ######
+
+
+
 ###### VARIEDADES ######
+
+
+#EXTINF:-1 group-title="VARIEDADES",Animal Planet
+http://pfsv.io:80/45125970/43446296/164.ts
 
 #EXTINF:-1 group-title="VARIEDADES",Canal da Praca
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
@@ -147,17 +235,71 @@ http://168.205.87.198:8555/live/1438/123456/165.ts
 #EXTINF:-1 group-title="VARIEDADES",Canal Start
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Comedy Central
+http://pfsv.io:80/45125970/43446296/97.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery Channel
+http://pfsv.io:80/45125970/43446296/166.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery H&H
+http://pfsv.io:80/45125970/43446296/168.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+http://pfsv.io:80/45125970/43446296/169.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://pfsv.io:80/45125970/43446296/170.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
-http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
+http://pfsv.io:80/45125970/43446296/171.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery World
+http://pfsv.io:80/45125970/43446296/172.ts
+
+#EXTINF:-1 group-title="VARIEDADES",E!
+http://pfsv.io:80/45125970/43446296/99.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Food Network
+http://pfsv.io:80/45125970/43446296/101.ts
+
+#EXTINF:-1 group-title="VARIEDADES",GNT
+http://pfsv.io:80/45125970/43446296/102.ts
+
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+http://pfsv.io:80/45125970/43446296/167.ts
+
+#EXTINF:-1 group-title="VARIEDADES",History Channel
+http://pfsv.io:80/45125970/43446296/174.ts
+
+#EXTINF:-1 group-title="VARIEDADES",History Channel 2
+http://pfsv.io:80/45125970/43446296/173.ts
 
 #EXTINF:-1 group-title="VARIEDADES",HomeFull TV
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Investigacao Discovery
+http://pfsv.io:80/45125970/43446296/175.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Lifetime
+http://pfsv.io:80/45125970/43446296/280.ts
+
 #EXTINF:-1 group-title="VARIEDADES",MasterChef 24H
 https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Modo Viagem
+http://pfsv.io:80/45125970/43446296/103.ts
+
+#EXTINF:-1 group-title="VARIEDADES",MTV
+http://pfsv.io:80/45125970/43446296/1.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Multishow
+http://pfsv.io:80/45125970/43446296/3.ts
+
+#EXTINF:-1 group-title="VARIEDADES",National Geographic
+http://pfsv.io:80/45125970/43446296/176.ts
 
 #EXTINF:-1 group-title="VARIEDADES",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
@@ -168,8 +310,17 @@ https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Sabor e Arte
+http://pfsv.io:80/45125970/43446296/127312.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",TLC
+http://pfsv.io:80/45125970/43446296/286.ts
+
+#EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
+http://pfsv.io:80/45125970/43446296/50882.ts
 
 #EXTINF:-1 group-title="VARIEDADES",TV Zyn
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
@@ -186,16 +337,31 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",VIVA
+http://pfsv.io:80/45125970/43446296/105.ts
+
 #EXTINF:-1 group-title="VARIEDADES",Wise Play TV
 https://acesso.ecast.site:3142/hybrid/play.m3u8
 
 ###### MUSICAS #######
+
+#EXTINF:-1 group-title="MUSICAS",BIS
+http://pfsv.io:80/45125970/43446296/5.ts
 
 #EXTINF:-1 group-title="MUSICAS",Hallo Music 
 https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
 
 #EXTINF:-1 group-title="MUSICAS",Hitts! 
 https://cdn-3.nxplay.com.br/HITTS_TK/index.m3u8
+
+#EXTINF:-1 group-title="MUSICAS",MTV 00s
+http://pfsv.io:80/45125970/43446296/108973.ts
+
+#EXTINF:-1 group-title="MUSICAS",MTV Live
+http://pfsv.io:80/45125970/43446296/2.ts
+
+#EXTINF:-1 group-title="MUSICAS",Music Box Brazil
+http://pfsv.io:80/45125970/43446296/4.ts
 
 #EXTINF:-1 group-title="MUSICAS",Top TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
@@ -217,6 +383,51 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",ESPN
+http://pfsv.io:80/45125970/43446296/250.ts
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 2
+http://pfsv.io:80/45125970/43446296/251.ts
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 3
+http://pfsv.io:80/45125970/43446296/254.ts
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 4
+http://pfsv.io:80/45125970/43446296/255.ts
+
+#EXTINF:-1 group-title="ESPORTES",ESPN Extra
+http://pfsv.io:80/45125970/43446296/248.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
+http://pfsv.io:80/45125970/43446296/524.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 2
+http://pfsv.io:80/45125970/43446296/525.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
+http://pfsv.io:80/45125970/43446296/526.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 4
+http://pfsv.io:80/45125970/43446296/527.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 5
+http://pfsv.io:80/45125970/43446296/528.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 6
+http://pfsv.io:80/45125970/43446296/529.ts
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 7
+http://pfsv.io:80/45125970/43446296/530.ts
+
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://pfsv.io:80/45125970/43446296/555.ts
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 2
+http://pfsv.io:80/45125970/43446296/553.ts
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 3
+http://pfsv.io:80/45125970/43446296/554.ts
+
 #EXTINF:-1 group-title="ESPORTES",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
@@ -232,7 +443,7 @@ https://cdn2.connectbr.com.br/Cartoon-Network/tracks-v1a1/index.m3u8
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
-http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
+http://170.82.200.35/Discovery_kids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
