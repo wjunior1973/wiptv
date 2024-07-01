@@ -1,8 +1,6 @@
 #EXTM3U
 
-
 ###### TV ABERTA ######
-
 
 #EXTINF:-1 group-title="TV ABERTA",Band
 http://pfsv.io:80/45125970/43446296/113585.ts
@@ -28,9 +26,7 @@ http://pfsv.io:80/45125970/43446296/48.ts
 #EXTINF:-1 group-title="TV ABERTA",SBT SP
 https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/231ef4d2-11a0-4f96-8ab3-1182140e0f2b/4.m3u8
 
-
 ###### NOTICIAS ######
-
 
 #EXTINF:-1 group-title="NOTICIAS",24Hs News
 http://cdn.connectbr.com.br/24_news/index.m3u8
@@ -56,9 +52,11 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Resumo da Opera
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 
+###### 24 HORAS ######
+
+
 
 ###### FILMES/SERIES ######
-
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
@@ -135,9 +133,7 @@ http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Series
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
-
 ###### VARIEDADES ######
-
 
 #EXTINF:-1 group-title="VARIEDADES",Canal da Praca
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
@@ -193,9 +189,7 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Wise Play TV
 https://acesso.ecast.site:3142/hybrid/play.m3u8
 
-
 ###### MUSICAS #######
-
 
 #EXTINF:-1 group-title="MUSICAS",Hallo Music 
 https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
@@ -215,9 +209,7 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
 #EXTINF:-1 group-title="MUSICAS",Xite 80s Flashback
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-
 ###### ESPORTES ######
-
 
 #EXTINF:-1 group-title="ESPORTES",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
@@ -228,9 +220,7 @@ http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 #EXTINF:-1 group-title="ESPORTES",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-
 ###### INFANTIS ######
-
 
 #EXTINF:-1 group-title="INFANTIS",BoxKids TV
 http://tv.mapfibra.com.br:8555/live/1438/123456/259.m3u8
@@ -262,9 +252,7 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIS",ZooMoo
 http://168.205.87.198:8555/live/1438/123456/162.m3u8
 
-
 ###### RELIGIOSOS ######
-
 
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
 https://livestream.zazerconer.workers.dev/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
@@ -284,9 +272,7 @@ https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
-
 ###### AGRONEGOCIOS ######
-
 
 #EXTINF:-1 group-title="AGRONEGOCIOS",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
