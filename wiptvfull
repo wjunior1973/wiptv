@@ -99,9 +99,6 @@ http://168.205.87.198:8555/live/1438/123456/238.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
 http://168.205.87.198:8555/live/1438/123456/239.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Rookie Blue 24H
-https://r.mjh.nz/PlutoTV/64ff2d8c6625510008c5a512-alt.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",RunTime Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
