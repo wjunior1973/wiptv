@@ -43,6 +43,9 @@ https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",Globo News
+http://pfsv.io:80/45125970/43446296/512.ts
+
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
 
@@ -60,20 +63,14 @@ https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://pfsv.io:80/45125970/43446296/293.ts
 
+#EXTINF:-1 group-title="FILMES/SERIES",Adult Swim
+http://pfsv.io:80/45125970/43446296/199850.ts
+
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://pfsv.io:80/45125970/43446296/294.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://pfsv.io:80/45125970/43446296/295.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
-http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Chespirito 24H
-http://tv.mapfibra.com.br:8555/live/1438/123456/159.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cine Brasil TV
-http://tv.mapfibra.com.br:8555/live/1438/123456/243.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://pfsv.io:80/45125970/43446296/275.ts
@@ -83,9 +80,6 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="FILMES/SERIES",Emotion TV
 https://stmv1.srvif.com/emotion/emotion/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Entretendo
-http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://pfsv.io:80/45125970/43446296/279.ts
@@ -123,11 +117,50 @@ http://pfsv.io:80/45125970/43446296/281.ts
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount
 http://pfsv.io:80/45125970/43446296/296.ts
 
-#EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
-http://168.205.87.198:8555/live/1438/123456/238.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES",PT: AMC
+http://pfsv.io:80/45125970/43446296/223489.ts
 
-#EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
-http://168.205.87.198:8555/live/1438/123456/239.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES",PT: AXN
+http://pfsv.io:80/45125970/43446296/223493.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: AXN Movies
+http://pfsv.io:80/45125970/43446296/223494.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: AXN White
+http://pfsv.io:80/45125970/43446296/223495.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: Canal Hollywood
+http://pfsv.io:80/45125970/43446296/223508.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: Cine Mundo
+http://pfsv.io:80/45125970/43446296/223519.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: FOX
+http://pfsv.io:80/45125970/43446296/223556.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: FOX Comedy
+http://pfsv.io:80/45125970/43446296/223557.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: FOX Crime
+http://pfsv.io:80/45125970/43446296/223558.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: FOX Life
+http://pfsv.io:80/45125970/43446296/223559.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: FOX Movies
+http://pfsv.io:80/45125970/43446296/223560.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: TVCine Action
+http://pfsv.io:80/45125970/43446296/223623.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: TVCine Edition
+http://pfsv.io:80/45125970/43446296/223624.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: TVCine Emotion
+http://pfsv.io:80/45125970/43446296/223625.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES",PT: TVCine Top
+http://pfsv.io:80/45125970/43446296/223626.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",RunTime Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
@@ -149,9 +182,6 @@ http://tv.mapfibra.com.br:8555/live/1438/123456/160.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
 http://pfsv.io:80/45125970/43446296/274.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",Sony Classics
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
@@ -214,9 +244,6 @@ http://pfsv.io:80/45125970/43446296/164.ts
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/chunks.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Canal Saude
-http://168.205.87.198:8555/live/1438/123456/165.ts
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Start
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
@@ -308,9 +335,6 @@ http://pfsv.io:80/45125970/43446296/286.ts
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://pfsv.io:80/45125970/43446296/50882.ts
 
-#EXTINF:-1 group-title="VARIEDADES",TV Zyn
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
@@ -349,28 +373,30 @@ https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
 #EXTINF:-1 group-title="MUSICAS",VClassic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
 
-#EXTINF:-1 group-title="MUSICAS",Xite 80s Flashback
-https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 ###### ESPORTES ######
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
-http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+http://pfsv.io:80/45125970/43446296/247.ts
 
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://pfsv.io:80/45125970/43446296/249.ts
 
-#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 1
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 1
 http://pfsv.io:80/45125970/43446296/209395.ts
-#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 2
+
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 2
 http://pfsv.io:80/45125970/43446296/209396.ts
-#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 3
+
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 3
 http://pfsv.io:80/45125970/43446296/209397.ts
-#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 4
+
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 4
 http://pfsv.io:80/45125970/43446296/209398.ts
-#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 5
+
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 5
 http://pfsv.io:80/45125970/43446296/209399.ts
-#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 6
+
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 6
 http://pfsv.io:80/45125970/43446296/209400.ts
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
@@ -418,8 +444,32 @@ http://pfsv.io:80/45125970/43446296/553.ts
 #EXTINF:-1 group-title="ESPORTES",SporTV 3
 http://pfsv.io:80/45125970/43446296/554.ts
 
-#EXTINF:-1 group-title="ESPORTES",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTES",SporTV 4
+http://pfsv.io:80/45125970/43446296/233621.ts
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV+
+http://pfsv.io:80/45125970/43446296/209606.ts
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 1
+http://pfsv.io:80/45125970/43446296/209607.ts
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 2
+http://pfsv.io:80/45125970/43446296/209608.ts
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 3
+http://pfsv.io:80/45125970/43446296/209609.ts
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 4
+http://pfsv.io:80/45125970/43446296/209610.ts
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 5
+http://pfsv.io:80/45125970/43446296/209611.ts
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV 6
+http://pfsv.io:80/45125970/43446296/209612.ts
+
+#EXTINF:-1 group-title="ESPORTES",Sport*TV NBA
+http://pfsv.io:80/45125970/43446296/209613.ts
 
 ###### INFANTIS ######
 
@@ -428,9 +478,6 @@ http://pfsv.io:80/45125970/43446296/130213.ts
 
 #EXTINF:-1 group-title="INFANTIS",Cartoonito
 http://pfsv.io:80/45125970/43446296/125.ts
-
-#EXTINF:-1 group-title="INFANTIS",Clubinho Fun
-http://cdn.connectbr.com.br/Clubinho/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://pfsv.io:80/45125970/43446296/130214.ts
