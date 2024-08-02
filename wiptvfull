@@ -69,6 +69,9 @@ http://pfsv.io:80/45125970/43446296/199850.ts
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://pfsv.io:80/45125970/43446296/294.ts
 
+#EXTINF:-1 group-title="FILMES/SERIES",Animax
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://pfsv.io:80/45125970/43446296/295.ts
 
@@ -354,6 +357,9 @@ http://pfsv.io:80/45125970/43446296/105.ts
 https://acesso.ecast.site:3142/hybrid/play.m3u8
 
 ###### MUSICAS #######
+
+#EXTINF:-1 group-title="MUSICAS",AgitoMax
+https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICAS",BIS
 http://pfsv.io:80/45125970/43446296/5.ts
