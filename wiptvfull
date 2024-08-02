@@ -360,6 +360,19 @@ http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 #EXTINF:-1 group-title="ESPORTES",Combate
 http://pfsv.io:80/45125970/43446296/249.ts
 
+#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 1
+http://pfsv.io:80/45125970/43446296/209395.ts
+#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 2
+http://pfsv.io:80/45125970/43446296/209396.ts
+#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 3
+http://pfsv.io:80/45125970/43446296/209397.ts
+#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 4
+http://pfsv.io:80/45125970/43446296/209398.ts
+#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 5
+http://pfsv.io:80/45125970/43446296/209399.ts
+#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 6
+http://pfsv.io:80/45125970/43446296/209400.ts
+
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://pfsv.io:80/45125970/43446296/250.ts
 
