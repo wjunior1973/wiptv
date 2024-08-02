@@ -5,9 +5,6 @@
 #EXTINF:-1 group-title="TV ABERTA",Band
 http://pfsv.io:80/45125970/43446296/113585.ts
 
-#EXTINF:-1 group-title="TV ABERTA",Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
 http://pfsv.io:80/45125970/43446296/376.ts
 
@@ -29,16 +26,16 @@ http://pfsv.io:80/45125970/43446296/45.ts
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://pfsv.io:80/45125970/43446296/48.ts
 
+#EXTINF:-1 group-title="TV ABERTA",SBT RJ
+http://pfsv.io:80/45125970/43446296/50875.ts
+
 #EXTINF:-1 group-title="TV ABERTA",SBT SP
-https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/231ef4d2-11a0-4f96-8ab3-1182140e0f2b/4.m3u8
+http://pfsv.io:80/45125970/43446296/46.ts
 
 ###### NOTICIAS ######
 
-#EXTINF:-1 group-title="NOTICIAS",24Hs News
-http://cdn.connectbr.com.br/24_news/index.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",Band News
-http://cdn2.connectbr.com.br:80/Band-News/tracks-v1a1/mono.m3u8
+http://pfsv.io:80/45125970/43446296/510.ts
 
 #EXTINF:-1 group-title="NOTICIAS",Canal UOL
 https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
@@ -53,7 +50,7 @@ https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-ad
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
-https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+http://pfsv.io:80/45125970/43446296/511.ts
 
 #EXTINF:-1 group-title="NOTICIAS",Resumo da Opera
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
@@ -95,15 +92,6 @@ http://pfsv.io:80/45125970/43446296/279.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
-
-#EXTINF:-1 group-title="FILMES/SERIES",Hallo Classic
-https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
-#EXTINF:-1 group-title="FILMES/SERIES",Hallo Movies
-https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
-#EXTINF:-1 group-title="FILMES/SERIES",Hallo Series
-https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://pfsv.io:80/45125970/43446296/471.ts
@@ -219,45 +207,10 @@ http://pfsv.io:80/45125970/43446296/284.ts
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 http://pfsv.io:80/45125970/43446296/297.ts
 
-###### 24 HORAS ######
-
-#EXTINF:-1 group-title="24 HORAS",Alf O Eteimoso
-http://pfsv.io:80/45125970/43446296/164657.ts
-
-#EXTINF:-1 group-title="24 HORAS",Bake Off Brasil Celebridades
-http://pfsv.io:80/45125970/43446296/164684.ts
-
-#EXTINF:-1 group-title="24 HORAS",Drake e Josh
-http://pfsv.io:80/45125970/43446296/164815.ts
-
-#EXTINF:-1 group-title="24 HORAS",Escolinha do Professor Raimundo
-http://pfsv.io:80/45125970/43446296/164832.ts
-
-#EXTINF:-1 group-title="24 HORAS",Irmaos a Obra
-http://pfsv.io:80/45125970/43446296/164888.ts
-
-#EXTINF:-1 group-title="24 HORAS",Jeannie
-http://pfsv.io:80/45125970/43446296/164889.ts
-
-#EXTINF:-1 group-title="24 HORAS",Mr. Bean
-http://pfsv.io:80/45125970/43446296/197462.ts
-
-#EXTINF:-1 group-title="24 HORAS",Pesadelo Na Cozinha
-http://pfsv.io:80/45125970/43446296/165055.ts
-
-#EXTINF:-1 group-title="24 HORAS",Toma La Da Ca
-http://pfsv.io:80/45125970/43446296/165229.ts
-
-#EXTINF:-1 group-title="24 HORAS",UFC 24H
-http://pfsv.io:80/45125970/43446296/164769.ts
-
 ###### VARIEDADES ######
 
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://pfsv.io:80/45125970/43446296/164.ts
-
-#EXTINF:-1 group-title="VARIEDADES",Canal da Praca
-https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/chunks.m3u8
@@ -381,12 +334,6 @@ https://acesso.ecast.site:3142/hybrid/play.m3u8
 #EXTINF:-1 group-title="MUSICAS",BIS
 http://pfsv.io:80/45125970/43446296/5.ts
 
-#EXTINF:-1 group-title="MUSICAS",Hallo Music 
-https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
-
-#EXTINF:-1 group-title="MUSICAS",Hitts! 
-https://cdn-3.nxplay.com.br/HITTS_TK/index.m3u8
-
 #EXTINF:-1 group-title="MUSICAS",MTV 00s
 http://pfsv.io:80/45125970/43446296/108973.ts
 
@@ -399,9 +346,6 @@ http://pfsv.io:80/45125970/43446296/4.ts
 #EXTINF:-1 group-title="MUSICAS",Top TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
 
-#EXTINF:-1 group-title="MUSICAS",Trace Brazuca
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSICAS",VClassic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
 
@@ -409,9 +353,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 ###### ESPORTES ######
-
-#EXTINF:-1 group-title="ESPORTES",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
@@ -469,11 +410,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 ###### INFANTIS ######
 
-#EXTINF:-1 group-title="INFANTIS",BoxKids TV
-http://tv.mapfibra.com.br:8555/live/1438/123456/259.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Cartoon Network
-https://cdn2.connectbr.com.br/Cartoon-Network/tracks-v1a1/index.m3u8
+http://pfsv.io:80/45125970/43446296/130213.ts
 
 #EXTINF:-1 group-title="INFANTIS",Cartoonito
 http://pfsv.io:80/45125970/43446296/125.ts
@@ -482,7 +420,7 @@ http://pfsv.io:80/45125970/43446296/125.ts
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
-http://170.82.200.35/Discovery_kids/tracks-v1a1/mono.m3u8
+http://pfsv.io:80/45125970/43446296/130214.ts
 
 #EXTINF:-1 group-title="INFANTIS",Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
@@ -493,17 +431,11 @@ http://pfsv.io:80/45125970/43446296/136.ts
 #EXTINF:-1 group-title="INFANTIS",Gloobinho
 http://pfsv.io:80/45125970/43446296/128.ts
 
-#EXTINF:-1 group-title="INFANTIS",Kids
-http://tv.mapfibra.com.br:8555/live/1438/123456/143.m3u8
-
 #EXTINF:-1 group-title="INFANTIS",Nick Jr
 http://pfsv.io:80/45125970/43446296/130.ts
 
 #EXTINF:-1 group-title="INFANTIS",Nickelodeon
 http://pfsv.io:80/45125970/43446296/131.ts
-
-#EXTINF:-1 group-title="INFANTIS",Ra Tim Bum
-http://168.205.87.198:8555/live/1438/123456/84.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Tooncast
 http://pfsv.io:80/45125970/43446296/48756.ts
@@ -513,9 +445,6 @@ http://pfsv.io:80/45125970/43446296/132.ts
 
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",ZooMoo
-http://168.205.87.198:8555/live/1438/123456/162.m3u8
 
 ###### RELIGIOSOS ######
 
