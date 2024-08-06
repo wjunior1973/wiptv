@@ -37,26 +37,11 @@ http://pfsv.io:80/45125970/43446296/46.ts
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://pfsv.io:80/45125970/43446296/510.ts
 
-#EXTINF:-1 group-title="NOTICIAS",Canal UOL
-https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",CNN Brasil
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",Globo News
 http://pfsv.io:80/45125970/43446296/512.ts
 
-#EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
-https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",New Brazil
-https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",Record News
 http://pfsv.io:80/45125970/43446296/511.ts
-
-#EXTINF:-1 group-title="NOTICIAS",Resumo da Opera
-https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 
 ###### FILMES/SERIES ######
 
@@ -69,26 +54,14 @@ http://pfsv.io:80/45125970/43446296/199850.ts
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://pfsv.io:80/45125970/43446296/294.ts
 
-#EXTINF:-1 group-title="FILMES/SERIES",Animax
-https://stream.ichibantv.com:3547/hybrid/play.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://pfsv.io:80/45125970/43446296/295.ts
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://pfsv.io:80/45125970/43446296/275.ts
 
-#EXTINF:-1 group-title="FILMES/SERIES",Clube Web TV
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
-
-#EXTINF:-1 group-title="FILMES/SERIES",Emotion TV
-https://stmv1.srvif.com/emotion/emotion/playlist.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://pfsv.io:80/45125970/43446296/279.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://pfsv.io:80/45125970/43446296/471.ts
@@ -165,29 +138,8 @@ http://pfsv.io:80/45125970/43446296/223625.ts
 #EXTINF:-1 group-title="FILMES/SERIES",PT: TVCine Top
 http://pfsv.io:80/45125970/43446296/223626.ts
 
-#EXTINF:-1 group-title="FILMES/SERIES",RunTime Acao
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-
-#EXTINF:-1 group-title="FILMES/SERIES",RunTime Cine Espanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-
-#EXTINF:-1 group-title="FILMES/SERIES",RunTime Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-
-#EXTINF:-1 group-title="FILMES/SERIES",RunTime Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-
-#EXTINF:-1 group-title="FILMES/SERIES",Runtime Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-
-#EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
-http://tv.mapfibra.com.br:8555/live/1438/123456/160.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
 http://pfsv.io:80/45125970/43446296/274.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",Soul Cine
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Space
 http://pfsv.io:80/45125970/43446296/282.ts
@@ -225,15 +177,6 @@ http://pfsv.io:80/45125970/43446296/288.ts
 #EXTINF:-1 group-title="FILMES/SERIES",Universal Channel
 http://pfsv.io:80/45125970/43446296/290.ts
 
-#EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
-http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Urban Retro
-http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Urban Series
-http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",USA
 http://pfsv.io:80/45125970/43446296/284.ts
 
@@ -245,17 +188,8 @@ http://pfsv.io:80/45125970/43446296/297.ts
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://pfsv.io:80/45125970/43446296/164.ts
 
-#EXTINF:-1 group-title="VARIEDADES",Canal Educacao
-https://canaleducacao-stream.ebc.com.br/chunks.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Canal Start
-https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Comedy Central
 http://pfsv.io:80/45125970/43446296/97.ts
-
-#EXTINF:-1 group-title="VARIEDADES",Curta!
-https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery Channel
 http://pfsv.io:80/45125970/43446296/166.ts
@@ -293,17 +227,11 @@ http://pfsv.io:80/45125970/43446296/174.ts
 #EXTINF:-1 group-title="VARIEDADES",History Channel 2
 http://pfsv.io:80/45125970/43446296/173.ts
 
-#EXTINF:-1 group-title="VARIEDADES",HomeFull TV
-https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Investigacao Discovery
 http://pfsv.io:80/45125970/43446296/175.ts
 
 #EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://pfsv.io:80/45125970/43446296/280.ts
-
-#EXTINF:-1 group-title="VARIEDADES",MasterChef 24H
-https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Modo Viagem
 http://pfsv.io:80/45125970/43446296/103.ts
@@ -317,15 +245,6 @@ http://pfsv.io:80/45125970/43446296/3.ts
 #EXTINF:-1 group-title="VARIEDADES",National Geographic
 http://pfsv.io:80/45125970/43446296/176.ts
 
-#EXTINF:-1 group-title="VARIEDADES",Play TV
-https://isaocorp.cloudecast.com/playtv/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Programa 4 Por 4
-https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Petlovers TV
-https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",Sabor e Arte
 http://pfsv.io:80/45125970/43446296/127312.ts
 
@@ -338,28 +257,10 @@ http://pfsv.io:80/45125970/43446296/286.ts
 #EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
 http://pfsv.io:80/45125970/43446296/50882.ts
 
-#EXTINF:-1 group-title="VARIEDADES",Urban Docs
-http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Urban Travel
-http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Urban Turbo
-http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
-http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",VIVA
 http://pfsv.io:80/45125970/43446296/105.ts
 
-#EXTINF:-1 group-title="VARIEDADES",Wise Play TV
-https://acesso.ecast.site:3142/hybrid/play.m3u8
-
 ###### MUSICAS #######
-
-#EXTINF:-1 group-title="MUSICAS",AgitoMax
-https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICAS",BIS
 http://pfsv.io:80/45125970/43446296/5.ts
@@ -372,12 +273,6 @@ http://pfsv.io:80/45125970/43446296/2.ts
 
 #EXTINF:-1 group-title="MUSICAS",Music Box Brazil
 http://pfsv.io:80/45125970/43446296/4.ts
-
-#EXTINF:-1 group-title="MUSICAS",Top TV
-https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
-
-#EXTINF:-1 group-title="MUSICAS",VClassic TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
 
 ###### ESPORTES ######
 
@@ -488,9 +383,6 @@ http://pfsv.io:80/45125970/43446296/125.ts
 #EXTINF:-1 group-title="INFANTIS",Discovery Kids
 http://pfsv.io:80/45125970/43446296/130214.ts
 
-#EXTINF:-1 group-title="INFANTIS",Fox Kids
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="INFANTIS",Gloob
 http://pfsv.io:80/45125970/43446296/136.ts
 
@@ -508,9 +400,6 @@ http://pfsv.io:80/45125970/43446296/48756.ts
 
 #EXTINF:-1 group-title="INFANTIS",TV Ra-Tim-Bum
 http://pfsv.io:80/45125970/43446296/132.ts
-
-#EXTINF:-1 group-title="INFANTIS",Urban Kids
-http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 ###### RELIGIOSOS ######
 
@@ -531,3 +420,598 @@ https://caikron.com.br:19360/tvmi/tvmi.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+###### DIVERSOS ######
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",1001 Noites
+https://58c8a6b3c74e2.streamlock.net:1936/1001noites/ngrp:1001noites_all/chunklist_w2114165784_b2179072.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",24Hs News
+http://cdn.connectbr.com.br/24_news/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",40 Graus TV
+https://acesso.ecast.site:3125/stream/play.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",A&E
+http://cdn.connectbr.com.br/AE/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",A&E
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",A&E
+http://fzcdn.vood.top:80/hls/686_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",ABBA RTV
+https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w508058631.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Adrenalina Freezone
+https://cc-e2pb6h3gp19c3.akamaized.net/Sofa_Digital/Adrenalina_Freezone_BR/Adrenalina_Freezone.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Agito Max
+https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Agro Brasil
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Agrocanal
+https://cdn-2.nxplay.com.br/AGRO_CANAL/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Always Funny Videos
+https://cc-adhkhug69u4vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",AMC
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",AMC
+https://cdn-2.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",AMC
+http://fzcdn.vood.top:80/hls/671_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",AMC
+http://fzcdn.vood.top:80/hls/669_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",AMC
+http://fzcdn.vood.top:80/hls/668_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Animal Planet
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Animal Planet
+https://cdn-2.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Arte 1
+https://cdn-2.nxplay.com.br/ARTE1_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Arte 1
+https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Avanca Brasil
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",AXN
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",AXN
+http://fzcdn.vood.top:80/hls/674_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",AXN
+http://fzcdn.vood.top:80/hls/673_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist_720p.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_720p.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band News
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band News
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band News
+http://cdn2.connectbr.com.br/Band-News/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band News
+https://cdn-2.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band Sports
+http://148.113.160.49:14045/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band Sports
+http://148.113.160.49:14046/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band Sports
+http://148.113.160.49:14047/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band Sports
+http://148.113.160.49:14048/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band Sports
+http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band Sports
+https://cdn-2.nxplay.com.br/BAND_SPORTS/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Bem Melhor TV
+https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Bis
+http://15.235.15.230:14162/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Bora Filmes
+http://cdn.connectbr.com.br/Bora_Filmes/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal do Boi
+https://cdn-2.nxplay.com.br/CANAL_DO_BOI_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal do Boi
+https://cdn-1.nxplay.com.br/CANAL_DO_BOI_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Educacao
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Empreender
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t36qky98i4sus/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Gov
+https://canalgov-stream.ebc.com.br/chunks.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Libras
+https://canallibras-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Smart
+https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Start
+https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal UOL
+https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal UOL
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal UOL
+https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Cancao Nova
+https://cdn-2.nxplay.com.br/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Cartoon Network
+https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Cartoon Network
+https://cdn-2.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",CaTVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Caze TV
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Cine Brasil
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Cine Brasil
+https://cdn-2.nxplay.com.br/Cinebrasil/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Cinemax
+http://fzcdn.vood.top:80/hls/682_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Cinemax
+http://fzcdn.vood.top:80/hls/679_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Cinemonde
+https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Clouding
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Clubbing TV
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Clubinho
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",CNN Brasil
+https://cdn-2.nxplay.com.br/CNN_BR/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",CNN Brasil
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Comedy Central
+http://fzcdn.vood.top:80/hls/684_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Cultura
+https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Curta!
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",D.P.A.
+https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Dark Matter
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_001.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",DarkFlix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery
+http://cdnexpress.homelinux.net/live/25.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery Home & Health
+https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery ID
+https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery Kids
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery Kids
+https://cdn-2.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery Science
+https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery Science
+https://cdn-2.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery Theater
+https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery Theater
+https://cdn-2.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery Turbo
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery Turbo
+https://cdn-2.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery World
+https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Discovery World
+https://cdn-2.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Entretendo
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Film & Arts
+https://cdn-1.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Film & Arts
+https://cdn-2.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Filmrise Series
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Fish TV
+https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Fish TV
+https://cdn-2.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",FX
+http://cdnexpress.homelinux.net/live/45.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo
+http://cdnexpress.homelinux.net/live/122.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo
+http://cdnexpress.homelinux.net/live/126.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo CE
+http://15.235.15.230:14517/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo CE
+http://15.235.15.230:14519/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo Esporte
+https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo GO
+http://15.235.15.230:14757/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo Interior
+http://15.235.15.230:14513/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo MS
+http://15.235.15.230:14504/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo News
+http://1111.wf:80/631038767/Y267V1056A/21244
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo Nordeste
+http://main.srvdns.fun:80/697549710080824/353666857945/5721330.ts
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo Nordeste
+http://main.srvdns.fun:80/697549710080824/353666857945/5721331.ts
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo Nordeste
+http://main.srvdns.fun:80/697549710080824/353666857945/5721332.ts
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo PB
+http://15.235.15.230:14488/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo PE
+http://15.235.15.230:14478/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo PE
+http://15.235.15.230:14492/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo PR
+http://15.235.15.230:14485/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo Rio
+https://nxt.plus:8443/live/olmos/1234guz/51461.ts
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo RS
+http://cdnexpress.homelinux.net/live/132.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo SC
+http://15.235.15.230:14464/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo SC
+http://15.235.15.230:14462/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo SE
+http://15.235.15.230:14506/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo SP
+http://15.235.15.230:14488/AFDTV
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo SP
+http://15.235.15.230:14512/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo SP
+http://15.235.15.230:14783/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo SP
+http://15.235.15.230:14508/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo SP
+http://15.235.15.230:14510/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Globo SP
+http://15.235.15.230:14516/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Grjngo Brasil
+http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Hallo Anime
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Hallo Classic
+https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Hallo Doc
+https://cdn-2.nxplay.com.br/HALLODOC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Hallo Movies
+https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Hallo Music
+https://cdn-2.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Hallo Series
+https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Hallo Series
+https://cdn-2.nxplay.com.br/HALLOSERIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Hallo TV
+http://cdn.connectbr.com.br:80/Hello/mono.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",HGTV
+https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",HGTV
+https://cdn-2.nxplay.com.br/HGTV_BR_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",History Channel
+http://15.235.15.230:14132/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",History Channel
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",History Channel
+http://cdn2.connectbr.com.br/History/video.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",History Channel
+https://cdn-2.nxplay.com.br/HISTORY_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",History Channel 2
+https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",History Channel 2
+https://cdn-2.nxplay.com.br/HISTORY_2_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Hollywire
+https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Homefull TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Homefull TV
+https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",HTO Filmes
+https://cdn-1.nxplay.com.br/HTO_Filmes/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Jovem Pan News
+https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Jovem Pan News
+https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/cb543d187c6c678b9ad43e6ecef042a9f9581fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c062017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8b55c44d93ea1e70141c67917fa83439c8101e9d6810e8315d325f941ccc3f189d311d0e4255293768abeb4eb4307fba24bd1af7fa4db806035ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0f5f2bed372ef658ba6aa604a6f34bb3efceb7aea796c5b6395102da8f908fe93b32b064eea1e6971416fca3412d13993f9c4a5f49e23816b5f3e55436cfebb21e3bb989e1310ff5bcbf86fdb98e4bd317cfc4fd9e387882026e0cab52b89361d728922de69e53696b444aa99542d7c6f76a703401d5db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b82af4cf9236c1752f3c12d59445e749fbb355a7e2a953791b9a1d67e0704e3e0debe981d69755f39664cddacb40ad8e4a60e1219c65f231a04331f840bdb6c9f4d093727c71adcbb1a36e222243eedb3304d500fc790e699e63857a3a086146ee681bde988afca082a/187/1280x720_3000797/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Jovem Pan News
+https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Jovem Pan News
+https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Lifetime
+http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Lifetime
+https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Lifetime
+https://cdn-2.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Malhacao
+https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Manual Do Mundo
+https://cc-e0wcb2lgejxkf.akamaized.net/Offgrid/Manual_do_Mundo_BR/Manual_do_Mundo.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Masterchef
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cts4xd2rn8b9n/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Masterchef
+https://cc-cts4xd2rn8b9n.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Masterchef
+https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Megapix
+http://fzcdn.vood.top:80/hls/689_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",MTV
+http://cdn2.connectbr.com.br/mtv/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",MTV
+http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",My Time Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",My Time Movie Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",National Geographic
+http://89.187.179.12:14221
+#EXTINF:-1 group-title="CANAIS DIVERSOS",New Brasil
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",New Brasil
+https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",New Brasil
+https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Nickelodeon
+http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",NOW 80s
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Oportunidades TV
+http://maistop.net:80/live/free/free/1.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Oportunidades TV
+http://maistop.net:80/live/free/free/2.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Paramount
+http://fzcdn.vood.top:80/hls/695_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Paramount
+http://fzcdn.vood.top:80/hls/694_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Play TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Pop Bola
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Premiere Clubes
+http://15.235.15.230:14020/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Prime Box Brasil
+http://cdn2.connectbr.com.br/Prime/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Programa 4 Por 4
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Receitas Fast
+https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record
+https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record
+https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record - TV VILA REAL
+https://5a2b083e9f360.streamlock.net:443/tvmt/tvmt.sdp/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record BA
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record DF
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record MT
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record News
+https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record News
+https://cdn-2.nxplay.com.br/RECORD_NEWS/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4588
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede Mosaico
+http://cdn.connectbr.com.br/Mosaico/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede TV!
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede TV!
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede TV!
+https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede TV!
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede TV!
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede TV!
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede TV!
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Resumo da Opera
+https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Revry
+https://dletvjdknba4f.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Revry
+https://revry-brazil.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RunTime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Runtime Acao
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RunTime Acao
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RunTime Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RunTime Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RunTime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Runtime Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sabor & Arte
+https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sabor & Arte
+https://cdn-2.nxplay.com.br/SABOR_E_ARTE/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SBT
+https://livestream.zazerconer.workers.dev/channel/UC-kzuB1mP2LnmaXMPniKeyg.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SBT Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SBT Guajara
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SBT PI
+https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w841480968.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SESC TV
+https://cdn-2.nxplay.com.br/SESC_TV/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sony Channel
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sony Channel
+http://fzcdn.vood.top:80/hls/699_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sony Movies
+https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sony One Emocoes
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sony One Shark Tank
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Soul Cine
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Soul TV
+https://video01.soultv.com.br/soultv/soultv/chunklist_w1796476143.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Space
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Space
+http://fzcdn.vood.top:80/hls/704_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Spark TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SporTV
+http://dzcdn.vood.top:80/hls/546_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SporTV
+http://cdnexpress.homelinux.net/live/23.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SporTV 2
+http://dzcdn.vood.top:80/hls/551_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SporTV 2
+http://dzcdn.vood.top:80/hls/552_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SporTV 3
+http://cdnexpress.homelinux.net/live/54.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Studio Universal
+http://fzcdn.vood.top:80/hls/710_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Tastemade Brasil
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Action
+http://15.235.15.230:14001/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Action
+http://fzcdn.vood.top:80/hls/615_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Action
+http://fzcdn.vood.top:80/hls/613_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Action
+http://fzcdn.vood.top:80/hls/612_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Cult
+http://15.235.50.113:14013
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Cult
+http://fzcdn.vood.top:80/hls/617_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Cult
+http://fzcdn.vood.top:80/hls/618_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Cult
+http://fzcdn.vood.top:80/hls/620_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Fun
+http://15.235.50.113:14017
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Fun
+http://fzcdn.vood.top:80/hls/622_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Fun
+http://fzcdn.vood.top:80/hls/625_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Pipoca
+http://15.235.15.230:14004/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Pipoca
+http://15.235.15.230:14005/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Pipoca
+http://15.235.15.230:14006/
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Pipoca
+http://cdnexpress.homelinux.net/live/8.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Pipoca
+http://fzcdn.vood.top:80/hls/630_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Pipoca
+http://fzcdn.vood.top:80/hls/628_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Pipoca
+http://fzcdn.vood.top:80/hls/627_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Premium
+http://15.235.50.113:14009
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Premium
+http://fzcdn.vood.top:80/hls/635_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Premium
+http://fzcdn.vood.top:80/hls/633_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Premium
+http://fzcdn.vood.top:80/hls/632_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Touch
+http://15.235.50.113:14012
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Telecine Touch
+http://fzcdn.vood.top:80/hls/587_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TLC
+https://cdn-2.nxplay.com.br/TLC_BR_NX/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TLC
+http://fzcdn.vood.top:80/hls/725_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TNT
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TNT
+https://cdn-2.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TNT
+http://cdnexpress.homelinux.net/live/11.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TNT
+http://fzcdn.vood.top:80/hls/731_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TNT
+http://fzcdn.vood.top:80/hls/730_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TNT Novelas
+http://fzcdn.vood.top:80/hls/720_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Tooncast
+https://cdn-2.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Trace Brazuca
+https://cdn-2.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Trace Brazuca
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Aparecida
+https://cc-oeelrj1iysbeq.akamaized.net/TV_Aparecida/TV_Aparecida_BR/TV_Aparecida.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Clube Web
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Diversidade
+https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1388974422.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Gazeta
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Zyn
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TVE
+http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Universidade da Pessoa
+http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Urban Docs
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Urban Kids
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Urban Movies
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Urban Retro
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Urban Series
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Urban Travel
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Urban Turbo
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",VClassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w271212718.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Viajando pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Vivax TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Warner Channel
+http://fzcdn.vood.top:80/hls/749_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Warner Channel
+http://fzcdn.vood.top:80/hls/745_.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",WooHoo
+https://cdn-2.nxplay.com.br/WOOHOO_TK/index.m3u8
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Xite 80 Flashback
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Xite 90 Throwback
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
