@@ -610,9 +610,6 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 group-title="CANAIS DIVERSOS",SBT Guajara
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",SBT PI
-https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w841480968.m3u8
-
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Sony One Emocoes
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
