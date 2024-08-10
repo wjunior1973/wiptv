@@ -415,6 +415,9 @@ https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Agro Brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
@@ -424,8 +427,14 @@ https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Bem Melhor TV
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Educacao
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Empreender
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t36qky98i4sus/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
@@ -571,14 +580,23 @@ https://video01.soultv.com.br/soultv/soultv/chunklist_w1796476143.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Trace Brazuca
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",TV Futuro
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TV Gazeta
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist.m3u8
