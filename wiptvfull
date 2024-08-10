@@ -454,6 +454,9 @@ https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Cultne.tv
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Cultura
 https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura.m3u8
 
@@ -466,11 +469,20 @@ https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Filmelier
+https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Filmrise Series
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Geekdot​
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Globo Esporte
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Grjngo Brasil
+http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Homefull TV
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
@@ -489,6 +501,12 @@ https://cc-e0wcb2lgejxkf.akamaized.net/Offgrid/Manual_do_Mundo_BR/Manual_do_Mund
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Masterchef
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cts4xd2rn8b9n/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",MAV TV
+https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",MTV Biggest Pop
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2fflivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",My Time Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -517,13 +535,10 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Resumo da Opera
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",RunTime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-
 #EXTINF:-1 group-title="CANAIS DIVERSOS",RunTime Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",RunTime Cine Espanto
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RunTime CinEspanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",RunTime Comedia
@@ -534,6 +549,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Runtime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",RunTime TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Sabor & Arte
 https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender.m3u8
