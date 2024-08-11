@@ -424,8 +424,17 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Avanca Brasil
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Band [RBA TV]
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Bem Melhor TV
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",BS TV
+https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Canal da Praca
+https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8?ManoTV
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/index.m3u8
@@ -487,6 +496,9 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Geekdot​
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1336076318.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Globo Esporte
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 
@@ -529,14 +541,26 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Pop Bola
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Primer TV
+http://177.74.174.57:8080/hls/primertv.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Programa 4 Por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rakuten Familia
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Receitas Fast
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Record [TV Juina]
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?ManoTV
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Rede Seculo 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Rede TV! [Tocantins]
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist_w1575676158.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
@@ -565,6 +589,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Sabor & Arte
 https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender.m3u8
 
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SBT [Bahia]
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?ManoTV
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",SBT Internacional
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Sony One Emocoes
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
@@ -582,6 +615,9 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
+#EXTINF:-1 group-title="CANAIS DIVERSOS",Top TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Trace Brazuca
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
