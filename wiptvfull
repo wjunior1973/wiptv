@@ -409,9 +409,6 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Adrenalina Freezone
 https://cc-e2pb6h3gp19c3.akamaized.net/Sofa_Digital/Adrenalina_Freezone_BR/Adrenalina_Freezone.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Agito Max
-https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
-
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Agro Brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
@@ -487,9 +484,6 @@ https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 group-title="CANAIS DIVERSOS",DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Filmelier
-https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
-
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Filmrise Series
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
 
@@ -546,9 +540,6 @@ http://177.74.174.57:8080/hls/primertv.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Programa 4 Por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS DIVERSOS",Rakuten Familia
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Receitas Fast
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
@@ -612,9 +603,6 @@ https://video01.soultv.com.br/soultv/soultv/chunklist_w1796476143.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS DIVERSOS",TCM 10
-https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
 #EXTINF:-1 group-title="CANAIS DIVERSOS",Top TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
