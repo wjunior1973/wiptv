@@ -1,382 +1,382 @@
 #EXTM3U
 
-#EXTINF:-1,A&E
+#EXTINF:-1 group-title="FILMES/SERIES",A&E
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1256
 
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/918
 
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="VARIEDADES",Animal Planet
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/827
 
-#EXTINF:-1,Arte1
+#EXTINF:-1 group-title="FILMES/SERIES",Arte1
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/830
 
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/921
 
-#EXTINF:-1,Band News
+#EXTINF:-1 group-title="NOTICIAS",Band News
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1142
 
-#EXTINF:-1,Band RJ
+#EXTINF:-1 group-title="TV ABERTA",Band RJ
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/338605
 
-#EXTINF:-1,Band SP
+#EXTINF:-1 group-title="TV ABERTA",Band SP
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339149
 
-#EXTINF:-1,Band Sports
+#EXTINF:-1 group-title="ESPORTES",Band Sports
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/816
 
-#EXTINF:-1,BIS
+#EXTINF:-1 group-title="VARIEDADES",BIS
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1259
 
-#EXTINF:-1,Canal Brasil
+#EXTINF:-1 group-title="VARIEDADES",Canal Brasil
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/924
 
-#EXTINF:-1,Cancao Nova
+#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1282875
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 group-title="INFANTIL",Cartoon Network
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1093
 
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 group-title="INFANTIL",Cartoonito
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1096
 
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 group-title="FILMES/SERIES",Cinecanal
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1270513
 
-#EXTINF:-1,Cinemax
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/927
 
-#EXTINF:-1,CNN Brasil
+#EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1145
 
-#EXTINF:-1,Combate
+#EXTINF:-1 group-title="ESPORTES",Combate
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/824
 
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 group-title="FILMES/SERIES",Comedy Central
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1262
 
-#EXTINF:-1,Curta!
+#EXTINF:-1 group-title="VARIEDADES",Curta!
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/833
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 group-title="VARIEDADES",Discovery Channel
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/836
 
-#EXTINF:-1,Discovery H&H
+#EXTINF:-1 group-title="VARIEDADES",Discovery H&H
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/848
 
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 group-title="VARIEDADES",Discovery Kids
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1099
 
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/839
 
-#EXTINF:-1,Discovery Theater
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/842
 
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/851
 
-#EXTINF:-1,Discovery World
+#EXTINF:-1 group-title="VARIEDADES",Discovery World
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/845
 
-#EXTINF:-1,E!
+#EXTINF:-1 group-title="VARIEDADES",E!
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1265
 
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="ESPORTES",ESPN
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/869
 
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="ESPORTES",ESPN 2
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/872
 
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 group-title="ESPORTES",ESPN 3
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/875
 
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 group-title="ESPORTES",ESPN 4
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/878
 
-#EXTINF:-1,ESPN 5
+#EXTINF:-1 group-title="ESPORTES",ESPN 5
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/338761
 
-#EXTINF:-1,ESPN 6
+#EXTINF:-1 group-title="ESPORTES",ESPN 6
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/881
 
-#EXTINF:-1,Fish TV
+#EXTINF:-1 group-title="VARIEDADES",Fish TV
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1268
 
-#EXTINF:-1,Food Network
+#EXTINF:-1 group-title="VARIEDADES",Food Network
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1271
 
-#EXTINF:-1,Futura
+#EXTINF:-1 group-title="VARIEDADES",Futura
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339664
 
-#EXTINF:-1,FX
+#EXTINF:-1 group-title="FILMES/SERIES",FX
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/930
 
-#EXTINF:-1,Globo News
+#EXTINF:-1 group-title="NOTICIAS",Globo News
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1148
 
-#EXTINF:-1,Globo NSC Blumenau
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339487
 
-#EXTINF:-1,Globo NSC Centro Oeste
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Centro Oeste
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339483
 
-#EXTINF:-1,Globo NSC Chapeco
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Chapeco
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339489
 
-#EXTINF:-1,Globo NSC Criciuma
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Criciuma
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339490
 
-#EXTINF:-1,Globo NSC Florianopolis
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Florianopolis
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339484
 
-#EXTINF:-1,Globo NSC Joinville
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Joinville
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339491
 
-#EXTINF:-1,Globo RJ
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339501
 
-#EXTINF:-1,GLOBO SP
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339524
 
-#EXTINF:-1,Globo Brasilia
+#EXTINF:-1 group-title="TV ABERTA",Globo Brasilia
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339541
 
-#EXTINF:-1,Gloob
+#EXTINF:-1 group-title="INFANTIL",Gloob
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1105
 
-#EXTINF:-1,Gloobinho
+#EXTINF:-1 group-title="INFANTIL",Gloobinho
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1108
 
-#EXTINF:-1,GNT
+#EXTINF:-1 group-title="VARIEDADES",GNT
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1274
 
-#EXTINF:-1,H2
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/854
-
-#EXTINF:-1,HBO
+#EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1066
 
-#EXTINF:-1,HBO 2
+#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1069
 
-#EXTINF:-1,HBO Family
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1072
 
-#EXTINF:-1,HBO Mundi
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1075
 
-#EXTINF:-1,HBO Plus
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1078
 
-#EXTINF:-1,HBO Pop
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1081
 
-#EXTINF:-1,HBO Signature
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1084
 
-#EXTINF:-1,HBO Xtreme
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1087
 
-#EXTINF:-1,HGTV
+#EXTINF:-1 group-title="VARIEDADES",HGTV
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/857
 
-#EXTINF:-1,History
+#EXTINF:-1 group-title="VARIEDADES",History
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/860
 
-#EXTINF:-1,ID: Investigacao Discovery
+#EXTINF:-1 group-title="VARIEDADES",H2
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/854
+
+#EXTINF:-1 group-title="VARIEDADES",ID: Investigacao Discovery
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/863
 
-#EXTINF:-1,Jovem Pan News
+#EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1151
 
-#EXTINF:-1,Lifetime
+#EXTINF:-1 group-title="VARIEDADES",Lifetime
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1277
 
-#EXTINF:-1,Megapix
+#EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/933
 
-#EXTINF:-1,Modo Viagem
+#EXTINF:-1 group-title="VARIEDADES",Modo Viagem
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1280
 
-#EXTINF:-1,MTV 00s
+#EXTINF:-1 group-title="VARIEDADES",MTV 00s
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339002
 
-#EXTINF:-1,MTV
+#EXTINF:-1 group-title="VARIEDADES",MTV
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1283
 
-#EXTINF:-1,MTV Live
+#EXTINF:-1 group-title="VARIEDADES",MTV Live
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1286
 
-#EXTINF:-1,Multishow
+#EXTINF:-1 group-title="VARIEDADES",Multishow
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1289
 
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="VARIEDADES",National Geographic
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/866
 
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 group-title="INFANTIL",Nick Jr
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1111
 
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 group-title="INFANTIL",Nickelodeon
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1114
 
-#EXTINF:-1,Novo Tempo
+#EXTINF:-1 group-title="RELIGIOSOS",Novo Tempo
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1698978
 
-#EXTINF:-1,Off
+#EXTINF:-1 group-title="VARIEDADES",Off
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1292
 
-#EXTINF:-1,Paramount Channel
+#EXTINF:-1 group-title="FILMES/SERIES",Paramount Channel
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/936
 
-#EXTINF:-1,Premiere Clubes
+#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339651
 
-#EXTINF:-1,Premiere 2
+#EXTINF:-1 group-title="ESPORTES",Premiere 2
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339631
 
-#EXTINF:-1,Premiere 3
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339634
 
-#EXTINF:-1,Premiere 4
+#EXTINF:-1 group-title="ESPORTES",Premiere 4
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339637
 
-#EXTINF:-1,Premiere 5
+#EXTINF:-1 group-title="ESPORTES",Premiere 5
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339640
 
-#EXTINF:-1,Premiere 6
+#EXTINF:-1 group-title="ESPORTES",Premiere 6
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339643
 
-#EXTINF:-1,Premiere 7
+#EXTINF:-1 group-title="ESPORTES",Premiere 7
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339646
 
-#EXTINF:-1,Premiere 8
+#EXTINF:-1 group-title="ESPORTES",Premiere 8
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339649
 
-#EXTINF:-1,Record News
+#EXTINF:-1 group-title="NOTICIAS",Record News
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1154
 
-#EXTINF:-1,Record RJ
+#EXTINF:-1 group-title="TV ABERTA",Record RJ
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1057989
 
-#EXTINF:-1,Record SP
+#EXTINF:-1 group-title="TV ABERTA",Record SP
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1057996
 
-#EXTINF:-1,Rede TV!
+#EXTINF:-1 group-title="TV ABERTA",Rede TV!
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339667
 
-#EXTINF:-1,Sabor & Arte
+#EXTINF:-1 group-title="VARIEDADES",Sabor & Arte
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1288958
 
-#EXTINF:-1,SBT Brasilia
+#EXTINF:-1 group-title="TV ABERTA",SBT Brasilia
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339609
 
-#EXTINF:-1,SBT RJ
+#EXTINF:-1 group-title="TV ABERTA",SBT RJ
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/338764
 
-#EXTINF:-1,SBT SC
+#EXTINF:-1 group-title="TV ABERTA",SBT SC
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339625
 
-#EXTINF:-1,SBT SP
+#EXTINF:-1 group-title="TV ABERTA",SBT SP
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339628
 
-#EXTINF:-1,Sony Channel
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/939
 
-#EXTINF:-1,Space
+#EXTINF:-1 group-title="FILMES/SERIES",Space
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/942
 
-#EXTINF:-1,SporTV
+#EXTINF:-1 group-title="ESPORTES",SporTV
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1229
 
-#EXTINF:-1,SporTV 2
+#EXTINF:-1 group-title="ESPORTES",SporTV 2
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1232
 
-#EXTINF:-1,SporTV 3
+#EXTINF:-1 group-title="ESPORTES",SporTV 3
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1235
 
-#EXTINF:-1,SporTV 4
+#EXTINF:-1 group-title="ESPORTES",SporTV 4
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1279597
 
-#EXTINF:-1,Star Channel
+#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/945
 
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/963
 
-#EXTINF:-1,TCM
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/338504
-
-#EXTINF:-1,Telecine Action
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1238
-
-#EXTINF:-1,Telecine Cult
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1241
-
-#EXTINF:-1,Telecine Fun
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1244
-
-#EXTINF:-1,Telecine Pipoca
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1247
-
-#EXTINF:-1,Telecine Premium
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1250
-
-#EXTINF:-1,Telecine Touch 
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1269653
-
-#EXTINF:-1,TLC
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1295
-
-#EXTINF:-1,TNT
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/954
-
-#EXTINF:-1,TNT Novelas
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/951
-
-#EXTINF:-1,TNT Series
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/957
-
-#EXTINF:-1,TNT Sports BR 1
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339791
-
-#EXTINF:-1,TNT Sports BR 2
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339792
-
-#EXTINF:-1,TNT Sports BR 3
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339793
-
-#EXTINF:-1,Tooncast
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1117
-
-#EXTINF:-1,Travel Box Brazil
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1298
-
-#EXTINF:-1,TruTV
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1301
-
-#EXTINF:-1,TV A Critica
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1698980
-
-#EXTINF:-1,TV Aparecida
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339860
-
-#EXTINF:-1,TV Ra Tim Bum
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/564466
-
-#EXTINF:-1,Universal TV
-http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/960
-
-#EXTINF:-1,USA
+#EXTINF:-1 group-title="FILMES/SERIES",SyFy
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/948
 
-#EXTINF:-1,Viva
+#EXTINF:-1 group-title="FILMES/SERIES",TCM
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/338504
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1238
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1241
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1244
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1247
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1250
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch 
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1269653
+
+#EXTINF:-1 group-title="VARIEDADES",TLC
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1295
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/954
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT Novelas
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/951
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT Series
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/957
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports BR 1
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339791
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports BR 2
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339792
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports BR 3
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339793
+
+#EXTINF:-1 group-title="INFANTIL",Tooncast
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1117
+
+#EXTINF:-1 group-title="VARIEDADES",Travel Box Brazil
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1298
+
+#EXTINF:-1 group-title="VARIEDADES",TruTV
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1301
+
+#EXTINF:-1 group-title="TV ABERTA",TV A Critica
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1698980
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/339860
+
+#EXTINF:-1 group-title="INFANTIL",TV Ra Tim Bum
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/564466
+
+#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
+http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/960
+
+#EXTINF:-1 group-title="VARIEDADES",Viva
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1304
 
-#EXTINF:-1,Warner Channel
+#EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/966
 
-#EXTINF:-1,WooHoo
+#EXTINF:-1 group-title="VARIEDADES",WooHoo
 http://cdofun.fun:80/wjunior1973@gmail.com/eu10fiz15/1307
